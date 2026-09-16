@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T16:57:56.454Z",
+  "generatedAt": "2026-09-16T18:08:34.328Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -12,7 +12,9 @@
     "marketEngagement": 0,
     "recentAwards": 19,
     "closingWithin7Days": 0,
-    "closingWithin30Days": 1
+    "closingWithin30Days": 1,
+    "supplyChain": 0,
+    "commissioner": 22
   },
   "filters": {
     "programmes": [
@@ -86,7 +88,18 @@
         "id": "recent-award",
         "label": "Recent awards"
       }
-    ]
+    ],
+    "opportunityTypes": [
+      {
+        "id": "commissioner",
+        "label": "Commissioner opportunities"
+      },
+      {
+        "id": "supply-chain",
+        "label": "Supply chain opportunities"
+      }
+    ],
+    "primeProviders": []
   },
   "opportunities": [
     {
@@ -1020,7 +1033,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-09-18T17:28:00.000Z",
-        "daysToDeadline": 3
+        "daysToDeadline": 2
       },
       "contract": {
         "startDate": "2026-09-28T00:00:00.000Z",
@@ -2948,7 +2961,8 @@
     "inclusion": "Only procurement records already classified as relevant and publishable by the CareerPath procurement engine are eligible. Active tenders, current pipeline/engagement records and recent awards are retained; stale historical records are excluded.",
     "requirements": "Requirement, commercial and performance signals are deterministic extracts from published notice text. They are not an interpretation of unpublished tender documents and are never presented as complete bid requirements.",
     "evaluation": "Evaluation weightings are displayed only when present in structured public procurement data.",
-    "noPrediction": "CareerPath does not publish win-probability scores or undisclosed commercial recommendations in this public feed."
+    "noPrediction": "CareerPath does not publish win-probability scores or undisclosed commercial recommendations in this public feed.",
+    "supplyChain": "Supply-chain records are taken from public prime-provider partnership and expression-of-interest pages. CareerPath reports only information explicitly published by the provider and does not infer unpublished selection criteria, commercial terms or win probability."
   },
   "publication": {
     "websitePublication": false,
@@ -2965,6 +2979,7 @@
       "nonAccepted": 0,
       "staleOrClosed": 102,
       "invalid": 0
-    }
+    },
+    "supplyChainRecordCount": 0
   }
 }

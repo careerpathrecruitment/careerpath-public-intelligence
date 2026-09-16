@@ -2,4 +2,4 @@
 
 This directory contains CareerPath's curated public Employment & Skills opportunity feed.
 
-Only procurement records already classified as relevant and publishable by the private CareerPath engine are eligible. Internal bid scoring, raw vacancy data, private engine state and commercial recommendations are excluded.
+It combines relevant public procurement records with publicly advertised prime-provider supply-chain and partner opportunities. Internal bid scoring, raw vacancy data, private engine state and commercial recommendations are excluded.
