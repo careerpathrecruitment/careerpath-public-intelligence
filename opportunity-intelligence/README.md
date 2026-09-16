@@ -1,5 +1,5 @@
 # CareerPath Opportunity Intelligence public feed
 
-This directory contains CareerPath's curated public Employment & Skills opportunity feed.
+Curated Employment & Skills commercial intelligence combining public procurement, DWP pipeline activity and public prime-provider partner opportunities. Opportunity facts remain source-linked. Programme links, supplier/commissioner context and published-data readiness are included where supported. Internal bid scoring, raw vacancies, win probabilities and commercial recommendations are excluded.
 
-It combines relevant public procurement records with publicly advertised prime-provider supply-chain and partner opportunities. Where an exact Programme Intelligence match exists, the opportunity carries a validated programme link. Internal bid scoring, raw vacancy data, private engine state and commercial recommendations are excluded.
+Coverage metadata explicitly identifies known source gaps rather than implying complete UK lower-value procurement coverage.

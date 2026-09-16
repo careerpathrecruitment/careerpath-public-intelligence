@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T18:35:48.667Z",
+  "generatedAt": "2026-09-16T18:49:29.915Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 26,
-    "live": 6,
-    "upcoming": 1,
+    "total": 28,
+    "live": 7,
+    "upcoming": 2,
     "marketEngagement": 0,
     "recentAwards": 19,
     "closingWithin7Days": 0,
     "closingWithin30Days": 1,
     "supplyChain": 4,
-    "commissioner": 22,
-    "programmeLinked": 23,
-    "programmeUnlinked": 3
+    "commissioner": 24,
+    "programmeLinked": 24,
+    "programmeUnlinked": 4
   },
   "filters": {
     "programmes": [
@@ -33,6 +33,7 @@
       "Central Bedfordshire Council",
       "Construction Industry Training Board",
       "DERBY CITY COUNCIL",
+      "Department for Work and Pensions",
       "East Durham College",
       "Hull City Council",
       "Isle of Wight Council",
@@ -50,25 +51,14 @@
       "Wrexham County Borough Council"
     ],
     "regions": [
-      "British Oversea Territories",
-      "Channel Islands",
       "East Midlands",
-      "Europe",
       "Flintshire and Wrexham",
-      "GB",
-      "Isle of Man",
       "Kingston upon Hull, City of",
       "Lancashire",
-      "MK76AA",
       "North East",
       "North East England",
       "North West",
       "North West England",
-      "PO2 8BY",
-      "Rest of the World",
-      "SG17 5TQ",
-      "SM4 5DX",
-      "SR8 2RN",
       "Somerset",
       "South East",
       "South West",
@@ -224,6 +214,155 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": true,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      }
+    },
+    {
+      "id": "dwp-atamis-c0393",
+      "slug": "dps-for-employment-and-health-related-test-and-learn-provision-c0393",
+      "ocid": null,
+      "title": "DPS for Employment and Health Related Test and Learn Provision",
+      "description": "Dynamic Purchasing System for Employment and Health Related Test and Learn Provision",
+      "opportunityClass": "commissioner",
+      "opportunityType": "DWP pipeline / opportunity",
+      "partnerRoute": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live / open",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Department for Work and Pensions",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": "2025-09-05T12:00:00.000Z",
+        "deadline": "2029-02-10T12:00:00.000Z",
+        "daysToDeadline": 878
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": null,
+        "methodDetails": "Employment",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "Evaluation details are shown only when DWP publishes them."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "Atamis pipeline records can precede publication of full tender requirements."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No commercial model is inferred from pipeline material."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No contractual performance requirement is inferred from pipeline material."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Live / open",
+          "date": "2025-09-15T12:00:00.000Z",
+          "releaseId": "C0393",
+          "sourceUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
+          "tags": [
+            "live-tender"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "DWP Atamis",
+        "sourceId": "dwp-atamis",
+        "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
+        "lastVerified": "2026-09-16T18:48:56.566Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "contract value",
+          "formal evaluation weightings",
+          "contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -356,6 +495,24 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -509,6 +666,24 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -657,6 +832,24 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -804,6 +997,24 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -833,7 +1044,7 @@
         "areas": []
       },
       "value": {
-        "amount": 0,
+        "amount": null,
         "currency": "GBP",
         "basis": "not-published"
       },
@@ -956,6 +1167,155 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": true,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      }
+    },
+    {
+      "id": "dwp-atamis-c9880",
+      "slug": "future-employment-support-c9880",
+      "ocid": null,
+      "title": "Future Employment Support",
+      "description": "Contract Employment Provision for the Long Term Unemployed",
+      "opportunityClass": "commissioner",
+      "opportunityType": "DWP pipeline / opportunity",
+      "partnerRoute": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming / pipeline",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support",
+        "intelligence": {
+          "available": true,
+          "slug": "future-employment-support",
+          "path": "/programme-intelligence?programme=future-employment-support",
+          "programmeFeedPath": "programme-intelligence/future-employment-support.json"
+        }
+      },
+      "buyer": {
+        "name": "Department for Work and Pensions",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": "2026-11-26T12:00:00.000Z",
+        "deadline": "2026-12-21T12:00:00.000Z",
+        "daysToDeadline": 96
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": null,
+        "methodDetails": "Employment",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "Evaluation details are shown only when DWP publishes them."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "Atamis pipeline records can precede publication of full tender requirements."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No commercial model is inferred from pipeline material."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No contractual performance requirement is inferred from pipeline material."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Upcoming / pipeline",
+          "date": "2026-04-29T12:00:00.000Z",
+          "releaseId": "C9880",
+          "sourceUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
+          "tags": [
+            "pipeline"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "DWP Atamis",
+        "sourceId": "dwp-atamis",
+        "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
+        "lastVerified": "2026-09-16T18:48:56.566Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "contract value",
+          "formal evaluation weightings",
+          "contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -988,7 +1348,7 @@
         ]
       },
       "value": {
-        "amount": 0,
+        "amount": null,
         "currency": "GBP",
         "basis": "not-published"
       },
@@ -1096,6 +1456,24 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1191,7 +1569,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/bea8402a-00bf-43fb-b549-b4b04b527d60",
-        "lastVerified": "2026-09-16T18:21:19.008Z"
+        "lastVerified": "2026-09-16T18:40:09.718Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1204,6 +1582,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Explosive Learning Solutions LTD"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1298,7 +1696,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122",
-        "lastVerified": "2026-09-16T18:21:15.293Z"
+        "lastVerified": "2026-09-16T18:40:05.955Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1311,6 +1709,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "YORKSHIRE TRAINING PARTNERSHIP LIMITED"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1405,7 +1823,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/920df551-7e69-4d55-8ec3-4e5c8c5060bc",
-        "lastVerified": "2026-09-16T18:21:11.581Z"
+        "lastVerified": "2026-09-16T18:40:02.207Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1418,6 +1836,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Nottingham Trent University"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1512,7 +1950,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
-        "lastVerified": "2026-09-16T18:21:07.873Z"
+        "lastVerified": "2026-09-16T18:39:58.452Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1525,6 +1963,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "The University of Derby"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1624,7 +2082,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
-        "lastVerified": "2026-09-16T18:21:04.151Z"
+        "lastVerified": "2026-09-16T18:39:54.705Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1637,6 +2095,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "UBE (Formerly t/a University College of Estate Management)"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1733,7 +2211,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/9caae322-6911-4f79-8254-b8594a96f25c",
-        "lastVerified": "2026-09-16T18:21:00.432Z"
+        "lastVerified": "2026-09-16T18:39:50.941Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1746,6 +2224,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "SR SUPPLY CHAIN CONSULTANTS LTD"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1856,6 +2354,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "QA Limited"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -1987,6 +2505,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "THE SKILL MILL LIMITED"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -2097,6 +2635,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "University of Winchester"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -2205,6 +2763,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "The Open University"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -2323,6 +2901,28 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "MOMENTUM RECRUITMENT LIMITED",
+          "NC Group Ltd",
+          "STAFF POWER TRAINING LIMITED"
+        ],
+        "namedSupplierCount": 3,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -2476,6 +3076,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "RHYL CITY STRATEGY COMMUNITY INTEREST COMPANY"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -2598,6 +3218,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "HEADS UP SOMERSET LTD"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -2749,6 +3389,33 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Blue Apple Training",
+          "Hull College",
+          "Humber Learning Consortium",
+          "Portull Training Services Ltd",
+          "SCL Education and Training Limited",
+          "Skills-UK, Education & Training Limited",
+          "The Skills Network",
+          "Triage Centrum Limited"
+        ],
+        "namedSupplierCount": 8,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -2871,6 +3538,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "THE OLD STORES STUDIO CIC"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -3122,6 +3809,28 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "MOMENTUM RECRUITMENT LIMITED",
+          "NC Group Ltd",
+          "STAFF POWER TRAINING LIMITED"
+        ],
+        "namedSupplierCount": 3,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -3156,7 +3865,7 @@
         ]
       },
       "value": {
-        "amount": 0,
+        "amount": null,
         "currency": "GBP",
         "basis": "not-published"
       },
@@ -3255,6 +3964,32 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "PHX TRAINING LIMITED",
+          "BLACKBURN WITH DARWEN COUNCIL FOR VOLUNTARY SERVICE",
+          "COMMUNITY LINKS TRAINING & ENTERPRISE LTD",
+          "SB SKILLS SOLUTIONS LTD",
+          "Burnley College",
+          "HYBRID TECHNICAL SERVICES LIMITED",
+          "TRANSPORT TRAINING ACADEMY LIMITED"
+        ],
+        "namedSupplierCount": 7,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -3457,6 +4192,26 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "STANDGUIDE LIMITED"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     },
     {
@@ -3678,6 +4433,27 @@
         "containsCommercialRecommendations": false,
         "containsRawVacancies": false,
         "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "ELEVATE EMPLOYMENT SERVICES LIMITED",
+          "DIMENSIONS SOMERSET SEV LIMITED"
+        ],
+        "namedSupplierCount": 2,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": true,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
       }
     }
   ],
@@ -3687,7 +4463,10 @@
     "evaluation": "Evaluation weightings are displayed only when present in structured public procurement data.",
     "noPrediction": "CareerPath does not publish win-probability scores or undisclosed commercial recommendations in this public feed.",
     "supplyChain": "Supply-chain records are taken from public prime-provider partnership and expression-of-interest pages. CareerPath reports only information explicitly published by the provider and does not infer unpublished selection criteria, commercial terms or win probability.",
-    "programmeLinking": "Opportunity-to-programme links use an explicit CareerPath registry. Generic classifications such as Employment Support and IPS are not guessed into a specific programme."
+    "programmeLinking": "Opportunity-to-programme links use an explicit CareerPath registry. Generic classifications such as Employment Support and IPS are not guessed into a specific programme.",
+    "sourceCoverage": "CareerPath publishes source coverage and known gaps explicitly. A missing record is never treated as proof that no opportunity exists.",
+    "supplierIntelligence": "Supplier and incumbent intelligence uses only published award/contract supplier names. Market counts describe the curated CareerPath dataset and are not market-share estimates.",
+    "readiness": "Published-data readiness flags show which facts are available for an opportunity. They are not rankings, scores, suitability assessments or recommendations."
   },
   "publication": {
     "websitePublication": false,
@@ -3706,6 +4485,735 @@
       "invalid": 0
     },
     "supplyChainRecordCount": 4,
-    "programmeLinkRegistryVersion": 1
+    "externalOpportunityRecordsAdded": 2,
+    "programmeLinkRegistryVersion": 1,
+    "opportunityIntelligenceV1": true,
+    "sourceRegistryVersion": 1,
+    "valueNullCorrections": 3
+  },
+  "coverage": {
+    "sourceCount": 7,
+    "activeOrOperationalSources": 6,
+    "degradedSources": 0,
+    "knownGaps": 1,
+    "status": "passed-with-known-gaps",
+    "sources": [
+      {
+        "id": "find-a-tender",
+        "name": "Find a Tender",
+        "type": "commissioner-procurement",
+        "jurisdiction": [
+          "UK-wide"
+        ],
+        "official": true,
+        "configuredStatus": "active",
+        "runtimeStatus": "active",
+        "error": null,
+        "coverage": [
+          "pipeline",
+          "market-engagement",
+          "tenders",
+          "awards",
+          "contracts",
+          "contract-performance",
+          "contract-changes",
+          "termination"
+        ],
+        "note": null
+      },
+      {
+        "id": "contracts-finder",
+        "name": "Contracts Finder",
+        "type": "commissioner-procurement",
+        "jurisdiction": [
+          "England",
+          "UK-wide"
+        ],
+        "official": true,
+        "configuredStatus": "active",
+        "runtimeStatus": "active",
+        "error": null,
+        "coverage": [
+          "tenders",
+          "awards",
+          "contracts",
+          "lower-value-opportunities"
+        ],
+        "note": null
+      },
+      {
+        "id": "public-contracts-scotland",
+        "name": "Public Contracts Scotland",
+        "type": "commissioner-procurement",
+        "jurisdiction": [
+          "Scotland"
+        ],
+        "official": true,
+        "configuredStatus": "active",
+        "runtimeStatus": "passed",
+        "error": null,
+        "coverage": [
+          "prior-information",
+          "tenders",
+          "awards",
+          "modifications",
+          "site-notices",
+          "quick-quote-awards"
+        ],
+        "note": null
+      },
+      {
+        "id": "sell2wales",
+        "name": "Sell2Wales",
+        "type": "commissioner-procurement",
+        "jurisdiction": [
+          "Wales"
+        ],
+        "official": true,
+        "configuredStatus": "active",
+        "runtimeStatus": "passed",
+        "error": null,
+        "coverage": [
+          "prior-information",
+          "tenders",
+          "awards",
+          "modifications",
+          "site-notices",
+          "subcontract-opportunities"
+        ],
+        "note": null
+      },
+      {
+        "id": "dwp-atamis",
+        "name": "DWP Atamis",
+        "type": "commissioner-pipeline",
+        "jurisdiction": [
+          "UK-wide"
+        ],
+        "official": true,
+        "configuredStatus": "active",
+        "runtimeStatus": "passed",
+        "error": null,
+        "coverage": [
+          "pipeline",
+          "pre-market-warming",
+          "rfi",
+          "planned-opportunities"
+        ],
+        "note": null
+      },
+      {
+        "id": "supply-chain-radar",
+        "name": "CareerPath Supply Chain Radar",
+        "type": "prime-provider-opportunities",
+        "jurisdiction": [
+          "UK-wide"
+        ],
+        "official": false,
+        "configuredStatus": "active",
+        "runtimeStatus": "active",
+        "error": null,
+        "coverage": [
+          "prime-provider-eoi",
+          "delivery-partner-opportunities",
+          "specialist-partner-opportunities"
+        ],
+        "note": null
+      },
+      {
+        "id": "etendersni",
+        "name": "eTendersNI",
+        "type": "commissioner-procurement",
+        "jurisdiction": [
+          "Northern Ireland"
+        ],
+        "official": true,
+        "configuredStatus": "known-gap",
+        "runtimeStatus": "known-gap",
+        "error": null,
+        "coverage": [
+          "published-notices"
+        ],
+        "note": "Find a Tender provides UK-wide above-threshold coverage, but CareerPath V1 does not yet automate the full lower-value eTendersNI notice catalogue. This limitation must remain visible in coverage metadata."
+      }
+    ],
+    "statement": "CareerPath combines UK-wide Find a Tender coverage with complementary lower-value and specialist sources. Known coverage limitations are published rather than hidden."
+  },
+  "marketIntelligence": {
+    "supplierLandscape": [
+      {
+        "supplier": "MOMENTUM RECRUITMENT LIMITED",
+        "awardCount": 2,
+        "publishedAwardValue": 675000,
+        "awardValueSampleCount": 2,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "East Durham College"
+        ]
+      },
+      {
+        "supplier": "NC Group Ltd",
+        "awardCount": 2,
+        "publishedAwardValue": 675000,
+        "awardValueSampleCount": 2,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "East Durham College"
+        ]
+      },
+      {
+        "supplier": "STAFF POWER TRAINING LIMITED",
+        "awardCount": 2,
+        "publishedAwardValue": 675000,
+        "awardValueSampleCount": 2,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "East Durham College"
+        ]
+      },
+      {
+        "supplier": "STANDGUIDE LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": 3881351,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Connect to Work"
+        ],
+        "buyers": [
+          "Wirral Council"
+        ]
+      },
+      {
+        "supplier": "ELEVATE EMPLOYMENT SERVICES LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": 2000000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Connect to Work"
+        ],
+        "buyers": [
+          "Somerset Council"
+        ]
+      },
+      {
+        "supplier": "DIMENSIONS SOMERSET SEV LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": 2000000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Connect to Work"
+        ],
+        "buyers": [
+          "Somerset Council"
+        ]
+      },
+      {
+        "supplier": "Blue Apple Training",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "Hull College",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "Humber Learning Consortium",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "Portull Training Services Ltd",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "SCL Education and Training Limited",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "Skills-UK, Education & Training Limited",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "The Skills Network",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "Triage Centrum Limited",
+        "awardCount": 1,
+        "publishedAwardValue": 1594284,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Hull City Council"
+        ]
+      },
+      {
+        "supplier": "RHYL CITY STRATEGY COMMUNITY INTEREST COMPANY",
+        "awardCount": 1,
+        "publishedAwardValue": 1570000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Connect to Work"
+        ],
+        "buyers": [
+          "Wrexham County Borough Council"
+        ]
+      },
+      {
+        "supplier": "The Open University",
+        "awardCount": 1,
+        "publishedAwardValue": 360000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "Milton Keynes Council"
+        ]
+      },
+      {
+        "supplier": "Explosive Learning Solutions LTD",
+        "awardCount": 1,
+        "publishedAwardValue": 210000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "Ministry of Defence"
+        ]
+      },
+      {
+        "supplier": "University of Winchester",
+        "awardCount": 1,
+        "publishedAwardValue": 144000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "Isle of Wight Council"
+        ]
+      },
+      {
+        "supplier": "THE SKILL MILL LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": 99000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Employment Support"
+        ],
+        "buyers": [
+          "North East Combined Authority"
+        ]
+      },
+      {
+        "supplier": "Nottingham Trent University",
+        "awardCount": 1,
+        "publishedAwardValue": 54000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "DERBY CITY COUNCIL"
+        ]
+      },
+      {
+        "supplier": "QA Limited",
+        "awardCount": 1,
+        "publishedAwardValue": 45000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT"
+        ]
+      },
+      {
+        "supplier": "SR SUPPLY CHAIN CONSULTANTS LTD",
+        "awardCount": 1,
+        "publishedAwardValue": 44000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "DERBY CITY COUNCIL"
+        ]
+      },
+      {
+        "supplier": "YORKSHIRE TRAINING PARTNERSHIP LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": 42000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "DERBY CITY COUNCIL"
+        ]
+      },
+      {
+        "supplier": "HEADS UP SOMERSET LTD",
+        "awardCount": 1,
+        "publishedAwardValue": 40000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Somerset Council"
+        ]
+      },
+      {
+        "supplier": "THE OLD STORES STUDIO CIC",
+        "awardCount": 1,
+        "publishedAwardValue": 40000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "Somerset Council"
+        ]
+      },
+      {
+        "supplier": "The University of Derby",
+        "awardCount": 1,
+        "publishedAwardValue": 36000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "DERBY CITY COUNCIL"
+        ]
+      },
+      {
+        "supplier": "UBE (Formerly t/a University College of Estate Management)",
+        "awardCount": 1,
+        "publishedAwardValue": 27000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "Central Bedfordshire Council"
+        ]
+      },
+      {
+        "supplier": "PHX TRAINING LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": null,
+        "awardValueSampleCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Lancashire County Council"
+        ]
+      },
+      {
+        "supplier": "BLACKBURN WITH DARWEN COUNCIL FOR VOLUNTARY SERVICE",
+        "awardCount": 1,
+        "publishedAwardValue": null,
+        "awardValueSampleCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Lancashire County Council"
+        ]
+      },
+      {
+        "supplier": "COMMUNITY LINKS TRAINING & ENTERPRISE LTD",
+        "awardCount": 1,
+        "publishedAwardValue": null,
+        "awardValueSampleCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Lancashire County Council"
+        ]
+      },
+      {
+        "supplier": "SB SKILLS SOLUTIONS LTD",
+        "awardCount": 1,
+        "publishedAwardValue": null,
+        "awardValueSampleCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Lancashire County Council"
+        ]
+      },
+      {
+        "supplier": "Burnley College",
+        "awardCount": 1,
+        "publishedAwardValue": null,
+        "awardValueSampleCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Lancashire County Council"
+        ]
+      },
+      {
+        "supplier": "HYBRID TECHNICAL SERVICES LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": null,
+        "awardValueSampleCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Lancashire County Council"
+        ]
+      },
+      {
+        "supplier": "TRANSPORT TRAINING ACADEMY LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": null,
+        "awardValueSampleCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Lancashire County Council"
+        ]
+      }
+    ],
+    "commissionerLandscape": [
+      {
+        "buyer": "London Borough of Merton",
+        "opportunityCount": 2,
+        "liveOrUpcomingCount": 2,
+        "programmes": [
+          "IPS"
+        ]
+      },
+      {
+        "buyer": "Department for Work and Pensions",
+        "opportunityCount": 2,
+        "liveOrUpcomingCount": 2,
+        "programmes": [
+          "Employment Support",
+          "Future Employment Support"
+        ]
+      },
+      {
+        "buyer": "AKG",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Future Employment Support"
+        ]
+      },
+      {
+        "buyer": "Maximus UK",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Future Employment Support"
+        ]
+      },
+      {
+        "buyer": "Reed in Partnership",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Future Employment Support"
+        ]
+      },
+      {
+        "buyer": "Seetec",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Future Employment Support"
+        ]
+      },
+      {
+        "buyer": "Construction Industry Training Board",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "DERBY CITY COUNCIL",
+        "opportunityCount": 4,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "Somerset Council",
+        "opportunityCount": 3,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Adult Skills Fund",
+          "Connect to Work"
+        ]
+      },
+      {
+        "buyer": "East Durham College",
+        "opportunityCount": 2,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Adult Skills Fund"
+        ]
+      },
+      {
+        "buyer": "Ministry of Defence",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "Central Bedfordshire Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "North East Combined Authority",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Employment Support"
+        ]
+      },
+      {
+        "buyer": "Isle of Wight Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "Milton Keynes Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "Wrexham County Borough Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Connect to Work"
+        ]
+      },
+      {
+        "buyer": "Hull City Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Adult Skills Fund"
+        ]
+      },
+      {
+        "buyer": "Lancashire County Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ]
+      },
+      {
+        "buyer": "Wirral Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Connect to Work"
+        ]
+      }
+    ],
+    "methodology": "Counts describe records currently present in CareerPath's curated feed. They are not claims about the total UK market or supplier market share."
   }
 }

@@ -1,0 +1,27 @@
+{
+  "validated": true,
+  "generatedAt": "2026-09-16T18:49:30.292Z",
+  "sourceGeneratedAt": "2026-09-16T18:49:29.915Z",
+  "counts": {
+    "total": 28,
+    "live": 7,
+    "upcoming": 2,
+    "marketEngagement": 0,
+    "recentAwards": 19,
+    "supplyChain": 4,
+    "commissioner": 24
+  },
+  "programmeLinked": 24,
+  "programmeUnlinked": 4,
+  "regionFilterCount": 16,
+  "supplierLandscapeCount": 34,
+  "commissionerLandscapeCount": 20,
+  "coverageStatus": "passed-with-known-gaps",
+  "degradedSources": 0,
+  "knownGaps": 1,
+  "publicSafety": {
+    "internalBidScoring": false,
+    "commercialRecommendations": false,
+    "rawVacancies": false
+  }
+}
