@@ -1,0 +1,2094 @@
+{
+  "schemaVersion": 1,
+  "id": "careerpath-public-opportunity-intelligence",
+  "generatedAt": "2026-09-16T15:48:44.152Z",
+  "qualityStatus": "passed",
+  "title": "CareerPath Opportunity Intelligence",
+  "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
+  "counts": {
+    "total": 14,
+    "live": 0,
+    "upcoming": 1,
+    "marketEngagement": 0,
+    "recentAwards": 13,
+    "closingWithin7Days": 0,
+    "closingWithin30Days": 0
+  },
+  "filters": {
+    "programmes": [
+      "Adult Skills Fund",
+      "Apprenticeships",
+      "Connect to Work",
+      "Employment Support",
+      "Skills Bootcamps"
+    ],
+    "buyers": [
+      "Construction Industry Training Board",
+      "East Durham College",
+      "Hull City Council",
+      "Isle of Wight Council",
+      "Lancashire County Council",
+      "Milton Keynes Council",
+      "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
+      "North East Combined Authority",
+      "Somerset Council",
+      "Wirral Council",
+      "Wrexham County Borough Council"
+    ],
+    "regions": [
+      "British Oversea Territories",
+      "Channel Islands",
+      "Europe",
+      "Flintshire and Wrexham",
+      "GB",
+      "Isle of Man",
+      "Kingston upon Hull, City of",
+      "Lancashire",
+      "MK76AA",
+      "North East",
+      "North East England",
+      "North West",
+      "North West England",
+      "Rest of the World",
+      "SR8 2RN",
+      "Somerset",
+      "South East",
+      "South West England",
+      "United Kingdom",
+      "Wales",
+      "Wirral",
+      "Yorkshire and The Humber"
+    ],
+    "stages": [
+      {
+        "id": "live",
+        "label": "Live tenders"
+      },
+      {
+        "id": "market-engagement",
+        "label": "Market engagement"
+      },
+      {
+        "id": "upcoming",
+        "label": "Upcoming / pipeline"
+      },
+      {
+        "id": "recent-award",
+        "label": "Recent awards"
+      }
+    ]
+  },
+  "opportunities": [
+    {
+      "id": "ocds-h6vhtk-06f48c",
+      "slug": "south-wales-shared-apprenticeships-scheme-ocds-h6vhtk-06f48c",
+      "ocid": "ocds-h6vhtk-06f48c",
+      "title": "South Wales Shared Apprenticeships Scheme",
+      "description": "CITB are inviting bids to deliver a continuation of the existing Shared Apprenticeship Scheme covering South West and South East Wales. CITB wish to fund a single provider to deliver the Scheme from the planned point of project commencement on 1st December 2026 through to 31st March 2029. As well as new Apprentices recruited during this period, Apprentices who started their programmes before the point of project commencement must continue to be supported through to completion of their qualifications, via the funding awarded to the successful provider.",
+      "stage": "planning",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Construction Industry Training Board"
+      },
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 0,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": null,
+        "methodDetails": null,
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "planning",
+            "value": null,
+            "currency": null,
+            "contractStart": "2026-12-01T00:00:00.000Z",
+            "contractEnd": "2029-03-31T22:59:59.000Z",
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "As well as new Apprentices recruited during this period, Apprentices who started their programmes before the point of project commencement must continue to be supported through to completion of their qualifications, via the funding awarded to the successful provider."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2026-09-08T12:48:39.000Z",
+          "releaseId": "084896-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/084896-2026",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2026-09-08T13:00:24.000Z",
+          "releaseId": "084912-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/084912-2026",
+          "tags": [
+            "planningUpdate"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2026-09-11T13:47:57.000Z",
+          "releaseId": "086504-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086504-2026",
+          "tags": [
+            "planningUpdate"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086504-2026",
+        "lastVerified": "2026-09-14T11:34:16.203Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": 71,
+        "missing": [
+          "value",
+          "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-c1eb9ff0-e857-48da-b135-d8d8884ceced",
+      "slug": "lot-1-apprenticeship-training-occupational-therapist-level-6--b135-d8d8884ceced",
+      "ocid": "ocds-b5fd17-c1eb9ff0-e857-48da-b135-d8d8884ceced",
+      "title": "Lot 1 - Apprenticeship Training - Occupational Therapist Level 6",
+      "description": "Further competition for the Provision of the following apprenticeship programmes via the Authority's Provision of Learning and Development Services via a Dynamic Purchasing System (DPS) DN262146: Occupational Therapist Level 6 The supplier must be able to offer the fully published standard as detailed on the IfATE website and link below: The contract term for learners enrolling shall ideally commence in Autumn 2025, for a period of 24 months with the option to extend at the discretion of the authority for 12 months. The contract shall start when the first learner is enrolled onto programme. Additional information: There is the option to extend for a further 12 months at the sole discretion of the Authority. Values given are based on estimated learner numbers for the duration of the contract, including the possible extension period however there is no guarantee of value or volume of learners throughout the contract.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Isle of Wight Council"
+      },
+      "geography": {
+        "primaryArea": "South East",
+        "areas": [
+          "South East",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 144000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2025-04-14T11:00:00.000Z",
+        "daysToDeadline": -520
+      },
+      "contract": {
+        "startDate": "2025-08-31T23:00:00.000Z",
+        "endDate": "2027-08-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": null,
+        "methodDetails": "Other -",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Further competition for the Provision of the following apprenticeship programmes via the Authority's Provision of Learning and Development Services via a Dynamic Purchasing System (DPS) DN262146: Occupational Therapist Level 6 The supplier must be able to offer the fully published standard as detailed on the IfATE website and link below: The contract term for learners enrolling shall ideally commence in Autumn 2025, ",
+          "The contract shall start when the first learner is enrolled onto programme."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "University of Winchester"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-10T12:41:41.000Z",
+          "releaseId": "e812b33c-ee3b-416e-983b-2d7a49b39fe7-913557",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/e812b33c-ee3b-416e-983b-2d7a49b39fe7",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/e812b33c-ee3b-416e-983b-2d7a49b39fe7",
+        "lastVerified": "2026-09-14T12:55:34.479Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-a8701f05-87fe-4baa-ba0a-aa3cc901d47e",
+      "slug": "level-6-social-work-apprenticeships-st0510--ba0a-aa3cc901d47e",
+      "ocid": "ocds-b5fd17-a8701f05-87fe-4baa-ba0a-aa3cc901d47e",
+      "title": "Level 6 Social Work Apprenticeships ST0510",
+      "description": "Growing social workers \"from within\" fosters a workforce with a deep understanding of the council's values, policies, and local systems. Apprentices trained in the council are more likely to remain with the organisation long-term, reducing turnover and reliance on agency staff. This continuity directly benefits service users through more stable relationships and consistent decision-making.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Milton Keynes Council"
+      },
+      "geography": {
+        "primaryArea": "MK76AA",
+        "areas": [
+          "MK76AA"
+        ]
+      },
+      "value": {
+        "amount": 360000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-07-01T16:00:00.000Z",
+        "daysToDeadline": -76
+      },
+      "contract": {
+        "startDate": "2026-07-31T23:00:00.000Z",
+        "endDate": "2029-07-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a dynamic purchasing system",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Apprentices trained in the council are more likely to remain with the organisation long-term, reducing turnover and reliance on agency staff."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "The Open University"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-10T15:28:15.000Z",
+          "releaseId": "585b1167-a88c-49d6-8e1b-76d78a79c14b-913614",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/585b1167-a88c-49d6-8e1b-76d78a79c14b",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/585b1167-a88c-49d6-8e1b-76d78a79c14b",
+        "lastVerified": "2026-09-14T12:55:30.766Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-22586f62-6b5c-443f-814a-4fdeb2223653",
+      "slug": "ca18103-adult-skills-fund-course-delivery--814a-4fdeb2223653",
+      "ocid": "ocds-b5fd17-22586f62-6b5c-443f-814a-4fdeb2223653",
+      "title": "CA18103 - Adult Skills Fund Course Delivery",
+      "description": "East Durham College is seeking to appoint a maximum of three high-performing subcontract partners to deliver Adult Skills Fund (ASF) provision at Level 2 and above, with a clear focus on progression into sustained employment and higher-level learning. Provision must be delivered to adults aged 19+ resident within the North East Mayoral Strategic Authority Delivery may take place in community, employer, or college venues, but learner residency must align with NECA postcode eligibility. The contract value will be based on an 80/20 split. The full contract value will be a maximum of £450,000 Tenderers are invited to bid for the contract amount they can effectively deliver within the specified contract requirements; it will then be at the discretion of the College to determine the split of the contract award. This may be split as incremental awards throughout the academic year dependent on achievement of deliverables. Includes Lots: Lot 1: Adult Skills Fund Course Delivery (1) Lot 2: Adult Skills Fund Course Delivery (2) Lot 3: Adult Skills Fund Course Delivery (3) To access this competition: Registered: Login to https://suppliers.multiquote.com and view the opportunity CA18103. Not registered: Visit https://suppliers.multiquote.com then register and quote CA18103 as the reason for registration. Any queries please contact MultiQuote on 020 3920 8054.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund"
+      },
+      "buyer": {
+        "name": "East Durham College"
+      },
+      "geography": {
+        "primaryArea": "SR8 2RN",
+        "areas": [
+          "SR8 2RN",
+          "British Oversea Territories",
+          "Channel Islands",
+          "Europe",
+          "Isle of Man",
+          "Rest of the World",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 225000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-05T00:00:00.000Z",
+        "daysToDeadline": -42
+      },
+      "contract": {
+        "startDate": "2026-08-05T23:00:00.000Z",
+        "endDate": "2027-07-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Provision must be delivered to adults aged 19+ resident within the North East Mayoral Strategic Authority Delivery may take place in community, employer, or college venues, but learner residency must align with NECA postcode eligibility."
+        ],
+        "suitabilitySignals": [
+          "Partnership or supply-chain delivery is mentioned in published material"
+        ],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "MOMENTUM RECRUITMENT LIMITED",
+        "NC Group Ltd",
+        "STAFF POWER TRAINING LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-10T16:13:47.000Z",
+          "releaseId": "57d84c54-d501-4c5f-8498-17fb688386a3-913622",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/57d84c54-d501-4c5f-8498-17fb688386a3",
+          "tags": [
+            "awardUpdate"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/57d84c54-d501-4c5f-8498-17fb688386a3",
+        "lastVerified": "2026-09-14T12:55:27.086Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
+      "slug": "contract-for-the-provision-of-ai-short-courses-level-5-apprenticeships-call-off-contract-to-nort--91b6-bfde03d65bdc",
+      "ocid": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
+      "title": "Contract for the provision of AI Short Courses Level 5 Apprenticeships call off contract, to North of England Commissioning Support (NECS) (Hosted by NHS England)",
+      "description": "NHS South, Central and West Commissioning Support Unit (SCW) on behalf of North of England Commissioning Support (NECS) (Hosted by NHS England) has awarded a contract to QA Limited for the following Apprenticeships: 1. AI leadership - AI delivery and organisational transformation (AU0011) - Level 5 2. AI leadership - AI strategy and opportunity (AU0009) - Level 5 3. AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086).",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT"
+      },
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East",
+          "North West",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 45000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-18T11:00:00.000Z",
+        "daysToDeadline": -29
+      },
+      "contract": {
+        "startDate": "2026-08-31T23:00:00.000Z",
+        "endDate": "2027-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086)."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "QA Limited"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-14T10:31:42.000Z",
+          "releaseId": "2dd5253b-cd2e-4f67-a5aa-b0d10398808e-913639",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
+        "lastVerified": "2026-09-14T12:53:11.873Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06ef70",
+      "slug": "specialist-employment-support-for-economically-inactive-young-people-with-involvement-in-the-you-ocds-h6vhtk-06ef70",
+      "ocid": "ocds-h6vhtk-06ef70",
+      "title": "Specialist employment support for economically inactive young people with involvement in the youth justice / criminal justice system",
+      "description": "Provision of specialist one-to-one support for economically inactive young people aged 16-24 who have had involvement with the youth or criminal justice system, helping them overcome barriers, access coordinated support, and progress into education, training, and employment through an expanded Navigator model delivered for residents across the North East.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "North East Combined Authority"
+      },
+      "geography": {
+        "primaryArea": "North East England",
+        "areas": [
+          "North East England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 99000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": "2026-09-10T23:00:00.000Z",
+        "endDate": "2027-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Below threshold - without competition",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "THE SKILL MILL LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-01T11:21:54.000Z",
+          "releaseId": "082603-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/082603-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-14T07:27:23.000Z",
+          "releaseId": "086677-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
+        "lastVerified": "2026-09-14T12:52:23.381Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06b485",
+      "slug": "connect-to-work-individual-placement-and-support-ips-wrexham-ocds-h6vhtk-06b485",
+      "ocid": "ocds-h6vhtk-06b485",
+      "title": "Connect to Work: Individual Placement and Support (IPS) - Wrexham",
+      "description": "UK7 Contract Details Notice for 'Connect to Work: Individual Placement and Support (IPS) - Wrexham' (Proc-25-157). Wrexham County Borough Council have entered into a service contract with a supplier to deliver the Individual Placement and Support (IPS) services in Wrexham, which are part of the Connect to Work Programme (CtW). IPS is a model integrating employment support with health services to support people into employment.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work"
+      },
+      "buyer": {
+        "name": "Wrexham County Borough Council"
+      },
+      "geography": {
+        "primaryArea": "Flintshire and Wrexham",
+        "areas": [
+          "Flintshire and Wrexham",
+          "Wales",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 1570000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-07-17T16:00:00.000Z",
+        "daysToDeadline": -60
+      },
+      "contract": {
+        "startDate": "2026-09-08T23:00:00.000Z",
+        "endDate": "2030-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": 1570000,
+            "currency": "GBP",
+            "contractStart": "2026-09-06T23:00:00.000Z",
+            "contractEnd": "2030-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 100,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "RHYL CITY STRATEGY COMMUNITY INTEREST COMPANY"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-06-15T06:57:04.000Z",
+          "releaseId": "055954-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/055954-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-08-03T09:36:28.000Z",
+          "releaseId": "073052-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/073052-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-10T10:49:45.000Z",
+          "releaseId": "085809-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/085809-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/085809-2026",
+        "lastVerified": "2026-09-14T11:37:22.791Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06f6de",
+      "slug": "tailored-learning-contract-2026-2027-ocds-h6vhtk-06f6de",
+      "ocid": "ocds-h6vhtk-06f6de",
+      "title": "Tailored Learning Contract 2026-2027",
+      "description": "Provide delivery of Adult Skills fund Community Learning courses - DWP funding",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund"
+      },
+      "buyer": {
+        "name": "Somerset Council"
+      },
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 40000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": "2026-07-31T23:00:00.000Z",
+        "endDate": "2027-10-31T23:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Below threshold - without competition",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "HEADS UP SOMERSET LTD"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-10T12:59:58.000Z",
+          "releaseId": "085909-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/085909-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/085909-2026",
+        "lastVerified": "2026-09-14T11:37:11.454Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06f6e5",
+      "slug": "adult-skills-fund-26-27-ocds-h6vhtk-06f6e5",
+      "ocid": "ocds-h6vhtk-06f6e5",
+      "title": "Adult Skills Fund - 26-27",
+      "description": "HEYCA (Hull and East Yorkshire Combined Authority) has awarded a contract to Skills-UK, Education & Training Limited to provide relevant learning/regulated qualifications linked to the Local Skills Improvement Plan The contracts are anticipated to commence 4th August 2026 ending by 31st August 2027.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund"
+      },
+      "buyer": {
+        "name": "Hull City Council"
+      },
+      "geography": {
+        "primaryArea": "Kingston upon Hull, City of",
+        "areas": [
+          "Kingston upon Hull, City of",
+          "Yorkshire and The Humber"
+        ]
+      },
+      "value": {
+        "amount": 1594284,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "limited",
+        "methodDetails": "Award procedure without prior publication of a call for competition",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": "Lot 1 - Preparation for Skills and Life",
+            "description": "HEYCA (Hull and East Yorkshire Combined Authority) has awarded a contract to Skills-UK, Education & Training Limited to provide relevant learning/regulated qualifications linked to the Local Skills Improvement Plan The contracts are anticipated to commence 4th August 2026 ending by 31st August 2027.",
+            "status": "cancelled",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": null
+              },
+              {
+                "name": "0",
+                "weighting": null
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": null,
+            "lotId": "1",
+            "lotTitle": "Lot 1 - Preparation for Skills and Life"
+          },
+          {
+            "name": "0",
+            "weighting": null,
+            "lotId": "1",
+            "lotTitle": "Lot 1 - Preparation for Skills and Life"
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Blue Apple Training",
+        "Hull College",
+        "Humber Learning Consortium",
+        "Portull Training Services Ltd",
+        "SCL Education and Training Limited",
+        "Skills-UK, Education & Training Limited",
+        "The Skills Network",
+        "Triage Centrum Limited"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-10T13:13:53.000Z",
+          "releaseId": "085921-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/085921-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/085921-2026",
+        "lastVerified": "2026-09-14T11:37:09.233Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 88,
+        "missing": [
+          "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06f6f2",
+      "slug": "tailored-learning-contract-2026-2027-ocds-h6vhtk-06f6f2",
+      "ocid": "ocds-h6vhtk-06f6f2",
+      "title": "Tailored Learning Contract 2026-2027",
+      "description": "Provide delivery of Adult Skills fund Community Learning courses - DWP funding",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund"
+      },
+      "buyer": {
+        "name": "Somerset Council"
+      },
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 40000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": "2026-07-31T23:00:00.000Z",
+        "endDate": "2027-10-31T23:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Below threshold - without competition",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "THE OLD STORES STUDIO CIC"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-10T13:34:58.000Z",
+          "releaseId": "085946-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/085946-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/085946-2026",
+        "lastVerified": "2026-09-14T11:37:04.844Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06ba81",
+      "slug": "adult-skills-fund-course-delivery-ocds-h6vhtk-06ba81",
+      "ocid": "ocds-h6vhtk-06ba81",
+      "title": "Adult Skills Fund Course Delivery",
+      "description": "East Durham College is seeking to appoint a maximum of three high-performing subcontract partners to deliver Adult Skills Fund (ASF) provision at Level 2 and above, with a clear focus on progression into sustained employment and higher-level learning. Provision must be delivered to adults aged 19+ resident within the North East Mayoral Strategic Authority Delivery may take place in community, employer, or college venues, but learner residency must align with NECA postcode eligibility. The contract value will be based on an 80/20 split. The full contract value will be a maximum of £450,000 Tenderers are invited to bid for the contract amount they can effectively deliver within the specified contract requirements; it will then be at the discretion of the College to determine the split of the contract award. This may be split as incremental awards throughout the academic year dependent on achievement of deliverables.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund"
+      },
+      "buyer": {
+        "name": "East Durham College"
+      },
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 450000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-07-18T11:00:00.000Z",
+        "daysToDeadline": -60
+      },
+      "contract": {
+        "startDate": "2026-08-05T23:00:00.000Z",
+        "endDate": "2027-07-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Below threshold - open competition",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": "Adult Skills Fund Course Delivery (1)",
+            "description": null,
+            "status": "complete",
+            "value": 150000,
+            "currency": "GBP",
+            "contractStart": "2026-08-02T23:00:00.000Z",
+            "contractEnd": "2027-07-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Social Value",
+                "weighting": 10
+              },
+              {
+                "name": "Price",
+                "weighting": 5
+              },
+              {
+                "name": "Quality",
+                "weighting": 85
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "Adult Skills Fund Course Delivery (2)",
+            "description": null,
+            "status": "complete",
+            "value": 150000,
+            "currency": "GBP",
+            "contractStart": "2026-08-02T23:00:00.000Z",
+            "contractEnd": "2027-07-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Social Value",
+                "weighting": 10
+              },
+              {
+                "name": "Price",
+                "weighting": 5
+              },
+              {
+                "name": "Quality",
+                "weighting": 85
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Adult Skills Fund Course Delivery (3)",
+            "description": null,
+            "status": "complete",
+            "value": 150000,
+            "currency": "GBP",
+            "contractStart": "2026-08-02T23:00:00.000Z",
+            "contractEnd": "2027-07-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Social Value",
+                "weighting": 10
+              },
+              {
+                "name": "Price",
+                "weighting": 5
+              },
+              {
+                "name": "Quality",
+                "weighting": 85
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 255,
+        "priceWeighting": 15,
+        "socialValueWeighting": 10,
+        "criteria": [
+          {
+            "name": "Social Value",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": "Adult Skills Fund Course Delivery (1)"
+          },
+          {
+            "name": "Price",
+            "weighting": 5,
+            "lotId": "1",
+            "lotTitle": "Adult Skills Fund Course Delivery (1)"
+          },
+          {
+            "name": "Quality",
+            "weighting": 85,
+            "lotId": "1",
+            "lotTitle": "Adult Skills Fund Course Delivery (1)"
+          },
+          {
+            "name": "Social Value",
+            "weighting": 10,
+            "lotId": "2",
+            "lotTitle": "Adult Skills Fund Course Delivery (2)"
+          },
+          {
+            "name": "Price",
+            "weighting": 5,
+            "lotId": "2",
+            "lotTitle": "Adult Skills Fund Course Delivery (2)"
+          },
+          {
+            "name": "Quality",
+            "weighting": 85,
+            "lotId": "2",
+            "lotTitle": "Adult Skills Fund Course Delivery (2)"
+          },
+          {
+            "name": "Social Value",
+            "weighting": 10,
+            "lotId": "3",
+            "lotTitle": "Adult Skills Fund Course Delivery (3)"
+          },
+          {
+            "name": "Price",
+            "weighting": 5,
+            "lotId": "3",
+            "lotTitle": "Adult Skills Fund Course Delivery (3)"
+          },
+          {
+            "name": "Quality",
+            "weighting": 85,
+            "lotId": "3",
+            "lotTitle": "Adult Skills Fund Course Delivery (3)"
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Provision must be delivered to adults aged 19+ resident within the North East Mayoral Strategic Authority Delivery may take place in community, employer, or college venues, but learner residency must align with NECA postcode eligibility."
+        ],
+        "suitabilitySignals": [
+          "Partnership or supply-chain delivery is mentioned in published material"
+        ],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "MOMENTUM RECRUITMENT LIMITED",
+        "NC Group Ltd",
+        "STAFF POWER TRAINING LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": 10,
+        "note": "An explicit buyer-stated social value weighting was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-06-22T16:15:05.000Z",
+          "releaseId": "058697-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/058697-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-10T16:22:28.000Z",
+          "releaseId": "086136-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086136-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086136-2026",
+        "lastVerified": "2026-09-14T11:36:46.763Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06f76e",
+      "slug": "mini-competitions-for-provision-of-skills-bootcamps-under-wave-7-ocds-h6vhtk-06f76e",
+      "ocid": "ocds-h6vhtk-06f76e",
+      "title": "Mini Competitions for Provision of Skills Bootcamps under Wave 7",
+      "description": "The Authority has conducted a procurement using a mini competition procedure from the Lancashire Combined County Authority (LCCA) Open Framework for Training Services for Adults Reference: DN796031. This Mini Competition sought proposals to deliver Lancashire Skills Bootcamps that address local skills shortages and support employers to fill hard-to-recruit vacancies. The programme aims to help Lancashire residents gain the skills and confidence needed to progress into better employment. All eligible learners must receive a guaranteed interview. Tenderers were invited to submit a Tender for any or all of the Mini Competitions under the Framework Lots where they hold a place on the LCCA Adult Skills Framework. The Mini Competition was seeking Tenders for the following five Lots under the LCCA Adult Skills Framework: • Lot 2A - Health, Public Services and Care • Lot 2B - Engineering & Manufacturing • Lot 2C - Construction & the Build Environment areas • Lot 2D - Digital Technology • Lot 2E - Transport and Logistics Each Framework Lot within this Mini Competition contained one or more sub-Lots, for which separate Mini Competitions could have been be submitted. Please refer to the tender documents for further information",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Lancashire County Council"
+      },
+      "geography": {
+        "primaryArea": "Lancashire",
+        "areas": [
+          "Lancashire",
+          "North West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 0,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Award under framework",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "All eligible learners must receive a guaranteed interview."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "PHX TRAINING LIMITED",
+        "BLACKBURN WITH DARWEN COUNCIL FOR VOLUNTARY SERVICE",
+        "COMMUNITY LINKS TRAINING & ENTERPRISE LTD",
+        "SB SKILLS SOLUTIONS LTD",
+        "Burnley College",
+        "HYBRID TECHNICAL SERVICES LIMITED",
+        "TRANSPORT TRAINING ACADEMY LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-10T16:44:40.000Z",
+          "releaseId": "086142-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086142-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086142-2026",
+        "lastVerified": "2026-09-14T11:36:44.443Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": 75,
+        "missing": [
+          "value",
+          "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-05f007",
+      "slug": "delivery-of-wirral-council-s-connect-to-work-individual-placement-support-ips-programme-ocds-h6vhtk-05f007",
+      "ocid": "ocds-h6vhtk-05f007",
+      "title": "Delivery of Wirral Council's Connect to Work Individual Placement Support (IPS) Programme",
+      "description": "Wirral Borough Council has appointed a provider to deliver under contract, the Individual Placement Support (IPS) element of LCR's Connect to Work Connect programme. Connect to Work is a voluntary programme to help tackle economic inactivity by providing a specific form of support targeted at the right people at the right time, based on their individual circumstances. Participants must be both eligible and suitable for the provision.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work"
+      },
+      "buyer": {
+        "name": "Wirral Council"
+      },
+      "geography": {
+        "primaryArea": "Wirral",
+        "areas": [
+          "Wirral",
+          "North West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 3881351,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-07-06T08:00:00.000Z",
+        "daysToDeadline": -72
+      },
+      "contract": {
+        "startDate": "2026-09-06T23:00:00.000Z",
+        "endDate": "2030-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": 4044721,
+            "currency": "GBP",
+            "contractStart": "2026-08-31T23:00:00.000Z",
+            "contractEnd": "2030-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 80
+              },
+              {
+                "name": "Social Value",
+                "weighting": 10
+              },
+              {
+                "name": "Price",
+                "weighting": 10
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 80,
+        "priceWeighting": 10,
+        "socialValueWeighting": 10,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": 80,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Social Value",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Price",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Participants must be both eligible and suitable for the provision."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "STANDGUIDE LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": 10,
+        "note": "An explicit buyer-stated social value weighting was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2025-12-05T15:50:59.000Z",
+          "releaseId": "080285-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/080285-2025",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2025-12-05T16:04:20.000Z",
+          "releaseId": "080301-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/080301-2025",
+          "tags": [
+            "planningUpdate"
+          ]
+        },
+        {
+          "event": "Tender Published",
+          "date": "2026-06-04T13:37:34.000Z",
+          "releaseId": "052874-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/052874-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Tender Update",
+          "date": "2026-06-04T14:56:12.000Z",
+          "releaseId": "052980-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/052980-2026",
+          "tags": [
+            "tenderUpdate"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-08-06T10:24:43.000Z",
+          "releaseId": "074597-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/074597-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-11T10:17:48.000Z",
+          "releaseId": "086300-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086300-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086300-2026",
+        "lastVerified": "2026-09-14T11:34:31.997Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-056749",
+      "slug": "connect-to-work-somerset-council-ocds-h6vhtk-056749",
+      "ocid": "ocds-h6vhtk-056749",
+      "title": "Connect to Work - Somerset Council",
+      "description": "The Connect to Work (Connect to Work - GOV.UK) programme is a Department for Work and Pensions (DWP) funded initiative designed to support individuals who are economically inactive or at risk of leaving employment to access and sustain suitable work. The programme forms part of the Government's Get Britain Working strategy, which aims to reduce economic inactivity and support more people into good, sustainable employment through locally led and integrated approaches. The purpose of this procurement is to appoint one or more Delivery Partners to deliver supported employment services as part of the Connect to Work programme in Somerset. The programme will support: • individuals who are economically inactive and wish to work; and • individuals who are in work but at risk of falling out of employment Support will be delivered using the following evidence-based supported employment models that form separate Lots: • Lot 1 - Individual Placement and Support (IPS); and • Lot 2 - Supported Employment Quality Framework (SEQF)",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work"
+      },
+      "buyer": {
+        "name": "Somerset Council"
+      },
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 2000000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-07-17T13:00:00.000Z",
+        "daysToDeadline": -61
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": "IPS",
+            "description": null,
+            "status": "complete",
+            "value": 1200000,
+            "currency": "GBP",
+            "contractStart": "2026-09-30T23:00:00.000Z",
+            "contractEnd": "2029-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Price",
+                "weighting": 30
+              },
+              {
+                "name": "Quality",
+                "weighting": 60
+              },
+              {
+                "name": "Social Value",
+                "weighting": 10
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "SEQF",
+            "description": null,
+            "status": "complete",
+            "value": 800000,
+            "currency": "GBP",
+            "contractStart": "2026-09-30T23:00:00.000Z",
+            "contractEnd": "2029-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Price",
+                "weighting": 30
+              },
+              {
+                "name": "Quality",
+                "weighting": 60
+              },
+              {
+                "name": "Social Value",
+                "weighting": 10
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 120,
+        "priceWeighting": 60,
+        "socialValueWeighting": 10,
+        "criteria": [
+          {
+            "name": "Price",
+            "weighting": 30,
+            "lotId": "1",
+            "lotTitle": "IPS"
+          },
+          {
+            "name": "Quality",
+            "weighting": 60,
+            "lotId": "1",
+            "lotTitle": "IPS"
+          },
+          {
+            "name": "Social Value",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": "IPS"
+          },
+          {
+            "name": "Price",
+            "weighting": 30,
+            "lotId": "2",
+            "lotTitle": "SEQF"
+          },
+          {
+            "name": "Quality",
+            "weighting": 60,
+            "lotId": "2",
+            "lotTitle": "SEQF"
+          },
+          {
+            "name": "Social Value",
+            "weighting": 10,
+            "lotId": "2",
+            "lotTitle": "SEQF"
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "The programme will support: • individuals who are economically inactive and wish to work; and • individuals who are in work but at risk of falling out of employment Support will be delivered using the following evidence-based supported employment models that form separate Lots: • Lot 1 - Individual Placement and Support (IPS); and • Lot 2 - Supported Employment Quality Framework (SEQF)"
+        ],
+        "suitabilitySignals": [
+          "Partnership or supply-chain delivery is mentioned in published material"
+        ],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [
+          "The Connect to Work (Connect to Work - GOV.UK) programme is a Department for Work and Pensions (DWP) funded initiative designed to support individuals who are economically inactive or at risk of leaving employment to access and sustain suitable work."
+        ],
+        "note": "Performance wording shown here was found in the published notice text."
+      },
+      "suppliers": [
+        "ELEVATE EMPLOYMENT SERVICES LIMITED",
+        "DIMENSIONS SOMERSET SEV LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": 10,
+        "note": "An explicit buyer-stated social value weighting was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2025-07-28T14:24:39.000Z",
+          "releaseId": "043551-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/043551-2025",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Tender Published",
+          "date": "2026-06-19T14:24:28.000Z",
+          "releaseId": "058203-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/058203-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-11T15:22:13.000Z",
+          "releaseId": "086606-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086606-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086606-2026",
+        "lastVerified": "2026-09-14T11:31:57.494Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    }
+  ],
+  "methodology": {
+    "inclusion": "Only procurement records already classified as relevant and publishable by the CareerPath procurement engine are eligible. Active tenders, current pipeline/engagement records and recent awards are retained; stale historical records are excluded.",
+    "requirements": "Requirement, commercial and performance signals are deterministic extracts from published notice text. They are not an interpretation of unpublished tender documents and are never presented as complete bid requirements.",
+    "evaluation": "Evaluation weightings are displayed only when present in structured public procurement data.",
+    "noPrediction": "CareerPath does not publish win-probability scores or undisclosed commercial recommendations in this public feed."
+  },
+  "publication": {
+    "websitePublication": false,
+    "framerPublishing": "not-invoked",
+    "publicWebsiteEligible": true,
+    "containsInternalBidScoring": false,
+    "containsCommercialRecommendations": false,
+    "containsRawVacancies": false,
+    "sourceDirectory": "validated-publishable-procurements",
+    "sourceFileCount": 116,
+    "selectedOpportunityCount": 14,
+    "rejected": {
+      "nonPublishable": 0,
+      "nonAccepted": 0,
+      "staleOrClosed": 102,
+      "invalid": 0
+    }
+  }
+}
