@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T18:22:26.206Z",
+  "generatedAt": "2026-09-16T18:34:24.391Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -14,7 +14,9 @@
     "closingWithin7Days": 0,
     "closingWithin30Days": 1,
     "supplyChain": 4,
-    "commissioner": 22
+    "commissioner": 22,
+    "programmeLinked": 23,
+    "programmeUnlinked": 3
   },
   "filters": {
     "programmes": [
@@ -123,7 +125,13 @@
       "stageLabel": "Live tender",
       "programme": {
         "name": "IPS",
-        "slug": "ips"
+        "slug": "ips",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
       },
       "buyer": {
         "name": "London Borough of Merton"
@@ -232,7 +240,13 @@
       "stageLabel": "Supply chain EOI",
       "programme": {
         "name": "Future Employment Support",
-        "slug": "future-employment-support"
+        "slug": "future-employment-support",
+        "intelligence": {
+          "available": true,
+          "slug": "future-employment-support",
+          "path": "/programme-intelligence?programme=future-employment-support",
+          "programmeFeedPath": "programme-intelligence/future-employment-support.json"
+        }
       },
       "buyer": {
         "name": "AKG",
@@ -358,7 +372,13 @@
       "stageLabel": "Supply chain EOI",
       "programme": {
         "name": "Future Employment Support",
-        "slug": "future-employment-support"
+        "slug": "future-employment-support",
+        "intelligence": {
+          "available": true,
+          "slug": "future-employment-support",
+          "path": "/programme-intelligence?programme=future-employment-support",
+          "programmeFeedPath": "programme-intelligence/future-employment-support.json"
+        }
       },
       "buyer": {
         "name": "Maximus UK",
@@ -505,7 +525,13 @@
       "stageLabel": "Supply chain EOI",
       "programme": {
         "name": "Future Employment Support",
-        "slug": "future-employment-support"
+        "slug": "future-employment-support",
+        "intelligence": {
+          "available": true,
+          "slug": "future-employment-support",
+          "path": "/programme-intelligence?programme=future-employment-support",
+          "programmeFeedPath": "programme-intelligence/future-employment-support.json"
+        }
       },
       "buyer": {
         "name": "Reed in Partnership",
@@ -647,7 +673,13 @@
       "stageLabel": "Supply chain EOI",
       "programme": {
         "name": "Future Employment Support",
-        "slug": "future-employment-support"
+        "slug": "future-employment-support",
+        "intelligence": {
+          "available": true,
+          "slug": "future-employment-support",
+          "path": "/programme-intelligence?programme=future-employment-support",
+          "programmeFeedPath": "programme-intelligence/future-employment-support.json"
+        }
       },
       "buyer": {
         "name": "Seetec",
@@ -785,7 +817,13 @@
       "stageLabel": "Live tender",
       "programme": {
         "name": "IPS",
-        "slug": "ips"
+        "slug": "ips",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
       },
       "buyer": {
         "name": "London Borough of Merton"
@@ -931,7 +969,13 @@
       "stageLabel": "Upcoming",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "Construction Industry Training Board"
@@ -1065,7 +1109,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "Ministry of Defence"
@@ -1167,7 +1217,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "DERBY CITY COUNCIL"
@@ -1268,7 +1324,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "DERBY CITY COUNCIL"
@@ -1369,7 +1431,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "DERBY CITY COUNCIL"
@@ -1470,7 +1538,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "Central Bedfordshire Council"
@@ -1576,7 +1650,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "DERBY CITY COUNCIL"
@@ -1679,7 +1759,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT"
@@ -1783,7 +1869,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Employment Support",
-        "slug": "employment-support"
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
       },
       "buyer": {
         "name": "North East Combined Authority"
@@ -1908,7 +2000,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "Isle of Wight Council"
@@ -2012,7 +2110,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
       },
       "buyer": {
         "name": "Milton Keynes Council"
@@ -2114,7 +2218,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Adult Skills Fund",
-        "slug": "adult-skills-fund"
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
       },
       "buyer": {
         "name": "East Durham College"
@@ -2226,7 +2336,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Connect to Work",
-        "slug": "connect-to-work"
+        "slug": "connect-to-work",
+        "intelligence": {
+          "available": true,
+          "slug": "connect-to-work",
+          "path": "/programme-intelligence?programme=connect-to-work",
+          "programmeFeedPath": "programme-intelligence/connect-to-work.json"
+        }
       },
       "buyer": {
         "name": "Wrexham County Borough Council"
@@ -2373,7 +2489,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Adult Skills Fund",
-        "slug": "adult-skills-fund"
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
       },
       "buyer": {
         "name": "Somerset Council"
@@ -2489,7 +2611,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Adult Skills Fund",
-        "slug": "adult-skills-fund"
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
       },
       "buyer": {
         "name": "Hull City Council"
@@ -2634,7 +2762,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Adult Skills Fund",
-        "slug": "adult-skills-fund"
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
       },
       "buyer": {
         "name": "Somerset Council"
@@ -2750,7 +2884,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Adult Skills Fund",
-        "slug": "adult-skills-fund"
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
       },
       "buyer": {
         "name": "East Durham College"
@@ -2995,7 +3135,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Skills Bootcamps",
-        "slug": "skills-bootcamps"
+        "slug": "skills-bootcamps",
+        "intelligence": {
+          "available": true,
+          "slug": "skills-bootcamps",
+          "path": "/programme-intelligence?programme=skills-bootcamps",
+          "programmeFeedPath": "programme-intelligence/skills-bootcamps.json"
+        }
       },
       "buyer": {
         "name": "Lancashire County Council"
@@ -3122,7 +3268,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Connect to Work",
-        "slug": "connect-to-work"
+        "slug": "connect-to-work",
+        "intelligence": {
+          "available": true,
+          "slug": "connect-to-work",
+          "path": "/programme-intelligence?programme=connect-to-work",
+          "programmeFeedPath": "programme-intelligence/connect-to-work.json"
+        }
       },
       "buyer": {
         "name": "Wirral Council"
@@ -3318,7 +3470,13 @@
       "stageLabel": "Recently awarded",
       "programme": {
         "name": "Connect to Work",
-        "slug": "connect-to-work"
+        "slug": "connect-to-work",
+        "intelligence": {
+          "available": true,
+          "slug": "connect-to-work",
+          "path": "/programme-intelligence?programme=connect-to-work",
+          "programmeFeedPath": "programme-intelligence/connect-to-work.json"
+        }
       },
       "buyer": {
         "name": "Somerset Council"
@@ -3528,7 +3686,8 @@
     "requirements": "Requirement, commercial and performance signals are deterministic extracts from published notice text. They are not an interpretation of unpublished tender documents and are never presented as complete bid requirements.",
     "evaluation": "Evaluation weightings are displayed only when present in structured public procurement data.",
     "noPrediction": "CareerPath does not publish win-probability scores or undisclosed commercial recommendations in this public feed.",
-    "supplyChain": "Supply-chain records are taken from public prime-provider partnership and expression-of-interest pages. CareerPath reports only information explicitly published by the provider and does not infer unpublished selection criteria, commercial terms or win probability."
+    "supplyChain": "Supply-chain records are taken from public prime-provider partnership and expression-of-interest pages. CareerPath reports only information explicitly published by the provider and does not infer unpublished selection criteria, commercial terms or win probability.",
+    "programmeLinking": "Opportunity-to-programme links use an explicit CareerPath registry. Generic classifications such as Employment Support and IPS are not guessed into a specific programme."
   },
   "publication": {
     "websitePublication": false,
@@ -3546,6 +3705,7 @@
       "staleOrClosed": 102,
       "invalid": 0
     },
-    "supplyChainRecordCount": 4
+    "supplyChainRecordCount": 4,
+    "programmeLinkRegistryVersion": 1
   }
 }
