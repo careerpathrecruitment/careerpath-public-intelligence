@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T18:13:48.972Z",
+  "generatedAt": "2026-09-16T18:19:23.178Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -48,26 +48,18 @@
       "Wrexham County Borough Council"
     ],
     "regions": [
-      "After joining Connect to Work on the Support Employment (SEQF) pathway, Adam’s secured paid employment at West Midlands Safari Park in a role tailored around his strengths, interests and abilities. . .",
-      "Angharad Rhys – North West & Midlands .",
       "British Oversea Territories",
-      "Caroline Jones – South West .",
       "Channel Islands",
       "East Midlands",
-      "England, N11 1GN. . . . . . .",
       "Europe",
       "Flintshire and Wrexham",
-      "Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
       "GB",
-      "Greg Bate – Central & West London .",
-      "Hannah Parnell – East of England .",
       "Isle of Man",
       "Kingston upon Hull, City of",
       "Lancashire",
       "MK76AA",
       "North East",
       "North East England",
-      "North London Business Park,.",
       "North West",
       "North West England",
       "PO2 8BY",
@@ -79,7 +71,6 @@
       "South East",
       "South West",
       "South West England",
-      "The service is expected to provide personalised and tailored support that is responsive to an individual’s needs and local area..",
       "United Kingdom",
       "Wales",
       "Wirral",
@@ -249,11 +240,8 @@
       },
       "primeProvider": "AKG",
       "geography": {
-        "primaryArea": "North London Business Park,.",
-        "areas": [
-          "North London Business Park,.",
-          "England, N11 1GN. . . . . . ."
-        ]
+        "primaryArea": null,
+        "areas": []
       },
       "value": {
         "amount": null,
@@ -327,7 +315,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:11:46.651Z",
+          "date": "2026-09-16T18:16:33.921Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -340,7 +328,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-09-16T18:11:46.651Z"
+        "lastVerified": "2026-09-16T18:16:33.921Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -381,10 +369,8 @@
       },
       "primeProvider": "Maximus UK",
       "geography": {
-        "primaryArea": "The service is expected to provide personalised and tailored support that is responsive to an individual’s needs and local area..",
-        "areas": [
-          "The service is expected to provide personalised and tailored support that is responsive to an individual’s needs and local area.."
-        ]
+        "primaryArea": null,
+        "areas": []
       },
       "value": {
         "amount": null,
@@ -479,7 +465,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:11:46.651Z",
+          "date": "2026-09-16T18:16:33.921Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -492,7 +478,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-09-16T18:11:46.651Z"
+        "lastVerified": "2026-09-16T18:16:33.921Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -623,7 +609,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:11:46.651Z",
+          "date": "2026-09-16T18:16:33.921Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -636,7 +622,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-09-16T18:11:46.651Z"
+        "lastVerified": "2026-09-16T18:16:33.921Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -677,15 +663,8 @@
       },
       "primeProvider": "Seetec",
       "geography": {
-        "primaryArea": "Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
-        "areas": [
-          "Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
-          "Angharad Rhys – North West & Midlands .",
-          "Caroline Jones – South West .",
-          "Greg Bate – Central & West London .",
-          "Hannah Parnell – East of England .",
-          "After joining Connect to Work on the Support Employment (SEQF) pathway, Adam’s secured paid employment at West Midlands Safari Park in a role tailored around his strengths, interests and abilities. . ."
-        ]
+        "primaryArea": null,
+        "areas": []
       },
       "value": {
         "amount": null,
@@ -773,7 +752,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:11:46.651Z",
+          "date": "2026-09-16T18:16:33.921Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -786,7 +765,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-09-16T18:11:46.651Z"
+        "lastVerified": "2026-09-16T18:16:33.921Z"
       },
       "dataCompleteness": {
         "status": "partial",

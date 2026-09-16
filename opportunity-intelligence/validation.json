@@ -1,7 +1,7 @@
 {
   "validated": true,
-  "generatedAt": "2026-09-16T18:13:49.008Z",
-  "sourceGeneratedAt": "2026-09-16T18:13:48.972Z",
+  "generatedAt": "2026-09-16T18:19:23.216Z",
+  "sourceGeneratedAt": "2026-09-16T18:19:23.178Z",
   "counts": {
     "total": 26,
     "live": 6,
@@ -13,6 +13,6 @@
   },
   "programmes": 7,
   "buyers": 19,
-  "regions": 36,
+  "regions": 27,
   "primeProviders": 4
 }
