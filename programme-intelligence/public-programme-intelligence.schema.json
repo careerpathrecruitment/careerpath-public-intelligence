@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://careerpathrecruitment.co.uk/schemas/public-programme-intelligence.schema.json",
+  "title": "CareerPath Public Programme Intelligence",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "id",
+    "slug",
+    "name",
+    "status",
+    "generatedAt",
+    "overview",
+    "funding",
+    "performance",
+    "geography",
+    "providers",
+    "workforce",
+    "labourMarket",
+    "analysis",
+    "latestUpdates",
+    "sources",
+    "publication"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "id": { "type": "string", "minLength": 1 },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "type": ["string", "null"] },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "description": { "type": ["string", "null"] },
+    "status": { "type": ["string", "null"] },
+    "programmeType": { "type": ["string", "null"] },
+    "jurisdictions": { "type": "array", "items": { "type": "string" } },
+    "period": { "type": ["object", "null"] },
+    "commissioningBodies": { "type": "array", "items": { "type": "string" } },
+    "deliveryBodies": { "type": "array", "items": { "type": "string" } },
+    "fundingMechanisms": { "type": "array", "items": { "type": "string" } },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "latestEvidenceDate": { "type": ["string", "null"] },
+    "overview": {
+      "type": "object",
+      "required": ["metrics", "providerCount", "geographicAreaCount"],
+      "properties": {
+        "fundingHeadline": { "type": ["object", "null"] },
+        "metrics": { "type": "array" },
+        "providerCount": { "type": "integer", "minimum": 0 },
+        "geographicAreaCount": { "type": "integer", "minimum": 0 },
+        "latestReportingPeriod": { "type": ["string", "null"] }
+      },
+      "additionalProperties": true
+    },
+    "funding": { "type": "array" },
+    "performance": {
+      "type": "object",
+      "required": ["headlineMetrics", "regionalTimeSeries"],
+      "properties": {
+        "headlineMetrics": { "type": "array" },
+        "regionalTimeSeries": { "type": "array" }
+      },
+      "additionalProperties": false
+    },
+    "geography": {
+      "type": "object",
+      "required": ["areaCount", "areas", "regionalTimeSeries"],
+      "properties": {
+        "areaCount": { "type": "integer", "minimum": 0 },
+        "areas": { "type": "array" },
+        "regionalTimeSeries": { "type": "array" }
+      },
+      "additionalProperties": false
+    },
+    "providers": { "type": "array" },
+    "workforce": {
+      "type": "object",
+      "required": ["roleFamilies", "demandRanking", "latestEvents"],
+      "properties": {
+        "generatedAt": { "type": ["string", "null"] },
+        "status": { "type": ["string", "null"] },
+        "roleFamilies": { "type": "array" },
+        "demandRanking": { "type": "array" },
+        "latestEvents": { "type": "array" },
+        "methodology": { "type": ["object", "null"] }
+      },
+      "additionalProperties": false
+    },
+    "labourMarket": {
+      "type": "object",
+      "required": ["headlineMetrics"],
+      "properties": { "headlineMetrics": { "type": "array" } },
+      "additionalProperties": false
+    },
+    "analysis": {
+      "type": "object",
+      "required": ["label", "disclaimer", "insights"],
+      "properties": {
+        "label": { "const": "CareerPath Analysis" },
+        "disclaimer": { "type": "string", "minLength": 1 },
+        "insights": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": false
+    },
+    "latestUpdates": { "type": "array" },
+    "sources": { "type": "array" },
+    "publication": {
+      "type": "object",
+      "required": [
+        "publicWebsiteEligible",
+        "destination",
+        "generatedFromValidatedFrontendExport",
+        "containsRawVacancies",
+        "containsInternalBidScoring",
+        "containsCommercialRecommendations"
+      ],
+      "properties": {
+        "publicWebsiteEligible": { "const": true },
+        "destination": { "type": "string", "pattern": "^/programme-intelligence/" },
+        "generatedFromValidatedFrontendExport": { "const": true },
+        "containsRawVacancies": { "const": false },
+        "containsInternalBidScoring": { "const": false },
+        "containsCommercialRecommendations": { "const": false }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,6136 @@
+{
+  "schemaVersion": 1,
+  "id": "cp-prog-ee7e90ed917f45d5c68f",
+  "slug": "connect-to-work",
+  "name": "Connect to Work",
+  "aliases": [],
+  "description": "A voluntary, locally commissioned Supported Employment programme supporting disabled people, people with health conditions and people with complex barriers to employment to find or retain sustainable work.",
+  "status": "active",
+  "programmeType": "supported-employment",
+  "jurisdictions": [
+    "England",
+    "Wales"
+  ],
+  "period": {
+    "startDate": null,
+    "endDate": "2030-03-31T23:59:59.000Z",
+    "maximumEndDate": null
+  },
+  "commissioningBodies": [
+    "Department for Work and Pensions"
+  ],
+  "deliveryBodies": [],
+  "fundingMechanisms": [
+    "grant",
+    "mixed"
+  ],
+  "generatedAt": "2026-09-16T09:00:11.016Z",
+  "latestEvidenceDate": "2026-09-15T17:21:58.735Z",
+  "overview": {
+    "fundingHeadline": {
+      "amount": 9500000,
+      "currency": "GBP",
+      "valueType": "funding-allocation",
+      "title": "Connect to Work grant - Suffolk County Council",
+      "status": "allocated",
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      }
+    },
+    "metrics": [
+      {
+        "id": "cp-perf-01fff09658e8c7ac5bb0",
+        "key": "programme-performance",
+        "label": "Connect to Work referrals",
+        "value": 31000,
+        "unit": "referrals",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-0796cea4d1b8a4a03c6b",
+        "key": "programme-performance",
+        "label": "Individuals referred to Connect to Work",
+        "value": 29000,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-106384fd4ff7bbb128f6",
+        "key": "programme-performance",
+        "label": "Out-of-Work lower threshold job outcomes",
+        "value": 2700,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-21bdda8a700a7b096d63",
+        "key": "programme-performance",
+        "label": "Starts delivered through Individual Placement and Support",
+        "value": 18000,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-4a47756f0e3e7dd36d95",
+        "key": "programme-performance",
+        "label": "In-Work Retention Support higher threshold job outcomes",
+        "value": 820,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-51401df4fc280916d2ab",
+        "key": "programme-performance",
+        "label": "Out-of-Work higher threshold job outcomes",
+        "value": 970,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-7826158f0340e2a2d984",
+        "key": "programme-performance",
+        "label": "Share of Connect to Work starts aged 16 to 24",
+        "value": 26,
+        "unit": "percent",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-881f3380b87983632238",
+        "key": "programme-performance",
+        "label": "Out-of-Work participants achieving first earnings",
+        "value": 4100,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-d944b8d160cfbbcbb5d8",
+        "key": "programme-performance",
+        "label": "Starts delivered through Supported Employment Quality Framework",
+        "value": 7200,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-f690edc48ed7baad73c6",
+        "key": "programme-performance",
+        "label": "Connect to Work starts",
+        "value": 25000,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      }
+    ],
+    "providerCount": 0,
+    "geographicAreaCount": 2,
+    "latestReportingPeriod": "2026-09-15T17:21:56.083Z"
+  },
+  "funding": [
+    {
+      "id": "cp-fund-0a63abc695f08808957e",
+      "title": "Connect to Work grant - Suffolk County Council",
+      "description": "Official DWP Connect to Work grant allocation for Suffolk County Council. The published total includes 2,700 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Suffolk County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 9500000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Suffolk County Council"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-13acf921a767409052bc",
+      "title": "Connect to Work grant - Surrey",
+      "description": "Official DWP Connect to Work grant allocation for Surrey. The published total includes 2,600 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Surrey County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 10100000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Surrey"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-1d95ac65aa62f47a2042",
+      "title": "Connect to Work grant - Warwickshire",
+      "description": "Official DWP Connect to Work grant allocation for Warwickshire. The published total includes 2,050 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Warwickshire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 8300000.000000001,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Warwickshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-306c8e16590f1b3ec843",
+      "title": "Connect to Work grant - York and North Yorkshire",
+      "description": "Official DWP Connect to Work grant allocation for York and North Yorkshire. The published total includes 2,550 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "York and North Yorkshire Combined Authority"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 10400000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "York and North Yorkshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-3289c7989f923ac3c93e",
+      "title": "Connect to Work grant - Worcestershire",
+      "description": "Official DWP Connect to Work grant allocation for Worcestershire. The published total includes 2,100 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Worcestershire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 8000000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Worcestershire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-35a9478d9753c7cd517e",
+      "title": "Connect to Work grant - The Marches",
+      "description": "Official DWP Connect to Work grant allocation for The Marches. The published total includes 2,750 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Shropshire Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 11100000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "The Marches"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-3a01ac8b8ed081d3288a",
+      "title": "Connect to Work grant - Staffordshire and Stoke-on-Trent",
+      "description": "Official DWP Connect to Work grant allocation for Staffordshire and Stoke-on-Trent. The published total includes 5,300 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Staffordshire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 19000000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Staffordshire and Stoke-on-Trent"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-4500ab321351417009fd",
+      "title": "Connect to Work grant - West Sussex and Brighton",
+      "description": "Official DWP Connect to Work grant allocation for West Sussex and Brighton. The published total includes 4,200 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Sussex County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 15700000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West Sussex and Brighton"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-62a18844f0dbd04021b6",
+      "title": "Connect to Work grant - Norfolk County Council",
+      "description": "Official DWP Connect to Work grant allocation for Norfolk County Council. The published total includes 4,200 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Norfolk County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 17000000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Norfolk County Council"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-6a73fbe12c584c42626d",
+      "title": "Connect to Work grant - Solent",
+      "description": "Official DWP Connect to Work grant allocation for Solent. The published total includes 3,700 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Portsmouth City Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 12600000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Solent"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-6be83451903708d8ba9f",
+      "title": "Connect to Work grant - Hull and East Yorkshire",
+      "description": "Official DWP Connect to Work grant allocation for Hull and East Yorkshire. The published total includes 3,400 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Hull and East Yorkshire Combined Authority"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 11700000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Hull and East Yorkshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-6e1b2ceb87a8a35c635a",
+      "title": "Connect to Work grant - Tees Valley Combined Authority",
+      "description": "Official DWP Connect to Work grant allocation for Tees Valley Combined Authority. The published total includes 5,000 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Tees Valley Combined Authority"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 17600000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Tees Valley Combined Authority"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-74b02cd9d96a40a86d04",
+      "title": "Connect to Work grant - West of England (including North Somerset)",
+      "description": "Official DWP Connect to Work grant allocation for West of England (including North Somerset). The published total includes 3,950 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West of England Mayoral Combined Authority"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 15400000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West of England (including North Somerset)"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-7dd8035dac8ccf57f506",
+      "title": "Connect to Work grant - Hertfordshire",
+      "description": "Official DWP Connect to Work grant allocation for Hertfordshire. The published total includes 5,100 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Hertfordshire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 19900000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Hertfordshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-7ed75f9459ed35453929",
+      "title": "Connect to Work grant - Leicester, Leicestershire, and Rutland",
+      "description": "Official DWP Connect to Work grant allocation for Leicester, Leicestershire, and Rutland. The published total includes 4,650 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Leicester City Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 17200000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Leicester, Leicestershire, and Rutland"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-865eab6cbb3b5971d23f",
+      "title": "Connect to Work grant - Somerset",
+      "description": "Official DWP Connect to Work grant allocation for Somerset. The published total includes 2,100 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Somerset Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 8199999.999999999,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Somerset"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-ca26f4138a1fc19e3985",
+      "title": "Connect to Work grant - South Midlands",
+      "description": "Official DWP Connect to Work grant allocation for South Midlands. The published total includes 8,050 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Northamptonshire Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 32000000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "South Midlands"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-d20c61a58a05bb7effd1",
+      "title": "Connect to Work grant - Kent and Medway",
+      "description": "Official DWP Connect to Work grant allocation for Kent and Medway. The published total includes 9,250 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Kent County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 34400000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Kent and Medway"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-d6eefe67af00e7077642",
+      "title": "Connect to Work grant - Oxfordshire",
+      "description": "Official DWP Connect to Work grant allocation for Oxfordshire. The published total includes 2,000 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Oxfordshire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 8400000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Oxfordshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-d7bc57f8e6e9c2cda728",
+      "title": "Connect to Work grant - Swindon and Wiltshire",
+      "description": "Official DWP Connect to Work grant allocation for Swindon and Wiltshire. The published total includes 2,600 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Wiltshire Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 10400000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Swindon and Wiltshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.082Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-0db28cd689431076fb3b",
+      "title": "Connect to Work grant - Gloucestershire",
+      "description": "Official DWP Connect to Work grant allocation for Gloucestershire. The published total includes 2,900 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Gloucestershire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 11300000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Gloucestershire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-1f5251b40961b566ca56",
+      "title": "Connect to Work grant - Greater Lincolnshire",
+      "description": "Official DWP Connect to Work grant allocation for Greater Lincolnshire. The published total includes 6,000 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Lincolnshire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 23400000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater Lincolnshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-451cfe7d538d0444c711",
+      "title": "Connect to Work grant - Devon, Plymouth, Torbay",
+      "description": "Official DWP Connect to Work grant allocation for Devon, Plymouth, Torbay. The published total includes 6,050 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Devon County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 22900000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Devon, Plymouth, Torbay"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-4a006806282ee4075e34",
+      "title": "Connect to Work grant - Greater Lancashire",
+      "description": "Official DWP Connect to Work grant allocation for Greater Lancashire. The published total includes 11,000 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Lancashire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 38800000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater Lancashire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-801207d03f534e0c1213",
+      "title": "Connect to Work grant - Hampshire",
+      "description": "Official DWP Connect to Work grant allocation for Hampshire. The published total includes 4,800 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Hampshire County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 18700000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Hampshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-97ec19cb98edd02d4ab2",
+      "title": "Connect to Work grant - Greater Essex",
+      "description": "Official DWP Connect to Work grant allocation for Greater Essex. The published total includes 7,800 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Essex County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 30700000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater Essex"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-b5c57271448fd74845ad",
+      "title": "Connect to Work grant - East Sussex",
+      "description": "Official DWP Connect to Work grant allocation for East Sussex. The published total includes 3,100 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "East Sussex County Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 11700000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "East Sussex"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-c1655a0001caba6ea76d",
+      "title": "Connect to Work grant - Dorset and Bournemouth, Christchurch and Poole",
+      "description": "Official DWP Connect to Work grant allocation for Dorset and Bournemouth, Christchurch and Poole. The published total includes 2,450 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Dorset Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 9300000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Dorset and Bournemouth, Christchurch and Poole"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-e729f95992ff72d1ed4e",
+      "title": "Connect to Work grant - East Midlands",
+      "description": "Official DWP Connect to Work grant allocation for East Midlands. The published total includes 12,250 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "East Midlands Combined County Authority"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 44100000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "East Midlands"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-f365bc0f55d6a59678db",
+      "title": "Connect to Work grant - Cumbria",
+      "description": "Official DWP Connect to Work grant allocation for Cumbria. The published total includes 2,800 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cumberland Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 11700000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cumbria"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.081Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-203fdd1f90250ca3b577",
+      "title": "Connect to Work grant - Cambridgeshire and Peterborough Combined Authority",
+      "description": "Official DWP Connect to Work grant allocation for Cambridgeshire and Peterborough Combined Authority. The published total includes 3,750 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cambridgeshire and Peterborough Combined Authority"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 14300000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cambridgeshire and Peterborough Combined Authority"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.080Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-3054e0c9ca3fac255dae",
+      "title": "Connect to Work grant - Buckinghamshire not Milton Keynes",
+      "description": "Official DWP Connect to Work grant allocation for Buckinghamshire not Milton Keynes. The published total includes 1,650 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Buckinghamshire Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 6900000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Buckinghamshire not Milton Keynes"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.080Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-7ce5a2ee63f46f43f90b",
+      "title": "Connect to Work grant - Cornwall and Isles of Scilly",
+      "description": "Official DWP Connect to Work grant allocation for Cornwall and Isles of Scilly. The published total includes 3,100 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cornwall Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 13100000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cornwall and Isles of Scilly"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.080Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-8b68e60590deebc768ab",
+      "title": "Connect to Work grant - Cheshire and Warrington",
+      "description": "Official DWP Connect to Work grant allocation for Cheshire and Warrington. The published total includes 4,150 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cheshire West and Chester Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 16300000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cheshire and Warrington"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.080Z",
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-8ee59dd1f8543b54946e",
+      "title": "Connect to Work grant - Berkshire",
+      "description": "Official DWP Connect to Work grant allocation for Berkshire. The published total includes 2,350 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Wokingham Borough Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 9500000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Berkshire"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "latestEvidenceDate": "2026-09-15T17:21:56.049Z",
+      "aggregation": null
+    }
+  ],
+  "performance": {
+    "headlineMetrics": [
+      {
+        "id": "cp-perf-01fff09658e8c7ac5bb0",
+        "key": "programme-performance",
+        "label": "Connect to Work referrals",
+        "value": 31000,
+        "unit": "referrals",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-0796cea4d1b8a4a03c6b",
+        "key": "programme-performance",
+        "label": "Individuals referred to Connect to Work",
+        "value": 29000,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-106384fd4ff7bbb128f6",
+        "key": "programme-performance",
+        "label": "Out-of-Work lower threshold job outcomes",
+        "value": 2700,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-21bdda8a700a7b096d63",
+        "key": "programme-performance",
+        "label": "Starts delivered through Individual Placement and Support",
+        "value": 18000,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-4a47756f0e3e7dd36d95",
+        "key": "programme-performance",
+        "label": "In-Work Retention Support higher threshold job outcomes",
+        "value": 820,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-51401df4fc280916d2ab",
+        "key": "programme-performance",
+        "label": "Out-of-Work higher threshold job outcomes",
+        "value": 970,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-7826158f0340e2a2d984",
+        "key": "programme-performance",
+        "label": "Share of Connect to Work starts aged 16 to 24",
+        "value": 26,
+        "unit": "percent",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-881f3380b87983632238",
+        "key": "programme-performance",
+        "label": "Out-of-Work participants achieving first earnings",
+        "value": 4100,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-d944b8d160cfbbcbb5d8",
+        "key": "programme-performance",
+        "label": "Starts delivered through Supported Employment Quality Framework",
+        "value": 7200,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      },
+      {
+        "id": "cp-perf-f690edc48ed7baad73c6",
+        "key": "programme-performance",
+        "label": "Connect to Work starts",
+        "value": 25000,
+        "unit": "people",
+        "rating": null,
+        "providerRef": null,
+        "geographyRef": "England and Wales",
+        "period": {
+          "startDate": "2025-04-01T00:00:00.000Z",
+          "endDate": "2026-06-30T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-15T17:21:56.083Z"
+      }
+    ],
+    "regionalTimeSeries": [
+      {
+        "code": "E12000001",
+        "name": "North East",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 70.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 70.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 70.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 70.7,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 70.3,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 70.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 70.8,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 71.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4.5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.6,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.8,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.7,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 25.7,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 25.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 26.2,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 26,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 26.4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 26.1,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 25.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 24.7,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 62970,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 63095,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 62505,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 62115,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 63800,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000002",
+        "name": "North West",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 72.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 72.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.2,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.7,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 74.1,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 74.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 74,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 23.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 23.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 23.6,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 23.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 22.7,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 22.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 22.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 22.7,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 199240,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 198815,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 198000,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 196615,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 201555,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4.5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.3,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.8,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4.1,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.3,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000003",
+        "name": "Yorkshire and The Humber",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 24.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 24.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 24.4,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 24,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 23.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 23.6,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 23.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 23,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 72.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 73,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 73.4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 73.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.3,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 3,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 2.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 144075,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 143285,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 142300,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 142070,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 145445,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000004",
+        "name": "East Midlands",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4.5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.6,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.4,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 75.7,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 75.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 75.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 74.9,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 74.7,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 75.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 75.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 75.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 20.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 20.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 20.9,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 21.8,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 22.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 21.6,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 21.4,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 21.1,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 109160,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 108670,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 108120,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 107015,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 109750,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000005",
+        "name": "West Midlands",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 74.6,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 74.3,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 74,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.9,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 74.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 74.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.6,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.6,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 22.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 22.4,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 22.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 22.6,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 22,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 21.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 21.8,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 21.9,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4.9,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 5.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 5.9,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 5.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 198755,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 199215,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 198850,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 198035,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 203540,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000006",
+        "name": "East",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 3.7,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.7,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.7,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 3.6,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.1,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 20.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 20.7,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 19.8,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 19,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 18.4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 18.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 18.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 130770,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 130260,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 130370,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 129345,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 132125,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 76.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 76.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 77.3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 78,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 78.7,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.6,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.3,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000007",
+        "name": "London",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 20.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 20,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 20.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 20.4,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 20.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 20.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 20.1,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 20.2,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.8,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 5.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 5.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 5.7,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 6.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 6.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 75.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 75.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 75.7,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 75.4,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 75.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 75,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 74.9,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 74.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 341735,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 347645,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 346995,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 342380,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 347135,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000008",
+        "name": "South East",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 185220,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 183935,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 183275,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 181850,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 185290,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 3.3,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.6,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 79.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.6,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 78.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.7,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.9,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.9,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 18.1,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 18.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 18.8,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.9,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 19,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 18.4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 18.1,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.1,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000009",
+        "name": "South West",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 19.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 19.3,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 19,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.6,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 18.3,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 17.9,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 17.8,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.2,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 98515,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 97215,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 96835,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 95635,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 97825,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 78.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.6,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 78.8,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 79.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 79.5,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 79,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 2.4,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 2.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "geography": {
+    "areaCount": 2,
+    "areas": [
+      {
+        "id": "cp-map-8b296cc704ee80491b03",
+        "geography": {
+          "code": null,
+          "name": "England",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "national"
+        },
+        "counts": {
+          "programmes": 3,
+          "funding": 2,
+          "providers": 0,
+          "performance": 39,
+          "events": 0
+        },
+        "funding": {
+          "observedAmount": 316000000,
+          "currency": "GBP",
+          "caveat": "Observed linked funding only; overlapping records may exist and this is not a deduplicated public-spend total."
+        },
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": [
+          "dwp-programme-funding"
+        ]
+      },
+      {
+        "id": "cp-map-872579a95a6f578363e6",
+        "geography": {
+          "code": null,
+          "name": "Wales",
+          "nation": "Wales",
+          "region": null,
+          "localAuthority": null,
+          "scope": "national"
+        },
+        "counts": {
+          "programmes": 2,
+          "funding": 0,
+          "providers": 0,
+          "performance": 39,
+          "events": 0
+        },
+        "funding": {
+          "observedAmount": 0,
+          "currency": "GBP",
+          "caveat": "Observed linked funding only; overlapping records may exist and this is not a deduplicated public-spend total."
+        },
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": [
+          "dwp-programme-funding"
+        ]
+      }
+    ],
+    "regionalTimeSeries": [
+      {
+        "code": "E12000001",
+        "name": "North East",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 70.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 70.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 70.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 70.7,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 70.3,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 70.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 70.8,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 71.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4.5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.6,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.8,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.7,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 25.7,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 25.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 26.2,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 26,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 26.4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 26.1,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 25.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 24.7,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 62970,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 63095,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 62505,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 62115,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 63800,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000002",
+        "name": "North West",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 72.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 72.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.2,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.7,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 74.1,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 74.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 74,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 23.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 23.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 23.6,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 23.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 22.7,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 22.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 22.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 22.7,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 199240,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 198815,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 198000,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 196615,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 201555,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4.5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.3,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.8,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4.1,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.3,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000003",
+        "name": "Yorkshire and The Humber",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 24.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 24.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 24.4,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 24,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 23.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 23.6,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 23.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 23,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 72.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 73,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 73.4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 73.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.3,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 3,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 2.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 144075,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 143285,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 142300,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 142070,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 145445,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000004",
+        "name": "East Midlands",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4.5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.6,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.4,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 75.7,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 75.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 75.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 74.9,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 74.7,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 75.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 75.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 75.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 20.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 20.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 20.9,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 21.8,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 22.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 21.6,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 21.4,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 21.1,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 109160,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 108670,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 108120,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 107015,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 109750,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000005",
+        "name": "West Midlands",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 74.6,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 74.3,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 74,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.9,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 74.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 74.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 73.6,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 73.6,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 22.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 22.4,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 22.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 22.6,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 22,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 21.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 21.8,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 21.9,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 4,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 4.2,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 4.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 4.9,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 5.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 5.9,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 5.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 198755,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 199215,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 198850,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 198035,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 203540,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000006",
+        "name": "East",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 3.7,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.7,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.7,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 3.6,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.1,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 20.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 20.7,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 19.8,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 19,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 18.4,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 18.2,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 18.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 130770,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 130260,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 130370,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 129345,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 132125,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 76.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 76.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 77.3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 78,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 78.7,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.6,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.3,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000007",
+        "name": "London",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 20.8,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 20,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 20.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 20.4,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 20.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 20.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 20.1,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 20.2,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 5,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 4.8,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 5.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 5.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 5.7,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 6.2,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 6.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 75.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 75.9,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 75.7,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 75.4,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 75.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 75,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 74.9,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 74.8,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 341735,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 347645,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 346995,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 342380,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 347135,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000008",
+        "name": "South East",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 185220,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 183935,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 183275,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 181850,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 185290,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 3.3,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.7,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.6,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 79.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.6,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 78.2,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.7,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.9,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.9,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 18.1,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 18.5,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 18.8,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.9,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 19,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 18.4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 18.1,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.1,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "E12000009",
+        "name": "South West",
+        "nation": "England",
+        "series": [
+          {
+            "metricType": "economic-inactivity-rate",
+            "name": "Economic inactivity rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 19.2,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 19.3,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 19,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.6,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 18.3,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 17.9,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 17.8,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 18.2,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "claimant-count",
+            "name": "Claimant count",
+            "unit": "people",
+            "observations": [
+              {
+                "value": 98515,
+                "startDate": "2026-04-01T00:00:00Z",
+                "endDate": "2026-04-30T23:59:59Z"
+              },
+              {
+                "value": 97215,
+                "startDate": "2026-05-01T00:00:00Z",
+                "endDate": "2026-05-31T23:59:59Z"
+              },
+              {
+                "value": 96835,
+                "startDate": "2026-06-01T00:00:00Z",
+                "endDate": "2026-06-30T23:59:59Z"
+              },
+              {
+                "value": 95635,
+                "startDate": "2026-07-01T00:00:00Z",
+                "endDate": "2026-07-31T23:59:59Z"
+              },
+              {
+                "value": 97825,
+                "startDate": "2026-08-01T00:00:00Z",
+                "endDate": "2026-08-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "employment-rate",
+            "name": "Employment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 78.9,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 78.4,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 78.6,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 78.8,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 79.3,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 79.5,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 79,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          },
+          {
+            "metricType": "unemployment-rate",
+            "name": "Unemployment rate - aged 16-64",
+            "unit": "percent",
+            "observations": [
+              {
+                "value": 2.4,
+                "startDate": "2023-07-01T00:00:00Z",
+                "endDate": "2024-06-30T23:59:59Z"
+              },
+              {
+                "value": 2.8,
+                "startDate": "2023-10-01T00:00:00Z",
+                "endDate": "2024-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2024-01-01T00:00:00Z",
+                "endDate": "2024-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-04-01T00:00:00Z",
+                "endDate": "2025-03-31T23:59:59Z"
+              },
+              {
+                "value": 3.5,
+                "startDate": "2024-07-01T00:00:00Z",
+                "endDate": "2025-06-30T23:59:59Z"
+              },
+              {
+                "value": 3.4,
+                "startDate": "2024-10-01T00:00:00Z",
+                "endDate": "2025-09-30T23:59:59Z"
+              },
+              {
+                "value": 3.3,
+                "startDate": "2025-01-01T00:00:00Z",
+                "endDate": "2025-12-31T23:59:59Z"
+              },
+              {
+                "value": 3.4,
+                "startDate": "2025-04-01T00:00:00Z",
+                "endDate": "2026-03-31T23:59:59Z"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "providers": [],
+  "workforce": {
+    "generatedAt": "2026-09-15T17:22:03.664Z",
+    "status": "partial",
+    "roleFamilies": [
+      {
+        "id": "employment-adviser",
+        "name": "Employment Adviser / Coach",
+        "careerArea": "Employment Advice & Support",
+        "returnedUniqueVacancies": 230,
+        "salary": {
+          "sampleSize": 181,
+          "sufficientSample": true,
+          "median": 30750,
+          "mean": 38476,
+          "lowerQuartile": 28500,
+          "upperQuartile": 35000,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "ips-employment-specialist",
+        "name": "IPS / Supported Employment Specialist",
+        "careerArea": "Employment Advice & Support",
+        "returnedUniqueVacancies": 143,
+        "salary": {
+          "sampleSize": 123,
+          "sufficientSample": true,
+          "median": 34000,
+          "mean": 35762,
+          "lowerQuartile": 30000,
+          "upperQuartile": 37805,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "employer-engagement",
+        "name": "Employer Engagement",
+        "careerArea": "Employer Engagement & Recruitment",
+        "returnedUniqueVacancies": 200,
+        "salary": {
+          "sampleSize": 157,
+          "sufficientSample": true,
+          "median": 36400,
+          "mean": 44581,
+          "lowerQuartile": 32015,
+          "upperQuartile": 53378,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "team-leadership",
+        "name": "Team Leader / Team Manager",
+        "careerArea": "Team Leadership",
+        "returnedUniqueVacancies": 132,
+        "salary": {
+          "sampleSize": 97,
+          "sufficientSample": true,
+          "median": 38500,
+          "mean": 41638,
+          "lowerQuartile": 31200,
+          "upperQuartile": 44626,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "operations-management",
+        "name": "Operations / Service Delivery Manager",
+        "careerArea": "Operations, Service & Contract Management",
+        "returnedUniqueVacancies": 286,
+        "salary": {
+          "sampleSize": 249,
+          "sufficientSample": true,
+          "median": 40000,
+          "mean": 41836,
+          "lowerQuartile": 33000,
+          "upperQuartile": 45000,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "skills-training",
+        "name": "Skills / Training",
+        "careerArea": "Skills, Training & Careers",
+        "returnedUniqueVacancies": 201,
+        "salary": {
+          "sampleSize": 183,
+          "sufficientSample": true,
+          "median": 30599,
+          "mean": 33199,
+          "lowerQuartile": 28083,
+          "upperQuartile": 36575,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "careers-advice",
+        "name": "Careers Adviser",
+        "careerArea": "Skills, Training & Careers",
+        "returnedUniqueVacancies": 66,
+        "salary": {
+          "sampleSize": 64,
+          "sufficientSample": true,
+          "median": 29002,
+          "mean": 34495,
+          "lowerQuartile": 27553,
+          "upperQuartile": 34973,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "business-partnerships",
+        "name": "Business Development / Partnerships",
+        "careerArea": "Business, Partnerships & Growth",
+        "returnedUniqueVacancies": 43,
+        "salary": {
+          "sampleSize": 43,
+          "sufficientSample": true,
+          "median": 40000,
+          "mean": 44692,
+          "lowerQuartile": 30796,
+          "upperQuartile": 47995,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "quality-performance",
+        "name": "Quality / Performance",
+        "careerArea": "Operations, Service & Contract Management",
+        "returnedUniqueVacancies": 108,
+        "salary": {
+          "sampleSize": 103,
+          "sufficientSample": true,
+          "median": 38502,
+          "mean": 41641,
+          "lowerQuartile": 33000,
+          "upperQuartile": 48074,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      },
+      {
+        "id": "senior-leadership",
+        "name": "Senior Leadership",
+        "careerArea": "Senior Leadership",
+        "returnedUniqueVacancies": 120,
+        "salary": {
+          "sampleSize": 117,
+          "sufficientSample": true,
+          "median": 60000,
+          "mean": 66932,
+          "lowerQuartile": 49121,
+          "upperQuartile": 78211,
+          "currency": "GBP",
+          "basis": "advertised annual salary midpoint; missing salaries excluded"
+        }
+      }
+    ],
+    "demandRanking": [
+      {
+        "id": "operations-management",
+        "name": "Operations / Service Delivery Manager",
+        "returnedUniqueVacancies": 286
+      },
+      {
+        "id": "employment-adviser",
+        "name": "Employment Adviser / Coach",
+        "returnedUniqueVacancies": 230
+      },
+      {
+        "id": "skills-training",
+        "name": "Skills / Training",
+        "returnedUniqueVacancies": 201
+      },
+      {
+        "id": "employer-engagement",
+        "name": "Employer Engagement",
+        "returnedUniqueVacancies": 200
+      },
+      {
+        "id": "ips-employment-specialist",
+        "name": "IPS / Supported Employment Specialist",
+        "returnedUniqueVacancies": 143
+      },
+      {
+        "id": "team-leadership",
+        "name": "Team Leader / Team Manager",
+        "returnedUniqueVacancies": 132
+      },
+      {
+        "id": "senior-leadership",
+        "name": "Senior Leadership",
+        "returnedUniqueVacancies": 120
+      },
+      {
+        "id": "quality-performance",
+        "name": "Quality / Performance",
+        "returnedUniqueVacancies": 108
+      },
+      {
+        "id": "careers-advice",
+        "name": "Careers Adviser",
+        "returnedUniqueVacancies": 66
+      },
+      {
+        "id": "business-partnerships",
+        "name": "Business Development / Partnerships",
+        "returnedUniqueVacancies": 43
+      }
+    ],
+    "latestEvents": [
+      {
+        "id": "cp-event-89a69828cf14107ef11a",
+        "eventType": "vacancy-demand-increase",
+        "severity": "high",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": "operations-management",
+        "roleFamilyName": "Operations / Service Delivery Manager",
+        "title": "Operations / Service Delivery Manager vacancy demand increased",
+        "summary": "Returned unique vacancy sample increased from 199 to 286 (43.7%).",
+        "previous": {
+          "returnedUniqueVacancies": 199
+        },
+        "current": {
+          "returnedUniqueVacancies": 286
+        },
+        "change": {
+          "percent": 43.7,
+          "absolute": 87
+        }
+      },
+      {
+        "id": "cp-event-4bb674130aaf37cb4132",
+        "eventType": "vacancy-demand-increase",
+        "severity": "high",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": "skills-training",
+        "roleFamilyName": "Skills / Training",
+        "title": "Skills / Training vacancy demand increased",
+        "summary": "Returned unique vacancy sample increased from 74 to 201 (171.6%).",
+        "previous": {
+          "returnedUniqueVacancies": 74
+        },
+        "current": {
+          "returnedUniqueVacancies": 201
+        },
+        "change": {
+          "percent": 171.6,
+          "absolute": 127
+        }
+      },
+      {
+        "id": "cp-event-269243a5f362abef6749",
+        "eventType": "advertised-salary-increase",
+        "severity": "high",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": "skills-training",
+        "roleFamilyName": "Skills / Training",
+        "title": "Skills / Training advertised salary increased",
+        "summary": "Median advertised salary increased from £27,000 to £30,599 (13.3%).",
+        "previous": {
+          "medianAdvertisedSalary": 27000,
+          "salarySampleSize": 74
+        },
+        "current": {
+          "medianAdvertisedSalary": 30599,
+          "salarySampleSize": 183
+        },
+        "change": {
+          "percent": 13.3,
+          "absolute": 3599
+        }
+      },
+      {
+        "id": "cp-event-dd5698166e149021169d",
+        "eventType": "vacancy-demand-increase",
+        "severity": "high",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": "quality-performance",
+        "roleFamilyName": "Quality / Performance",
+        "title": "Quality / Performance vacancy demand increased",
+        "summary": "Returned unique vacancy sample increased from 66 to 108 (63.6%).",
+        "previous": {
+          "returnedUniqueVacancies": 66
+        },
+        "current": {
+          "returnedUniqueVacancies": 108
+        },
+        "change": {
+          "percent": 63.6,
+          "absolute": 42
+        }
+      },
+      {
+        "id": "cp-event-bf9f1f755ae4a9197c79",
+        "eventType": "advertised-salary-decrease",
+        "severity": "high",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": "quality-performance",
+        "roleFamilyName": "Quality / Performance",
+        "title": "Quality / Performance advertised salary decreased",
+        "summary": "Median advertised salary decreased from £46,741 to £38,502 (-17.6%).",
+        "previous": {
+          "medianAdvertisedSalary": 46741,
+          "salarySampleSize": 64
+        },
+        "current": {
+          "medianAdvertisedSalary": 38502,
+          "salarySampleSize": 103
+        },
+        "change": {
+          "percent": -17.6,
+          "absolute": -8239
+        }
+      },
+      {
+        "id": "cp-event-ccd74a4900d08d6dc0c9",
+        "eventType": "vacancy-demand-increase",
+        "severity": "medium",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": "senior-leadership",
+        "roleFamilyName": "Senior Leadership",
+        "title": "Senior Leadership vacancy demand increased",
+        "summary": "Returned unique vacancy sample increased from 96 to 120 (25%).",
+        "previous": {
+          "returnedUniqueVacancies": 96
+        },
+        "current": {
+          "returnedUniqueVacancies": 120
+        },
+        "change": {
+          "percent": 25,
+          "absolute": 24
+        }
+      },
+      {
+        "id": "cp-event-bd5a473d104ced89eb73",
+        "eventType": "advertised-salary-decrease",
+        "severity": "high",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": "senior-leadership",
+        "roleFamilyName": "Senior Leadership",
+        "title": "Senior Leadership advertised salary decreased",
+        "summary": "Median advertised salary decreased from £67,611 to £60,000 (-11.3%).",
+        "previous": {
+          "medianAdvertisedSalary": 67611,
+          "salarySampleSize": 95
+        },
+        "current": {
+          "medianAdvertisedSalary": 60000,
+          "salarySampleSize": 117
+        },
+        "change": {
+          "percent": -11.3,
+          "absolute": -7611
+        }
+      },
+      {
+        "id": "cp-event-a381140b37c52fe31a6e",
+        "eventType": "highest-demand-role-family-changed",
+        "severity": "medium",
+        "effectiveAt": "2026-09-15T17:22:03.664Z",
+        "roleFamilyId": null,
+        "roleFamilyName": null,
+        "title": "Highest-demand CareerPath role family changed",
+        "summary": null,
+        "previous": {
+          "id": "employment-adviser",
+          "name": "Employment Adviser / Coach",
+          "returnedUniqueVacancies": 230
+        },
+        "current": {
+          "id": "operations-management",
+          "name": "Operations / Service Delivery Manager",
+          "returnedUniqueVacancies": 286
+        },
+        "change": null
+      }
+    ],
+    "methodology": {
+      "readOnly": true,
+      "noFramerWrites": true,
+      "vacancyMetric": "Unique returned vacancies after within-source job-id deduplication; reportedSearchResults is an un-deduplicated source query total and must not be treated as a market total.",
+      "salaryMetric": "Median/mean/quartiles of advertised annual salary midpoint for returned vacancies with usable salary data.",
+      "minimumSalarySample": 3
+    }
+  },
+  "labourMarket": {
+    "headlineMetrics": [
+      {
+        "id": "cp-perf-2b6359cca04e1d5fd3a7",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 62970,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-04-01T00:00:00Z",
+          "endDate": "2026-04-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:21.769492Z"
+      },
+      {
+        "id": "cp-perf-3fe5cfb905e11eae446d",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 62115,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-07-01T00:00:00Z",
+          "endDate": "2026-07-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:21.770655Z"
+      },
+      {
+        "id": "cp-perf-6bde23006d09fab07188",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 63095,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-05-01T00:00:00Z",
+          "endDate": "2026-05-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:21.769949Z"
+      },
+      {
+        "id": "cp-perf-77525be0c821dff9c81c",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 62505,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-06-01T00:00:00Z",
+          "endDate": "2026-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:21.770348Z"
+      },
+      {
+        "id": "cp-perf-87c2b4c06dd2f9d35407",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 63800,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-08-01T00:00:00Z",
+          "endDate": "2026-08-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:21.770930Z"
+      },
+      {
+        "id": "cp-perf-2662d88cf3ac4b436bee",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 26,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-04-01T00:00:00Z",
+          "endDate": "2025-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.893671Z"
+      },
+      {
+        "id": "cp-perf-369b4fffa9f9ffe03747",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 25.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-01-01T00:00:00Z",
+          "endDate": "2025-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.894482Z"
+      },
+      {
+        "id": "cp-perf-453a7e54ee62c25438da",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 26.2,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-01-01T00:00:00Z",
+          "endDate": "2024-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.893396Z"
+      },
+      {
+        "id": "cp-perf-50d839eded6d50dad87b",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 26.1,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-10-01T00:00:00Z",
+          "endDate": "2025-09-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.894232Z"
+      },
+      {
+        "id": "cp-perf-81bbe0ed5dd5ca8f95f7",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 25.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2023-07-01T00:00:00Z",
+          "endDate": "2024-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.892611Z"
+      },
+      {
+        "id": "cp-perf-ddc91ea2c5282d9143b7",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 24.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-04-01T00:00:00Z",
+          "endDate": "2026-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.894734Z"
+      },
+      {
+        "id": "cp-perf-e3adde533dffab3705b6",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 26.4,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-07-01T00:00:00Z",
+          "endDate": "2025-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.893940Z"
+      },
+      {
+        "id": "cp-perf-f0e6ce6bd1e917365001",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 25.9,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2023-10-01T00:00:00Z",
+          "endDate": "2024-09-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.893035Z"
+      },
+      {
+        "id": "cp-perf-0d451b62cc618615b6ed",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 70.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-04-01T00:00:00Z",
+          "endDate": "2025-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.353998Z"
+      },
+      {
+        "id": "cp-perf-16b9858dfb88a90e40e5",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 70.8,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-01-01T00:00:00Z",
+          "endDate": "2025-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.354817Z"
+      },
+      {
+        "id": "cp-perf-4bc44467cf8039900490",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 70.3,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-10-01T00:00:00Z",
+          "endDate": "2025-09-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.354556Z"
+      },
+      {
+        "id": "cp-perf-64dc7e870b4ecf748431",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 70.8,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2023-10-01T00:00:00Z",
+          "endDate": "2024-09-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.353405Z"
+      },
+      {
+        "id": "cp-perf-79335d3b242ad60df3e6",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 71.8,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-04-01T00:00:00Z",
+          "endDate": "2026-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.355097Z"
+      },
+      {
+        "id": "cp-perf-96a755a7a168a18645b2",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 70.9,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2023-07-01T00:00:00Z",
+          "endDate": "2024-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.352838Z"
+      },
+      {
+        "id": "cp-perf-b1b1aab98a0456411d73",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 70.5,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-01-01T00:00:00Z",
+          "endDate": "2024-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.353728Z"
+      },
+      {
+        "id": "cp-perf-de8b61626c5b1b6c7238",
+        "metricType": "employment-rate",
+        "name": "Employment rate - aged 16-64",
+        "value": 70.3,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-07-01T00:00:00Z",
+          "endDate": "2025-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:19.354294Z"
+      },
+      {
+        "id": "cp-perf-1b858d67834ee76c3b4d",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.5,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2023-10-01T00:00:00Z",
+          "endDate": "2024-09-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.017824Z"
+      },
+      {
+        "id": "cp-perf-5a41d1d7dcd389a41e9b",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-04-01T00:00:00Z",
+          "endDate": "2026-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.019627Z"
+      },
+      {
+        "id": "cp-perf-a5d0de3e0c05490c12ef",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.8,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-10-01T00:00:00Z",
+          "endDate": "2025-09-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.019011Z"
+      },
+      {
+        "id": "cp-perf-ccc50dad587e5f4e762e",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.6,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-01-01T00:00:00Z",
+          "endDate": "2024-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.018177Z"
+      },
+      {
+        "id": "cp-perf-d373621ab6ce6ed73365",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.5,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-07-01T00:00:00Z",
+          "endDate": "2025-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.018738Z"
+      },
+      {
+        "id": "cp-perf-db4266a3ff11760ffa1d",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.5,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-04-01T00:00:00Z",
+          "endDate": "2025-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.018454Z"
+      },
+      {
+        "id": "cp-perf-dc23d454fc52bef16922",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-01-01T00:00:00Z",
+          "endDate": "2025-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.019289Z"
+      },
+      {
+        "id": "cp-perf-fbf2ca9327cfd631e155",
+        "metricType": "unemployment-rate",
+        "name": "Unemployment rate - aged 16-64",
+        "value": 4.5,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2023-07-01T00:00:00Z",
+          "endDate": "2024-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000001",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:20.017358Z"
+      },
+      {
+        "id": "cp-perf-0d75ceaae3aee5ff7f15",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 196615,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-07-01T00:00:00Z",
+          "endDate": "2026-07-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:24.821491Z"
+      },
+      {
+        "id": "cp-perf-64dc93fff5f28cc024a8",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 198815,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-05-01T00:00:00Z",
+          "endDate": "2026-05-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:24.820853Z"
+      },
+      {
+        "id": "cp-perf-abdccf4cd1c5cd0bcd38",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 198000,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-06-01T00:00:00Z",
+          "endDate": "2026-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:24.821208Z"
+      },
+      {
+        "id": "cp-perf-b6cc7adfb28cdd2bd2dd",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 199240,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-04-01T00:00:00Z",
+          "endDate": "2026-04-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:24.820371Z"
+      },
+      {
+        "id": "cp-perf-e035b140dfad8fe912d6",
+        "metricType": "claimant-count",
+        "name": "Claimant count",
+        "value": 201555,
+        "unit": "people",
+        "rating": null,
+        "period": {
+          "startDate": "2026-08-01T00:00:00Z",
+          "endDate": "2026-08-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:24.821778Z"
+      },
+      {
+        "id": "cp-perf-0c637e33f1be9d403f00",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 22.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-04-01T00:00:00Z",
+          "endDate": "2026-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:23.933799Z"
+      },
+      {
+        "id": "cp-perf-19f33b2de28046a7687a",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 22.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-07-01T00:00:00Z",
+          "endDate": "2025-06-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:23.932963Z"
+      },
+      {
+        "id": "cp-perf-1ab316447f59f652b198",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 23.3,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-04-01T00:00:00Z",
+          "endDate": "2025-03-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:23.932691Z"
+      },
+      {
+        "id": "cp-perf-37a5ed3248eaf3bf1a03",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 23.8,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2023-10-01T00:00:00Z",
+          "endDate": "2024-09-30T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:23.931995Z"
+      },
+      {
+        "id": "cp-perf-6866c630f4c4f56b8c6b",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 23.6,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2024-01-01T00:00:00Z",
+          "endDate": "2024-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:23.932383Z"
+      },
+      {
+        "id": "cp-perf-842b69267ce04fc26910",
+        "metricType": "economic-inactivity-rate",
+        "name": "Economic inactivity rate - aged 16-64",
+        "value": 22.7,
+        "unit": "percent",
+        "rating": null,
+        "period": {
+          "startDate": "2025-01-01T00:00:00Z",
+          "endDate": "2025-12-31T23:59:59Z",
+          "maximumEndDate": null
+        },
+        "programmeRef": null,
+        "providerRef": null,
+        "geographyRef": "E12000002",
+        "sourceIds": [
+          "nomis"
+        ],
+        "latestEvidenceDate": "2026-09-15T17:21:23.933544Z"
+      }
+    ]
+  },
+  "analysis": {
+    "label": "CareerPath Analysis",
+    "disclaimer": "CareerPath analysis is our interpretation of published and observed market data. It is not an official government assessment.",
+    "insights": [
+      "Local delivery architecture matters because commissioning, health integration and specialist provision vary by area.",
+      "Funding and provider coverage should be considered alongside labour-market conditions and workforce availability.",
+      "As official performance data matures, trend and geography comparisons will become increasingly useful."
+    ]
+  },
+  "latestUpdates": [],
+  "sources": [
+    {
+      "id": "dwp-programme-funding",
+      "name": "DWP Employment Programme and Funding Publications",
+      "official": true,
+      "latestPublicationDate": "2026-09-10T08:30:00.000Z",
+      "latestRetrievedAt": "2026-09-15T17:21:58.735Z",
+      "urls": [
+        "https://www.gov.uk/government/statistics/restart-scheme-statistics-to-april-2026/restart-scheme-statistics-to-april-2026",
+        "https://www.gov.uk/government/publications/get-britain-working-trailblazers-theories-of-change-and-system-mapping/get-britain-working-trailblazers-theories-of-change-and-system-mapping",
+        "https://www.gov.uk/government/news/thousands-more-young-people-to-get-training-and-work-support-as-government-extends-45m-scheme"
+      ]
+    }
+  ],
+  "publication": {
+    "publicWebsiteEligible": true,
+    "destination": "/programme-intelligence/connect-to-work",
+    "generatedFromValidatedFrontendExport": true,
+    "containsRawVacancies": false,
+    "containsInternalBidScoring": false,
+    "containsCommercialRecommendations": false
+  }
+}
