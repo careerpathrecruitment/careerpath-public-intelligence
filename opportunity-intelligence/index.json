@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T18:19:35.013Z",
+  "generatedAt": "2026-09-16T18:22:04.820Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -1065,110 +1065,6 @@
       }
     },
     {
-      "id": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
-      "slug": "contract-for-the-provision-of-ai-short-courses-level-5-apprenticeships-call-off-contract-to-nort--91b6-bfde03d65bdc",
-      "ocid": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
-      "title": "Contract for the provision of AI Short Courses Level 5 Apprenticeships call off contract, to North of England Commissioning Support (NECS) (Hosted by NHS England)",
-      "description": "NHS South, Central and West Commissioning Support Unit (SCW) on behalf of North of England Commissioning Support (NECS) (Hosted by NHS England) has awarded a contract to QA Limited for the following Apprenticeships: 1. AI leadership - AI delivery and organisational transformation (AU0011) - Level 5 2. AI leadership - AI strategy and opportunity (AU0009) - Level 5 3. AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086).",
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
-      },
-      "buyer": {
-        "name": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT"
-      },
-      "geography": {
-        "primaryArea": "North East",
-        "areas": [
-          "North East",
-          "North West",
-          "United Kingdom"
-        ]
-      },
-      "value": {
-        "amount": 45000,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": "2026-08-18T11:00:00.000Z",
-        "daysToDeadline": -29
-      },
-      "contract": {
-        "startDate": "2026-08-31T23:00:00.000Z",
-        "endDate": "2027-03-31T22:59:59.000Z"
-      },
-      "procurement": {
-        "method": "selective",
-        "methodDetails": "Call-off from a framework agreement",
-        "mainCategory": "services",
-        "lots": []
-      },
-      "evaluation": {
-        "qualityWeighting": null,
-        "priceWeighting": null,
-        "socialValueWeighting": null,
-        "criteria": [],
-        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [
-          "AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086)."
-        ],
-        "suitabilitySignals": [],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [
-        "QA Limited"
-      ],
-      "socialValue": {
-        "mentioned": false,
-        "weighting": null,
-        "note": "No explicit social value reference was found in the structured procurement data."
-      },
-      "timeline": [
-        {
-          "event": "Award Notice",
-          "date": "2026-09-14T10:31:42.000Z",
-          "releaseId": "2dd5253b-cd2e-4f67-a5aa-b0d10398808e-913639",
-          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
-          "tags": [
-            "award"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Contracts Finder",
-        "sourceId": "contracts-finder",
-        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
-        "lastVerified": "2026-09-16T16:05:02.595Z"
-      },
-      "dataCompleteness": {
-        "status": "strong",
-        "score": 100,
-        "missing": []
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      }
-    },
-    {
       "id": "ocds-b5fd17-bee09daf-8e90-40f9-add4-246ed0a0969d",
       "slug": "715869492-provision-of-end-point-assessment-for-aircraft-handlers--add4-246ed0a0969d",
       "ocid": "ocds-b5fd17-bee09daf-8e90-40f9-add4-246ed0a0969d",
@@ -1255,7 +1151,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/bea8402a-00bf-43fb-b549-b4b04b527d60",
-        "lastVerified": "2026-09-16T16:02:35.947Z"
+        "lastVerified": "2026-09-16T18:21:19.008Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1356,7 +1252,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122",
-        "lastVerified": "2026-09-16T16:02:32.211Z"
+        "lastVerified": "2026-09-16T18:21:15.293Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1457,7 +1353,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/920df551-7e69-4d55-8ec3-4e5c8c5060bc",
-        "lastVerified": "2026-09-16T16:02:28.451Z"
+        "lastVerified": "2026-09-16T18:21:11.581Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1558,7 +1454,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
-        "lastVerified": "2026-09-16T16:02:24.691Z"
+        "lastVerified": "2026-09-16T18:21:07.873Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1664,7 +1560,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
-        "lastVerified": "2026-09-16T16:02:20.976Z"
+        "lastVerified": "2026-09-16T18:21:04.151Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1767,7 +1663,111 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/9caae322-6911-4f79-8254-b8594a96f25c",
-        "lastVerified": "2026-09-16T16:02:17.260Z"
+        "lastVerified": "2026-09-16T18:21:00.432Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
+      "slug": "contract-for-the-provision-of-ai-short-courses-level-5-apprenticeships-call-off-contract-to-nort--91b6-bfde03d65bdc",
+      "ocid": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
+      "title": "Contract for the provision of AI Short Courses Level 5 Apprenticeships call off contract, to North of England Commissioning Support (NECS) (Hosted by NHS England)",
+      "description": "NHS South, Central and West Commissioning Support Unit (SCW) on behalf of North of England Commissioning Support (NECS) (Hosted by NHS England) has awarded a contract to QA Limited for the following Apprenticeships: 1. AI leadership - AI delivery and organisational transformation (AU0011) - Level 5 2. AI leadership - AI strategy and opportunity (AU0009) - Level 5 3. AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086).",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT"
+      },
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East",
+          "North West",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 45000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-18T11:00:00.000Z",
+        "daysToDeadline": -29
+      },
+      "contract": {
+        "startDate": "2026-08-31T23:00:00.000Z",
+        "endDate": "2027-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086)."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "QA Limited"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-14T10:31:42.000Z",
+          "releaseId": "2dd5253b-cd2e-4f67-a5aa-b0d10398808e-913639",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
+        "lastVerified": "2026-09-16T16:05:02.595Z"
       },
       "dataCompleteness": {
         "status": "strong",
