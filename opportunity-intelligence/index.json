@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T19:28:41.538Z",
+  "generatedAt": "2026-09-16T19:28:55.115Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -52,19 +52,24 @@
     ],
     "regions": [
       "East Midlands",
+      "East of England",
+      "England",
       "Flintshire and Wrexham",
       "Kingston upon Hull, City of",
       "Lancashire",
+      "London",
       "North East",
       "North East England",
       "North West",
       "North West England",
+      "Scotland",
       "Somerset",
       "South East",
       "South West",
       "South West England",
       "United Kingdom",
       "Wales",
+      "West Midlands",
       "Wirral",
       "Yorkshire and The Humber"
     ],
@@ -348,7 +353,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-16T19:28:01.779Z"
+        "lastVerified": "2026-09-16T19:28:26.398Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -487,8 +492,11 @@
       },
       "primeProvider": "AKG",
       "geography": {
-        "primaryArea": null,
-        "areas": []
+        "primaryArea": "London",
+        "areas": [
+          "London",
+          "England"
+        ]
       },
       "value": {
         "amount": null,
@@ -559,7 +567,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:22:05.363Z",
+          "date": "2026-09-16T19:28:04.976Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -572,7 +580,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-09-16T18:22:05.363Z"
+        "lastVerified": "2026-09-16T19:28:04.976Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -681,10 +689,44 @@
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
         },
         "localNeed": {
-          "available": false,
-          "area": null,
-          "metrics": [],
-          "note": "No safely matched programme labour-market geography was available for this opportunity."
+          "available": true,
+          "area": "London",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 20.2,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 6.4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 74.8,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 347135,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
         },
         "recommissioningDelta": {
           "available": false,
@@ -722,8 +764,11 @@
       },
       "primeProvider": "Maximus UK",
       "geography": {
-        "primaryArea": null,
-        "areas": []
+        "primaryArea": "Scotland",
+        "areas": [
+          "Scotland",
+          "Wales"
+        ]
       },
       "value": {
         "amount": null,
@@ -815,7 +860,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:22:05.363Z",
+          "date": "2026-09-16T19:28:04.976Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -828,7 +873,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-09-16T18:22:05.363Z"
+        "lastVerified": "2026-09-16T19:28:04.976Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -978,8 +1023,10 @@
       },
       "primeProvider": "Reed in Partnership",
       "geography": {
-        "primaryArea": null,
-        "areas": []
+        "primaryArea": "London",
+        "areas": [
+          "London"
+        ]
       },
       "value": {
         "amount": null,
@@ -1066,7 +1113,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:22:05.363Z",
+          "date": "2026-09-16T19:28:04.976Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -1079,7 +1126,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-09-16T18:22:05.363Z"
+        "lastVerified": "2026-09-16T19:28:04.976Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1188,10 +1235,44 @@
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
         },
         "localNeed": {
-          "available": false,
-          "area": null,
-          "metrics": [],
-          "note": "No safely matched programme labour-market geography was available for this opportunity."
+          "available": true,
+          "area": "London",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 20.2,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 6.4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 74.8,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 347135,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
         },
         "recommissioningDelta": {
           "available": false,
@@ -1229,8 +1310,15 @@
       },
       "primeProvider": "Seetec",
       "geography": {
-        "primaryArea": null,
-        "areas": []
+        "primaryArea": "North West",
+        "areas": [
+          "North West",
+          "West Midlands",
+          "East of England",
+          "London",
+          "South West",
+          "England"
+        ]
       },
       "value": {
         "amount": null,
@@ -1316,7 +1404,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:22:05.363Z",
+          "date": "2026-09-16T19:28:04.976Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -1329,7 +1417,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-09-16T18:22:05.363Z"
+        "lastVerified": "2026-09-16T19:28:04.976Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1438,10 +1526,44 @@
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
         },
         "localNeed": {
-          "available": false,
-          "area": null,
-          "metrics": [],
-          "note": "No safely matched programme labour-market geography was available for this opportunity."
+          "available": true,
+          "area": "North West",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 73.8,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 22.7,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 201555,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            },
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 4.4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
         },
         "recommissioningDelta": {
           "available": false,
@@ -1735,7 +1857,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-16T19:28:01.779Z"
+        "lastVerified": "2026-09-16T19:28:26.398Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -7900,7 +8022,10 @@
             "primeProvider": "AKG",
             "status": "Supply chain EOI",
             "deadline": null,
-            "geography": [],
+            "geography": [
+              "London",
+              "England"
+            ],
             "partnerTypes": [
               "Health / disability specialist"
             ],
@@ -7917,7 +8042,10 @@
             "primeProvider": "Maximus UK",
             "status": "Supply chain EOI",
             "deadline": null,
-            "geography": [],
+            "geography": [
+              "Scotland",
+              "Wales"
+            ],
             "partnerTypes": [
               "SME",
               "VCSE / voluntary sector",
@@ -7941,7 +8069,9 @@
             "primeProvider": "Reed in Partnership",
             "status": "Supply chain EOI",
             "deadline": null,
-            "geography": [],
+            "geography": [
+              "London"
+            ],
             "partnerTypes": [
               "SME",
               "VCSE / voluntary sector",
@@ -7965,7 +8095,14 @@
             "primeProvider": "Seetec",
             "status": "Supply chain EOI",
             "deadline": null,
-            "geography": [],
+            "geography": [
+              "North West",
+              "West Midlands",
+              "East of England",
+              "London",
+              "South West",
+              "England"
+            ],
             "partnerTypes": [
               "SME",
               "VCSE / voluntary sector",
@@ -7995,7 +8132,7 @@
         "description": "Links opportunities to CareerPath's programme workforce data to show aggregated role-demand and advertised-salary signals relevant to mobilisation."
       },
       "localDeliveryContext": {
-        "linkedOpportunityCount": 13,
+        "linkedOpportunityCount": 16,
         "description": "Links opportunities to programme-level regional labour-market indicators where a geography can be matched safely."
       },
       "providerPartnershipMap": {
