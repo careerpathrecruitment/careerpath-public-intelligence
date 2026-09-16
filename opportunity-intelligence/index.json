@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T15:52:17.286Z",
+  "generatedAt": "2026-09-16T16:57:56.454Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 14,
-    "live": 0,
+    "total": 22,
+    "live": 2,
     "upcoming": 1,
     "marketEngagement": 0,
-    "recentAwards": 13,
+    "recentAwards": 19,
     "closingWithin7Days": 0,
-    "closingWithin30Days": 0
+    "closingWithin30Days": 1
   },
   "filters": {
     "programmes": [
@@ -20,15 +20,20 @@
       "Apprenticeships",
       "Connect to Work",
       "Employment Support",
+      "IPS",
       "Skills Bootcamps"
     ],
     "buyers": [
+      "Central Bedfordshire Council",
       "Construction Industry Training Board",
+      "DERBY CITY COUNCIL",
       "East Durham College",
       "Hull City Council",
       "Isle of Wight Council",
       "Lancashire County Council",
+      "London Borough of Merton",
       "Milton Keynes Council",
+      "Ministry of Defence",
       "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
       "North East Combined Authority",
       "Somerset Council",
@@ -38,6 +43,7 @@
     "regions": [
       "British Oversea Territories",
       "Channel Islands",
+      "East Midlands",
       "Europe",
       "Flintshire and Wrexham",
       "GB",
@@ -49,10 +55,14 @@
       "North East England",
       "North West",
       "North West England",
+      "PO2 8BY",
       "Rest of the World",
+      "SG17 5TQ",
+      "SM4 5DX",
       "SR8 2RN",
       "Somerset",
       "South East",
+      "South West",
       "South West England",
       "United Kingdom",
       "Wales",
@@ -79,6 +89,258 @@
     ]
   },
   "opportunities": [
+    {
+      "id": "ocds-b5fd17-38a02a97-28b2-4429-bd23-ec7c23f36934",
+      "slug": "individual-placement-scheme-ips--bd23-ec7c23f36934",
+      "ocid": "ocds-b5fd17-38a02a97-28b2-4429-bd23-ec7c23f36934",
+      "title": "Individual Placement Scheme (IPS)",
+      "description": "The Contracting Authority is seeking to procure a specialist Individual Placement and Support (IPS) service to support adults engaged in structured drug and alcohol treatment services across the six London boroughs of: Croydon Kingston upon Thames Merton Richmond upon Thames Sutton Wandsworth The successful provider will deliver a high-quality IPS employment service that supports individuals receiving treatment for drug and alcohol dependency to obtain and sustain competitive paid employment. The service will operate in accordance with IPS principles and fidelity standards and will work closely with commissioned treatment providers, local authorities, health services, employers and wider stakeholders across South West London.",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "IPS",
+        "slug": "ips"
+      },
+      "buyer": {
+        "name": "London Borough of Merton"
+      },
+      "geography": {
+        "primaryArea": "SM4 5DX",
+        "areas": [
+          "SM4 5DX",
+          "British Oversea Territories",
+          "Channel Islands",
+          "Europe",
+          "Isle of Man",
+          "Rest of the World",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 2306000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-10-14T11:00:00.000Z",
+        "daysToDeadline": 28
+      },
+      "contract": {
+        "startDate": "2027-03-31T23:00:00.000Z",
+        "endDate": "2032-04-01T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure (above threshold)",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [
+          "The Contracting Authority is seeking to procure a specialist Individual Placement and Support (IPS) service to support adults engaged in structured drug and alcohol treatment services across the six London boroughs of: Croydon Kingston upon Thames Merton Richmond upon Thames Sutton Wandsworth The successful provider will deliver a high-quality IPS employment service that supports individuals receiving treatment for d"
+        ],
+        "note": "Performance wording shown here was found in the published notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-09-15T15:30:02.000Z",
+          "releaseId": "803f7cb8-f5b7-49df-8658-6b3d34575721-914234",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/803f7cb8-f5b7-49df-8658-6b3d34575721",
+          "tags": [
+            "tender"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/803f7cb8-f5b7-49df-8658-6b3d34575721",
+        "lastVerified": "2026-09-16T16:02:39.690Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06fa80",
+      "slug": "individual-placement-scheme-ips-ocds-h6vhtk-06fa80",
+      "ocid": "ocds-h6vhtk-06fa80",
+      "title": "Individual Placement Scheme (IPS)",
+      "description": "The Contracting Authority is seeking to procure a specialist Individual Placement and Support (IPS) service to support adults engaged in structured drug and alcohol treatment services across the six London boroughs of: Croydon Kingston upon Thames Merton Richmond upon Thames Sutton Wandsworth The successful provider will deliver a high-quality IPS employment service that supports individuals receiving treatment for drug and alcohol dependency to obtain and sustain competitive paid employment. The service will operate in accordance with IPS principles and fidelity standards and will work closely with commissioned treatment providers, local authorities, health services, employers and wider stakeholders across South West London.",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "IPS",
+        "slug": "ips"
+      },
+      "buyer": {
+        "name": "London Borough of Merton"
+      },
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 0,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "active",
+            "value": null,
+            "currency": "GBP",
+            "contractStart": "2027-03-31T23:00:00.000Z",
+            "contractEnd": "2032-04-01T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Price",
+                "weighting": 20
+              },
+              {
+                "name": "Quality",
+                "weighting": 70
+              },
+              {
+                "name": "Social Value",
+                "weighting": 10
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 70,
+        "priceWeighting": 20,
+        "socialValueWeighting": 10,
+        "criteria": [
+          {
+            "name": "Price",
+            "weighting": 20,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Quality",
+            "weighting": 70,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Social Value",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [
+          "The Contracting Authority is seeking to procure a specialist Individual Placement and Support (IPS) service to support adults engaged in structured drug and alcohol treatment services across the six London boroughs of: Croydon Kingston upon Thames Merton Richmond upon Thames Sutton Wandsworth The successful provider will deliver a high-quality IPS employment service that supports individuals receiving treatment for d"
+        ],
+        "note": "Performance wording shown here was found in the published notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": 10,
+        "note": "An explicit buyer-stated social value weighting was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-09-15T15:29:03.000Z",
+          "releaseId": "087473-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/087473-2026",
+          "tags": [
+            "tender"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/087473-2026",
+        "lastVerified": "2026-09-16T15:58:20.387Z"
+      },
+      "dataCompleteness": {
+        "status": "limited",
+        "score": 57,
+        "missing": [
+          "value",
+          "geography",
+          "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
     {
       "id": "ocds-h6vhtk-06f48c",
       "slug": "south-wales-shared-apprenticeships-scheme-ocds-h6vhtk-06f48c",
@@ -204,6 +466,849 @@
           "value",
           "deadline or contract dates"
         ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
+      "slug": "contract-for-the-provision-of-ai-short-courses-level-5-apprenticeships-call-off-contract-to-nort--91b6-bfde03d65bdc",
+      "ocid": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
+      "title": "Contract for the provision of AI Short Courses Level 5 Apprenticeships call off contract, to North of England Commissioning Support (NECS) (Hosted by NHS England)",
+      "description": "NHS South, Central and West Commissioning Support Unit (SCW) on behalf of North of England Commissioning Support (NECS) (Hosted by NHS England) has awarded a contract to QA Limited for the following Apprenticeships: 1. AI leadership - AI delivery and organisational transformation (AU0011) - Level 5 2. AI leadership - AI strategy and opportunity (AU0009) - Level 5 3. AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086).",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT"
+      },
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East",
+          "North West",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 45000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-18T11:00:00.000Z",
+        "daysToDeadline": -29
+      },
+      "contract": {
+        "startDate": "2026-08-31T23:00:00.000Z",
+        "endDate": "2027-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086)."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "QA Limited"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-14T10:31:42.000Z",
+          "releaseId": "2dd5253b-cd2e-4f67-a5aa-b0d10398808e-913639",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
+        "lastVerified": "2026-09-16T16:05:02.595Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-bee09daf-8e90-40f9-add4-246ed0a0969d",
+      "slug": "715869492-provision-of-end-point-assessment-for-aircraft-handlers--add4-246ed0a0969d",
+      "ocid": "ocds-b5fd17-bee09daf-8e90-40f9-add4-246ed0a0969d",
+      "title": "715869492 - Provision of End Point Assessment for Aircraft Handlers",
+      "description": "**FOR TRANSPARENCY PURPOSES ONLY** This contract has been award via competition under GCA Framework RM6102: Apprenticeship Training Dynamic Marketplace DPS.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Ministry of Defence"
+      },
+      "geography": {
+        "primaryArea": "PO2 8BY",
+        "areas": [
+          "PO2 8BY",
+          "South West",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 210000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-07-20T09:00:00.000Z",
+        "daysToDeadline": -58
+      },
+      "contract": {
+        "startDate": "2026-10-26T00:00:00.000Z",
+        "endDate": "2029-09-25T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a dynamic purchasing system",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Explosive Learning Solutions LTD"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-16T10:19:14.000Z",
+          "releaseId": "bea8402a-00bf-43fb-b549-b4b04b527d60-914305",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/bea8402a-00bf-43fb-b549-b4b04b527d60",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/bea8402a-00bf-43fb-b549-b4b04b527d60",
+        "lastVerified": "2026-09-16T16:02:35.947Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-a333e5e9-9e80-45f7-b638-e21b8067cdb7",
+      "slug": "enq1379-procurement-of-7x-children-young-people-and-families-apprenticeships--b638-e21b8067cdb7",
+      "ocid": "ocds-b5fd17-a333e5e9-9e80-45f7-b638-e21b8067cdb7",
+      "title": "ENQ1379 - Procurement of 7x Children, Young People and Families Apprenticeships",
+      "description": "This contract was awarded for the procurement of the following seven Apprenticeship Programmes: Children, Young People and Families manager, Level 5 - 2 Places Children, Young People and Families Practitioner, Level 4 - 5 places Call off from Commercial Services Apprenticeship Provider Dynamic Marketplace Framework (RM6102)",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "DERBY CITY COUNCIL"
+      },
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 42000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-07-15T22:59:00.000Z",
+        "daysToDeadline": -62
+      },
+      "contract": {
+        "startDate": "2026-07-16T23:00:00.000Z",
+        "endDate": "2028-10-17T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "YORKSHIRE TRAINING PARTNERSHIP LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-16T10:41:46.000Z",
+          "releaseId": "e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122-912389",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122",
+        "lastVerified": "2026-09-16T16:02:32.211Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-ee39cdd4-60f2-40ec-a0ec-2bc36cb1cabb",
+      "slug": "enq1381-procurement-of-2x-chartered-surveyor-real-estate-apprenticeships--a0ec-2bc36cb1cabb",
+      "ocid": "ocds-b5fd17-ee39cdd4-60f2-40ec-a0ec-2bc36cb1cabb",
+      "title": "ENQ1381 - Procurement of 2x Chartered Surveyor (Real Estate) Apprenticeships",
+      "description": "This contract was awarded for the procurement of the following two Apprenticeship Programmes: Chartered Surveyor (Real Estate), Level 6 - 2 Places Call off from YPO 1086 Apprenticeship and Associated Training Call Off Framework.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "DERBY CITY COUNCIL"
+      },
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 54000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-24T22:59:00.000Z",
+        "daysToDeadline": -22
+      },
+      "contract": {
+        "startDate": "2026-09-16T23:00:00.000Z",
+        "endDate": "2032-05-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Nottingham Trent University"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-16T10:45:35.000Z",
+          "releaseId": "920df551-7e69-4d55-8ec3-4e5c8c5060bc-912396",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/920df551-7e69-4d55-8ec3-4e5c8c5060bc",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/920df551-7e69-4d55-8ec3-4e5c8c5060bc",
+        "lastVerified": "2026-09-16T16:02:28.451Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-8bab62a6-532f-4487-b98b-6b57f24bc0ef",
+      "slug": "enq1382-procurement-of-2x-teacher-apprenticeships--b98b-6b57f24bc0ef",
+      "ocid": "ocds-b5fd17-8bab62a6-532f-4487-b98b-6b57f24bc0ef",
+      "title": "ENQ1382 - Procurement of 2x Teacher Apprenticeships",
+      "description": "This contract was awarded for the procurement of the following two Apprenticeship Programmes: Teacher, Level 6 - 2 places. Call off from YPO 1086 Apprenticeship and Associated Training Call Off Framework.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "DERBY CITY COUNCIL"
+      },
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 36000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-24T22:59:00.000Z",
+        "daysToDeadline": -22
+      },
+      "contract": {
+        "startDate": "2026-09-10T23:00:00.000Z",
+        "endDate": "2030-09-11T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "The University of Derby"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-16T10:47:12.000Z",
+          "releaseId": "38bfcc4c-250c-46d9-95e6-b515c0ffdd8d-912400",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
+        "lastVerified": "2026-09-16T16:02:24.691Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-b7edb29e-a264-44ad-9e1f-3ec56c391215",
+      "slug": "cbc-2002-exf-da-zh-chartered-surveyor-level-6-apprenticeship-award--9e1f-3ec56c391215",
+      "ocid": "ocds-b5fd17-b7edb29e-a264-44ad-9e1f-3ec56c391215",
+      "title": "CBC-2002-EXF-DA-ZH Chartered Surveyor Level 6 Apprenticeship - AWARD",
+      "description": "Level 6 Chartered Surveyor (Degree) Apprenticeship (ST0331) Quantity Surveying Pathway for one employee. Awarded via RM6102 Apprenticeship Training Dynamic Marketplace to University of the Built Environment. Online delivery.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Central Bedfordshire Council"
+      },
+      "geography": {
+        "primaryArea": "SG17 5TQ",
+        "areas": [
+          "SG17 5TQ",
+          "British Oversea Territories",
+          "Channel Islands",
+          "Europe",
+          "Isle of Man",
+          "Rest of the World",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 27000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-09-18T17:28:00.000Z",
+        "daysToDeadline": 3
+      },
+      "contract": {
+        "startDate": "2026-09-28T00:00:00.000Z",
+        "endDate": "2031-08-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": null,
+        "methodDetails": "Other -",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "UBE (Formerly t/a University College of Estate Management)"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-16T11:25:36.000Z",
+          "releaseId": "68c50dc7-0ab6-4b0d-b996-3829fd015599-914329",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
+        "lastVerified": "2026-09-16T16:02:20.976Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-b5fd17-854d7e38-ef65-4cfb-8ade-3167f7e4a5be",
+      "slug": "enq1394-procurement-of-6x-procurement-and-supply-apprenticeships--8ade-3167f7e4a5be",
+      "ocid": "ocds-b5fd17-854d7e38-ef65-4cfb-8ade-3167f7e4a5be",
+      "title": "ENQ1394 - Procurement of 6x Procurement and Supply Apprenticeships",
+      "description": "This contract was awarded for the procurement of the following six Apprenticeship Programmes: Procurement and Supply Assistant, Level 3 - 4 Places. Procurement and Supply Chain Practitioner, Level 4 - 2 places. Call off from Commercial Services Apprenticeship Provider Dynamic Marketplace Framework (RM6102).",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "DERBY CITY COUNCIL"
+      },
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 44000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-24T22:59:00.000Z",
+        "daysToDeadline": -22
+      },
+      "contract": {
+        "startDate": "2026-08-31T23:00:00.000Z",
+        "endDate": "2028-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [
+          "Partnership or supply-chain delivery is mentioned in published material"
+        ],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "SR SUPPLY CHAIN CONSULTANTS LTD"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-16T11:28:22.000Z",
+          "releaseId": "9caae322-6911-4f79-8254-b8594a96f25c-914328",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/9caae322-6911-4f79-8254-b8594a96f25c",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/9caae322-6911-4f79-8254-b8594a96f25c",
+        "lastVerified": "2026-09-16T16:02:17.260Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06ef70",
+      "slug": "specialist-employment-support-for-economically-inactive-young-people-with-involvement-in-the-you-ocds-h6vhtk-06ef70",
+      "ocid": "ocds-h6vhtk-06ef70",
+      "title": "Specialist employment support for economically inactive young people with involvement in the youth justice / criminal justice system",
+      "description": "Provision of specialist one-to-one support for economically inactive young people aged 16-24 who have had involvement with the youth or criminal justice system, helping them overcome barriers, access coordinated support, and progress into education, training, and employment through an expanded Navigator model delivered for residents across the North East.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "North East Combined Authority"
+      },
+      "geography": {
+        "primaryArea": "North East England",
+        "areas": [
+          "North East England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 99000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": "2026-09-10T23:00:00.000Z",
+        "endDate": "2027-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Below threshold - without competition",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "THE SKILL MILL LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-01T11:21:54.000Z",
+          "releaseId": "082603-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/082603-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-14T07:27:23.000Z",
+          "releaseId": "086677-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
+        "lastVerified": "2026-09-16T16:01:36.461Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -347,7 +1452,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -76
+        "daysToDeadline": -77
       },
       "contract": {
         "startDate": "2026-07-31T23:00:00.000Z",
@@ -532,235 +1637,6 @@
       }
     },
     {
-      "id": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
-      "slug": "contract-for-the-provision-of-ai-short-courses-level-5-apprenticeships-call-off-contract-to-nort--91b6-bfde03d65bdc",
-      "ocid": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
-      "title": "Contract for the provision of AI Short Courses Level 5 Apprenticeships call off contract, to North of England Commissioning Support (NECS) (Hosted by NHS England)",
-      "description": "NHS South, Central and West Commissioning Support Unit (SCW) on behalf of North of England Commissioning Support (NECS) (Hosted by NHS England) has awarded a contract to QA Limited for the following Apprenticeships: 1. AI leadership - AI delivery and organisational transformation (AU0011) - Level 5 2. AI leadership - AI strategy and opportunity (AU0009) - Level 5 3. AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086).",
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
-      },
-      "buyer": {
-        "name": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT"
-      },
-      "geography": {
-        "primaryArea": "North East",
-        "areas": [
-          "North East",
-          "North West",
-          "United Kingdom"
-        ]
-      },
-      "value": {
-        "amount": 45000,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": "2026-08-18T11:00:00.000Z",
-        "daysToDeadline": -29
-      },
-      "contract": {
-        "startDate": "2026-08-31T23:00:00.000Z",
-        "endDate": "2027-03-31T22:59:59.000Z"
-      },
-      "procurement": {
-        "method": "selective",
-        "methodDetails": "Call-off from a framework agreement",
-        "mainCategory": "services",
-        "lots": []
-      },
-      "evaluation": {
-        "qualityWeighting": null,
-        "priceWeighting": null,
-        "socialValueWeighting": null,
-        "criteria": [],
-        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [
-          "AI leadership - AI adoption, procurement and governance (AU0010) - Level 5 This requirement has been procured via Direct Award via YPO Framework for the provision of Apprenticeships and Associated Training (reference 1086)."
-        ],
-        "suitabilitySignals": [],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [
-        "QA Limited"
-      ],
-      "socialValue": {
-        "mentioned": false,
-        "weighting": null,
-        "note": "No explicit social value reference was found in the structured procurement data."
-      },
-      "timeline": [
-        {
-          "event": "Award Notice",
-          "date": "2026-09-14T10:31:42.000Z",
-          "releaseId": "2dd5253b-cd2e-4f67-a5aa-b0d10398808e-913639",
-          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
-          "tags": [
-            "award"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Contracts Finder",
-        "sourceId": "contracts-finder",
-        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
-        "lastVerified": "2026-09-14T12:53:11.873Z"
-      },
-      "dataCompleteness": {
-        "status": "strong",
-        "score": 100,
-        "missing": []
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-06ef70",
-      "slug": "specialist-employment-support-for-economically-inactive-young-people-with-involvement-in-the-you-ocds-h6vhtk-06ef70",
-      "ocid": "ocds-h6vhtk-06ef70",
-      "title": "Specialist employment support for economically inactive young people with involvement in the youth justice / criminal justice system",
-      "description": "Provision of specialist one-to-one support for economically inactive young people aged 16-24 who have had involvement with the youth or criminal justice system, helping them overcome barriers, access coordinated support, and progress into education, training, and employment through an expanded Navigator model delivered for residents across the North East.",
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "North East Combined Authority"
-      },
-      "geography": {
-        "primaryArea": "North East England",
-        "areas": [
-          "North East England",
-          "United Kingdom",
-          "GB"
-        ]
-      },
-      "value": {
-        "amount": 99000,
-        "currency": "GBP",
-        "basis": "contract"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "contract": {
-        "startDate": "2026-09-10T23:00:00.000Z",
-        "endDate": "2027-03-31T22:59:59.000Z"
-      },
-      "procurement": {
-        "method": "direct",
-        "methodDetails": "Below threshold - without competition",
-        "mainCategory": null,
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": null,
-            "status": "complete",
-            "value": null,
-            "currency": null,
-            "contractStart": null,
-            "contractEnd": null,
-            "awardCriteria": []
-          }
-        ]
-      },
-      "evaluation": {
-        "qualityWeighting": null,
-        "priceWeighting": null,
-        "socialValueWeighting": null,
-        "criteria": [],
-        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [],
-        "suitabilitySignals": [],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [
-        "THE SKILL MILL LIMITED"
-      ],
-      "socialValue": {
-        "mentioned": false,
-        "weighting": null,
-        "note": "No explicit social value reference was found in the structured procurement data."
-      },
-      "timeline": [
-        {
-          "event": "Award / Contract Notice",
-          "date": "2026-09-01T11:21:54.000Z",
-          "releaseId": "082603-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/082603-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        },
-        {
-          "event": "Award / Contract Notice",
-          "date": "2026-09-14T07:27:23.000Z",
-          "releaseId": "086677-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
-        "lastVerified": "2026-09-14T12:52:23.381Z"
-      },
-      "dataCompleteness": {
-        "status": "strong",
-        "score": 100,
-        "missing": []
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      }
-    },
-    {
       "id": "ocds-h6vhtk-06b485",
       "slug": "connect-to-work-individual-placement-and-support-ips-wrexham-ocds-h6vhtk-06b485",
       "ocid": "ocds-h6vhtk-06b485",
@@ -793,7 +1669,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -60
+        "daysToDeadline": -61
       },
       "contract": {
         "startDate": "2026-09-08T23:00:00.000Z",
@@ -2082,8 +2958,8 @@
     "containsCommercialRecommendations": false,
     "containsRawVacancies": false,
     "sourceDirectory": "validated-publishable-procurements",
-    "sourceFileCount": 116,
-    "selectedOpportunityCount": 14,
+    "sourceFileCount": 124,
+    "selectedOpportunityCount": 22,
     "rejected": {
       "nonPublishable": 0,
       "nonAccepted": 0,

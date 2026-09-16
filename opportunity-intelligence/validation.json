@@ -1,15 +1,15 @@
 {
   "validated": true,
-  "generatedAt": "2026-09-16T15:52:17.362Z",
-  "sourceGeneratedAt": "2026-09-16T15:52:17.286Z",
+  "generatedAt": "2026-09-16T16:57:56.532Z",
+  "sourceGeneratedAt": "2026-09-16T16:57:56.454Z",
   "counts": {
-    "total": 14,
-    "live": 0,
+    "total": 22,
+    "live": 2,
     "upcoming": 1,
     "marketEngagement": 0,
-    "recentAwards": 13
+    "recentAwards": 19
   },
-  "programmes": 5,
-  "buyers": 11,
-  "regions": 22
+  "programmes": 6,
+  "buyers": 15,
+  "regions": 27
 }
