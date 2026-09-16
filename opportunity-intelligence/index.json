@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T19:28:55.115Z",
+  "generatedAt": "2026-09-16T19:33:17.142Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -353,7 +353,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-16T19:28:26.398Z"
+        "lastVerified": "2026-09-16T19:32:42.382Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1857,7 +1857,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-16T19:28:26.398Z"
+        "lastVerified": "2026-09-16T19:32:42.382Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2370,7 +2370,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/bea8402a-00bf-43fb-b549-b4b04b527d60",
-        "lastVerified": "2026-09-16T19:04:34.136Z"
+        "lastVerified": "2026-09-16T19:32:25.127Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -2616,7 +2616,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122",
-        "lastVerified": "2026-09-16T19:04:30.440Z"
+        "lastVerified": "2026-09-16T19:32:21.421Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -2862,7 +2862,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/920df551-7e69-4d55-8ec3-4e5c8c5060bc",
-        "lastVerified": "2026-09-16T19:04:26.752Z"
+        "lastVerified": "2026-09-16T19:32:17.718Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -3108,7 +3108,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
-        "lastVerified": "2026-09-16T19:04:23.082Z"
+        "lastVerified": "2026-09-16T19:32:14.046Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -3359,7 +3359,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
-        "lastVerified": "2026-09-16T19:04:19.380Z"
+        "lastVerified": "2026-09-16T19:32:10.348Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -3573,7 +3573,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/9caae322-6911-4f79-8254-b8594a96f25c",
-        "lastVerified": "2026-09-16T19:04:15.701Z"
+        "lastVerified": "2026-09-16T19:32:06.642Z"
       },
       "dataCompleteness": {
         "status": "strong",
