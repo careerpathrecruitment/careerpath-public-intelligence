@@ -27,7 +27,7 @@
     "grant",
     "mixed"
   ],
-  "generatedAt": "2026-09-16T10:08:56.874Z",
+  "generatedAt": "2026-09-16T10:12:59.457Z",
   "latestEvidenceDate": "2026-09-16T10:01:19.051Z",
   "overview": {
     "fundingHeadline": {
@@ -48,7 +48,7 @@
     "geographicAreaCount": 9,
     "deliveryAreaCount": 9,
     "deliveryAreaType": "Trailblazer area",
-    "procurementCount": 2,
+    "procurementCount": 0,
     "latestReportingPeriod": null
   },
   "funding": [
@@ -4165,244 +4165,7 @@
     "metrics": []
   },
   "procurement": {
-    "opportunities": [
-      {
-        "id": "ocds-h6vhtk-056749",
-        "title": "Connect to Work - Somerset Council",
-        "description": "The Connect to Work (Connect to Work - GOV.UK) programme is a Department for Work and Pensions (DWP) funded initiative designed to support individuals who are economically inactive or at risk of leaving employment to access and sustain suitable work. The programme forms part of the Government's Get Britain Working strategy, which aims to reduce economic inactivity and support more people into good, sustainable employment through locally led and integrated approaches. The purpose of this procurement is to appoint one or more Delivery Partners to deliver supported employment services as part of the Connect to Work programme in Somerset. The programme will support: • individuals who are economically inactive and wish to work; and • individuals who are in work but at risk of falling out of employment Support will be delivered using the following evidence-based supported employment models tha",
-        "programme": "Connect to Work",
-        "category": "Connect to Work",
-        "lifecycleStage": "Contract",
-        "latestEvent": {
-          "event": "Award / Contract Notice",
-          "date": "2026-09-11T16:22:13+01:00",
-          "releaseId": "086606-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086606-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        },
-        "firstPublishedDate": "2025-07-28T15:24:39+01:00",
-        "lastUpdatedDate": "2026-09-11T16:22:13+01:00",
-        "buyer": {
-          "name": "Somerset Council"
-        },
-        "suppliers": [
-          "ELEVATE EMPLOYMENT SERVICES LIMITED",
-          "DIMENSIONS SOMERSET SEV LIMITED"
-        ],
-        "values": {
-          "displayValue": 2000000,
-          "currency": "GBP",
-          "basis": "award",
-          "estimatedValue": 2000000,
-          "awardedValue": 2000000,
-          "contractValue": null
-        },
-        "tenderStart": null,
-        "tenderDeadline": "2026-07-17T14:00:00+01:00",
-        "contractStart": null,
-        "contractEnd": null,
-        "procurementMethod": "open",
-        "procurementMethodDetails": "Open procedure",
-        "mainProcurementCategory": "services",
-        "cpvCodes": [
-          {
-            "id": "79610000",
-            "description": "Placement services of personnel"
-          }
-        ],
-        "geography": {
-          "primaryArea": "Somerset",
-          "humanReadableAreas": [
-            "Somerset"
-          ],
-          "broadRegions": [
-            "South West England"
-          ],
-          "countries": [
-            "United Kingdom",
-            "GB"
-          ]
-        },
-        "lots": [
-          {
-            "id": "1",
-            "title": "IPS",
-            "description": null,
-            "status": "complete",
-            "value": 1200000,
-            "currency": "GBP",
-            "contractPeriod": {
-              "startDate": "2026-10-01T00:00:00+01:00",
-              "endDate": "2029-03-31T23:59:59+01:00"
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": "Price",
-                "description": null,
-                "weight": 30
-              },
-              {
-                "type": "quality",
-                "name": "Quality",
-                "description": null,
-                "weight": 60
-              },
-              {
-                "type": "quality",
-                "name": "Social Value",
-                "description": null,
-                "weight": 10
-              }
-            ]
-          },
-          {
-            "id": "2",
-            "title": "SEQF",
-            "description": null,
-            "status": "complete",
-            "value": 800000,
-            "currency": "GBP",
-            "contractPeriod": {
-              "startDate": "2026-10-01T00:00:00+01:00",
-              "endDate": "2029-03-31T23:59:59+01:00"
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": "Price",
-                "description": null,
-                "weight": 30
-              },
-              {
-                "type": "quality",
-                "name": "Quality",
-                "description": null,
-                "weight": 60
-              },
-              {
-                "type": "quality",
-                "name": "Social Value",
-                "description": null,
-                "weight": 10
-              }
-            ]
-          }
-        ],
-        "socialValue": {
-          "mentioned": true,
-          "buyerStatedWeighting": 10,
-          "evidence": [
-            "[object Object]",
-            "[object Object]"
-          ]
-        }
-      },
-      {
-        "id": "ocds-h6vhtk-05f007",
-        "title": "Delivery of Wirral Council's Connect to Work Individual Placement Support (IPS) Programme",
-        "description": "Wirral Borough Council has appointed a provider to deliver under contract, the Individual Placement Support (IPS) element of LCR's Connect to Work Connect programme. Connect to Work is a voluntary programme to help tackle economic inactivity by providing a specific form of support targeted at the right people at the right time, based on their individual circumstances. Participants must be both eligible and suitable for the provision.",
-        "programme": "Connect to Work",
-        "category": "Connect to Work",
-        "lifecycleStage": "Contract",
-        "latestEvent": {
-          "event": "Award / Contract Notice",
-          "date": "2026-09-11T11:17:48+01:00",
-          "releaseId": "086300-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086300-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        },
-        "firstPublishedDate": "2025-12-05T15:50:59Z",
-        "lastUpdatedDate": "2026-09-11T11:17:48+01:00",
-        "buyer": {
-          "name": "Wirral Council"
-        },
-        "suppliers": [
-          "STANDGUIDE LIMITED"
-        ],
-        "values": {
-          "displayValue": 3881351,
-          "currency": "GBP",
-          "basis": "contract",
-          "estimatedValue": 4044721,
-          "awardedValue": 3881351,
-          "contractValue": 3881351
-        },
-        "tenderStart": null,
-        "tenderDeadline": "2026-07-06T09:00:00+01:00",
-        "contractStart": "2026-09-06T23:00:00.000Z",
-        "contractEnd": "2030-03-31T22:59:59.000Z",
-        "procurementMethod": "open",
-        "procurementMethodDetails": "Open procedure",
-        "mainProcurementCategory": "services",
-        "cpvCodes": [
-          {
-            "id": "80000000",
-            "description": "Education and training services"
-          }
-        ],
-        "geography": {
-          "primaryArea": "Wirral",
-          "humanReadableAreas": [
-            "Wirral"
-          ],
-          "broadRegions": [
-            "North West England"
-          ],
-          "countries": [
-            "United Kingdom",
-            "GB"
-          ]
-        },
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": null,
-            "status": "complete",
-            "value": 4044721,
-            "currency": "GBP",
-            "contractPeriod": {
-              "startDate": "2026-09-01T00:00:00+01:00",
-              "endDate": "2030-03-31T23:59:59+01:00"
-            },
-            "awardCriteria": [
-              {
-                "type": "quality",
-                "name": "Quality",
-                "description": null,
-                "weight": 80
-              },
-              {
-                "type": "quality",
-                "name": "Social Value",
-                "description": null,
-                "weight": 10
-              },
-              {
-                "type": "price",
-                "name": "Price",
-                "description": null,
-                "weight": 10
-              }
-            ]
-          }
-        ],
-        "socialValue": {
-          "mentioned": true,
-          "buyerStatedWeighting": 10,
-          "evidence": [
-            "[object Object]"
-          ]
-        }
-      }
-    ]
+    "opportunities": []
   },
   "workforce": {
     "generatedAt": "2026-09-16T10:02:13.141Z",
@@ -8912,24 +8675,7 @@
       "Learning from trailblazer delivery can inform future commissioning and local employment-support strategy."
     ]
   },
-  "latestUpdates": [
-    {
-      "id": "procurement:ocds-h6vhtk-056749",
-      "type": "procurement-update",
-      "title": "Connect to Work - Somerset Council",
-      "summary": "Award / Contract Notice",
-      "effectiveAt": "2026-09-11T16:22:13+01:00",
-      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086606-2026"
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-05f007",
-      "type": "procurement-update",
-      "title": "Delivery of Wirral Council's Connect to Work Individual Placement Support (IPS) Programme",
-      "summary": "Award / Contract Notice",
-      "effectiveAt": "2026-09-11T11:17:48+01:00",
-      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086300-2026"
-    }
-  ],
+  "latestUpdates": [],
   "sources": [
     {
       "id": "dwp-programme-funding",
@@ -8944,26 +8690,6 @@
         "https://www.gov.uk/government/publications/workwell-letter-to-integrated-care-systems-on-the-new-service/workwell-letter-to-integrated-care-systems-on-the-new-service",
         "https://www.gov.uk/government/publications/workwell/workwell-prospectus-guidance-for-local-system-partnerships"
       ]
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-056749",
-      "name": "Somerset Council procurement notice",
-      "official": true,
-      "latestPublicationDate": "2026-09-11T16:22:13+01:00",
-      "latestRetrievedAt": null,
-      "urls": [
-        "https://www.find-tender.service.gov.uk/Notice/086606-2026"
-      ]
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-05f007",
-      "name": "Wirral Council procurement notice",
-      "official": true,
-      "latestPublicationDate": "2026-09-11T11:17:48+01:00",
-      "latestRetrievedAt": null,
-      "urls": [
-        "https://www.find-tender.service.gov.uk/Notice/086300-2026"
-      ]
     }
   ],
   "dataAvailability": {
@@ -8975,10 +8701,10 @@
     "localAllocations": true,
     "deliveryAreas": true,
     "providers": false,
-    "procurement": true,
+    "procurement": false,
     "workforce": true,
     "labourMarket": true,
-    "latestUpdates": true
+    "latestUpdates": false
   },
   "publication": {
     "publicWebsiteEligible": true,

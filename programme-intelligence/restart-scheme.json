@@ -35,8 +35,8 @@
   "fundingMechanisms": [
     "procurement"
   ],
-  "generatedAt": "2026-09-16T10:08:56.874Z",
-  "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+  "generatedAt": "2026-09-16T10:12:59.457Z",
+  "latestEvidenceDate": "2026-09-16T10:01:19.051Z",
   "overview": {
     "fundingHeadline": null,
     "metrics": [
@@ -784,9 +784,9 @@
     ],
     "providerCount": 8,
     "geographicAreaCount": 2,
-    "deliveryAreaCount": 11,
+    "deliveryAreaCount": 12,
     "deliveryAreaType": "Contract Package Area",
-    "procurementCount": 2,
+    "procurementCount": 0,
     "latestReportingPeriod": "2026-09-16T10:01:16.734Z"
   },
   "funding": [],
@@ -4911,8 +4911,96 @@
   },
   "delivery": {
     "areaType": "Contract Package Area",
-    "areaCount": 11,
+    "areaCount": 12,
     "areas": [
+      {
+        "id": "1A",
+        "name": "CPA 1A",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-9d743eedde3b19c78cea"
+        ],
+        "providerNames": [
+          "Serco Limited"
+        ]
+      },
+      {
+        "id": "1B",
+        "name": "CPA 1B",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-2789a1755cc22cc57424"
+        ],
+        "providerNames": [
+          "AKG Limited"
+        ]
+      },
+      {
+        "id": "2A",
+        "name": "CPA 2A",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-56a6889f9394519b4d9b"
+        ],
+        "providerNames": [
+          "Reed in Partnership Limited"
+        ]
+      },
+      {
+        "id": "2B",
+        "name": "CPA 2B",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-21fbb8c0a21e2e493633"
+        ],
+        "providerNames": [
+          "Maximus UK Services Limited"
+        ]
+      },
+      {
+        "id": "3A",
+        "name": "CPA 3A",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-3846cc4bbe2d64494593"
+        ],
+        "providerNames": [
+          "G4S Facilities Management (UK) Limited"
+        ]
+      },
+      {
+        "id": "3B",
+        "name": "CPA 3B",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-4d0ddc44d084f2598242"
+        ],
+        "providerNames": [
+          "Ingeus UK Limited"
+        ]
+      },
+      {
+        "id": "4A",
+        "name": "CPA 4A",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-8b87ac381849ba00ad2a"
+        ],
+        "providerNames": [
+          "Seetec Business Technology Centre Limited"
+        ]
+      },
+      {
+        "id": "4B",
+        "name": "CPA 4B",
+        "type": "Contract Package Area",
+        "providerRefs": [
+          "cp-prov-d971c556c7edac1906d1"
+        ],
+        "providerNames": [
+          "Fedcap Employment Limited"
+        ]
+      },
       {
         "id": "5A",
         "name": "CPA 5A",
@@ -4936,28 +5024,6 @@
         ]
       },
       {
-        "id": "2B",
-        "name": "CPA 2B",
-        "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-21fbb8c0a21e2e493633"
-        ],
-        "providerNames": [
-          "Maximus UK Services Limited"
-        ]
-      },
-      {
-        "id": "1B",
-        "name": "CPA 1B",
-        "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-2789a1755cc22cc57424"
-        ],
-        "providerNames": [
-          "AKG Limited"
-        ]
-      },
-      {
         "id": "5C",
         "name": "CPA 5C",
         "type": "Contract Package Area",
@@ -4969,70 +5035,11 @@
         ]
       },
       {
-        "id": "1A",
-        "name": "CPA 1A",
+        "id": "6",
+        "name": "CPA 6",
         "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-9d743eedde3b19c78cea"
-        ],
-        "providerNames": [
-          "Serco Limited"
-        ]
-      },
-      {
-        "id": "2A",
-        "name": "CPA 2A",
-        "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-56a6889f9394519b4d9b"
-        ],
-        "providerNames": [
-          "Reed in Partnership Limited"
-        ]
-      },
-      {
-        "id": "4B",
-        "name": "CPA 4B",
-        "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-d971c556c7edac1906d1"
-        ],
-        "providerNames": [
-          "Fedcap Employment Limited"
-        ]
-      },
-      {
-        "id": "4A",
-        "name": "CPA 4A",
-        "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-8b87ac381849ba00ad2a"
-        ],
-        "providerNames": [
-          "Seetec Business Technology Centre Limited"
-        ]
-      },
-      {
-        "id": "3B",
-        "name": "CPA 3B",
-        "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-4d0ddc44d084f2598242"
-        ],
-        "providerNames": [
-          "Ingeus UK Limited"
-        ]
-      },
-      {
-        "id": "3A",
-        "name": "CPA 3A",
-        "type": "Contract Package Area",
-        "providerRefs": [
-          "cp-prov-3846cc4bbe2d64494593"
-        ],
-        "providerNames": [
-          "G4S Facilities Management (UK) Limited"
-        ]
+        "providerRefs": [],
+        "providerNames": []
       }
     ]
   },
@@ -6990,483 +6997,7 @@
     "metrics": []
   },
   "procurement": {
-    "opportunities": [
-      {
-        "id": "ocds-h6vhtk-02b0df",
-        "title": "Restart Scheme",
-        "description": "The new Restart Scheme will give Universal Credit claimants who have been out of work for between 12 to 18 months enhanced support to find jobs. The Restart Scheme will break down employment barriers that could be holding them back from finding work. Providers will work with employers, local government and other partners to deliver tailored support for individuals.",
-        "programme": null,
-        "category": "Employment Support",
-        "lifecycleStage": "Contract",
-        "latestEvent": {
-          "event": "Award / Contract Notice",
-          "date": "2021-05-13T22:55:11+01:00",
-          "releaseId": "010606-2021",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/010606-2021",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        },
-        "firstPublishedDate": "2021-05-13T22:55:11+01:00",
-        "lastUpdatedDate": "2021-05-13T22:55:11+01:00",
-        "buyer": {
-          "name": "Department for Work and Pensions"
-        },
-        "suppliers": [
-          "Serco Ltd",
-          "Jobs 22 Ltd",
-          "Reed in Partnership Ltd",
-          "Maximus UK Services Limited",
-          "G4S Facilities Management (UK) Limited",
-          "Ingeus UK Limited",
-          "Seetec Pluss Limited",
-          "Fedcap Employment Limited"
-        ],
-        "values": {
-          "displayValue": 2579590114,
-          "currency": "GBP",
-          "basis": "contract",
-          "estimatedValue": null,
-          "awardedValue": null,
-          "contractValue": 2579590114
-        },
-        "tenderStart": null,
-        "tenderDeadline": null,
-        "contractStart": null,
-        "contractEnd": null,
-        "procurementMethod": "open",
-        "procurementMethodDetails": "Open procedure",
-        "mainProcurementCategory": "services",
-        "cpvCodes": [
-          {
-            "id": "80000000",
-            "description": "Education and training services"
-          },
-          {
-            "id": "75110000",
-            "description": "General public services"
-          },
-          {
-            "id": "75131000",
-            "description": "Government services"
-          },
-          {
-            "id": "75300000",
-            "description": "Compulsory social security services"
-          },
-          {
-            "id": "79611000",
-            "description": "Job search services"
-          },
-          {
-            "id": "80400000",
-            "description": "Adult and other education services"
-          },
-          {
-            "id": "80420000",
-            "description": "E-learning services"
-          },
-          {
-            "id": "80500000",
-            "description": "Training services"
-          },
-          {
-            "id": "80510000",
-            "description": "Specialist training services"
-          },
-          {
-            "id": "80520000",
-            "description": "Training facilities"
-          },
-          {
-            "id": "80522000",
-            "description": "Training seminars"
-          },
-          {
-            "id": "80530000",
-            "description": "Vocational training services"
-          },
-          {
-            "id": "80533100",
-            "description": "Computer training services"
-          },
-          {
-            "id": "80533200",
-            "description": "Computer courses"
-          },
-          {
-            "id": "85000000",
-            "description": "Health and social work services"
-          },
-          {
-            "id": "85312510",
-            "description": "Vocational rehabilitation services"
-          }
-        ],
-        "geography": {
-          "primaryArea": "United Kingdom",
-          "humanReadableAreas": [
-            "United Kingdom"
-          ],
-          "broadRegions": [],
-          "countries": []
-        },
-        "lots": [
-          {
-            "id": "CPA 1a",
-            "title": "CPA 1a West Central",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA1b",
-            "title": "CPA 1b East Central",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 2a",
-            "title": "CPA 2a North East and Humberside",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 2b",
-            "title": "CPA 2b South and West Yorkshire, Derbyshire and Nottinghamshire",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 3a",
-            "title": "CPA 3a North West",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 3b",
-            "title": "CPA 3b Greater Manchester",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 4a",
-            "title": "CPA 4a South West",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 4b",
-            "title": "CPA 4b South Central",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 5a",
-            "title": "CPA 5a Central and West London",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 5b",
-            "title": "CPA 5b South and East London",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 5c",
-            "title": "CPA 5c Home Counties",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          },
-          {
-            "id": "CPA 6",
-            "title": "CPA 6 Wales",
-            "description": "See II.1.4",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "price",
-                "name": null,
-                "description": null,
-                "weight": null
-              }
-            ]
-          }
-        ],
-        "socialValue": {
-          "mentioned": false,
-          "buyerStatedWeighting": null,
-          "evidence": []
-        }
-      },
-      {
-        "id": "ocds-h6vhtk-0289d5",
-        "title": "ReStart: Refugee Integration Project –ESOL Hubs",
-        "description": "The ReStart Project delivers an ambitious and innovative integration support programme for refugees, primarily in Wales’ four asylum dispersal clusters (Cardiff, Swansea, Newport and Wrexham). The project improves access to language tuition, employability support and local cultural knowledge to aid integration. Refugees receive a holistic assessment of their needs and are routed through targeted support to enhance their efforts to integrate into society. The project plays a key part in the Welsh Government’s commitment to develop a ‘Nation of Sanctuary’. This contract plays a major part in the project, aiming to procure suitable service provision (the ReStart: Refugee Integration Service) for Refugees between 1 April 2021 – 31 December 2021, operating primarily in Cardiff, Swansea, Newport and Wrexham. Opportunities to deliver aspects of the service in other appropriate locations across ",
-        "programme": null,
-        "category": "Employment Support",
-        "lifecycleStage": "Contract",
-        "latestEvent": {
-          "event": "Award / Contract Notice",
-          "date": "2021-01-13T11:48:02Z",
-          "releaseId": "000641-2021",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/000641-2021",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        },
-        "firstPublishedDate": "2021-01-13T11:48:02Z",
-        "lastUpdatedDate": "2021-01-13T11:48:02Z",
-        "buyer": {
-          "name": "Welsh Government"
-        },
-        "suppliers": [
-          "Cardiff & Vale College"
-        ],
-        "values": {
-          "displayValue": 474000,
-          "currency": "GBP",
-          "basis": "contract",
-          "estimatedValue": null,
-          "awardedValue": null,
-          "contractValue": 474000
-        },
-        "tenderStart": null,
-        "tenderDeadline": null,
-        "contractStart": null,
-        "contractEnd": null,
-        "procurementMethod": "open",
-        "procurementMethodDetails": "Open procedure",
-        "mainProcurementCategory": "services",
-        "cpvCodes": [
-          {
-            "id": "80000000",
-            "description": "Education and training services"
-          },
-          {
-            "id": "75121000",
-            "description": "Administrative educational services"
-          },
-          {
-            "id": "80210000",
-            "description": "Technical and vocational secondary education services"
-          },
-          {
-            "id": "80400000",
-            "description": "Adult and other education services"
-          },
-          {
-            "id": "80490000",
-            "description": "Operation of an educational centre"
-          }
-        ],
-        "geography": {
-          "primaryArea": "Wales",
-          "humanReadableAreas": [
-            "Wales"
-          ],
-          "broadRegions": [
-            "Wales"
-          ],
-          "countries": []
-        },
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": "The ReStart Project delivers an ambitious and innovative integration support programme for refugees, primarily in Wales’ four asylum dispersal clusters (Cardiff, Swansea, Newport and Wrexham). The project improves access to language tuition, employability support and local cultural knowledge to aid integration. Refugees receive a holistic assessment of their needs and are routed through targeted support to enhance their efforts to integrate into society. The project plays a key part in the Welsh Government’s commitment to develop a ‘Nation of Sanctuary’. This contract plays a major part in the",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractPeriod": {
-              "startDate": null,
-              "endDate": null
-            },
-            "awardCriteria": [
-              {
-                "type": "quality",
-                "name": "Quality",
-                "description": "70",
-                "weight": null
-              },
-              {
-                "type": "price",
-                "name": null,
-                "description": "30",
-                "weight": null
-              }
-            ]
-          }
-        ],
-        "socialValue": {
-          "mentioned": false,
-          "buyerStatedWeighting": null,
-          "evidence": []
-        }
-      }
-    ]
+    "opportunities": []
   },
   "workforce": {
     "generatedAt": "2026-09-16T10:02:13.141Z",
@@ -11976,24 +11507,7 @@
       "Historic delivery patterns can provide useful context for future employment-support commissioning and bid strategy."
     ]
   },
-  "latestUpdates": [
-    {
-      "id": "procurement:ocds-h6vhtk-02b0df",
-      "type": "procurement-update",
-      "title": "Restart Scheme",
-      "summary": "Award / Contract Notice",
-      "effectiveAt": "2021-05-13T22:55:11+01:00",
-      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/010606-2021"
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-0289d5",
-      "type": "procurement-update",
-      "title": "ReStart: Refugee Integration Project –ESOL Hubs",
-      "summary": "Award / Contract Notice",
-      "effectiveAt": "2021-01-13T11:48:02Z",
-      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/000641-2021"
-    }
-  ],
+  "latestUpdates": [],
   "sources": [
     {
       "id": "dwp-programme-funding",
@@ -12008,26 +11522,6 @@
         "https://www.gov.uk/government/publications/workwell-letter-to-integrated-care-systems-on-the-new-service/workwell-letter-to-integrated-care-systems-on-the-new-service",
         "https://www.gov.uk/government/publications/workwell/workwell-prospectus-guidance-for-local-system-partnerships"
       ]
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-02b0df",
-      "name": "Department for Work and Pensions procurement notice",
-      "official": true,
-      "latestPublicationDate": "2021-05-13T22:55:11+01:00",
-      "latestRetrievedAt": null,
-      "urls": [
-        "https://www.find-tender.service.gov.uk/Notice/010606-2021"
-      ]
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-0289d5",
-      "name": "Welsh Government procurement notice",
-      "official": true,
-      "latestPublicationDate": "2021-01-13T11:48:02Z",
-      "latestRetrievedAt": null,
-      "urls": [
-        "https://www.find-tender.service.gov.uk/Notice/000641-2021"
-      ]
     }
   ],
   "dataAvailability": {
@@ -12039,10 +11533,10 @@
     "localAllocations": false,
     "deliveryAreas": true,
     "providers": true,
-    "procurement": true,
+    "procurement": false,
     "workforce": true,
     "labourMarket": true,
-    "latestUpdates": true
+    "latestUpdates": false
   },
   "publication": {
     "publicWebsiteEligible": true,

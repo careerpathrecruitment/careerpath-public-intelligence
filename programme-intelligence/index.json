@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-programme-intelligence",
-  "generatedAt": "2026-09-16T10:08:56.874Z",
+  "generatedAt": "2026-09-16T10:12:59.457Z",
   "sourceSnapshotId": "careerpath-insights-frontend-export",
   "sourceSchemaVersion": 1,
   "qualityStatus": "passed-with-warnings",
@@ -13,7 +13,7 @@
       "name": "Connect to Work",
       "status": "active",
       "description": "A voluntary, locally commissioned Supported Employment programme supporting disabled people, people with health conditions and people with complex barriers to employment to find or retain sustainable work.",
-      "latestEvidenceDate": "2026-09-16T10:01:16.534Z",
+      "latestEvidenceDate": "2026-09-16T10:01:19.051Z",
       "providerCount": 0,
       "geographicAreaCount": 2,
       "deliveryAreaCount": 35,
@@ -44,15 +44,13 @@
       "geographicAreaCount": 9,
       "deliveryAreaCount": 9,
       "deliveryAreaType": "Trailblazer area",
-      "procurementCount": 2,
+      "procurementCount": 0,
       "availableModules": [
         "funding",
         "localAllocations",
         "deliveryAreas",
-        "procurement",
         "workforce",
-        "labourMarket",
-        "latestUpdates"
+        "labourMarket"
       ],
       "destination": "/programme-intelligence/economic-inactivity-trailblazers"
     },
@@ -67,12 +65,10 @@
       "geographicAreaCount": 0,
       "deliveryAreaCount": 0,
       "deliveryAreaType": "procurement area",
-      "procurementCount": 4,
+      "procurementCount": 0,
       "availableModules": [
-        "procurement",
         "workforce",
-        "labourMarket",
-        "latestUpdates"
+        "labourMarket"
       ],
       "destination": "/programme-intelligence/future-employment-support"
     },
@@ -82,22 +78,20 @@
       "name": "Restart Scheme",
       "status": "active",
       "description": "DWP employment support programme providing tailored and intensive support to eligible Universal Credit claimants to help them achieve sustained work.",
-      "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+      "latestEvidenceDate": "2026-09-16T10:01:19.051Z",
       "providerCount": 8,
       "geographicAreaCount": 2,
-      "deliveryAreaCount": 11,
+      "deliveryAreaCount": 12,
       "deliveryAreaType": "Contract Package Area",
-      "procurementCount": 2,
+      "procurementCount": 0,
       "availableModules": [
         "performance",
         "providerPerformance",
         "participantProfile",
         "deliveryAreas",
         "providers",
-        "procurement",
         "workforce",
-        "labourMarket",
-        "latestUpdates"
+        "labourMarket"
       ],
       "destination": "/programme-intelligence/restart-scheme"
     },
@@ -107,7 +101,7 @@
       "name": "WorkWell",
       "status": "active",
       "description": "An integrated early-intervention work and health support service providing light-touch, holistic support for people with health-related barriers to employment, delivered through Integrated Care Board partnerships.",
-      "latestEvidenceDate": "2026-09-16T10:01:17.647Z",
+      "latestEvidenceDate": "2026-09-16T10:01:19.051Z",
       "providerCount": 0,
       "geographicAreaCount": 16,
       "deliveryAreaCount": 14,
@@ -129,7 +123,7 @@
       "name": "Youth Guarantee Trailblazers",
       "status": "active",
       "description": "Eight place-based Youth Guarantee Trailblazers testing locally led support for young people who are NEET or at risk of becoming NEET, linking employment, education, training and wider support.",
-      "latestEvidenceDate": "2026-09-16T10:01:18.288Z",
+      "latestEvidenceDate": "2026-09-16T10:01:19.051Z",
       "providerCount": 0,
       "geographicAreaCount": 8,
       "deliveryAreaCount": 8,
