@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T18:22:04.820Z",
+  "generatedAt": "2026-09-16T18:22:26.206Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -271,10 +271,7 @@
         "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
       },
       "bidRequirements": {
-        "publishedRequirementSignals": [
-          "Kylee Bates, COO at Brightpeak Group (parent company of WorkPays, a current AKG Restart delivery partner), joined to share her experience of that partnership in practice, before the panel took live questions from attendees..",
-          "We use cookies to ensure that we give you the best experience on our website."
-        ],
+        "publishedRequirementSignals": [],
         "suitabilitySignals": [
           "Health / disability specialist sought or mentioned by the prime provider"
         ],
@@ -315,7 +312,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:19:12.827Z",
+          "date": "2026-09-16T18:22:05.363Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -328,7 +325,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-09-16T18:19:12.827Z"
+        "lastVerified": "2026-09-16T18:22:05.363Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -401,10 +398,7 @@
       },
       "bidRequirements": {
         "publishedRequirementSignals": [
-          "Customer experience Crown Commercial Service Supplier .",
-          "This may include skills, training and work experience; matching participants with employers through job trials, jobs fairs and job brokering; support with self-employment; intensive and repeated support with applications and interviewing; support in managing health conditions in the workplace; support with travel and childcare; and access to specialist support (e.g.",
-          "Our ambition is to work with a diverse network of partners who share our commitment to delivering high-quality, person-centred support and measurable impact.",
-          "Ideal partners will bring proven experience in supporting individuals into work, delivering personalised and intensive support, engaging employers, and working with people who have complex needs.",
+          "We especially welcome organisations with strong local knowledge, innovative or evidence-based delivery models, and a collaborative approach to partnership working.. .",
           "Submit . . . . \" * \" indicates required fields. ."
         ],
         "suitabilitySignals": [
@@ -465,7 +459,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:19:12.827Z",
+          "date": "2026-09-16T18:22:05.363Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -478,7 +472,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-09-16T18:19:12.827Z"
+        "lastVerified": "2026-09-16T18:22:05.363Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -551,8 +545,6 @@
       },
       "bidRequirements": {
         "publishedRequirementSignals": [
-          "Together with our partners, we will deliver high-quality employability support that transforms people’s lives and their communities..",
-          "This may include skills development, work experience, health-related employment support, self-employment guidance and employer engagement activities tailored to local labour market needs.",
           "We are particularly keen to hear from organisations who can demonstrate proven experience in:.",
           "For organisations with a proven track record of delivering high-performing employment services and the capacity to deliver across part or all of one or more CPAs please click here .."
         ],
@@ -609,7 +601,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:19:12.827Z",
+          "date": "2026-09-16T18:22:05.363Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -622,7 +614,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-09-16T18:19:12.827Z"
+        "lastVerified": "2026-09-16T18:22:05.363Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -694,9 +686,7 @@
         "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
       },
       "bidRequirements": {
-        "publishedRequirementSignals": [
-          "If you share our ambition to deliver high-quality, locally integrated employment support, we’d love to hear from you.."
-        ],
+        "publishedRequirementSignals": [],
         "suitabilitySignals": [
           "SME sought or mentioned by the prime provider",
           "VCSE / voluntary sector sought or mentioned by the prime provider",
@@ -752,7 +742,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:19:12.827Z",
+          "date": "2026-09-16T18:22:05.363Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -765,7 +755,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-09-16T18:19:12.827Z"
+        "lastVerified": "2026-09-16T18:22:05.363Z"
       },
       "dataCompleteness": {
         "status": "partial",
