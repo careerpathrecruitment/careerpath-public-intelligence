@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-programme-intelligence",
-  "generatedAt": "2026-09-16T10:20:26.528Z",
+  "generatedAt": "2026-09-16T15:18:11.687Z",
   "sourceSnapshotId": "careerpath-insights-frontend-export",
   "sourceSchemaVersion": 1,
   "qualityStatus": "passed-with-warnings",
-  "programmeCount": 6,
+  "programmeCount": 10,
   "programmes": [
     {
       "id": "cp-prog-ee7e90ed917f45d5c68f",
@@ -136,6 +136,85 @@
         "labourMarket"
       ],
       "destination": "/programme-intelligence/youth-guarantee"
+    },
+    {
+      "id": "cp-prog-4808335472a00c87293f",
+      "slug": "adult-skills-fund",
+      "name": "Adult Skills Fund",
+      "status": "active",
+      "description": "Devolved adult skills funding in England, including core Adult Skills Fund and published Free Courses for Jobs funding streams.",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "providerCount": 0,
+      "geographicAreaCount": 0,
+      "deliveryAreaCount": 0,
+      "deliveryAreaType": "funded area",
+      "procurementCount": 0,
+      "availableModules": [
+        "workforce",
+        "labourMarket"
+      ],
+      "destination": "/programme-intelligence/adult-skills-fund"
+    },
+    {
+      "id": "cp-prog-877c57055881f229cc17",
+      "slug": "skills-bootcamps",
+      "name": "Skills Bootcamps",
+      "status": "active",
+      "description": "Employer co-designed short courses for adults to retrain or upskill in priority sectors, funded through standalone grants, single Adult Skills allocations or Integrated Settlements.",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "providerCount": 0,
+      "geographicAreaCount": 0,
+      "deliveryAreaCount": 0,
+      "deliveryAreaType": "funded area",
+      "procurementCount": 0,
+      "availableModules": [
+        "workforce",
+        "labourMarket"
+      ],
+      "destination": "/programme-intelligence/skills-bootcamps"
+    },
+    {
+      "id": "cp-prog-8d5b0b55b573c0894af3",
+      "slug": "sector-based-work-academy-programme",
+      "name": "Sector-based Work Academy Programme",
+      "status": "active",
+      "description": "Demand-led employment support delivered through Jobcentre Plus with employers and training providers, combining pre-employment training, work experience and a guaranteed job interview linked to real vacancies.",
+      "latestEvidenceDate": "2026-09-16T15:17:57.069Z",
+      "providerCount": 0,
+      "geographicAreaCount": 0,
+      "deliveryAreaCount": 0,
+      "deliveryAreaType": "national coverage area",
+      "procurementCount": 0,
+      "availableModules": [
+        "performance",
+        "workforce",
+        "labourMarket",
+        "latestUpdates"
+      ],
+      "destination": "/programme-intelligence/sector-based-work-academy-programme"
+    },
+    {
+      "id": "cp-prog-cd46c376ed2d265e9881",
+      "slug": "apprenticeships-growth-skills-levy",
+      "name": "Apprenticeships in England",
+      "status": "active",
+      "description": "England's government-supported apprenticeship system, including foundation apprenticeships and the Growth and Skills Levy reforms.",
+      "latestEvidenceDate": "2026-09-16T15:17:55.189Z",
+      "providerCount": 500,
+      "geographicAreaCount": 0,
+      "deliveryAreaCount": 0,
+      "deliveryAreaType": "provider network",
+      "procurementCount": 0,
+      "availableModules": [
+        "performance",
+        "providerPerformance",
+        "participantProfile",
+        "providers",
+        "workforce",
+        "labourMarket",
+        "latestUpdates"
+      ],
+      "destination": "/programme-intelligence/apprenticeships-growth-skills-levy"
     }
   ],
   "missingFeaturedProgrammes": [],
