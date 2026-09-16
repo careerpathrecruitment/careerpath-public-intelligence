@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T19:33:17.142Z",
+  "generatedAt": "2026-09-16T20:03:48.993Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -257,6 +257,25 @@
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 2306000,
+        "contractValueBasis": "tender-estimate",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [
+          "The Contracting Authority is seeking to procure a specialist Individual Placement and Support (IPS) service to support adults engaged in structured drug and alcohol treatment services across the six London boroughs of: Croydon Kingston upon Thames Merton Richmond upon Thames Sutton Wandsworth The successful provider will deliver a high-quality IPS employment service that supports individuals receiving treatment for d"
+        ],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -353,7 +372,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-16T19:32:42.382Z"
+        "lastVerified": "2026-09-16T20:03:11.098Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -462,6 +481,23 @@
           ],
           "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -734,6 +770,25 @@
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "procurement"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -993,6 +1048,25 @@
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "procurement"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -1280,6 +1354,25 @@
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "procurement"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -1571,6 +1664,25 @@
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "procurement"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -1761,6 +1873,25 @@
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [
+          "The Contracting Authority is seeking to procure a specialist Individual Placement and Support (IPS) service to support adults engaged in structured drug and alcohol treatment services across the six London boroughs of: Croydon Kingston upon Thames Merton Richmond upon Thames Sutton Wandsworth The successful provider will deliver a high-quality IPS employment service that supports individuals receiving treatment for d"
+        ],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -1857,7 +1988,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-16T19:32:42.382Z"
+        "lastVerified": "2026-09-16T20:03:11.098Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1977,6 +2108,25 @@
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "procurement"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -2275,6 +2425,25 @@
           ],
           "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -2522,6 +2691,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 210000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -2768,6 +2956,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 42000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -3014,6 +3221,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 54000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -3260,6 +3486,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 36000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -3477,6 +3722,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 27000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -3725,6 +3989,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 44000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -3974,6 +4257,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 45000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -4145,6 +4447,23 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 99000,
+        "contractValueBasis": "contract",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -4394,6 +4713,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 144000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -4607,6 +4945,25 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 360000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 0,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -4832,6 +5189,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 225000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "allocation"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 395,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -5090,6 +5467,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 1570000,
+        "contractValueBasis": "contract",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 35,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -5351,6 +5748,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 40000,
+        "contractValueBasis": "contract",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "allocation"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 395,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -5648,6 +6065,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 1594284,
+        "contractValueBasis": "contract",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "allocation"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 395,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -5909,6 +6346,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 40000,
+        "contractValueBasis": "contract",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "allocation"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 395,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -6267,6 +6724,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 450000,
+        "contractValueBasis": "contract",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "allocation"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 395,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -6545,6 +7022,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": null,
+        "contractValueBasis": "not-published",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "allocation"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 48,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -6886,6 +7383,26 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 3881351,
+        "contractValueBasis": "contract",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [],
+        "fundingRecordCount": 35,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     },
     {
@@ -7247,6 +7764,28 @@
           "changes": [],
           "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
+      },
+      "programmeEconomics": {
+        "contractValue": 2000000,
+        "contractValueBasis": "award",
+        "programmeFundingHeadline": null,
+        "programmeFundingCurrency": null,
+        "fundingMechanisms": [
+          "grant",
+          "mixed"
+        ],
+        "paymentModelSignals": [],
+        "publishedCommercialEvidence": [],
+        "publishedPerformanceEvidence": [
+          "The Connect to Work (Connect to Work - GOV.UK) programme is a Department for Work and Pensions (DWP) funded initiative designed to support individuals who are economically inactive or at risk of leaving employment to access and sustain suitable work."
+        ],
+        "fundingRecordCount": 35,
+        "outcomeLinkedPaymentMentioned": false,
+        "milestonePaymentMentioned": false,
+        "reconciliationOrClawbackMentioned": false,
+        "serviceCreditMentioned": false,
+        "indexationMentioned": false,
+        "note": "Programme Economics reports only published funding, payment and performance evidence. CareerPath does not estimate provider margin, profitability, cashflow or commercial viability where those facts are not published."
       }
     }
   ],
@@ -7262,7 +7801,9 @@
     "readiness": "Published-data readiness flags show which facts are available for an opportunity. They are not rankings, scores, suitability assessments or recommendations.",
     "recommissioningDelta": "CareerPath compares only records already present in its curated dataset and presents published factual differences. A match is not proof of formal reprocurement lineage unless the source material says so.",
     "workforceSignals": "Workforce figures are aggregated returned-vacancy and advertised-salary observations from CareerPath programme intelligence. They are not total market vacancy counts, staffing requirements or evidence that a named provider has won a contract.",
-    "localDeliveryContext": "Local indicators are shown only where CareerPath can safely match an opportunity geography to a programme regional series."
+    "localDeliveryContext": "Local indicators are shown only where CareerPath can safely match an opportunity geography to a programme regional series.",
+    "programmeEconomics": "Programme Economics combines opportunity-level published commercial/performance wording with linked Programme Intelligence funding mechanisms. It never estimates margin, profitability, cashflow or viability.",
+    "frameworkIntelligence": "Framework/DPS/Dynamic Market records are identified from CareerPath's curated Employment & Skills procurement corpus using explicit published framework terminology. An open-access signal is shown only where published text indicates admission/joining wording; it is not a guarantee that the route is currently open."
   },
   "publication": {
     "websitePublication": false,
@@ -7286,7 +7827,8 @@
     "opportunityIntelligenceV1": true,
     "sourceRegistryVersion": 1,
     "valueNullCorrections": 3,
-    "opportunityIntelligenceV2": true
+    "opportunityIntelligenceV2": true,
+    "opportunityIntelligenceV3": true
   },
   "coverage": {
     "sourceCount": 7,
@@ -8140,5 +8682,1875 @@
         "description": "Maps public prime-provider EOIs and partnership routes by programme, including partner types, specialisms, geography and deadlines where published."
       }
     }
+  },
+  "frameworkIntelligence": {
+    "records": [
+      {
+        "id": "ocds-h6vhtk-02d6b7",
+        "slug": "direct-award-mental-health-employment-support-and-employment-advice-services-isle-of-wight-only-ocds-h6vhtk-02d6b7",
+        "title": "Direct Award Mental Health Employment Support and Employment Advice Services (Isle of Wight only)",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "NHS HAMPSHIRE, SOUTHAMPTON AND ISLE OF WIGHT CCG",
+        "programme": "Employment Support",
+        "geography": [
+          "The Isle of Wight",
+          "Isle Of Wight",
+          "South East England"
+        ],
+        "value": 955355,
+        "currency": "GBP",
+        "tenderDeadline": "2021-09-24T08:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": 955355,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [
+          "OSEL Enterprises Ltd"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/025525-2021",
+        "lastVerified": "2026-09-14T18:05:38.382Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02f183",
+        "slug": "employability-services-ocds-h6vhtk-02f183",
+        "title": "Employability Services",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Scotland Excel",
+        "programme": "Employment Support",
+        "geography": [
+          "Various locations throughout the geographical boundaries of the participating councils within Scotland.",
+          "Scotland"
+        ],
+        "value": 40000000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Planning",
+        "lotCount": 2,
+        "lots": [
+          {
+            "id": "1",
+            "title": "Lot 1",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "2",
+            "title": "Lot 2",
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/027157-2021",
+        "lastVerified": "2026-09-14T18:01:19.337Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02df54",
+        "slug": "dynamic-purchasing-system-for-apprenticeship-training-and-assessment-ocds-h6vhtk-02df54",
+        "title": "Dynamic Purchasing System for Apprenticeship Training and Assessment",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Sandwell Metropolitan Borough Council",
+        "programme": "Apprenticeships",
+        "geography": [
+          "Sandwell",
+          "West Midlands"
+        ],
+        "value": 494000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Axia Solutions",
+          "Sandwell College",
+          "Wolverhampton University",
+          "University College Birmingham",
+          "QA Limited",
+          "Juniper Training",
+          "University of Birmingham"
+        ],
+        "publishedSupplierCount": 7,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/022501-2021",
+        "lastVerified": "2026-09-14T17:56:55.294Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02e6a0",
+        "slug": "rm6102-call-off-contract-apprenticeship-training-provider-software-developer-ocds-h6vhtk-02e6a0",
+        "title": "RM6102 Call Off Contract Apprenticeship Training Provider - Software Developer",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "HS2",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 18000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "ESTIO TRAINING LIMITED"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/024369-2021",
+        "lastVerified": "2026-09-14T17:52:31.855Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02e6ab",
+        "slug": "rm6102-call-off-contract-apprenticeship-training-provider-internal-audit-practitioner-ocds-h6vhtk-02e6ab",
+        "title": "RM6102 Call Off Contract Apprenticeship Training Provider - Internal Audit Practitioner",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "HS2",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 9000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "MBKB LTD"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/024380-2021",
+        "lastVerified": "2026-09-14T17:52:31.218Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02e6ac",
+        "slug": "rm6102-call-off-contract-apprenticeship-training-provider-fraud-investigator-ocds-h6vhtk-02e6ac",
+        "title": "RM6102 Call Off Contract Apprenticeship Training Provider - Fraud Investigator",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "HS2",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 15000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Intelligencia Training Limited"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/024381-2021",
+        "lastVerified": "2026-09-14T17:52:30.930Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02e6ad",
+        "slug": "rm6102-call-off-contract-apprenticeship-training-provider-corporate-procurement-ocds-h6vhtk-02e6ad",
+        "title": "RM6102 Call Off Contract Apprenticeship Training Provider - Corporate Procurement",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "HS2",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 18000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "SR SUPPLY CHAIN CONSULTANTS LTD"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/024382-2021",
+        "lastVerified": "2026-09-14T17:52:30.587Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02e6ae",
+        "slug": "rm6102-call-off-contract-apprenticeship-training-provider-corporate-responsibility-and-sustainab-ocds-h6vhtk-02e6ae",
+        "title": "RM6102 Call Off Contract Apprenticeship Training Provider - Corporate Responsibility and Sustainability Practitioner",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "HS2",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 14000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "MBKB LTD"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/024383-2021",
+        "lastVerified": "2026-09-14T17:52:30.186Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02a1e0",
+        "slug": "adult-integrated-substance-use-drug-and-alcohol-assessment-treatment-and-recovery-service-sefton-ocds-h6vhtk-02a1e0",
+        "title": "Adult Integrated Substance Use (Drug and Alcohol): Assessment, Treatment and Recovery Service-Sefton Council",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Sefton Council",
+        "programme": "Employment Support",
+        "geography": [
+          "North West England"
+        ],
+        "value": 23710400,
+        "currency": "GBP",
+        "tenderDeadline": "2021-04-30T11:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": 23710400,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [
+          "Change Live Grow Services Ltd"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/018713-2021",
+        "lastVerified": "2026-09-14T17:48:06.549Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02d1d8",
+        "slug": "as16510-supported-employment-ocds-h6vhtk-02d1d8",
+        "title": "AS16510 Supported Employment",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "HAMPSHIRE COUNTY COUNCIL",
+        "programme": "Supported Employment / IPS",
+        "geography": [
+          "South East England"
+        ],
+        "value": 1050000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Planning",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/019049-2021",
+        "lastVerified": "2026-09-14T17:47:59.955Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02d475",
+        "slug": "csr-128-civil-service-central-apprenticeship-contract-ocds-h6vhtk-02d475",
+        "title": "CSR/128 - Civil Service central Apprenticeship Contract",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Cabinet Office",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 63423800,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Planning",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/019718-2021",
+        "lastVerified": "2026-09-14T17:43:54.219Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02d71c",
+        "slug": "dynamic-purchasing-system-for-employability-and-skills-fifth-contract-notice-of-contracts-awarde-ocds-h6vhtk-02d71c",
+        "title": "Dynamic Purchasing System for Employability and Skills - Fifth Contract Notice of Contracts Awarded",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Belfast City Council",
+        "programme": "Employment Support",
+        "geography": [
+          "Northern Ireland"
+        ],
+        "value": 3314000,
+        "currency": "GBP",
+        "tenderDeadline": "2021-09-21T11:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 18,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": 3000000,
+            "currency": "GBP"
+          },
+          {
+            "id": "Sub-Category 3c Construction",
+            "title": "T2150a - Delivery of Fibre Employment Academies",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 3b Digital",
+            "title": "T2150b - Delivery of Technology Employment Academies",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 4a: Administration",
+            "title": "T2150n - Delivery of a Business Services Employment Academy",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 2b – Hospitality and/or Retail",
+            "title": "T2150d - Delivery of Hospitality and Tourism at Sea Employment Academies",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 1b – Education and/or Childcare/Play work",
+            "title": "T2150e Delivery of Irish Medium Classroom Assistant Employment Academies",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "1b",
+            "title": "T2150f - Delivery of Level 4 Classroom Assistant Upskilling Employment Academies",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 5a: Capacity Building",
+            "title": "T2150m - Delivery of a GCSE Maths and English Support Programme",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 1b: Education and/or Childcare/Play work",
+            "title": "T2150i Delivery of a Childminding Employment Academy",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub Category 5a: Capacity Building",
+            "title": "T2150j - Provision of a Digital Badging Service for Employment Academies",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-category 5b: Employer Support",
+            "title": "T2150k - Provision of a Music Internship Programme",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-category 5a: Capacity Building",
+            "title": "T2150k - Delivery of a Language Support Employment Academy",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 5b: Employer Support",
+            "title": "T2150o - Employer Engagement Support",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 5a: Capacity Building T2150p",
+            "title": "T2150p - Delivery of a Beauty and Nail Technician Employment Academy",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 3d: Manufacturing T2150q",
+            "title": "T2150q - Delivery of Shipbuilding/Refurbishment Employment Academies",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 5a: Capacity Building T2150r",
+            "title": "T2150r - Delivery of a Customer Services Deaf Employment Academy",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 5a: Capacity Building T2150s",
+            "title": "Delivery of a Language Support Employment Academy (Medics)",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "Sub-Category 5a: Capacity Building T2150t",
+            "title": "Delivery of a Bridges to Progression Programme",
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Fibre Contractors Ltd",
+          "Fit Ltd",
+          "GEMS NI Ltd",
+          "Lagan Marine Training and Recruitment Ltd",
+          "Gaelchúrsaí Ltd",
+          "Stranmillis College",
+          "West Belfast Partnership Board",
+          "DFPF Ltd t/a People 1st",
+          "Northern Ireland Childminding Association",
+          "Navigatr Limited",
+          "Workplus",
+          "Klik2Learn",
+          "Training for Women Network",
+          "Utopian Learning",
+          "AdaptNI CIC",
+          "Extern Northern Ireland"
+        ],
+        "publishedSupplierCount": 16,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/077210-2025",
+        "lastVerified": "2026-09-14T17:43:51.548Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02daa1",
+        "slug": "civil-service-central-apprenticeship-contract-ocds-h6vhtk-02daa1",
+        "title": "Civil Service central Apprenticeship Contract",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Cabinet Office",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 63423800,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Planning",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/021298-2021",
+        "lastVerified": "2026-09-14T17:43:42.610Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02c6dc",
+        "slug": "p5258-apprenticeship-training-and-education-dps-ocds-h6vhtk-02c6dc",
+        "title": "P5258 Apprenticeship Training and Education DPS",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Tower Hamlets",
+        "programme": "Apprenticeships",
+        "geography": [
+          "London"
+        ],
+        "value": null,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Let Me Play",
+          "The Training Place of Excellence",
+          "Arden University",
+          "Middlesex University Higher Education"
+        ],
+        "publishedSupplierCount": 4,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/016234-2021",
+        "lastVerified": "2026-09-14T17:35:07.601Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02c803",
+        "slug": "digital-apprenticeships-l4-devops-ocds-h6vhtk-02c803",
+        "title": "Digital apprenticeships L4 DevOps",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "H M Revenue & Customs",
+        "programme": "Apprenticeships",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 390000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Makers Academy Limited"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/016529-2021",
+        "lastVerified": "2026-09-14T17:35:02.088Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02cae1",
+        "slug": "learning-disability-open-framework-agreement-for-providers-in-somerset-ocds-h6vhtk-02cae1",
+        "title": "Learning Disability Open Framework Agreement for Providers in Somerset",
+        "frameworkType": "open-framework",
+        "frameworkTypeLabel": "Open Framework",
+        "buyer": "Somerset County Council",
+        "programme": "Employment Support",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 60000000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Multiple Suppliers"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/017267-2021",
+        "lastVerified": "2026-09-14T17:34:52.574Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02cd5c",
+        "slug": "id-3336901-dfe-apprenticeshipsni-2021-programme-apps21-ocds-h6vhtk-02cd5c",
+        "title": "ID 3336901 DfE ApprenticeshipsNI 2021 Programme (Apps21)",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Department for the Economy",
+        "programme": "Apprenticeships",
+        "geography": [
+          "Northern Ireland"
+        ],
+        "value": 5550000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Short Brothers PLC",
+          "Babcock Training Ltd",
+          "21TRAINING LIMITED",
+          "NETWORK PERSONNEL LTD",
+          "IMPACT TRAINING N.I LIMITED",
+          "BRYSON ENERGY",
+          "CRAFT TRAINING LTD",
+          "SPRINGVALE TRAINING LTD",
+          "Decorum",
+          "COALISLAND TRAINING SERVICES LIMITED",
+          "RIVERPARK TRAINING AND DEVELOPMENT NI LTD",
+          "NORTHERN IRELAND ELECTRICITY NETWORKS LIMITED",
+          "GLOBAL HORIZON SKILLS LTD",
+          "RUTLEDGE RECRUITMENT TRAINING LTD",
+          "TRANSPORT TRAINING SERVICES NI LTD",
+          "BELFAST CENTRAL TRAINING LIMITED",
+          "LOUGHVIEW TRAINING SERVICES LIMITED",
+          "LIMESTONE YOUTH TRAINING PROJECT LIMITED",
+          "B.C.W. TRAINING LIMITED",
+          "WORKFORCE TRAINING SERVICES LIMITED",
+          "STEER TRAINING ACADEMY LTD",
+          "D.F.P.F. LTD"
+        ],
+        "publishedSupplierCount": 22,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/017902-2021",
+        "lastVerified": "2026-09-14T17:30:47.361Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02b762",
+        "slug": "improving-access-to-psychological-therapies-services-1-in-hounslow-ocds-h6vhtk-02b762",
+        "title": "Improving Access to Psychological Therapies Services 1 in Hounslow",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "NHS Hounslow Clinical Commissioning Group",
+        "programme": "Employment Support",
+        "geography": [
+          "London"
+        ],
+        "value": 138443,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Twinings Enterprise"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/012272-2021",
+        "lastVerified": "2026-09-14T17:26:13.481Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02a93a",
+        "slug": "edinburgh-s-blended-employability-services-ocds-h6vhtk-02a93a",
+        "title": "Edinburgh's Blended Employability Services",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "The City of Edinburgh Council",
+        "programme": "Supported Employment / IPS",
+        "geography": [
+          "Edinburgh",
+          "City of Edinburgh",
+          "Scotland"
+        ],
+        "value": 10500000,
+        "currency": "GBP",
+        "tenderDeadline": "2021-06-17T09:30:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Live Tender",
+        "lotCount": 4,
+        "lots": [
+          {
+            "id": "4",
+            "title": "In Work Employment Support Service (IWESS)",
+            "value": 1080000,
+            "currency": "GBP"
+          },
+          {
+            "id": "1",
+            "title": "Targeted Employability Service (TES)",
+            "value": 2160000,
+            "currency": "GBP"
+          },
+          {
+            "id": "2",
+            "title": "Supported Employment Service",
+            "value": 5760000,
+            "currency": "GBP"
+          },
+          {
+            "id": "3",
+            "title": "Complex Needs Employability Service",
+            "value": 1500000,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/012304-2021",
+        "lastVerified": "2026-09-14T17:26:12.249Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02a5fc",
+        "slug": "cwc21016-supported-employment-for-vulnerable-young-adults-of-working-age-ocds-h6vhtk-02a5fc",
+        "title": "CWC21016 - Supported Employment for Vulnerable (Young) Adults of Working Age",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Wolverhampton City Council",
+        "programme": "Supported Employment / IPS",
+        "geography": [
+          "West Midlands"
+        ],
+        "value": 850000,
+        "currency": "GBP",
+        "tenderDeadline": "2021-05-17T11:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Live Tender",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": 850000,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/007819-2021",
+        "lastVerified": "2026-09-14T17:00:07.518Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02a764",
+        "slug": "dynamic-purchasing-system-dps-apprenticeship-training-providers-and-associated-training-ocds-h6vhtk-02a764",
+        "title": "Dynamic Purchasing System (DPS) Apprenticeship Training Providers and Associated Training",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Nottinghamshire County Council",
+        "programme": "Apprenticeships",
+        "geography": [],
+        "value": null,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Live Tender",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/008179-2021",
+        "lastVerified": "2026-09-14T16:59:58.103Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02a770",
+        "slug": "apprenticeships-commissioning-programme-wales-framework-agreement-ocds-h6vhtk-02a770",
+        "title": "Apprenticeships Commissioning Programme Wales Framework Agreement",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Welsh Government",
+        "programme": "Apprenticeships",
+        "geography": [
+          "Wales"
+        ],
+        "value": 1050000000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Gower College Swansea",
+          "Cardiff & Vale College",
+          "NEATH PORT TALBOT COLLEGE",
+          "Pembrokeshire College",
+          "Coleg Cambria",
+          "Grwp Llandrillo Menai",
+          "Cambrian Training Company",
+          "ACT Training",
+          "Educ8 Training Group Ltd",
+          "ITEC Training Solutions"
+        ],
+        "publishedSupplierCount": 10,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/008191-2021",
+        "lastVerified": "2026-09-14T16:59:57.829Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02a9cd",
+        "slug": "learning-disability-open-framework-agreement-for-providers-in-somerset-ocds-h6vhtk-02a9cd",
+        "title": "Learning Disability Open Framework Agreement for Providers in Somerset",
+        "frameworkType": "open-framework",
+        "frameworkTypeLabel": "Open Framework",
+        "buyer": "Somerset County Council",
+        "programme": "Employment Support",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 60000000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Multiple Suppliers"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/008796-2021",
+        "lastVerified": "2026-09-14T16:55:36.405Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-02aa37",
+        "slug": "p5258-apprenticeship-training-and-education-dps-ocds-h6vhtk-02aa37",
+        "title": "P5258 Apprenticeship Training and Education DPS",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Tower Hamlets",
+        "programme": "Apprenticeships",
+        "geography": [
+          "London"
+        ],
+        "value": 99500,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Let Me Play"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/008902-2021",
+        "lastVerified": "2026-09-14T16:55:34.530Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-0299e6",
+        "slug": "framework-for-the-delivery-of-employability-skills-support-ocds-h6vhtk-0299e6",
+        "title": "Framework for the delivery of Employability Skills Support",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "West Dunbartonshire Council",
+        "programme": "Employment Support",
+        "geography": [
+          "Scotland"
+        ],
+        "value": 1200000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 3,
+        "lots": [
+          {
+            "id": "1",
+            "title": "Engagement and Barrier Removal",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "2",
+            "title": "Vocational Training and Work Related Skills",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "3",
+            "title": "In Work Support and Work Based Qualifications",
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Archaeology Scotland",
+          "Barnardos Scotland",
+          "Impact Arts",
+          "Salus Return to Work Services",
+          "Scottish Sports Futures",
+          "Sinclair Wellbeing and Training Solutions Ltd",
+          "The Lennox Partnership",
+          "The Tell Organisation Ltd",
+          "The Wise Group",
+          "Glasgow Clyde College",
+          "GTS Solutions CIC",
+          "HSC Futures Ltd",
+          "Sixth Sense Training",
+          "Street League",
+          "The Digital College Ltd",
+          "The Training Team ( Scotland )",
+          "Experiential Play Ltd",
+          "Your The Hero"
+        ],
+        "publishedSupplierCount": 18,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/004725-2021",
+        "lastVerified": "2026-09-14T16:42:37.863Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-029c4a",
+        "slug": "dynamic-purchasing-system-dps-apprenticeship-training-providers-and-associated-training-ocds-h6vhtk-029c4a",
+        "title": "Dynamic Purchasing System (DPS) Apprenticeship Training Providers and Associated Training",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Nottinghamshire County Council",
+        "programme": "Apprenticeships",
+        "geography": [
+          "East Midlands"
+        ],
+        "value": null,
+        "currency": "GBP",
+        "tenderDeadline": "2021-03-17T12:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Live Tender",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": 50000000,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/005337-2021",
+        "lastVerified": "2026-09-14T16:42:29.764Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-029cde",
+        "slug": "direct-payment-support-services-framework-ocds-h6vhtk-029cde",
+        "title": "Direct Payment Support Services Framework",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Nottinghamshire County Council",
+        "programme": "Employment Support",
+        "geography": [
+          "East Midlands"
+        ],
+        "value": null,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Purple Zest Limited",
+          "The Penderels Trust Limited",
+          "Peopleplus Group Limited",
+          "Rosekel Resourcing Limited",
+          "Solo Support Services Limited"
+        ],
+        "publishedSupplierCount": 5,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/005485-2021",
+        "lastVerified": "2026-09-14T16:42:27.200Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-029e6d",
+        "slug": "nhs-noe-cpc-apprenticeships-dynamic-purchasing-system-ocds-h6vhtk-029e6d",
+        "title": "NHS NOE CPC - Apprenticeships Dynamic Purchasing System",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "North of England Commercial Procurement Collaborative (NOE CPC)",
+        "programme": "Apprenticeships",
+        "geography": [
+          "Please refer to the II.1.2 of the original published notice - 2017/S 056-104730",
+          "United Kingdom"
+        ],
+        "value": 0.01,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": "2021-09-30T22:59:59.000Z",
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "N/A"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/005884-2021",
+        "lastVerified": "2026-09-14T16:38:17.738Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-029eaa",
+        "slug": "id-3336901-dfe-apprenticeshipsni-2021-programme-apps21-ocds-h6vhtk-029eaa",
+        "title": "ID 3336901 DfE ApprenticeshipsNI 2021 Programme (Apps21)",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Department for the Economy",
+        "programme": "Apprenticeships",
+        "geography": [
+          "Northern Ireland"
+        ],
+        "value": 122100000,
+        "currency": "GBP",
+        "tenderDeadline": "2021-04-28T14:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Live Tender",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": 122100000,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/005945-2021",
+        "lastVerified": "2026-09-14T16:38:15.638Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-0295c6",
+        "slug": "apprenticeship-training-services-ocds-h6vhtk-0295c6",
+        "title": "Apprenticeship Training Services",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "NHS Shared Business Services Ltd (NHS SBS)",
+        "programme": "Apprenticeships",
+        "geography": [
+          "Salford Quays",
+          "United Kingdom"
+        ],
+        "value": null,
+        "currency": "GBP",
+        "tenderDeadline": "2021-03-22T12:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Live Tender",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/003678-2021",
+        "lastVerified": "2026-09-14T16:25:05.709Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-029618",
+        "slug": "pathway-apprenticeships-phase-1a-ocds-h6vhtk-029618",
+        "title": "Pathway Apprenticeships Phase 1A",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Skills Development Scotland Co. Limited",
+        "programme": "Employment Support",
+        "geography": [
+          "Scotland"
+        ],
+        "value": null,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 5,
+        "lots": [
+          {
+            "id": "1",
+            "title": "PA - Lot 1 - Business Skills (Including Digital)",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "2",
+            "title": "PA - Lot 2 - Enginering",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "3",
+            "title": "PA - Lot 3 - IT Digital Hardware",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "4",
+            "title": "PA - Lot 4 - IT Digital Software",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "5",
+            "title": "PA - Lot 5 - Social Services Children & Young People",
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Aberdeenshire Council",
+          "Comhairle Nan Eilean Siar",
+          "Dundee and Angus College",
+          "East Kilbride & District Engineering Group Training Association Ltd",
+          "East Scot Training Services Ltd T/A Angus Training Group",
+          "Glasgow Kelvin College",
+          "The Tell Organisation",
+          "Tullos Training Ltd",
+          "West Lothian College - MAIN CONTACT FOR ALL TENDERS",
+          "Glasgow Clyde College",
+          "GP Strategies Training Limited",
+          "New College Lanarkshire",
+          "Pentland Assessment Centres Ltd",
+          "Sixth Sense Training",
+          "Borders College",
+          "Fife College",
+          "Tigers Ltd",
+          "Ayrshire College",
+          "Genius People",
+          "GALLOWAY TRAINING LIMITED",
+          "Direct Partners Ltd",
+          "Limelight Careers Ltd",
+          "Microcom Training",
+          "PeoplePlus Group Ltd",
+          "Recruitment Training (Edinburgh) Ltd",
+          "R T Resources Ltd",
+          "University of Strathclyde",
+          "Virtual Learning Company Ltd",
+          "Childcare Management Company Ltd",
+          "FARE"
+        ],
+        "publishedSupplierCount": 30,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/003760-2021",
+        "lastVerified": "2026-09-14T16:25:04.748Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-028d2f",
+        "slug": "adult-skills-training-framework-ocds-h6vhtk-028d2f",
+        "title": "Adult Skills Training Framework",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "West Yorkshire Combined Authority",
+        "programme": "Adult Skills Fund",
+        "geography": [
+          "Yorkshire and The Humber"
+        ],
+        "value": 30000000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Planning",
+        "lotCount": 6,
+        "lots": [
+          {
+            "id": "1",
+            "title": "Lot 1 Digital bootcamp (Yorkshire and Humber)",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "2",
+            "title": "Lot 2 Digital skills (West Yorkshire Only)",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "3",
+            "title": "Lot 3 Healthcare skills Social care (West Yorkshire Only)",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "4",
+            "title": "Lot 4 Infrastructure / Construction, Engineering / Manufacturing and Green Technology skills (West Yorkshire Only)",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "5",
+            "title": "Lot 5 In work training and redundancy prevention, including upskilling and retaining – including women (West Yorkshire Only)",
+            "value": null,
+            "currency": null
+          },
+          {
+            "id": "6",
+            "title": "Lot 6 Graduate Programmes (West Yorkshire Only)",
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [],
+        "publishedSupplierCount": 0,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/001497-2021",
+        "lastVerified": "2026-09-14T16:16:16.123Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-028d92",
+        "slug": "learning-disability-open-framework-agreement-for-providers-in-somerset-ocds-h6vhtk-028d92",
+        "title": "Learning Disability Open Framework Agreement for Providers in Somerset",
+        "frameworkType": "open-framework",
+        "frameworkTypeLabel": "Open Framework",
+        "buyer": "Somerset County Council",
+        "programme": "Employment Support",
+        "geography": [
+          "United Kingdom"
+        ],
+        "value": 60000000,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "Multiple"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/001596-2021",
+        "lastVerified": "2026-09-14T16:16:14.828Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-06f76e",
+        "slug": "mini-competitions-for-provision-of-skills-bootcamps-under-wave-7-ocds-h6vhtk-06f76e",
+        "title": "Mini Competitions for Provision of Skills Bootcamps under Wave 7",
+        "frameworkType": "open-framework",
+        "frameworkTypeLabel": "Open Framework",
+        "buyer": "Lancashire County Council",
+        "programme": "Skills Bootcamps",
+        "geography": [
+          "Lancashire",
+          "North West England",
+          "United Kingdom",
+          "GB"
+        ],
+        "value": null,
+        "currency": "GBP",
+        "tenderDeadline": null,
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 1,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "value": null,
+            "currency": null
+          }
+        ],
+        "publishedSuppliers": [
+          "PHX TRAINING LIMITED",
+          "BLACKBURN WITH DARWEN COUNCIL FOR VOLUNTARY SERVICE",
+          "COMMUNITY LINKS TRAINING & ENTERPRISE LTD",
+          "SB SKILLS SOLUTIONS LTD",
+          "Burnley College",
+          "HYBRID TECHNICAL SERVICES LIMITED",
+          "TRANSPORT TRAINING ACADEMY LIMITED"
+        ],
+        "publishedSupplierCount": 7,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086142-2026",
+        "lastVerified": "2026-09-14T11:36:44.443Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-h6vhtk-056749",
+        "slug": "connect-to-work-somerset-council-ocds-h6vhtk-056749",
+        "title": "Connect to Work - Somerset Council",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "Somerset Council",
+        "programme": "Connect to Work",
+        "geography": [
+          "Somerset",
+          "South West England",
+          "United Kingdom",
+          "GB"
+        ],
+        "value": 2000000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-07-17T13:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Contract",
+        "lotCount": 2,
+        "lots": [
+          {
+            "id": "1",
+            "title": "IPS",
+            "value": 1200000,
+            "currency": "GBP"
+          },
+          {
+            "id": "2",
+            "title": "SEQF",
+            "value": 800000,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [
+          "ELEVATE EMPLOYMENT SERVICES LIMITED",
+          "DIMENSIONS SOMERSET SEV LIMITED"
+        ],
+        "publishedSupplierCount": 2,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/086606-2026",
+        "lastVerified": "2026-09-14T11:31:57.494Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-b5fd17-bee09daf-8e90-40f9-add4-246ed0a0969d",
+        "slug": "715869492-provision-of-end-point-assessment-for-aircraft-handlers--add4-246ed0a0969d",
+        "title": "715869492 - Provision of End Point Assessment for Aircraft Handlers",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Ministry of Defence",
+        "programme": "Apprenticeships",
+        "geography": [
+          "PO2 8BY",
+          "South West",
+          "United Kingdom"
+        ],
+        "value": 210000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-07-20T09:00:00.000Z",
+        "contractStart": "2026-10-26T00:00:00.000Z",
+        "contractEnd": "2029-09-25T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "Explosive Learning Solutions LTD"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/bea8402a-00bf-43fb-b549-b4b04b527d60",
+        "lastVerified": "2026-09-16T19:32:25.127Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-b5fd17-a333e5e9-9e80-45f7-b638-e21b8067cdb7",
+        "slug": "enq1379-procurement-of-7x-children-young-people-and-families-apprenticeships--b638-e21b8067cdb7",
+        "title": "ENQ1379 - Procurement of 7x Children, Young People and Families Apprenticeships",
+        "frameworkType": "dynamic-market",
+        "frameworkTypeLabel": "Dynamic Market",
+        "buyer": "DERBY CITY COUNCIL",
+        "programme": "Apprenticeships",
+        "geography": [
+          "East Midlands",
+          "United Kingdom"
+        ],
+        "value": 42000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-07-15T22:59:00.000Z",
+        "contractStart": "2026-07-16T23:00:00.000Z",
+        "contractEnd": "2028-10-17T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "YORKSHIRE TRAINING PARTNERSHIP LIMITED"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122",
+        "lastVerified": "2026-09-16T19:32:21.421Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-b5fd17-ee39cdd4-60f2-40ec-a0ec-2bc36cb1cabb",
+        "slug": "enq1381-procurement-of-2x-chartered-surveyor-real-estate-apprenticeships--a0ec-2bc36cb1cabb",
+        "title": "ENQ1381 - Procurement of 2x Chartered Surveyor (Real Estate) Apprenticeships",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "DERBY CITY COUNCIL",
+        "programme": "Apprenticeships",
+        "geography": [
+          "East Midlands",
+          "United Kingdom"
+        ],
+        "value": 54000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-08-24T22:59:00.000Z",
+        "contractStart": "2026-09-16T23:00:00.000Z",
+        "contractEnd": "2032-05-31T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "Nottingham Trent University"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/920df551-7e69-4d55-8ec3-4e5c8c5060bc",
+        "lastVerified": "2026-09-16T19:32:17.718Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-b5fd17-8bab62a6-532f-4487-b98b-6b57f24bc0ef",
+        "slug": "enq1382-procurement-of-2x-teacher-apprenticeships--b98b-6b57f24bc0ef",
+        "title": "ENQ1382 - Procurement of 2x Teacher Apprenticeships",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "DERBY CITY COUNCIL",
+        "programme": "Apprenticeships",
+        "geography": [
+          "East Midlands",
+          "United Kingdom"
+        ],
+        "value": 36000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-08-24T22:59:00.000Z",
+        "contractStart": "2026-09-10T23:00:00.000Z",
+        "contractEnd": "2030-09-11T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "The University of Derby"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
+        "lastVerified": "2026-09-16T19:32:14.046Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-b5fd17-b7edb29e-a264-44ad-9e1f-3ec56c391215",
+        "slug": "cbc-2002-exf-da-zh-chartered-surveyor-level-6-apprenticeship-award--9e1f-3ec56c391215",
+        "title": "CBC-2002-EXF-DA-ZH Chartered Surveyor Level 6 Apprenticeship - AWARD",
+        "frameworkType": "dynamic-market",
+        "frameworkTypeLabel": "Dynamic Market",
+        "buyer": "Central Bedfordshire Council",
+        "programme": "Apprenticeships",
+        "geography": [
+          "SG17 5TQ",
+          "British Oversea Territories",
+          "Channel Islands",
+          "Europe",
+          "Isle of Man",
+          "Rest of the World",
+          "United Kingdom"
+        ],
+        "value": 27000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-09-18T17:28:00.000Z",
+        "contractStart": "2026-09-28T00:00:00.000Z",
+        "contractEnd": "2031-08-31T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "UBE (Formerly t/a University College of Estate Management)"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
+        "lastVerified": "2026-09-16T19:32:10.348Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-b5fd17-854d7e38-ef65-4cfb-8ade-3167f7e4a5be",
+        "slug": "enq1394-procurement-of-6x-procurement-and-supply-apprenticeships--8ade-3167f7e4a5be",
+        "title": "ENQ1394 - Procurement of 6x Procurement and Supply Apprenticeships",
+        "frameworkType": "dynamic-market",
+        "frameworkTypeLabel": "Dynamic Market",
+        "buyer": "DERBY CITY COUNCIL",
+        "programme": "Apprenticeships",
+        "geography": [
+          "East Midlands",
+          "United Kingdom"
+        ],
+        "value": 44000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-08-24T22:59:00.000Z",
+        "contractStart": "2026-08-31T23:00:00.000Z",
+        "contractEnd": "2028-03-31T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "SR SUPPLY CHAIN CONSULTANTS LTD"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/9caae322-6911-4f79-8254-b8594a96f25c",
+        "lastVerified": "2026-09-16T19:32:06.642Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-b5fd17-9608631b-bcb3-4874-91b6-bfde03d65bdc",
+        "slug": "contract-for-the-provision-of-ai-short-courses-level-5-apprenticeships-call-off-contract-to-nort--91b6-bfde03d65bdc",
+        "title": "Contract for the provision of AI Short Courses Level 5 Apprenticeships call off contract, to North of England Commissioning Support (NECS) (Hosted by NHS England)",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
+        "programme": "Apprenticeships",
+        "geography": [
+          "North East",
+          "North West",
+          "United Kingdom"
+        ],
+        "value": 45000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-08-18T11:00:00.000Z",
+        "contractStart": "2026-08-31T23:00:00.000Z",
+        "contractEnd": "2027-03-31T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "QA Limited"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/2dd5253b-cd2e-4f67-a5aa-b0d10398808e",
+        "lastVerified": "2026-09-16T16:05:02.595Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-h6vhtk-02b57b",
+        "slug": "apprenticeship-management-ocds-h6vhtk-02b57b",
+        "title": "Apprenticeship Management",
+        "frameworkType": "framework",
+        "frameworkTypeLabel": "Framework",
+        "buyer": "THAMES WATER UTILITIES LIMITED",
+        "programme": "Apprenticeships",
+        "geography": [
+          "Whole of TW Region",
+          "Whole of Thames Water region.",
+          "Whole of Thames Water Region",
+          "The whole of Thames Water Region.",
+          "The whole of the Thames Water Region.",
+          "Whole of the Thames Water Region.",
+          "Whole of the Thames Water region.",
+          "London",
+          "South East England"
+        ],
+        "value": 3590000,
+        "currency": "GBP",
+        "tenderDeadline": "2021-06-11T11:00:00.000Z",
+        "contractStart": null,
+        "contractEnd": null,
+        "lifecycleStage": "Cancelled",
+        "lotCount": 4,
+        "lots": [
+          {
+            "id": "1",
+            "title": "Apprenticeship Management - Engineering",
+            "value": 1900000,
+            "currency": "GBP"
+          },
+          {
+            "id": "2",
+            "title": "Customer Experience and Continuous Improvement",
+            "value": 180000,
+            "currency": "GBP"
+          },
+          {
+            "id": "3",
+            "title": "Digital & Data",
+            "value": 510000,
+            "currency": "GBP"
+          },
+          {
+            "id": "4",
+            "title": "Leadership",
+            "value": 1000000,
+            "currency": "GBP"
+          }
+        ],
+        "publishedSuppliers": [
+          "Basingstoke College of Technology",
+          "Harrow College and Uxbridge College",
+          "Paragon Education & Skills Ltd",
+          "Realise Learning and Employment Ltd",
+          "Capella Associates Ltd",
+          "Baltic Training Services Limited",
+          "Cambridge Spark Limited",
+          "Firebrand Training"
+        ],
+        "publishedSupplierCount": 8,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/028712-2021",
+        "lastVerified": "2026-09-14T18:14:19.748Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      },
+      {
+        "id": "ocds-b5fd17-c1eb9ff0-e857-48da-b135-d8d8884ceced",
+        "slug": "lot-1-apprenticeship-training-occupational-therapist-level-6--b135-d8d8884ceced",
+        "title": "Lot 1 - Apprenticeship Training - Occupational Therapist Level 6",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Isle of Wight Council",
+        "programme": "Apprenticeships",
+        "geography": [
+          "South East",
+          "United Kingdom"
+        ],
+        "value": 144000,
+        "currency": "GBP",
+        "tenderDeadline": "2025-04-14T11:00:00.000Z",
+        "contractStart": "2025-08-31T23:00:00.000Z",
+        "contractEnd": "2027-08-31T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "University of Winchester"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": true,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/e812b33c-ee3b-416e-983b-2d7a49b39fe7",
+        "lastVerified": "2026-09-14T12:55:34.479Z",
+        "note": "Published material contains wording consistent with an open/admission-based route; suppliers should verify current admission rules in the source documents."
+      },
+      {
+        "id": "ocds-b5fd17-a8701f05-87fe-4baa-ba0a-aa3cc901d47e",
+        "slug": "level-6-social-work-apprenticeships-st0510--ba0a-aa3cc901d47e",
+        "title": "Level 6 Social Work Apprenticeships ST0510",
+        "frameworkType": "dps",
+        "frameworkTypeLabel": "Dynamic Purchasing System",
+        "buyer": "Milton Keynes Council",
+        "programme": "Apprenticeships",
+        "geography": [
+          "MK76AA"
+        ],
+        "value": 360000,
+        "currency": "GBP",
+        "tenderDeadline": "2026-07-01T16:00:00.000Z",
+        "contractStart": "2026-07-31T23:00:00.000Z",
+        "contractEnd": "2029-07-31T22:59:59.000Z",
+        "lifecycleStage": "Award",
+        "lotCount": 0,
+        "lots": [],
+        "publishedSuppliers": [
+          "The Open University"
+        ],
+        "publishedSupplierCount": 1,
+        "openAccessSignal": false,
+        "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/585b1167-a88c-49d6-8e1b-76d78a79c14b",
+        "lastVerified": "2026-09-14T12:55:30.766Z",
+        "note": "CareerPath has identified this as a framework/DPS/dynamic-market record from published procurement data; no assumption is made that new suppliers can currently join."
+      }
+    ],
+    "recordCount": 45,
+    "typeCounts": {
+      "framework": 20,
+      "dps": 18,
+      "open-framework": 4,
+      "dynamic-market": 3
+    },
+    "openAccessSignalCount": 22,
+    "methodology": "Framework/DPS/Dynamic Market records are identified from CareerPath's curated Employment & Skills procurement corpus using explicit published framework terminology. An open-access signal is shown only where published text indicates admission/joining wording; it is not a guarantee that the route is currently open."
+  },
+  "differentiators": {
+    "programmeEconomicsLinkedOpportunities": 26,
+    "frameworkIntelligenceRecords": 45,
+    "frameworkOpenAccessSignals": 22
   }
 }

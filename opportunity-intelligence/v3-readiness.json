@@ -1,6 +1,6 @@
 {
   "validated": true,
-  "generatedAt": "2026-09-16T20:03:50.868Z",
+  "generatedAt": "2026-09-16T20:03:50.922Z",
   "sourceGeneratedAt": "2026-09-16T20:03:48.993Z",
   "counts": {
     "total": 28,
@@ -16,11 +16,16 @@
     "programmeUnlinked": 4
   },
   "differentiators": {
-    "recommissioningDeltaAvailable": 2,
-    "workforceLinkedOpportunities": 24,
-    "localDeliveryContextLinkedOpportunities": 16,
-    "providerPartnershipProgrammes": 1,
-    "providerPartnershipOpportunities": 4
+    "programmeEconomicsObjects": 28,
+    "programmeEconomicsLinkedOpportunities": 26,
+    "frameworkIntelligenceRecords": 45,
+    "frameworkOpenAccessSignals": 22,
+    "frameworkTypeCounts": {
+      "framework": 20,
+      "dps": 18,
+      "open-framework": 4,
+      "dynamic-market": 3
+    }
   },
   "publicSafety": {
     "internalBidScoring": false,
