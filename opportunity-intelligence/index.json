@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T18:19:23.178Z",
+  "generatedAt": "2026-09-16T18:19:35.013Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -315,7 +315,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:16:33.921Z",
+          "date": "2026-09-16T18:19:12.827Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -328,7 +328,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-09-16T18:16:33.921Z"
+        "lastVerified": "2026-09-16T18:19:12.827Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -465,7 +465,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:16:33.921Z",
+          "date": "2026-09-16T18:19:12.827Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -478,7 +478,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-09-16T18:16:33.921Z"
+        "lastVerified": "2026-09-16T18:19:12.827Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -609,7 +609,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:16:33.921Z",
+          "date": "2026-09-16T18:19:12.827Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -622,7 +622,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-09-16T18:16:33.921Z"
+        "lastVerified": "2026-09-16T18:19:12.827Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -752,7 +752,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-16T18:16:33.921Z",
+          "date": "2026-09-16T18:19:12.827Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -765,7 +765,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-09-16T18:16:33.921Z"
+        "lastVerified": "2026-09-16T18:19:12.827Z"
       },
       "dataCompleteness": {
         "status": "partial",
