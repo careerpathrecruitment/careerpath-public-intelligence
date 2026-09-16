@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-16T18:08:34.328Z",
+  "generatedAt": "2026-09-16T18:10:44.220Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 22,
-    "live": 2,
-    "upcoming": 1,
+    "total": 28,
+    "live": 7,
+    "upcoming": 2,
     "marketEngagement": 0,
     "recentAwards": 19,
     "closingWithin7Days": 0,
     "closingWithin30Days": 1,
-    "supplyChain": 0,
+    "supplyChain": 6,
     "commissioner": 22
   },
   "filters": {
@@ -22,42 +22,60 @@
       "Apprenticeships",
       "Connect to Work",
       "Employment Support",
+      "Future Employment Support",
       "IPS",
       "Skills Bootcamps"
     ],
     "buyers": [
+      "AKG",
       "Central Bedfordshire Council",
       "Construction Industry Training Board",
       "DERBY CITY COUNCIL",
       "East Durham College",
       "Hull City Council",
+      "Ingeus",
       "Isle of Wight Council",
       "Lancashire County Council",
       "London Borough of Merton",
+      "Maximus UK",
       "Milton Keynes Council",
       "Ministry of Defence",
       "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
       "North East Combined Authority",
+      "Reed in Partnership",
+      "Seetec",
+      "Shaw Trust",
       "Somerset Council",
       "Wirral Council",
       "Wrexham County Borough Council"
     ],
     "regions": [
+      "After joining Connect to Work on the Support Employment (SEQF) pathway, Adam’s secured paid employment at West Midlands Safari Park in a role tailored around his strengths, interests and abilities. . .",
+      "Angharad Rhys – North West & Midlands .",
       "British Oversea Territories",
+      "Caroline Jones – South West .",
       "Channel Islands",
       "East Midlands",
+      "England & Wales: 287785.",
+      "England, N11 1GN. . . . . . .",
       "Europe",
       "Flintshire and Wrexham",
+      "Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
       "GB",
+      "Greg Bate – Central & West London .",
+      "Hannah Parnell – East of England .",
       "Isle of Man",
       "Kingston upon Hull, City of",
       "Lancashire",
       "MK76AA",
       "North East",
       "North East England",
+      "North London Business Park,.",
       "North West",
       "North West England",
       "PO2 8BY",
+      "Registered Office: Academy Court, 94 Chancery Lane, London WC2A 1DT.",
+      "Registered office: Second floor 66-68 East Smithfield, Royal Pharmaceutical Building, London, E1W 1AW Company number: 04320853 . .",
       "Rest of the World",
       "SG17 5TQ",
       "SM4 5DX",
@@ -66,6 +84,7 @@
       "South East",
       "South West",
       "South West England",
+      "The service is expected to provide personalised and tailored support that is responsive to an individual’s needs and local area..",
       "United Kingdom",
       "Wales",
       "Wirral",
@@ -99,7 +118,14 @@
         "label": "Supply chain opportunities"
       }
     ],
-    "primeProviders": []
+    "primeProviders": [
+      "AKG",
+      "Ingeus",
+      "Maximus UK",
+      "Reed in Partnership",
+      "Seetec",
+      "Shaw Trust"
+    ]
   },
   "opportunities": [
     {
@@ -199,6 +225,746 @@
         "status": "strong",
         "score": 100,
         "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "supply-chain:akg-fes",
+      "slug": "akg-future-employment-support-akg-fes",
+      "ocid": null,
+      "title": "Future Employment Support delivery partner expression of interest",
+      "description": "About us third column Partner with us . Community Investment Fund . Kylee Bates, COO at Brightpeak Group (parent company of WorkPays, a current AKG Restart delivery partner), joined to share her experience of that partnership in practice, before the panel took live questions from attendees..",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "AKG",
+        "role": "Prime provider"
+      },
+      "primeProvider": "AKG",
+      "geography": {
+        "primaryArea": "North London Business Park,.",
+        "areas": [
+          "North London Business Park,.",
+          "England, N11 1GN. . . . . . ."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Kylee Bates, COO at Brightpeak Group (parent company of WorkPays, a current AKG Restart delivery partner), joined to share her experience of that partnership in practice, before the panel took live questions from attendees..",
+          "We use cookies to ensure that we give you the best experience on our website."
+        ],
+        "suitabilitySignals": [
+          "Health / disability specialist sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "AKG",
+        "partnerTypes": [
+          "Health / disability specialist"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training"
+        ],
+        "partnershipSignals": [
+          "About us third column Partner with us .",
+          "Community Investment Fund .",
+          "Kylee Bates, COO at Brightpeak Group (parent company of WorkPays, a current AKG Restart delivery partner), joined to share her experience of that partnership in practice, before the panel took live questions from attendees..",
+          "Organisations interested in becoming a delivery partner can find out more and submit an Expression of Interest via AKG’s partnership portal .. . . . ."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-09-16T18:09:04.455Z",
+          "releaseId": "akg-fes",
+          "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "AKG",
+        "sourceId": "akg-fes",
+        "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
+        "lastVerified": "2026-09-16T18:09:04.455Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "supply-chain:ingeus-fes",
+      "slug": "ingeus-future-employment-support-ingeus-fes",
+      "ocid": null,
+      "title": "Future Employment Support partner expression of interest",
+      "description": "Future Employment Support: Partner with Ingeus . Expression of Interest opportunity for local, specialist, Small and Medium Enterprise (SME), and Voluntary, Community and Social Enterprise (VCSE) partners . Ingeus is preparing to bid for the Department for Work and Pensions (DWP) Future Employment Support (FES) opportunity and we’re inviting organisations to express an interest in working with us as we develop our offer and build a strong, locally embedded supply chain..",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Ingeus",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Ingeus",
+      "geography": {
+        "primaryArea": "Registered office: Second floor 66-68 East Smithfield, Royal Pharmaceutical Building, London, E1W 1AW Company number: 04320853 . .",
+        "areas": [
+          "Registered office: Second floor 66-68 East Smithfield, Royal Pharmaceutical Building, London, E1W 1AW Company number: 04320853 . ."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "By completing the Expression of Interest (EOI), your organisation can share its expertise, delivery footprint, and ideas for supporting people into sustained, good-quality employment.",
+          "Your response will help us understand local capability, shape service design, and explore future partnership opportunities as the FES procurement develops. .",
+          "First, you need to register your organisation on the Ingeus Partner Network ."
+        ],
+        "suitabilitySignals": [
+          "SME sought or mentioned by the prime provider",
+          "VCSE / voluntary sector sought or mentioned by the prime provider",
+          "Specialist provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider",
+          "Employer engagement specialist sought or mentioned by the prime provider",
+          "Local / community provider sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "Ingeus",
+        "partnerTypes": [
+          "SME",
+          "VCSE / voluntary sector",
+          "Specialist provider",
+          "Health / disability specialist",
+          "Employer engagement specialist",
+          "Local / community provider"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Employer engagement",
+          "Young people"
+        ],
+        "partnershipSignals": [
+          "Future Employment Support: Partner with Ingeus .",
+          "Expression of Interest opportunity for local, specialist, Small and Medium Enterprise (SME), and Voluntary, Community and Social Enterprise (VCSE) partners .",
+          "Ingeus is preparing to bid for the Department for Work and Pensions (DWP) Future Employment Support (FES) opportunity and we’re inviting organisations to express an interest in working with us as we develop our offer and build a strong, locally embedded supply chain..",
+          "We know that local organisations are often best placed to understand the needs and aspirations of their communities, so we are particularly keen to hear from SMEs and VCSE organisations whose trusted relationships, specialist expertise, and local insight can help shape effective support for people facing barriers to employment. .",
+          "Local and community-based organisations with strong relationships in the places they serve. .",
+          "Specialist providers supporting people with health conditions, disabilities, complex barriers, or other disadvantages. .",
+          "We will work with partners to shape delivery models, recognise different organisational strengths, local community needs and combine clear expectations with practical support to help partners deliver consistently strong results. .",
+          "By completing the Expression of Interest (EOI), your organisation can share its expertise, delivery footprint, and ideas for supporting people into sustained, good-quality employment.",
+          "First, you need to register your organisation on the Ingeus Partner Network .",
+          "Next, please complete the FES EOI form before the 31 st August 2026. ."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-09-16T18:09:04.455Z",
+          "releaseId": "ingeus-fes",
+          "sourceUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Ingeus",
+        "sourceId": "ingeus-fes",
+        "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
+        "lastVerified": "2026-09-16T18:09:04.455Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "supply-chain:maximus-fes",
+      "slug": "maximus-uk-future-employment-support-maximus-fes",
+      "ocid": null,
+      "title": "Future Employment Support partner expression of interest",
+      "description": "Future Employment Services - Expression of Interest . Charities and voluntary sector . Businesses and voluntary sector CX services .",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Maximus UK",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Maximus UK",
+      "geography": {
+        "primaryArea": "The service is expected to provide personalised and tailored support that is responsive to an individual’s needs and local area..",
+        "areas": [
+          "The service is expected to provide personalised and tailored support that is responsive to an individual’s needs and local area.."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Customer experience Crown Commercial Service Supplier .",
+          "This may include skills, training and work experience; matching participants with employers through job trials, jobs fairs and job brokering; support with self-employment; intensive and repeated support with applications and interviewing; support in managing health conditions in the workplace; support with travel and childcare; and access to specialist support (e.g.",
+          "Our ambition is to work with a diverse network of partners who share our commitment to delivering high-quality, person-centred support and measurable impact.",
+          "Ideal partners will bring proven experience in supporting individuals into work, delivering personalised and intensive support, engaging employers, and working with people who have complex needs.",
+          "Submit . . . . \" * \" indicates required fields. ."
+        ],
+        "suitabilitySignals": [
+          "SME sought or mentioned by the prime provider",
+          "VCSE / voluntary sector sought or mentioned by the prime provider",
+          "Specialist provider sought or mentioned by the prime provider",
+          "Skills / training provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider",
+          "Employer engagement specialist sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "Maximus UK",
+        "partnerTypes": [
+          "SME",
+          "VCSE / voluntary sector",
+          "Specialist provider",
+          "Skills / training provider",
+          "Health / disability specialist",
+          "Employer engagement specialist"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Employer engagement",
+          "Digital support"
+        ],
+        "partnershipSignals": [
+          "Future Employment Services - Expression of Interest .",
+          "Charities and voluntary sector .",
+          "Businesses and voluntary sector CX services .",
+          "SME resources Masterclass Series . .",
+          "Expression of interest:.",
+          "Home / Future Employment Services – expression of interest . . . . . . .",
+          "Want to partner with us to Transform Lives?.",
+          "This may include skills, training and work experience; matching participants with employers through job trials, jobs fairs and job brokering; support with self-employment; intensive and repeated support with applications and interviewing; support in managing health conditions in the workplace; support with travel and childcare; and access to specialist support (e.g.",
+          "Become a partner . . . .",
+          "Specialist skills and training providers."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-09-16T18:09:04.455Z",
+          "releaseId": "maximus-fes",
+          "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Maximus UK",
+        "sourceId": "maximus-fes",
+        "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
+        "lastVerified": "2026-09-16T18:09:04.455Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "supply-chain:seetec-fes",
+      "slug": "seetec-future-employment-support-seetec-fes",
+      "ocid": null,
+      "title": "Future Employment Support expression of interest",
+      "description": "Our Future Employment Support ‘Expression of Interest’ is now live. Following the recent DWP Market Engagement event, Seetec is pleased to launch our Future Employment Support Expression of Interest (EOI).. Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Seetec",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Seetec",
+      "geography": {
+        "primaryArea": "Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
+        "areas": [
+          "Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
+          "Angharad Rhys – North West & Midlands .",
+          "Caroline Jones – South West .",
+          "Greg Bate – Central & West London .",
+          "Hannah Parnell – East of England .",
+          "After joining Connect to Work on the Support Employment (SEQF) pathway, Adam’s secured paid employment at West Midlands Safari Park in a role tailored around his strengths, interests and abilities. . ."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "If you share our ambition to deliver high-quality, locally integrated employment support, we’d love to hear from you.."
+        ],
+        "suitabilitySignals": [
+          "SME sought or mentioned by the prime provider",
+          "VCSE / voluntary sector sought or mentioned by the prime provider",
+          "Specialist provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider",
+          "Employer engagement specialist sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "Seetec",
+        "partnerTypes": [
+          "SME",
+          "VCSE / voluntary sector",
+          "Specialist provider",
+          "Health / disability specialist",
+          "Employer engagement specialist"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Employer engagement"
+        ],
+        "partnershipSignals": [
+          "Our Future Employment Support ‘Expression of Interest’ is now live.",
+          "Following the recent DWP Market Engagement event, Seetec is pleased to launch our Future Employment Support Expression of Interest (EOI)..",
+          "Future Employment Support will be a major new national programme, designed to support unemployed Universal Credit claimants into sustained employment through personalised support, strong employer engagement, local integration and specialist provision..",
+          "Expression of Interest .",
+          "Our initial EOI has been intentionally designed to be light-touch, helping us understand your organisation, local presence and specialist expertise..",
+          "Whether you’re an SME, VCSE, charity, social enterprise, specialist provider or larger delivery organisation, we’d love to hear from you.",
+          "Great partnerships start with conversations and this EOI is simply the first step in getting to know one another and exploring how we can work together..",
+          "Expression of interest .",
+          "Please complete the EOI here . . . . . . .",
+          "Services near you Community and training ."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-09-16T18:09:04.455Z",
+          "releaseId": "seetec-fes",
+          "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Seetec",
+        "sourceId": "seetec-fes",
+        "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
+        "lastVerified": "2026-09-16T18:09:04.455Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "supply-chain:shaw-trust-fes",
+      "slug": "shaw-trust-future-employment-support-shaw-trust-fes",
+      "ocid": null,
+      "title": "Future Employment Support expression of interest",
+      "description": "We improve community health and wellbeing . Supply chain and corporate partnerships . Future Employment Support (FES) expression of interest. . . . . . . . . .",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Shaw Trust",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Shaw Trust",
+      "geography": {
+        "primaryArea": "England & Wales: 287785.",
+        "areas": [
+          "England & Wales: 287785."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "FES is expected to:. provide personalised job support to people on Universal Credit who are out of work. help people overcome barriers to work and move into long-term employment. be delivered in partnership with Jobcentre Plus, local authorities and Mayoral strategic authorities. ask providers to show how local services and networks work together for joined-up support. offer a mix of face-to-face and digital support. include a mandatory requirement that at least 25% of contract spending is delivered through SMEs.. ",
+          "From Connect to Work to WorkWell and IPS, we ve got a track record of delivering employment, health and skills programmes at scale – all across the country.",
+          "We aim to:. build open and positive working relationships. manage our supply chain fairly and transparently. involve partners early in service design and development. focus on quality, performance and positive outcomes for participants. build social value through local delivery.. . .",
+          "We re currently preparing for the procurement and are keen to speak with organisations who can help deliver high-quality, locally responsive services.. . . .",
+          "It will create a more joined-up experience for participants by bringing Jobcentre Plus, local authorities and mayoral strategic authorities together.. . . . ."
+        ],
+        "suitabilitySignals": [
+          "SME sought or mentioned by the prime provider",
+          "VCSE / voluntary sector sought or mentioned by the prime provider",
+          "Specialist provider sought or mentioned by the prime provider",
+          "Skills / training provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider",
+          "Employer engagement specialist sought or mentioned by the prime provider",
+          "Local / community provider sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "Shaw Trust",
+        "partnerTypes": [
+          "SME",
+          "VCSE / voluntary sector",
+          "Specialist provider",
+          "Skills / training provider",
+          "Health / disability specialist",
+          "Employer engagement specialist",
+          "Local / community provider"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Employer engagement",
+          "Young people",
+          "IPS",
+          "Digital support"
+        ],
+        "partnershipSignals": [
+          "We improve community health and wellbeing .",
+          "Supply chain and corporate partnerships .",
+          "Future Employment Support (FES) expression of interest. . . . . . . . . .",
+          "Future Employment Support (FES) expression of interest.",
+          "We re keen to connect with:. employability and skills providers. local charities, community groups and social enterprises. disability, health and wellbeing organisations. mental health and neurodiversity specialists. housing and homelessness providers. complex needs providers. employer engagement and recruitment specialists. organisations supporting under-represented groups and communities.",
+          "If you know your community well, have strong local connections and want to help people overcome barriers to good work, we d love to hear from you.. . .",
+          "Complete our partner registration form . . .",
+          "Register as a partner today . . .",
+          "Why partner with Shaw Trust?. . .",
+          "Our ways of working with suppliers have also been recognised with an Outstanding rating by the Supply Chain Partnership Standard.."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-09-16T18:09:04.455Z",
+          "releaseId": "shaw-trust-fes",
+          "sourceUrl": "https://shawtrust.org.uk/future-employment-support/",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Shaw Trust",
+        "sourceId": "shaw-trust-fes",
+        "latestNoticeUrl": "https://shawtrust.org.uk/future-employment-support/",
+        "lastVerified": "2026-09-16T18:09:04.455Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
+        ]
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -344,6 +1110,152 @@
           "value",
           "geography",
           "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      }
+    },
+    {
+      "id": "supply-chain:reed-fes",
+      "slug": "reed-in-partnership-future-employment-support-reed-fes",
+      "ocid": null,
+      "title": "Future Employment Support delivery partner opportunities",
+      "description": "We encourage applications from organisations across the public, private and VCSE sectors, including SMEs. To support organisations of different sizes and specialisms, we are running two EOI routes:. EOI A: For end-to-end delivery providers.",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-monitor",
+      "stageGroup": "upcoming",
+      "stageLabel": "Supply chain / monitor",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Reed in Partnership",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Reed in Partnership",
+      "geography": {
+        "primaryArea": "Registered Office: Academy Court, 94 Chancery Lane, London WC2A 1DT.",
+        "areas": [
+          "Registered Office: Academy Court, 94 Chancery Lane, London WC2A 1DT."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Together with our partners, we will deliver high-quality employability support that transforms people’s lives and their communities..",
+          "This may include skills development, work experience, health-related employment support, self-employment guidance and employer engagement activities tailored to local labour market needs.",
+          "We are particularly keen to hear from organisations who can demonstrate proven experience in:.",
+          "For organisations with a proven track record of delivering high-performing employment services and the capacity to deliver across part or all of one or more CPAs please click here .."
+        ],
+        "suitabilitySignals": [
+          "SME sought or mentioned by the prime provider",
+          "VCSE / voluntary sector sought or mentioned by the prime provider",
+          "End-to-end delivery partner sought or mentioned by the prime provider",
+          "Specialist provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider",
+          "Employer engagement specialist sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "Reed in Partnership",
+        "partnerTypes": [
+          "SME",
+          "VCSE / voluntary sector",
+          "End-to-end delivery partner",
+          "Specialist provider",
+          "Health / disability specialist",
+          "Employer engagement specialist"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Employer engagement",
+          "Young people"
+        ],
+        "partnershipSignals": [
+          "We encourage applications from organisations across the public, private and VCSE sectors, including SMEs.",
+          "To support organisations of different sizes and specialisms, we are running two EOI routes:.",
+          "EOI A: For end-to-end delivery providers.",
+          "EOI B: Specialist and Innovation Partners.",
+          "For organisations offering specialist expertise or innovative solutions that complement end-to-end provision, please click here .."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-09-16T18:09:04.455Z",
+          "releaseId": "reed-fes",
+          "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Reed in Partnership",
+        "sourceId": "reed-fes",
+        "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
+        "lastVerified": "2026-09-16T18:09:04.455Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
         ]
       },
       "publication": {
@@ -2980,6 +3892,6 @@
       "staleOrClosed": 102,
       "invalid": 0
     },
-    "supplyChainRecordCount": 0
+    "supplyChainRecordCount": 6
   }
 }
