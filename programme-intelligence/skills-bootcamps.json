@@ -19,34 +19,2875 @@
     "maximumEndDate": null
   },
   "commissioningBodies": [
-    "Department for Work and Pensions"
+    "Department for Education"
   ],
   "deliveryBodies": [],
   "fundingMechanisms": [
     "grant",
     "allocation"
   ],
-  "generatedAt": "2026-09-16T15:18:11.687Z",
-  "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+  "generatedAt": "2026-09-16T15:22:11.439Z",
+  "latestEvidenceDate": "2026-09-16T10:00:59.397Z",
   "overview": {
     "fundingHeadline": null,
     "metrics": [],
     "providerCount": 0,
-    "geographicAreaCount": 0,
-    "deliveryAreaCount": 0,
+    "geographicAreaCount": 41,
+    "deliveryAreaCount": 41,
     "deliveryAreaType": "funded area",
     "procurementCount": 0,
     "latestReportingPeriod": null
   },
-  "funding": [],
+  "funding": [
+    {
+      "id": "cp-fund-1aed40ffaa562e46019b",
+      "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Cambridgeshire and Peterborough",
+      "description": "Official 2026/27 funding allocation for Cambridgeshire and Peterborough.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cambridgeshire and Peterborough"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps",
+        "adult-skills-fund"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cambridgeshire and Peterborough"
+      ],
+      "fundingMechanism": "Non-ringfenced Skills Bootcamps component within single Adult Skills allocation",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "2026/27 single Adult Skills allocation - Cambridgeshire and Peterborough",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-6c001e9105c5b3b6d59b",
+      "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - East Midlands",
+      "description": "Official 2026/27 funding allocation for East Midlands.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "East Midlands"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps",
+        "adult-skills-fund"
+      ],
+      "values": [
+        {
+          "amount": 2031213,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "East Midlands"
+      ],
+      "fundingMechanism": "Non-ringfenced Skills Bootcamps component within single Adult Skills allocation",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "2026/27 single Adult Skills allocation - East Midlands",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-183f290fa81fee6eca65",
+      "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Greater Lincolnshire",
+      "description": "Official 2026/27 funding allocation for Greater Lincolnshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Greater Lincolnshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps",
+        "adult-skills-fund"
+      ],
+      "values": [
+        {
+          "amount": 1615097,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater Lincolnshire"
+      ],
+      "fundingMechanism": "Non-ringfenced Skills Bootcamps component within single Adult Skills allocation",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "2026/27 single Adult Skills allocation - Greater Lincolnshire",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-ceccd15bd32fbdeb3d17",
+      "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Hull and East Yorkshire",
+      "description": "Official 2026/27 funding allocation for Hull and East Yorkshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Hull and East Yorkshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps",
+        "adult-skills-fund"
+      ],
+      "values": [
+        {
+          "amount": 2285781,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Hull and East Yorkshire"
+      ],
+      "fundingMechanism": "Non-ringfenced Skills Bootcamps component within single Adult Skills allocation",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "2026/27 single Adult Skills allocation - Hull and East Yorkshire",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-2607c9e1ec740fbd0010",
+      "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Tees Valley",
+      "description": "Official 2026/27 funding allocation for Tees Valley.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Tees Valley"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps",
+        "adult-skills-fund"
+      ],
+      "values": [
+        {
+          "amount": 2686756,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Tees Valley"
+      ],
+      "fundingMechanism": "Non-ringfenced Skills Bootcamps component within single Adult Skills allocation",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "2026/27 single Adult Skills allocation - Tees Valley",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-af54e47fb871b59adcd1",
+      "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - West of England",
+      "description": "Official 2026/27 funding allocation for West of England.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West of England"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps",
+        "adult-skills-fund"
+      ],
+      "values": [
+        {
+          "amount": 4223674,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West of England"
+      ],
+      "fundingMechanism": "Non-ringfenced Skills Bootcamps component within single Adult Skills allocation",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "2026/27 single Adult Skills allocation - West of England",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-ab56a303e031afe71e06",
+      "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - York and North Yorks",
+      "description": "Official 2026/27 funding allocation for York and North Yorks.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "York and North Yorks"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps",
+        "adult-skills-fund"
+      ],
+      "values": [
+        {
+          "amount": 2011595,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "York and North Yorks"
+      ],
+      "fundingMechanism": "Non-ringfenced Skills Bootcamps component within single Adult Skills allocation",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "2026/27 single Adult Skills allocation - York and North Yorks",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-97cada7e3a0a79f61fa6",
+      "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - Greater London Authority",
+      "description": "Published Skills Bootcamps Construction Skills Package Funding component inside Greater London Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Greater London Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 2794033,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater London Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:55.586Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-8b56e9634073bce013c1",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-1bca3d4ae5a699dced06",
+      "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - Greater Manchester Combined Authority",
+      "description": "Published Skills Bootcamps Construction Skills Package Funding component inside Greater Manchester Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Greater Manchester Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1104530,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater Manchester Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:59.397Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-7e19c0af164fde5d21c1",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-a32fb07d8eb2d18b4645",
+      "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - Liverpool City Region Combined Authority",
+      "description": "Published Skills Bootcamps Construction Skills Package Funding component inside Liverpool City Region Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Liverpool City Region Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1466103,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Liverpool City Region Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:54.346Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-7a4249039535e821d26a",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-3284a86271d465d5b2d7",
+      "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - North East Combined Authority",
+      "description": "Published Skills Bootcamps Construction Skills Package Funding component inside North East Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "North East Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 2426389,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "North East Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:56.958Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-2da8d1b92f34517b8e71",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-f4f5c57bfd32adf54090",
+      "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - South Yorkshire Combined Authority",
+      "description": "Published Skills Bootcamps Construction Skills Package Funding component inside South Yorkshire Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "South Yorkshire Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 356464,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "South Yorkshire Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:52.933Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-34caca475527810aa2cb",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-d4687f0869355234ff3e",
+      "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - West Midlands Combined Authority",
+      "description": "Published Skills Bootcamps Construction Skills Package Funding component inside West Midlands Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Midlands Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 3054814,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West Midlands Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:58.157Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-3f79f63ee3a5d5cf3081",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-88d1439bf0bb9638126d",
+      "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - West Yorkshire Combined Authority",
+      "description": "Published Skills Bootcamps Construction Skills Package Funding component inside West Yorkshire Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Yorkshire Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 656540,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West Yorkshire Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:52.055Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-1698419629aa848a40df",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-24e8c5c70ab3a1dba0e7",
+      "title": "Skills Bootcamps grant 2026/27 - Brighton and Hove",
+      "description": "Official 2026/27 funding allocation for Brighton and Hove.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Brighton and Hove"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Brighton and Hove"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-4749f5f00a7c68e8650d",
+      "title": "Skills Bootcamps grant 2026/27 - Buckinghamshire",
+      "description": "Official 2026/27 funding allocation for Buckinghamshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Buckinghamshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Buckinghamshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-a1427122fd012dd85636",
+      "title": "Skills Bootcamps grant 2026/27 - Central Bedfordshire",
+      "description": "Official 2026/27 funding allocation for Central Bedfordshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Central Bedfordshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Central Bedfordshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-4492dd2fbe146df8bdb6",
+      "title": "Skills Bootcamps grant 2026/27 - Cheshire and Warrington",
+      "description": "Official 2026/27 funding allocation for Cheshire and Warrington.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cheshire and Warrington"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 2000000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cheshire and Warrington"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-718112eaf350cc9612a0",
+      "title": "Skills Bootcamps grant 2026/27 - Cornwall",
+      "description": "Official 2026/27 funding allocation for Cornwall.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cornwall"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cornwall"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-6fba70d8fa42238afeba",
+      "title": "Skills Bootcamps grant 2026/27 - Cumberland Council (Cumbria)",
+      "description": "Official 2026/27 funding allocation for Cumberland Council (Cumbria).",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cumberland Council (Cumbria)"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cumberland Council (Cumbria)"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-4a267e0b2136d1ca65f3",
+      "title": "Skills Bootcamps grant 2026/27 - Devon",
+      "description": "Official 2026/27 funding allocation for Devon.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Devon"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 3300000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Devon"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-76311b621a02d25af987",
+      "title": "Skills Bootcamps grant 2026/27 - East Sussex",
+      "description": "Official 2026/27 funding allocation for East Sussex.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "East Sussex"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "East Sussex"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-93220d5a06f41257d1a2",
+      "title": "Skills Bootcamps grant 2026/27 - Essex",
+      "description": "Official 2026/27 funding allocation for Essex.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Essex"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1600000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Essex"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-db4c551d19a39c7c7798",
+      "title": "Skills Bootcamps grant 2026/27 - Gloucestershire",
+      "description": "Official 2026/27 funding allocation for Gloucestershire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Gloucestershire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Gloucestershire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-675149cb74008b00f18f",
+      "title": "Skills Bootcamps grant 2026/27 - Hampshire",
+      "description": "Official 2026/27 funding allocation for Hampshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Hampshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 2600000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Hampshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-4304e188a0ac3710f2d9",
+      "title": "Skills Bootcamps grant 2026/27 - Hertfordshire",
+      "description": "Official 2026/27 funding allocation for Hertfordshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Hertfordshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1900000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Hertfordshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-28b3ce53849e5efd47bf",
+      "title": "Skills Bootcamps grant 2026/27 - Kent",
+      "description": "Official 2026/27 funding allocation for Kent.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Kent"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Kent"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-1d1f2d70ff4763f991b7",
+      "title": "Skills Bootcamps grant 2026/27 - Lancashire",
+      "description": "Official 2026/27 funding allocation for Lancashire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Lancashire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 3200000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Lancashire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-37b34781c5074236a32f",
+      "title": "Skills Bootcamps grant 2026/27 - Leicestershire",
+      "description": "Official 2026/27 funding allocation for Leicestershire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Leicestershire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Leicestershire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-d4afaf00b3426c31e218",
+      "title": "Skills Bootcamps grant 2026/27 - Oxfordshire",
+      "description": "Official 2026/27 funding allocation for Oxfordshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Oxfordshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Oxfordshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-c8d72902bd00ce554982",
+      "title": "Skills Bootcamps grant 2026/27 - Portsmouth City Council (Solent)",
+      "description": "Official 2026/27 funding allocation for Portsmouth City Council (Solent).",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Portsmouth City Council (Solent)"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Portsmouth City Council (Solent)"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-3785298d76132a279ebf",
+      "title": "Skills Bootcamps grant 2026/27 - Somerset",
+      "description": "Official 2026/27 funding allocation for Somerset.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Somerset"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Somerset"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-bf95eaf4b90c03e00232",
+      "title": "Skills Bootcamps grant 2026/27 - Staffordshire",
+      "description": "Official 2026/27 funding allocation for Staffordshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Staffordshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Staffordshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-50f1ab4afb1015e74ce4",
+      "title": "Skills Bootcamps grant 2026/27 - Suffolk",
+      "description": "Official 2026/27 funding allocation for Suffolk.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Suffolk"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Suffolk"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-8d841eb7643cd5eba102",
+      "title": "Skills Bootcamps grant 2026/27 - Surrey",
+      "description": "Official 2026/27 funding allocation for Surrey.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Surrey"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Surrey"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-b9359bdb8a9dcee92ced",
+      "title": "Skills Bootcamps grant 2026/27 - Thames Valley and Berkshire",
+      "description": "Official 2026/27 funding allocation for Thames Valley and Berkshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Thames Valley and Berkshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1800000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Thames Valley and Berkshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-284ba6a4ed943762a2af",
+      "title": "Skills Bootcamps grant 2026/27 - Warwickshire",
+      "description": "Official 2026/27 funding allocation for Warwickshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Warwickshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Warwickshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-8340f41c19f84e43175e",
+      "title": "Skills Bootcamps grant 2026/27 - West Northamptonshire",
+      "description": "Official 2026/27 funding allocation for West Northamptonshire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Northamptonshire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West Northamptonshire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-718a50d3d0597e5ea4fc",
+      "title": "Skills Bootcamps grant 2026/27 - West Sussex",
+      "description": "Official 2026/27 funding allocation for West Sussex.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Sussex"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West Sussex"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-6e3a1fb46aaeae5a99f4",
+      "title": "Skills Bootcamps grant 2026/27 - Wiltshire and Swindon",
+      "description": "Official 2026/27 funding allocation for Wiltshire and Swindon.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Wiltshire and Swindon"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Wiltshire and Swindon"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-780bd0018df2b531fe1c",
+      "title": "Skills Bootcamps grant 2026/27 - Worcestershire",
+      "description": "Official 2026/27 funding allocation for Worcestershire.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Worcestershire"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1500000,
+          "currency": "GBP",
+          "valueType": "maximum-value"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Worcestershire"
+      ],
+      "fundingMechanism": "Standalone Skills Bootcamps local grant",
+      "latestEvidenceDate": "2026-09-16T10:00:49.440Z",
+      "sourceIds": [
+        "skills-funding-programmes"
+      ],
+      "aggregation": {
+        "treatment": "standalone",
+        "parentAllocation": null,
+        "countSeparatelyInCombinedTotal": true
+      }
+    },
+    {
+      "id": "cp-fund-db513eb9f3e7dddb68e2",
+      "title": "Skills Bootcamps within Integrated Settlement 2026/27 - Greater London Authority",
+      "description": "Published Skills Bootcamps component inside Greater London Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Greater London Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 8963257,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater London Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:55.586Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-8b56e9634073bce013c1",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-7cbe7c3cae75f5ee81cd",
+      "title": "Skills Bootcamps within Integrated Settlement 2026/27 - Greater Manchester Combined Authority",
+      "description": "Published Skills Bootcamps component inside Greater Manchester Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Greater Manchester Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 3543322,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Greater Manchester Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:59.397Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-7e19c0af164fde5d21c1",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-990e40cfabda7d0fe28f",
+      "title": "Skills Bootcamps within Integrated Settlement 2026/27 - Liverpool City Region Combined Authority",
+      "description": "Published Skills Bootcamps component inside Liverpool City Region Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Liverpool City Region Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 4703260,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Liverpool City Region Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:54.346Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-7a4249039535e821d26a",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-6c159a5b8644719492eb",
+      "title": "Skills Bootcamps within Integrated Settlement 2026/27 - North East Combined Authority",
+      "description": "Published Skills Bootcamps component inside North East Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "North East Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 7783856,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "North East Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:56.958Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-2da8d1b92f34517b8e71",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-d22f35cc66cb7e6d9781",
+      "title": "Skills Bootcamps within Integrated Settlement 2026/27 - South Yorkshire Combined Authority",
+      "description": "Published Skills Bootcamps component inside South Yorkshire Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "South Yorkshire Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 1143536,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "South Yorkshire Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:52.933Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-34caca475527810aa2cb",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-d97744d76a3f58fff781",
+      "title": "Skills Bootcamps within Integrated Settlement 2026/27 - West Midlands Combined Authority",
+      "description": "Published Skills Bootcamps component inside West Midlands Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Midlands Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 9799844,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West Midlands Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:58.157Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-3f79f63ee3a5d5cf3081",
+        "countSeparatelyInCombinedTotal": false
+      }
+    },
+    {
+      "id": "cp-fund-3f499a4c91f888ae431e",
+      "title": "Skills Bootcamps within Integrated Settlement 2026/27 - West Yorkshire Combined Authority",
+      "description": "Published Skills Bootcamps component inside West Yorkshire Combined Authority's 2026/27 Integrated Settlement.",
+      "fundingType": "allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "West Yorkshire Combined Authority"
+      ],
+      "programmeRefs": [
+        "skills-bootcamps"
+      ],
+      "values": [
+        {
+          "amount": 2106181,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "endDate": "2027-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "West Yorkshire Combined Authority"
+      ],
+      "fundingMechanism": "Integrated Settlement component",
+      "latestEvidenceDate": "2026-09-16T10:00:52.055Z",
+      "sourceIds": [
+        "integrated-settlements"
+      ],
+      "aggregation": {
+        "treatment": "component",
+        "parentAllocation": "cp-fund-1698419629aa848a40df",
+        "countSeparatelyInCombinedTotal": false
+      }
+    }
+  ],
   "fundingIntelligence": {
     "currentProgrammeFunding": null,
     "programmeFundingRecords": [],
-    "localAllocations": [],
-    "localAllocationCount": 0,
-    "observedAllocationTotal": null,
-    "observedAllocationCurrency": null,
-    "aggregationCaveat": null
+    "localAllocations": [
+      {
+        "id": "cp-fund-1aed40ffaa562e46019b",
+        "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Cambridgeshire and Peterborough",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Cambridgeshire and Peterborough"
+        ],
+        "geographies": [
+          "Cambridgeshire and Peterborough"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-6c001e9105c5b3b6d59b",
+        "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - East Midlands",
+        "amount": 2031213,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "East Midlands"
+        ],
+        "geographies": [
+          "East Midlands"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-183f290fa81fee6eca65",
+        "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Greater Lincolnshire",
+        "amount": 1615097,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Greater Lincolnshire"
+        ],
+        "geographies": [
+          "Greater Lincolnshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-ceccd15bd32fbdeb3d17",
+        "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Hull and East Yorkshire",
+        "amount": 2285781,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Hull and East Yorkshire"
+        ],
+        "geographies": [
+          "Hull and East Yorkshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-2607c9e1ec740fbd0010",
+        "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - Tees Valley",
+        "amount": 2686756,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Tees Valley"
+        ],
+        "geographies": [
+          "Tees Valley"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-af54e47fb871b59adcd1",
+        "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - West of England",
+        "amount": 4223674,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "West of England"
+        ],
+        "geographies": [
+          "West of England"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-ab56a303e031afe71e06",
+        "title": "Skills Bootcamps component of Adult Skills allocation 2026/27 - York and North Yorks",
+        "amount": 2011595,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "York and North Yorks"
+        ],
+        "geographies": [
+          "York and North Yorks"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-97cada7e3a0a79f61fa6",
+        "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - Greater London Authority",
+        "amount": 2794033,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Greater London Authority"
+        ],
+        "geographies": [
+          "Greater London Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:55.586Z"
+      },
+      {
+        "id": "cp-fund-1bca3d4ae5a699dced06",
+        "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - Greater Manchester Combined Authority",
+        "amount": 1104530,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Greater Manchester Combined Authority"
+        ],
+        "geographies": [
+          "Greater Manchester Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:59.397Z"
+      },
+      {
+        "id": "cp-fund-a32fb07d8eb2d18b4645",
+        "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - Liverpool City Region Combined Authority",
+        "amount": 1466103,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Liverpool City Region Combined Authority"
+        ],
+        "geographies": [
+          "Liverpool City Region Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:54.346Z"
+      },
+      {
+        "id": "cp-fund-3284a86271d465d5b2d7",
+        "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - North East Combined Authority",
+        "amount": 2426389,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "North East Combined Authority"
+        ],
+        "geographies": [
+          "North East Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:56.958Z"
+      },
+      {
+        "id": "cp-fund-f4f5c57bfd32adf54090",
+        "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - South Yorkshire Combined Authority",
+        "amount": 356464,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "South Yorkshire Combined Authority"
+        ],
+        "geographies": [
+          "South Yorkshire Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:52.933Z"
+      },
+      {
+        "id": "cp-fund-d4687f0869355234ff3e",
+        "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - West Midlands Combined Authority",
+        "amount": 3054814,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "West Midlands Combined Authority"
+        ],
+        "geographies": [
+          "West Midlands Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:58.157Z"
+      },
+      {
+        "id": "cp-fund-88d1439bf0bb9638126d",
+        "title": "Skills Bootcamps Construction Skills Package Funding within Integrated Settlement 2026/27 - West Yorkshire Combined Authority",
+        "amount": 656540,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "West Yorkshire Combined Authority"
+        ],
+        "geographies": [
+          "West Yorkshire Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:52.055Z"
+      },
+      {
+        "id": "cp-fund-24e8c5c70ab3a1dba0e7",
+        "title": "Skills Bootcamps grant 2026/27 - Brighton and Hove",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Brighton and Hove"
+        ],
+        "geographies": [
+          "Brighton and Hove"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-4749f5f00a7c68e8650d",
+        "title": "Skills Bootcamps grant 2026/27 - Buckinghamshire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Buckinghamshire"
+        ],
+        "geographies": [
+          "Buckinghamshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-a1427122fd012dd85636",
+        "title": "Skills Bootcamps grant 2026/27 - Central Bedfordshire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Central Bedfordshire"
+        ],
+        "geographies": [
+          "Central Bedfordshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-4492dd2fbe146df8bdb6",
+        "title": "Skills Bootcamps grant 2026/27 - Cheshire and Warrington",
+        "amount": 2000000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Cheshire and Warrington"
+        ],
+        "geographies": [
+          "Cheshire and Warrington"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-718112eaf350cc9612a0",
+        "title": "Skills Bootcamps grant 2026/27 - Cornwall",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Cornwall"
+        ],
+        "geographies": [
+          "Cornwall"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-6fba70d8fa42238afeba",
+        "title": "Skills Bootcamps grant 2026/27 - Cumberland Council (Cumbria)",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Cumberland Council (Cumbria)"
+        ],
+        "geographies": [
+          "Cumberland Council (Cumbria)"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-4a267e0b2136d1ca65f3",
+        "title": "Skills Bootcamps grant 2026/27 - Devon",
+        "amount": 3300000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Devon"
+        ],
+        "geographies": [
+          "Devon"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-76311b621a02d25af987",
+        "title": "Skills Bootcamps grant 2026/27 - East Sussex",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "East Sussex"
+        ],
+        "geographies": [
+          "East Sussex"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-93220d5a06f41257d1a2",
+        "title": "Skills Bootcamps grant 2026/27 - Essex",
+        "amount": 1600000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Essex"
+        ],
+        "geographies": [
+          "Essex"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-db4c551d19a39c7c7798",
+        "title": "Skills Bootcamps grant 2026/27 - Gloucestershire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Gloucestershire"
+        ],
+        "geographies": [
+          "Gloucestershire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-675149cb74008b00f18f",
+        "title": "Skills Bootcamps grant 2026/27 - Hampshire",
+        "amount": 2600000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Hampshire"
+        ],
+        "geographies": [
+          "Hampshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-4304e188a0ac3710f2d9",
+        "title": "Skills Bootcamps grant 2026/27 - Hertfordshire",
+        "amount": 1900000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Hertfordshire"
+        ],
+        "geographies": [
+          "Hertfordshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-28b3ce53849e5efd47bf",
+        "title": "Skills Bootcamps grant 2026/27 - Kent",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Kent"
+        ],
+        "geographies": [
+          "Kent"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-1d1f2d70ff4763f991b7",
+        "title": "Skills Bootcamps grant 2026/27 - Lancashire",
+        "amount": 3200000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Lancashire"
+        ],
+        "geographies": [
+          "Lancashire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-37b34781c5074236a32f",
+        "title": "Skills Bootcamps grant 2026/27 - Leicestershire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Leicestershire"
+        ],
+        "geographies": [
+          "Leicestershire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-d4afaf00b3426c31e218",
+        "title": "Skills Bootcamps grant 2026/27 - Oxfordshire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Oxfordshire"
+        ],
+        "geographies": [
+          "Oxfordshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-c8d72902bd00ce554982",
+        "title": "Skills Bootcamps grant 2026/27 - Portsmouth City Council (Solent)",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Portsmouth City Council (Solent)"
+        ],
+        "geographies": [
+          "Portsmouth City Council (Solent)"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-3785298d76132a279ebf",
+        "title": "Skills Bootcamps grant 2026/27 - Somerset",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Somerset"
+        ],
+        "geographies": [
+          "Somerset"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-bf95eaf4b90c03e00232",
+        "title": "Skills Bootcamps grant 2026/27 - Staffordshire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Staffordshire"
+        ],
+        "geographies": [
+          "Staffordshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-50f1ab4afb1015e74ce4",
+        "title": "Skills Bootcamps grant 2026/27 - Suffolk",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Suffolk"
+        ],
+        "geographies": [
+          "Suffolk"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-8d841eb7643cd5eba102",
+        "title": "Skills Bootcamps grant 2026/27 - Surrey",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Surrey"
+        ],
+        "geographies": [
+          "Surrey"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-b9359bdb8a9dcee92ced",
+        "title": "Skills Bootcamps grant 2026/27 - Thames Valley and Berkshire",
+        "amount": 1800000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Thames Valley and Berkshire"
+        ],
+        "geographies": [
+          "Thames Valley and Berkshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-284ba6a4ed943762a2af",
+        "title": "Skills Bootcamps grant 2026/27 - Warwickshire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Warwickshire"
+        ],
+        "geographies": [
+          "Warwickshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-8340f41c19f84e43175e",
+        "title": "Skills Bootcamps grant 2026/27 - West Northamptonshire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "West Northamptonshire"
+        ],
+        "geographies": [
+          "West Northamptonshire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-718a50d3d0597e5ea4fc",
+        "title": "Skills Bootcamps grant 2026/27 - West Sussex",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "West Sussex"
+        ],
+        "geographies": [
+          "West Sussex"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-6e3a1fb46aaeae5a99f4",
+        "title": "Skills Bootcamps grant 2026/27 - Wiltshire and Swindon",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Wiltshire and Swindon"
+        ],
+        "geographies": [
+          "Wiltshire and Swindon"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-780bd0018df2b531fe1c",
+        "title": "Skills Bootcamps grant 2026/27 - Worcestershire",
+        "amount": 1500000,
+        "currency": "GBP",
+        "valueType": "maximum-value",
+        "status": "allocated",
+        "recipients": [
+          "Worcestershire"
+        ],
+        "geographies": [
+          "Worcestershire"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:49.440Z"
+      },
+      {
+        "id": "cp-fund-db513eb9f3e7dddb68e2",
+        "title": "Skills Bootcamps within Integrated Settlement 2026/27 - Greater London Authority",
+        "amount": 8963257,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Greater London Authority"
+        ],
+        "geographies": [
+          "Greater London Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:55.586Z"
+      },
+      {
+        "id": "cp-fund-7cbe7c3cae75f5ee81cd",
+        "title": "Skills Bootcamps within Integrated Settlement 2026/27 - Greater Manchester Combined Authority",
+        "amount": 3543322,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Greater Manchester Combined Authority"
+        ],
+        "geographies": [
+          "Greater Manchester Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:59.397Z"
+      },
+      {
+        "id": "cp-fund-990e40cfabda7d0fe28f",
+        "title": "Skills Bootcamps within Integrated Settlement 2026/27 - Liverpool City Region Combined Authority",
+        "amount": 4703260,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Liverpool City Region Combined Authority"
+        ],
+        "geographies": [
+          "Liverpool City Region Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:54.346Z"
+      },
+      {
+        "id": "cp-fund-6c159a5b8644719492eb",
+        "title": "Skills Bootcamps within Integrated Settlement 2026/27 - North East Combined Authority",
+        "amount": 7783856,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "North East Combined Authority"
+        ],
+        "geographies": [
+          "North East Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:56.958Z"
+      },
+      {
+        "id": "cp-fund-d22f35cc66cb7e6d9781",
+        "title": "Skills Bootcamps within Integrated Settlement 2026/27 - South Yorkshire Combined Authority",
+        "amount": 1143536,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "South Yorkshire Combined Authority"
+        ],
+        "geographies": [
+          "South Yorkshire Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:52.933Z"
+      },
+      {
+        "id": "cp-fund-d97744d76a3f58fff781",
+        "title": "Skills Bootcamps within Integrated Settlement 2026/27 - West Midlands Combined Authority",
+        "amount": 9799844,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "West Midlands Combined Authority"
+        ],
+        "geographies": [
+          "West Midlands Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:58.157Z"
+      },
+      {
+        "id": "cp-fund-3f499a4c91f888ae431e",
+        "title": "Skills Bootcamps within Integrated Settlement 2026/27 - West Yorkshire Combined Authority",
+        "amount": 2106181,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "West Yorkshire Combined Authority"
+        ],
+        "geographies": [
+          "West Yorkshire Combined Authority"
+        ],
+        "period": {
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-09-16T10:00:52.055Z"
+      }
+    ],
+    "localAllocationCount": 48,
+    "observedAllocationTotal": 46400000,
+    "observedAllocationCurrency": "GBP",
+    "aggregationCaveat": "Observed published allocations in the curated feed. Component allocations flagged by the source are excluded from double counting where the underlying record identifies them as part of a parent allocation."
   },
   "performance": {
     "headlineMetrics": [],
@@ -1684,12 +4525,1039 @@
   },
   "delivery": {
     "areaType": "funded area",
-    "areaCount": 0,
-    "areas": []
+    "areaCount": 41,
+    "areas": [
+      {
+        "id": "cambridgeshire and peterborough",
+        "name": "Cambridgeshire and Peterborough",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Cambridgeshire and Peterborough"
+        ]
+      },
+      {
+        "id": "east midlands",
+        "name": "East Midlands",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "East Midlands"
+        ]
+      },
+      {
+        "id": "greater lincolnshire",
+        "name": "Greater Lincolnshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Greater Lincolnshire"
+        ]
+      },
+      {
+        "id": "hull and east yorkshire",
+        "name": "Hull and East Yorkshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Hull and East Yorkshire"
+        ]
+      },
+      {
+        "id": "tees valley",
+        "name": "Tees Valley",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Tees Valley"
+        ]
+      },
+      {
+        "id": "west of england",
+        "name": "West of England",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "West of England"
+        ]
+      },
+      {
+        "id": "york and north yorks",
+        "name": "York and North Yorks",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "York and North Yorks"
+        ]
+      },
+      {
+        "id": "greater london authority",
+        "name": "Greater London Authority",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Greater London Authority"
+        ]
+      },
+      {
+        "id": "greater manchester combined authority",
+        "name": "Greater Manchester Combined Authority",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Greater Manchester Combined Authority"
+        ]
+      },
+      {
+        "id": "liverpool city region combined authority",
+        "name": "Liverpool City Region Combined Authority",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Liverpool City Region Combined Authority"
+        ]
+      },
+      {
+        "id": "north east combined authority",
+        "name": "North East Combined Authority",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "North East Combined Authority"
+        ]
+      },
+      {
+        "id": "south yorkshire combined authority",
+        "name": "South Yorkshire Combined Authority",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "South Yorkshire Combined Authority"
+        ]
+      },
+      {
+        "id": "west midlands combined authority",
+        "name": "West Midlands Combined Authority",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "West Midlands Combined Authority"
+        ]
+      },
+      {
+        "id": "west yorkshire combined authority",
+        "name": "West Yorkshire Combined Authority",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "West Yorkshire Combined Authority"
+        ]
+      },
+      {
+        "id": "brighton and hove",
+        "name": "Brighton and Hove",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Brighton and Hove"
+        ]
+      },
+      {
+        "id": "buckinghamshire",
+        "name": "Buckinghamshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Buckinghamshire"
+        ]
+      },
+      {
+        "id": "central bedfordshire",
+        "name": "Central Bedfordshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Central Bedfordshire"
+        ]
+      },
+      {
+        "id": "cheshire and warrington",
+        "name": "Cheshire and Warrington",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Cheshire and Warrington"
+        ]
+      },
+      {
+        "id": "cornwall",
+        "name": "Cornwall",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Cornwall"
+        ]
+      },
+      {
+        "id": "cumberland council cumbria",
+        "name": "Cumberland Council (Cumbria)",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Cumberland Council (Cumbria)"
+        ]
+      },
+      {
+        "id": "devon",
+        "name": "Devon",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Devon"
+        ]
+      },
+      {
+        "id": "east sussex",
+        "name": "East Sussex",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "East Sussex"
+        ]
+      },
+      {
+        "id": "essex",
+        "name": "Essex",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Essex"
+        ]
+      },
+      {
+        "id": "gloucestershire",
+        "name": "Gloucestershire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Gloucestershire"
+        ]
+      },
+      {
+        "id": "hampshire",
+        "name": "Hampshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Hampshire"
+        ]
+      },
+      {
+        "id": "hertfordshire",
+        "name": "Hertfordshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Hertfordshire"
+        ]
+      },
+      {
+        "id": "kent",
+        "name": "Kent",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Kent"
+        ]
+      },
+      {
+        "id": "lancashire",
+        "name": "Lancashire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Lancashire"
+        ]
+      },
+      {
+        "id": "leicestershire",
+        "name": "Leicestershire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Leicestershire"
+        ]
+      },
+      {
+        "id": "oxfordshire",
+        "name": "Oxfordshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Oxfordshire"
+        ]
+      },
+      {
+        "id": "portsmouth city council solent",
+        "name": "Portsmouth City Council (Solent)",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Portsmouth City Council (Solent)"
+        ]
+      },
+      {
+        "id": "somerset",
+        "name": "Somerset",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Somerset"
+        ]
+      },
+      {
+        "id": "staffordshire",
+        "name": "Staffordshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Staffordshire"
+        ]
+      },
+      {
+        "id": "suffolk",
+        "name": "Suffolk",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Suffolk"
+        ]
+      },
+      {
+        "id": "surrey",
+        "name": "Surrey",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Surrey"
+        ]
+      },
+      {
+        "id": "thames valley and berkshire",
+        "name": "Thames Valley and Berkshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Thames Valley and Berkshire"
+        ]
+      },
+      {
+        "id": "warwickshire",
+        "name": "Warwickshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Warwickshire"
+        ]
+      },
+      {
+        "id": "west northamptonshire",
+        "name": "West Northamptonshire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "West Northamptonshire"
+        ]
+      },
+      {
+        "id": "west sussex",
+        "name": "West Sussex",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "West Sussex"
+        ]
+      },
+      {
+        "id": "wiltshire and swindon",
+        "name": "Wiltshire and Swindon",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Wiltshire and Swindon"
+        ]
+      },
+      {
+        "id": "worcestershire",
+        "name": "Worcestershire",
+        "type": "funded area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Worcestershire"
+        ]
+      }
+    ]
   },
   "geography": {
-    "areaCount": 0,
-    "areas": [],
+    "areaCount": 41,
+    "areas": [
+      {
+        "id": "cambridgeshire and peterborough",
+        "geography": {
+          "name": "Cambridgeshire and Peterborough",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "east midlands",
+        "geography": {
+          "name": "East Midlands",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "greater lincolnshire",
+        "geography": {
+          "name": "Greater Lincolnshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "hull and east yorkshire",
+        "geography": {
+          "name": "Hull and East Yorkshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "tees valley",
+        "geography": {
+          "name": "Tees Valley",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "west of england",
+        "geography": {
+          "name": "West of England",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "york and north yorks",
+        "geography": {
+          "name": "York and North Yorks",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "greater london authority",
+        "geography": {
+          "name": "Greater London Authority",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "greater manchester combined authority",
+        "geography": {
+          "name": "Greater Manchester Combined Authority",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "liverpool city region combined authority",
+        "geography": {
+          "name": "Liverpool City Region Combined Authority",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "north east combined authority",
+        "geography": {
+          "name": "North East Combined Authority",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "south yorkshire combined authority",
+        "geography": {
+          "name": "South Yorkshire Combined Authority",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "west midlands combined authority",
+        "geography": {
+          "name": "West Midlands Combined Authority",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "west yorkshire combined authority",
+        "geography": {
+          "name": "West Yorkshire Combined Authority",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "brighton and hove",
+        "geography": {
+          "name": "Brighton and Hove",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "buckinghamshire",
+        "geography": {
+          "name": "Buckinghamshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "central bedfordshire",
+        "geography": {
+          "name": "Central Bedfordshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "cheshire and warrington",
+        "geography": {
+          "name": "Cheshire and Warrington",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "cornwall",
+        "geography": {
+          "name": "Cornwall",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "cumberland council cumbria",
+        "geography": {
+          "name": "Cumberland Council (Cumbria)",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "devon",
+        "geography": {
+          "name": "Devon",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "east sussex",
+        "geography": {
+          "name": "East Sussex",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "essex",
+        "geography": {
+          "name": "Essex",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "gloucestershire",
+        "geography": {
+          "name": "Gloucestershire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "hampshire",
+        "geography": {
+          "name": "Hampshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "hertfordshire",
+        "geography": {
+          "name": "Hertfordshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "kent",
+        "geography": {
+          "name": "Kent",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "lancashire",
+        "geography": {
+          "name": "Lancashire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "leicestershire",
+        "geography": {
+          "name": "Leicestershire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "oxfordshire",
+        "geography": {
+          "name": "Oxfordshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "portsmouth city council solent",
+        "geography": {
+          "name": "Portsmouth City Council (Solent)",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "somerset",
+        "geography": {
+          "name": "Somerset",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "staffordshire",
+        "geography": {
+          "name": "Staffordshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "suffolk",
+        "geography": {
+          "name": "Suffolk",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "surrey",
+        "geography": {
+          "name": "Surrey",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "thames valley and berkshire",
+        "geography": {
+          "name": "Thames Valley and Berkshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "warwickshire",
+        "geography": {
+          "name": "Warwickshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "west northamptonshire",
+        "geography": {
+          "name": "West Northamptonshire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "west sussex",
+        "geography": {
+          "name": "West Sussex",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "wiltshire and swindon",
+        "geography": {
+          "name": "Wiltshire and Swindon",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      },
+      {
+        "id": "worcestershire",
+        "geography": {
+          "name": "Worcestershire",
+          "nation": "England",
+          "region": null,
+          "localAuthority": null,
+          "scope": "funded-area"
+        },
+        "counts": {},
+        "funding": null,
+        "providerRefs": [],
+        "latestMetrics": [],
+        "sourceIds": []
+      }
+    ],
     "regionalTimeSeries": [
       {
         "code": "E12000001",
@@ -7844,6 +11712,20 @@
         "https://www.gov.uk/government/publications/adult-skills-fund-devolved-grant-determination-letters-2026/foundation-strategic-authorities-s31-free-courses-for-jobs-funding-for-2026-to-2027",
         "https://www.gov.uk/government/publications/skills-bootcamps-funding-allocations/skills-bootcamps-funding-allocations-2026-to-2027"
       ]
+    },
+    {
+      "id": "integrated-settlements",
+      "name": "MHCLG Integrated Settlements 2026 to 2030",
+      "official": true,
+      "latestPublicationDate": "2025-12-18T09:49:54+00:00",
+      "latestRetrievedAt": "2026-09-16T10:00:59.397Z",
+      "urls": [
+        "https://assets.publishing.service.gov.uk/media/69c3f5e2471d520038d0f5ef/Greater_Manchester_gov.uk.pdf",
+        "https://assets.publishing.service.gov.uk/media/69c3f5cb23fcbcd838a6f671/North_East_gov.uk.pdf",
+        "https://assets.publishing.service.gov.uk/media/69c3f58e23fcbcd838a6f66e/West_Yorkshire_gov.uk.pdf",
+        "https://assets.publishing.service.gov.uk/media/69fdb3218cc72d2f863ea625/Greater_London_gov.uk.pdf",
+        "https://assets.publishing.service.gov.uk/media/69c3f5a993cc6e8b87a6f682/Liverpool_City_Region_gov.uk.pdf"
+      ]
     }
   ],
   "dataAvailability": {
@@ -7851,9 +11733,9 @@
     "providerPerformance": false,
     "participantProfile": false,
     "deliveryModel": false,
-    "funding": false,
-    "localAllocations": false,
-    "deliveryAreas": false,
+    "funding": true,
+    "localAllocations": true,
+    "deliveryAreas": true,
     "providers": false,
     "procurement": false,
     "workforce": true,
