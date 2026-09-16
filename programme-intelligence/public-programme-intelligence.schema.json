@@ -4,23 +4,10 @@
   "title": "CareerPath Public Programme Intelligence",
   "type": "object",
   "required": [
-    "schemaVersion",
-    "id",
-    "slug",
-    "name",
-    "status",
-    "generatedAt",
-    "overview",
-    "funding",
-    "performance",
-    "geography",
-    "providers",
-    "workforce",
-    "labourMarket",
-    "analysis",
-    "latestUpdates",
-    "sources",
-    "publication"
+    "schemaVersion", "id", "slug", "name", "status", "generatedAt", "overview",
+    "funding", "fundingIntelligence", "performance", "delivery", "geography", "providers",
+    "participantProfile", "deliveryModels", "procurement", "workforce", "labourMarket",
+    "analysis", "latestUpdates", "sources", "dataAvailability", "publication"
   ],
   "properties": {
     "schemaVersion": { "const": 1 },
@@ -40,23 +27,64 @@
     "latestEvidenceDate": { "type": ["string", "null"] },
     "overview": {
       "type": "object",
-      "required": ["metrics", "providerCount", "geographicAreaCount"],
+      "required": ["metrics", "providerCount", "geographicAreaCount", "deliveryAreaCount", "deliveryAreaType", "procurementCount"],
       "properties": {
         "fundingHeadline": { "type": ["object", "null"] },
         "metrics": { "type": "array" },
         "providerCount": { "type": "integer", "minimum": 0 },
         "geographicAreaCount": { "type": "integer", "minimum": 0 },
+        "deliveryAreaCount": { "type": "integer", "minimum": 0 },
+        "deliveryAreaType": { "type": "string", "minLength": 1 },
+        "procurementCount": { "type": "integer", "minimum": 0 },
         "latestReportingPeriod": { "type": ["string", "null"] }
       },
       "additionalProperties": true
     },
     "funding": { "type": "array" },
+    "fundingIntelligence": {
+      "type": "object",
+      "required": ["currentProgrammeFunding", "programmeFundingRecords", "localAllocations", "localAllocationCount", "observedAllocationTotal", "observedAllocationCurrency", "aggregationCaveat"],
+      "properties": {
+        "currentProgrammeFunding": { "type": ["object", "null"] },
+        "programmeFundingRecords": { "type": "array" },
+        "localAllocations": { "type": "array" },
+        "localAllocationCount": { "type": "integer", "minimum": 0 },
+        "observedAllocationTotal": { "type": ["number", "null"] },
+        "observedAllocationCurrency": { "type": ["string", "null"] },
+        "aggregationCaveat": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    },
     "performance": {
       "type": "object",
-      "required": ["headlineMetrics", "regionalTimeSeries"],
+      "required": ["headlineMetrics", "metricGroups", "regionalTimeSeries"],
       "properties": {
         "headlineMetrics": { "type": "array" },
+        "metricGroups": {
+          "type": "object",
+          "required": ["national", "outcomes", "participantProfile", "deliveryModel", "providerPerformance", "areaPerformance", "all"],
+          "properties": {
+            "national": { "type": "array" },
+            "outcomes": { "type": "array" },
+            "participantProfile": { "type": "array" },
+            "deliveryModel": { "type": "array" },
+            "providerPerformance": { "type": "array" },
+            "areaPerformance": { "type": "array" },
+            "all": { "type": "array" }
+          },
+          "additionalProperties": false
+        },
         "regionalTimeSeries": { "type": "array" }
+      },
+      "additionalProperties": false
+    },
+    "delivery": {
+      "type": "object",
+      "required": ["areaType", "areaCount", "areas"],
+      "properties": {
+        "areaType": { "type": "string", "minLength": 1 },
+        "areaCount": { "type": "integer", "minimum": 0 },
+        "areas": { "type": "array" }
       },
       "additionalProperties": false
     },
@@ -71,6 +99,24 @@
       "additionalProperties": false
     },
     "providers": { "type": "array" },
+    "participantProfile": {
+      "type": "object",
+      "required": ["metrics"],
+      "properties": { "metrics": { "type": "array" } },
+      "additionalProperties": false
+    },
+    "deliveryModels": {
+      "type": "object",
+      "required": ["metrics"],
+      "properties": { "metrics": { "type": "array" } },
+      "additionalProperties": false
+    },
+    "procurement": {
+      "type": "object",
+      "required": ["opportunities"],
+      "properties": { "opportunities": { "type": "array" } },
+      "additionalProperties": false
+    },
     "workforce": {
       "type": "object",
       "required": ["roleFamilies", "demandRanking", "latestEvents"],
@@ -86,8 +132,11 @@
     },
     "labourMarket": {
       "type": "object",
-      "required": ["headlineMetrics"],
-      "properties": { "headlineMetrics": { "type": "array" } },
+      "required": ["headlineMetrics", "regionalTimeSeries"],
+      "properties": {
+        "headlineMetrics": { "type": "array" },
+        "regionalTimeSeries": { "type": "array" }
+      },
       "additionalProperties": false
     },
     "analysis": {
@@ -102,20 +151,33 @@
     },
     "latestUpdates": { "type": "array" },
     "sources": { "type": "array" },
+    "dataAvailability": {
+      "type": "object",
+      "required": ["performance", "providerPerformance", "participantProfile", "deliveryModel", "funding", "localAllocations", "deliveryAreas", "providers", "procurement", "workforce", "labourMarket", "latestUpdates"],
+      "properties": {
+        "performance": { "type": "boolean" },
+        "providerPerformance": { "type": "boolean" },
+        "participantProfile": { "type": "boolean" },
+        "deliveryModel": { "type": "boolean" },
+        "funding": { "type": "boolean" },
+        "localAllocations": { "type": "boolean" },
+        "deliveryAreas": { "type": "boolean" },
+        "providers": { "type": "boolean" },
+        "procurement": { "type": "boolean" },
+        "workforce": { "type": "boolean" },
+        "labourMarket": { "type": "boolean" },
+        "latestUpdates": { "type": "boolean" }
+      },
+      "additionalProperties": false
+    },
     "publication": {
       "type": "object",
-      "required": [
-        "publicWebsiteEligible",
-        "destination",
-        "generatedFromValidatedFrontendExport",
-        "containsRawVacancies",
-        "containsInternalBidScoring",
-        "containsCommercialRecommendations"
-      ],
+      "required": ["publicWebsiteEligible", "destination", "generatedFromValidatedFrontendExport", "enrichedFromCuratedPublicInputs", "containsRawVacancies", "containsInternalBidScoring", "containsCommercialRecommendations"],
       "properties": {
         "publicWebsiteEligible": { "const": true },
         "destination": { "type": "string", "pattern": "^/programme-intelligence/" },
         "generatedFromValidatedFrontendExport": { "const": true },
+        "enrichedFromCuratedPublicInputs": { "const": true },
         "containsRawVacancies": { "const": false },
         "containsInternalBidScoring": { "const": false },
         "containsCommercialRecommendations": { "const": false }
