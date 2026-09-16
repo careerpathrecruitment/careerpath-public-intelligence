@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-programme-intelligence",
-  "generatedAt": "2026-09-16T10:12:59.457Z",
+  "generatedAt": "2026-09-16T10:20:26.528Z",
   "sourceSnapshotId": "careerpath-insights-frontend-export",
   "sourceSchemaVersion": 1,
   "qualityStatus": "passed-with-warnings",
@@ -60,7 +60,7 @@
       "name": "Future Employment Support",
       "status": "developing",
       "description": "Future employment-support commissioning intelligence, including public procurement, geography, supply-chain and workforce signals as they become available.",
-      "latestEvidenceDate": "2022-06-21T18:54:51+01:00",
+      "latestEvidenceDate": null,
       "providerCount": 0,
       "geographicAreaCount": 0,
       "deliveryAreaCount": 0,
