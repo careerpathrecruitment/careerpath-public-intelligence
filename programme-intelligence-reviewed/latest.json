@@ -1,15 +1,15 @@
 {
   "feedVersion": 1,
-  "releaseId": "0b9e3ed04271bbd80400142d959b7508e0ee2a8d4a33565da2af9f894969248f",
-  "publishedAt": "2026-09-17T19:48:36Z",
+  "releaseId": "5a351c6debe272c69e2f7fe6cd858186fa6fa24a79560b58fc444bd24f6e4839",
+  "publishedAt": "2026-09-17T20:41:05Z",
   "monitoring": {
     "staleAfterHours": 48,
     "scope": "26 reviewed evidence sources plus 14 supporting discovery, guidance and underlying dataset endpoints. Not a census of every available source or local manual.",
     "programmes": {
       "restart-scheme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
@@ -20,8 +20,8 @@
       },
       "connect-to-work": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -32,8 +32,8 @@
       },
       "workwell": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [],
@@ -43,32 +43,21 @@
         "releaseId": "initial-reviewed-snapshot"
       },
       "skills-bootcamps": {
-        "status": "updates-pending-review",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "status": "checked",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 8,
         "sourcesMonitored": 8,
-        "changedSources": [
-          {
-            "title": "Skills bootcamps starts, completions and outcomes",
-            "url": "https://explore-education-statistics.service.gov.uk/find-statistics/skills-bootcamps-starts-completions-and-outcomes/2023-24",
-            "detectedAt": "2026-09-17T19:48:36Z"
-          },
-          {
-            "title": "Skills bootcamps starts, completions and outcomes",
-            "url": "https://explore-education-statistics.service.gov.uk/find-statistics/skills-bootcamps-starts-completions-and-outcomes/2023-24",
-            "detectedAt": "2026-09-17T19:48:36Z"
-          }
-        ],
+        "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-17",
-        "updateSummary": null,
-        "releaseId": "initial-reviewed-snapshot"
+        "reviewedAt": "2026-09-17T20:18:50Z",
+        "updateSummary": "Final audit correction: Digital 31% and Construction 69% are examples, not the full sector range. Science and Mathematics is 27% with DfE small-group caveat. Reconciled all 11 sectors, nine regions and headline stages against the official release and featured tables. Existing targeted guidance scope retained; unchanged registered guidance fingerprints match the previously reviewed sources. Publication and revision dates are explicit.",
+        "releaseId": "skills-bootcamps-audit-correction-2026-09-17"
       },
       "apprenticeships-growth-skills-levy": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -79,20 +68,20 @@
       },
       "adult-skills-fund": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-17",
-        "updateSummary": null,
-        "releaseId": "initial-reviewed-snapshot"
+        "reviewedAt": "2026-09-17T20:18:50Z",
+        "updateSummary": "Final audit correction: use the GOV.UK first-publication date of 21 April 2026; identify the public revision separately as 20 August 2026. All 13 core Annex A allocation amounts reconcile to the official table. Funding-scope definitions, 97% reference and targeted guidance review remain unchanged; registered guidance fingerprints match the previously reviewed sources.",
+        "releaseId": "adult-skills-fund-audit-correction-2026-09-17"
       },
       "sector-based-work-academy-programme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -103,8 +92,8 @@
       },
       "youth-guarantee": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [],
@@ -115,8 +104,8 @@
       },
       "economic-inactivity-trailblazers": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-09-17T19:48:36Z",
-        "lastSuccessfulCheckAt": "2026-09-17T19:48:36Z",
+        "lastAttemptAt": "2026-09-17T20:41:05Z",
+        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [
@@ -215,7 +204,7 @@
         "period": "Financial year 2023/24",
         "published": "2025-09-18",
         "kind": "Management information",
-        "review": "Revised national release, all 11 published sector groups and all nine regional benchmarks imported. Selected employment-entry groups retained. Multidimensional cross-tabs are not imported.",
+        "review": "First published 18 September 2025; revised 26 February 2026. Revised national release, all 11 published sector groups and all nine regional benchmarks imported. Selected employment-entry groups retained. Multidimensional cross-tabs are not imported.",
         "checked": "2026-09-17"
       },
       "boot-manual": {
@@ -273,9 +262,9 @@
         "title": "S31 adult skills allocations, Annex A by funding stream",
         "url": "https://www.gov.uk/government/publications/adult-skills-fund-devolved-grant-determination-letters-2026/strategic-authorities-s31-adult-skills-fund-funding-for-2026-to-2027--2",
         "period": "Financial year 2026/27",
-        "published": "2026-08-20",
+        "published": "2026-04-21",
         "kind": "Allocation table",
-        "review": "Reviewed relevant definitions and tables",
+        "review": "First published 21 April 2026; public revision 20 August 2026. Annex A core ASF amounts reviewed separately from other funding streams.",
         "checked": "2026-09-17"
       },
       "asf-manual": {
@@ -2254,8 +2243,8 @@
           },
           {
             "title": "Compare similar provision",
-            "evidence": "Published outcome rates range from 31% in Digital to 69% in Construction.",
-            "meaning": "Sector and learner employment status materially change the comparison.",
+            "evidence": "Published outcome rates include 31% in Digital and 69% in Construction. These are examples, not the full sector range.",
+            "meaning": "Sector and learner employment status materially change the comparison. Science and Mathematics is 27%, but DfE cautions that this is a smaller DPS 1 group.",
             "action": "Benchmark against your sector and entry status before judging delivery quality.",
             "source": "boot"
           },
