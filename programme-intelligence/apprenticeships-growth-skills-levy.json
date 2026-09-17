@@ -24,8 +24,8 @@
   "fundingMechanisms": [
     "mixed"
   ],
-  "generatedAt": "2026-09-16T15:22:11.439Z",
-  "latestEvidenceDate": "2026-09-16T15:21:56.118Z",
+  "generatedAt": "2026-09-17T19:37:31.579Z",
+  "latestEvidenceDate": "2026-09-17T19:37:20.600Z",
   "overview": {
     "fundingHeadline": null,
     "metrics": [
@@ -47,7 +47,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.098Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.561Z"
       },
       {
         "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -67,7 +67,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.035Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.517Z"
       },
       {
         "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -87,7 +87,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.071Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.541Z"
       },
       {
         "id": "cp-perf-006aed2fea563f75cdb6",
@@ -107,7 +107,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.090Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.554Z"
       },
       {
         "id": "cp-perf-009be03a04293c01c059",
@@ -127,7 +127,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.097Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.560Z"
       },
       {
         "id": "cp-perf-00a80af0f0a5c382220c",
@@ -147,7 +147,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.535Z"
       },
       {
         "id": "cp-perf-00a92952cb82f60c6477",
@@ -167,7 +167,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.536Z"
       },
       {
         "id": "cp-perf-00ad7d70a61342c0229e",
@@ -187,7 +187,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.087Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.552Z"
       },
       {
         "id": "cp-perf-00fc91cb2afd52263050",
@@ -207,7 +207,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.592Z"
       },
       {
         "id": "cp-perf-014c472d61633a0f2bec",
@@ -227,7 +227,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.053Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.526Z"
       },
       {
         "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -247,7 +247,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.114Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.594Z"
       },
       {
         "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -267,7 +267,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.085Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.551Z"
       },
       {
         "id": "cp-perf-0176e2381d69945f2853",
@@ -287,7 +287,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.108Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.586Z"
       },
       {
         "id": "cp-perf-017df84c169991f51022",
@@ -307,7 +307,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.111Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.590Z"
       },
       {
         "id": "cp-perf-0185035a80ef92574372",
@@ -327,7 +327,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.067Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.538Z"
       },
       {
         "id": "cp-perf-01ab579dda6802162f57",
@@ -347,7 +347,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.077Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.547Z"
       },
       {
         "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -367,7 +367,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.117Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.599Z"
       },
       {
         "id": "cp-perf-01b7837982225121c799",
@@ -387,7 +387,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.591Z"
       },
       {
         "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -407,7 +407,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.079Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.548Z"
       },
       {
         "id": "cp-perf-02128afb6080e899abc7",
@@ -427,7 +427,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.102Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.578Z"
       }
     ],
     "providerCount": 500,
@@ -435,7 +435,7 @@
     "deliveryAreaCount": 0,
     "deliveryAreaType": "provider network",
     "procurementCount": 0,
-    "latestReportingPeriod": "2026-09-16T15:21:56.117Z"
+    "latestReportingPeriod": "2026-09-17T19:37:20.599Z"
   },
   "funding": [],
   "fundingIntelligence": {
@@ -467,7 +467,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.098Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.561Z"
       },
       {
         "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -487,7 +487,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.035Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.517Z"
       },
       {
         "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -507,7 +507,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.071Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.541Z"
       },
       {
         "id": "cp-perf-006aed2fea563f75cdb6",
@@ -527,7 +527,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.090Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.554Z"
       },
       {
         "id": "cp-perf-009be03a04293c01c059",
@@ -547,7 +547,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.097Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.560Z"
       },
       {
         "id": "cp-perf-00a80af0f0a5c382220c",
@@ -567,7 +567,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.535Z"
       },
       {
         "id": "cp-perf-00a92952cb82f60c6477",
@@ -587,7 +587,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.536Z"
       },
       {
         "id": "cp-perf-00ad7d70a61342c0229e",
@@ -607,7 +607,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.087Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.552Z"
       },
       {
         "id": "cp-perf-00fc91cb2afd52263050",
@@ -627,7 +627,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.592Z"
       },
       {
         "id": "cp-perf-014c472d61633a0f2bec",
@@ -647,7 +647,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.053Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.526Z"
       },
       {
         "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -667,7 +667,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.114Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.594Z"
       },
       {
         "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -687,7 +687,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.085Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.551Z"
       },
       {
         "id": "cp-perf-0176e2381d69945f2853",
@@ -707,7 +707,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.108Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.586Z"
       },
       {
         "id": "cp-perf-017df84c169991f51022",
@@ -727,7 +727,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.111Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.590Z"
       },
       {
         "id": "cp-perf-0185035a80ef92574372",
@@ -747,7 +747,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.067Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.538Z"
       },
       {
         "id": "cp-perf-01ab579dda6802162f57",
@@ -767,7 +767,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.077Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.547Z"
       },
       {
         "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -787,7 +787,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.117Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.599Z"
       },
       {
         "id": "cp-perf-01b7837982225121c799",
@@ -807,7 +807,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.591Z"
       },
       {
         "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -827,7 +827,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.079Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.548Z"
       },
       {
         "id": "cp-perf-02128afb6080e899abc7",
@@ -847,7 +847,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.102Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.578Z"
       }
     ],
     "metricGroups": {
@@ -871,7 +871,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.035Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.517Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -891,7 +891,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.097Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.560Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -911,7 +911,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.536Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -931,7 +931,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.592Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -951,7 +951,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.114Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.594Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -971,7 +971,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.111Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.590Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -991,7 +991,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.591Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1011,7 +1011,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.079Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.548Z"
         }
       ],
       "participantProfile": [
@@ -1033,7 +1033,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.035Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.517Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -1053,7 +1053,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.097Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.560Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -1073,7 +1073,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.536Z"
         },
         {
           "id": "cp-perf-00ad7d70a61342c0229e",
@@ -1093,7 +1093,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.087Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.552Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -1113,7 +1113,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.592Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -1133,7 +1133,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.114Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.594Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -1153,7 +1153,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.111Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.590Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -1173,7 +1173,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.591Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1193,7 +1193,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.079Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.548Z"
         }
       ],
       "deliveryModel": [],
@@ -1216,7 +1216,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.098Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.561Z"
         },
         {
           "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -1236,7 +1236,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.035Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.517Z"
         },
         {
           "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -1256,7 +1256,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.071Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.541Z"
         },
         {
           "id": "cp-perf-006aed2fea563f75cdb6",
@@ -1276,7 +1276,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.090Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.554Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -1296,7 +1296,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.097Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.560Z"
         },
         {
           "id": "cp-perf-00a80af0f0a5c382220c",
@@ -1316,7 +1316,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.535Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -1336,7 +1336,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.536Z"
         },
         {
           "id": "cp-perf-00ad7d70a61342c0229e",
@@ -1356,7 +1356,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.087Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.552Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -1376,7 +1376,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.592Z"
         },
         {
           "id": "cp-perf-014c472d61633a0f2bec",
@@ -1396,7 +1396,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.053Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.526Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -1416,7 +1416,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.114Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.594Z"
         },
         {
           "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -1436,7 +1436,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.085Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.551Z"
         },
         {
           "id": "cp-perf-0176e2381d69945f2853",
@@ -1456,7 +1456,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.108Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.586Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -1476,7 +1476,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.111Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.590Z"
         },
         {
           "id": "cp-perf-0185035a80ef92574372",
@@ -1496,7 +1496,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.067Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.538Z"
         },
         {
           "id": "cp-perf-01ab579dda6802162f57",
@@ -1516,7 +1516,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.077Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.547Z"
         },
         {
           "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -1536,7 +1536,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.117Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.599Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -1556,7 +1556,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.591Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1576,7 +1576,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.079Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.548Z"
         },
         {
           "id": "cp-perf-02128afb6080e899abc7",
@@ -1596,7 +1596,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.102Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.578Z"
         }
       ],
       "areaPerformance": [],
@@ -1619,7 +1619,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.098Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.561Z"
         },
         {
           "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -1639,7 +1639,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.035Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.517Z"
         },
         {
           "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -1659,7 +1659,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.071Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.541Z"
         },
         {
           "id": "cp-perf-006aed2fea563f75cdb6",
@@ -1679,7 +1679,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.090Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.554Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -1699,7 +1699,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.097Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.560Z"
         },
         {
           "id": "cp-perf-00a80af0f0a5c382220c",
@@ -1719,7 +1719,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.535Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -1739,7 +1739,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.536Z"
         },
         {
           "id": "cp-perf-00ad7d70a61342c0229e",
@@ -1759,7 +1759,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.087Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.552Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -1779,7 +1779,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.592Z"
         },
         {
           "id": "cp-perf-014c472d61633a0f2bec",
@@ -1799,7 +1799,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.053Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.526Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -1819,7 +1819,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.114Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.594Z"
         },
         {
           "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -1839,7 +1839,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.085Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.551Z"
         },
         {
           "id": "cp-perf-0176e2381d69945f2853",
@@ -1859,7 +1859,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.108Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.586Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -1879,7 +1879,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.111Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.590Z"
         },
         {
           "id": "cp-perf-0185035a80ef92574372",
@@ -1899,7 +1899,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.067Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.538Z"
         },
         {
           "id": "cp-perf-01ab579dda6802162f57",
@@ -1919,7 +1919,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.077Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.547Z"
         },
         {
           "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -1939,7 +1939,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.117Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.599Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -1959,7 +1959,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.591Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1979,7 +1979,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.079Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.548Z"
         },
         {
           "id": "cp-perf-02128afb6080e899abc7",
@@ -1999,7 +1999,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:56.102Z"
+          "latestEvidenceDate": "2026-09-17T19:37:20.578Z"
         }
       ]
     },
@@ -17279,7 +17279,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.035Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.517Z"
       },
       {
         "id": "cp-perf-009be03a04293c01c059",
@@ -17299,7 +17299,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.097Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.560Z"
       },
       {
         "id": "cp-perf-00a92952cb82f60c6477",
@@ -17319,7 +17319,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.064Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.536Z"
       },
       {
         "id": "cp-perf-00ad7d70a61342c0229e",
@@ -17339,7 +17339,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.087Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.552Z"
       },
       {
         "id": "cp-perf-00fc91cb2afd52263050",
@@ -17359,7 +17359,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.592Z"
       },
       {
         "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -17379,7 +17379,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.114Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.594Z"
       },
       {
         "id": "cp-perf-017df84c169991f51022",
@@ -17399,7 +17399,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.111Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.590Z"
       },
       {
         "id": "cp-perf-01b7837982225121c799",
@@ -17419,7 +17419,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.112Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.591Z"
       },
       {
         "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -17439,7 +17439,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:56.079Z"
+        "latestEvidenceDate": "2026-09-17T19:37:20.548Z"
       }
     ]
   },
@@ -21981,7 +21981,7 @@
       "name": "Apprenticeships and Growth & Skills Levy",
       "official": true,
       "latestPublicationDate": "2026-09-02T00:00:00.000Z",
-      "latestRetrievedAt": "2026-09-16T15:21:56.118Z",
+      "latestRetrievedAt": "2026-09-17T19:37:20.600Z",
       "urls": [
         "https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/12192cf4-98d5-4479-abb5-b18e3961b601",
         "https://www.gov.uk/government/publications/resources-for-promoting-the-growth-and-skills-levy/growth-and-skills-levy-accessible-version-of-gsl-reforms-factsheet",

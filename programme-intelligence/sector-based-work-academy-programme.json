@@ -32,21 +32,21 @@
     "direct-delivery",
     "allocation"
   ],
-  "generatedAt": "2026-09-16T15:22:11.439Z",
-  "latestEvidenceDate": "2026-09-16T15:21:59.478Z",
+  "generatedAt": "2026-09-17T19:37:31.579Z",
+  "latestEvidenceDate": "2027-03-31T23:59:59.000Z",
   "overview": {
     "fundingHeadline": null,
     "metrics": [
       {
-        "id": "cp-perf-e6b45840433d8ee1fdf3",
+        "id": "cp-perf-93c55e19c27cdd526e1d",
         "metricType": "programme-performance",
-        "name": "SWAP cumulative starts",
-        "value": 80000,
+        "name": "SWAP annual delivery target 2026/27",
+        "value": 115000,
         "unit": "starts",
         "rating": null,
         "period": {
-          "startDate": "2021-04-01T00:00:00.000Z",
-          "endDate": "2026-06-30T23:59:59.000Z",
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
         "programmeRef": "cp-prog-8d5b0b55b573c0894af3",
@@ -55,7 +55,7 @@
         "sourceIds": [
           "swap-management-information"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+        "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
       },
       {
         "id": "cp-perf-3915e31ea929b19eccc8",
@@ -75,7 +75,7 @@
         "sourceIds": [
           "swap-management-information"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+        "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
       }
     ],
     "providerCount": 0,
@@ -83,7 +83,7 @@
     "deliveryAreaCount": 0,
     "deliveryAreaType": "national coverage area",
     "procurementCount": 0,
-    "latestReportingPeriod": "2026-09-16T15:21:59.478Z"
+    "latestReportingPeriod": "2027-03-31T23:59:59.000Z"
   },
   "funding": [],
   "fundingIntelligence": {
@@ -98,15 +98,15 @@
   "performance": {
     "headlineMetrics": [
       {
-        "id": "cp-perf-e6b45840433d8ee1fdf3",
+        "id": "cp-perf-93c55e19c27cdd526e1d",
         "metricType": "programme-performance",
-        "name": "SWAP cumulative starts",
-        "value": 80000,
+        "name": "SWAP annual delivery target 2026/27",
+        "value": 115000,
         "unit": "starts",
         "rating": null,
         "period": {
-          "startDate": "2021-04-01T00:00:00.000Z",
-          "endDate": "2026-06-30T23:59:59.000Z",
+          "startDate": "2026-04-01T00:00:00.000Z",
+          "endDate": "2027-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
         "programmeRef": "cp-prog-8d5b0b55b573c0894af3",
@@ -115,7 +115,7 @@
         "sourceIds": [
           "swap-management-information"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+        "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
       },
       {
         "id": "cp-perf-3915e31ea929b19eccc8",
@@ -135,21 +135,21 @@
         "sourceIds": [
           "swap-management-information"
         ],
-        "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+        "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
       }
     ],
     "metricGroups": {
       "national": [
         {
-          "id": "cp-perf-e6b45840433d8ee1fdf3",
+          "id": "cp-perf-93c55e19c27cdd526e1d",
           "metricType": "programme-performance",
-          "name": "SWAP cumulative starts",
-          "value": 80000,
+          "name": "SWAP annual delivery target 2026/27",
+          "value": 115000,
           "unit": "starts",
           "rating": null,
           "period": {
-            "startDate": "2021-04-01T00:00:00.000Z",
-            "endDate": "2026-06-30T23:59:59.000Z",
+            "startDate": "2026-04-01T00:00:00.000Z",
+            "endDate": "2027-03-31T23:59:59.000Z",
             "maximumEndDate": null
           },
           "programmeRef": "cp-prog-8d5b0b55b573c0894af3",
@@ -158,7 +158,7 @@
           "sourceIds": [
             "swap-management-information"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+          "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
         },
         {
           "id": "cp-perf-3915e31ea929b19eccc8",
@@ -178,7 +178,7 @@
           "sourceIds": [
             "swap-management-information"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+          "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
         }
       ],
       "outcomes": [],
@@ -188,15 +188,15 @@
       "areaPerformance": [],
       "all": [
         {
-          "id": "cp-perf-e6b45840433d8ee1fdf3",
+          "id": "cp-perf-93c55e19c27cdd526e1d",
           "metricType": "programme-performance",
-          "name": "SWAP cumulative starts",
-          "value": 80000,
+          "name": "SWAP annual delivery target 2026/27",
+          "value": 115000,
           "unit": "starts",
           "rating": null,
           "period": {
-            "startDate": "2021-04-01T00:00:00.000Z",
-            "endDate": "2026-06-30T23:59:59.000Z",
+            "startDate": "2026-04-01T00:00:00.000Z",
+            "endDate": "2027-03-31T23:59:59.000Z",
             "maximumEndDate": null
           },
           "programmeRef": "cp-prog-8d5b0b55b573c0894af3",
@@ -205,7 +205,7 @@
           "sourceIds": [
             "swap-management-information"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+          "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
         },
         {
           "id": "cp-perf-3915e31ea929b19eccc8",
@@ -225,7 +225,7 @@
           "sourceIds": [
             "swap-management-information"
           ],
-          "latestEvidenceDate": "2026-09-16T15:21:59.478Z"
+          "latestEvidenceDate": "2026-09-17T19:37:22.751Z"
         }
       ]
     },
@@ -8016,11 +8016,12 @@
       "id": "swap-management-information",
       "name": "DWP Sector-based Work Academy Programme Management Information",
       "official": true,
-      "latestPublicationDate": "2026-07-30T08:30:15.000Z",
-      "latestRetrievedAt": "2026-09-16T15:21:59.478Z",
+      "latestPublicationDate": "2026-07-30T08:30:16.000Z",
+      "latestRetrievedAt": "2026-09-17T19:37:22.751Z",
       "urls": [
         "https://www.gov.uk/government/publications/sector-based-work-academy-programmes-swaps-management-information-april-2021-to-june-2026",
-        "https://www.gov.uk/government/publications/sector-based-work-academy-programme-employer-guide/sector-based-work-academies-employer-guide"
+        "https://www.gov.uk/government/publications/sector-based-work-academy-programme-employer-guide/sector-based-work-academies-employer-guide",
+        "https://www.gov.uk/government/publications/sector-based-work-academy-programmes-swaps-management-information-april-2021-to-june-2026/note-about-the-sector-based-work-academy-programme-swap-management-information"
       ]
     }
   ],
