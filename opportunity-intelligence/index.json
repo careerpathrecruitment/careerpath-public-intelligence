@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-17T11:58:51.474Z",
+  "generatedAt": "2026-09-17T12:18:31.856Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 28,
+    "total": 30,
     "live": 7,
-    "upcoming": 2,
+    "upcoming": 3,
     "marketEngagement": 0,
-    "recentAwards": 19,
+    "recentAwards": 20,
     "closingWithin7Days": 0,
     "closingWithin30Days": 1,
     "supplyChain": 4,
-    "commissioner": 24,
-    "programmeLinked": 24,
-    "programmeUnlinked": 4
+    "commissioner": 26,
+    "programmeLinked": 25,
+    "programmeUnlinked": 5
   },
   "filters": {
     "programmes": [
@@ -47,6 +47,8 @@
       "Reed in Partnership",
       "Seetec",
       "Somerset Council",
+      "University Centre Somerset College Group",
+      "Westminster City Council",
       "Wirral Council",
       "Wrexham County Borough Council"
     ],
@@ -300,7 +302,7 @@
       "tender": {
         "startDate": "2025-09-05T12:00:00.000Z",
         "deadline": "2029-02-10T12:00:00.000Z",
-        "daysToDeadline": 878
+        "daysToDeadline": 877
       },
       "contract": {
         "startDate": null,
@@ -353,7 +355,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-17T11:58:21.352Z"
+        "lastVerified": "2026-09-17T12:17:55.365Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1804,7 +1806,7 @@
       "tender": {
         "startDate": "2026-11-26T12:00:00.000Z",
         "deadline": "2026-12-21T12:00:00.000Z",
-        "daysToDeadline": 96
+        "daysToDeadline": 95
       },
       "contract": {
         "startDate": null,
@@ -1857,7 +1859,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-17T11:58:21.352Z"
+        "lastVerified": "2026-09-17T12:17:55.365Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1976,6 +1978,231 @@
           "previousOpportunityId": null,
           "changes": [],
           "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06e693",
+      "slug": "uk2-preliminary-market-engagement-enablement-day-opportunities-volunteering-and-employment-servi-ocds-h6vhtk-06e693",
+      "ocid": "ocds-h6vhtk-06e693",
+      "title": "(UK2) Preliminary Market Engagement: Enablement, Day Opportunities, Volunteering and Employment Services for Adults with a Learning Disability",
+      "description": "The Royal Borough of Kensington and Chelsea (RBKC) and Westminster City Council (WCC) are seeking to engage with the market ahead of a competitive procurement exercise for a multi-lot Learning Disability and Autism procurement covering enablement, moderate-to-complex community support, volunteering opportunities and employment-related progression. The services are intended to support adults with a learning disability and/or autism to increase independence, improve health and wellbeing, reduce social isolation, access community-based activities, and develop routes into volunteering, employment and wider community participation. The proposed lot structure is: Lot 1 WCC Enablement Hub Lot 2 RBKC Moderate-to-Complex Community Service Lot 3 Bi-Borough Volunteering Opportunities Service An online market engagement event will be held on 7th October at 10:00 - 11.30am. Please register your interest via Jaggaer: https://wcc.ukp.app.jaggaer.com/ This will include an overview of the proposed services and model, timeline for procurement, contract information and procurement approach. This engagement exercise does not constitute a call for competition, commitment to procure, or pre-qualification process. Participation is entirely voluntary and will not confer any advantage or disadvantage in any future procurement.",
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Westminster City Council"
+      },
+      "geography": {
+        "primaryArea": "London",
+        "areas": [
+          "London",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 2115960,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": null,
+        "methodDetails": null,
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "planning",
+            "value": null,
+            "currency": null,
+            "contractStart": "2027-06-30T23:00:00.000Z",
+            "contractEnd": "2032-06-30T22:59:59.000Z",
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "This engagement exercise does not constitute a call for competition, commitment to procure, or pre-qualification process."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2026-08-18T12:50:37.000Z",
+          "releaseId": "078558-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/078558-2026",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2026-09-17T08:57:18.000Z",
+          "releaseId": "088050-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/088050-2026",
+          "tags": [
+            "planning"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/088050-2026",
+        "lastVerified": "2026-09-17T12:14:02.837Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 86,
+        "missing": [
+          "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": true,
+          "confidence": "moderate",
+          "previousOpportunityId": "ocds-h6vhtk-06ef70",
+          "previousTitle": "Specialist employment support for economically inactive young people with involvement in the youth justice / criminal justice system",
+          "previousBuyer": "North East Combined Authority",
+          "previousSuppliers": [
+            "THE SKILL MILL LIMITED"
+          ],
+          "previousSourceUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
+          "changes": [
+            {
+              "field": "Published contract value",
+              "previous": 99000,
+              "current": 2115960,
+              "currency": "GBP"
+            },
+            {
+              "field": "Commissioner",
+              "previous": "North East Combined Authority",
+              "current": "Westminster City Council"
+            },
+            {
+              "field": "Published geography",
+              "previous": [
+                "North East England",
+                "United Kingdom",
+                "GB"
+              ],
+              "current": [
+                "London",
+                "United Kingdom",
+                "GB"
+              ]
+            },
+            {
+              "field": "Contract period",
+              "previous": {
+                "start": "2026-09-10T23:00:00.000Z",
+                "end": "2027-03-31T22:59:59.000Z"
+              },
+              "current": {
+                "start": null,
+                "end": null
+              }
+            },
+            {
+              "field": "Published evaluation weightings",
+              "previous": {
+                "quality": 0,
+                "price": 0,
+                "socialValue": 0
+              },
+              "current": {
+                "quality": 0,
+                "price": 0,
+                "socialValue": 0
+              }
+            }
+          ],
+          "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
         }
       }
     },
@@ -2370,7 +2597,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/bea8402a-00bf-43fb-b549-b4b04b527d60",
-        "lastVerified": "2026-09-16T19:32:25.127Z"
+        "lastVerified": "2026-09-17T12:17:36.818Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -2616,7 +2843,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/e490a4b6-2bf3-49b9-8ef8-b07f8e3f0122",
-        "lastVerified": "2026-09-16T19:32:21.421Z"
+        "lastVerified": "2026-09-17T12:17:33.073Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -2862,7 +3089,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/920df551-7e69-4d55-8ec3-4e5c8c5060bc",
-        "lastVerified": "2026-09-16T19:32:17.718Z"
+        "lastVerified": "2026-09-17T12:17:29.330Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -3108,7 +3335,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
-        "lastVerified": "2026-09-16T19:32:14.046Z"
+        "lastVerified": "2026-09-17T12:17:25.595Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -3359,7 +3586,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
-        "lastVerified": "2026-09-16T19:32:10.348Z"
+        "lastVerified": "2026-09-17T12:17:21.867Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -3573,7 +3800,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/9caae322-6911-4f79-8254-b8594a96f25c",
-        "lastVerified": "2026-09-16T19:32:06.642Z"
+        "lastVerified": "2026-09-17T12:17:18.152Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -3718,6 +3945,272 @@
             }
           ],
           "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06ca77",
+      "slug": "somerset-community-learning-subcontracting-services-ocds-h6vhtk-06ca77",
+      "ocid": "ocds-h6vhtk-06ca77",
+      "title": "Somerset Community Learning Subcontracting Services",
+      "description": "The Authority is seeking a contract for a supplier to deliver high quality, accredited and Department for Education (DfE) Level 2 and Level 3 Adult Skills Funded (ASF) qualifications with a focus on Free Courses for Jobs (FCFJ). The following are identified as the key objectives which the Contractor (Service Operator) will be expected to address: ? To provide learners with high quality, specifically designed, flexible and innovate learning ? To ensure effective Safeguarding policies and procedures to protect learners ? To provide excellence through all its operations ? To provide Careers Education, Information, Advice and Guidance through to enrolment and beyond ? To ensure compliance and audit throughout the contract Please note this tender is for provision of in person, classroom-based learning within the Somerset area The retained funding fee, retained by the College Group, will be 20%.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
+      },
+      "buyer": {
+        "name": "University Centre Somerset College Group"
+      },
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 271000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-08-08T11:00:00.000Z",
+        "daysToDeadline": -40
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Below threshold - open competition",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": 400000,
+            "currency": "GBP",
+            "contractStart": "2026-09-30T23:00:00.000Z",
+            "contractEnd": "2027-07-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality Questions",
+                "weighting": 60
+              },
+              {
+                "name": "Fee & Funding Agreements",
+                "weighting": 1
+              },
+              {
+                "name": "Specification - Quality Questions",
+                "weighting": 39
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 99,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Quality Questions",
+            "weighting": 60,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Fee & Funding Agreements",
+            "weighting": 1,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Specification - Quality Questions",
+            "weighting": 39,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Somerset Skills & Learning"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-07-14T09:27:03.000Z",
+          "releaseId": "066002-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/066002-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-17T09:03:06.000Z",
+          "releaseId": "088055-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/088055-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/088055-2026",
+        "lastVerified": "2026-09-17T12:14:00.583Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Somerset Skills & Learning"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 286,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 251
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 231,
+              "medianAdvertisedSalary": 30596,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 179
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 207,
+              "medianAdvertisedSalary": 29500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 190
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 200,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 155
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 166,
+              "medianAdvertisedSalary": 33569,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 132
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 143,
+              "medianAdvertisedSalary": 34000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 123
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 131,
+              "medianAdvertisedSalary": 38168,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 97
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 129,
+              "medianAdvertisedSalary": 35750,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 122
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
         },
         "recommissioningDelta": {
           "available": false,
@@ -7272,8 +7765,8 @@
     "containsCommercialRecommendations": false,
     "containsRawVacancies": false,
     "sourceDirectory": "validated-publishable-procurements",
-    "sourceFileCount": 124,
-    "selectedOpportunityCount": 22,
+    "sourceFileCount": 126,
+    "selectedOpportunityCount": 24,
     "rejected": {
       "nonPublishable": 0,
       "nonAccepted": 0,
@@ -7631,6 +8124,18 @@
         ]
       },
       {
+        "supplier": "Somerset Skills & Learning",
+        "awardCount": 1,
+        "publishedAwardValue": 271000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund"
+        ],
+        "buyers": [
+          "University Centre Somerset College Group"
+        ]
+      },
+      {
         "supplier": "Explosive Learning Solutions LTD",
         "awardCount": 1,
         "publishedAwardValue": 210000,
@@ -7898,6 +8403,14 @@
         ]
       },
       {
+        "buyer": "Westminster City Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Employment Support"
+        ]
+      },
+      {
         "buyer": "Construction Industry Training Board",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 1,
@@ -7944,6 +8457,14 @@
         "liveOrUpcomingCount": 0,
         "programmes": [
           "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "University Centre Somerset College Group",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Adult Skills Fund"
         ]
       },
       {
@@ -8124,11 +8645,11 @@
     ],
     "differentiators": {
       "recommissioningDelta": {
-        "availableCount": 2,
+        "availableCount": 3,
         "description": "Compares an active opportunity with the strongest related previous award in CareerPath's curated history and shows factual changes in published value, geography, contract period and evaluation where available."
       },
       "workforceSignals": {
-        "linkedOpportunityCount": 24,
+        "linkedOpportunityCount": 25,
         "description": "Links opportunities to CareerPath's programme workforce data to show aggregated role-demand and advertised-salary signals relevant to mobilisation."
       },
       "localDeliveryContext": {
