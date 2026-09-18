@@ -1,15 +1,15 @@
 {
   "feedVersion": 1,
   "releaseId": "5a351c6debe272c69e2f7fe6cd858186fa6fa24a79560b58fc444bd24f6e4839",
-  "publishedAt": "2026-09-17T20:41:05Z",
+  "publishedAt": "2026-09-18T12:17:34Z",
   "monitoring": {
     "staleAfterHours": 48,
     "scope": "26 reviewed evidence sources plus 14 supporting discovery, guidance and underlying dataset endpoints. Not a census of every available source or local manual.",
     "programmes": {
       "restart-scheme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
@@ -20,8 +20,8 @@
       },
       "connect-to-work": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -32,8 +32,8 @@
       },
       "workwell": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [],
@@ -43,24 +43,41 @@
         "releaseId": "initial-reviewed-snapshot"
       },
       "skills-bootcamps": {
-        "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "status": "updates-pending-review",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 8,
         "sourcesMonitored": 8,
-        "changedSources": [],
+        "changedSources": [
+          {
+            "title": "DfE Bootcamps sector benchmarks",
+            "url": "https://explore-education-statistics.service.gov.uk/data-tables/fast-track/5a828f80-686e-4a4e-e6f7-08ddd65aeeb5",
+            "detectedAt": "2026-09-18T12:17:34Z"
+          },
+          {
+            "title": "DfE Bootcamps regional benchmarks",
+            "url": "https://explore-education-statistics.service.gov.uk/data-tables/fast-track/71899bcc-f3d9-4d3b-0046-08dddfc64c9b",
+            "detectedAt": "2026-09-18T12:17:34Z"
+          }
+        ],
         "failedSourceCount": 0,
         "reviewedAt": "2026-09-17T20:18:50Z",
         "updateSummary": "Final audit correction: Digital 31% and Construction 69% are examples, not the full sector range. Science and Mathematics is 27% with DfE small-group caveat. Reconciled all 11 sectors, nine regions and headline stages against the official release and featured tables. Existing targeted guidance scope retained; unchanged registered guidance fingerprints match the previously reviewed sources. Publication and revision dates are explicit.",
         "releaseId": "skills-bootcamps-audit-correction-2026-09-17"
       },
       "apprenticeships-growth-skills-levy": {
-        "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "status": "updates-pending-review",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
-        "changedSources": [],
+        "changedSources": [
+          {
+            "title": "DfE QAR by standard and framework",
+            "url": "https://explore-education-statistics.service.gov.uk/data-tables/fast-track/98e01df2-7239-4a4b-91f4-08ddc43aea03?featuredTable=true",
+            "detectedAt": "2026-09-18T12:17:34Z"
+          }
+        ],
         "failedSourceCount": 0,
         "reviewedAt": "2026-09-17",
         "updateSummary": null,
@@ -68,8 +85,8 @@
       },
       "adult-skills-fund": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -80,8 +97,8 @@
       },
       "sector-based-work-academy-programme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -92,8 +109,8 @@
       },
       "youth-guarantee": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [],
@@ -104,8 +121,8 @@
       },
       "economic-inactivity-trailblazers": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-09-17T20:41:05Z",
-        "lastSuccessfulCheckAt": "2026-09-17T20:41:05Z",
+        "lastAttemptAt": "2026-09-18T12:17:34Z",
+        "lastSuccessfulCheckAt": "2026-09-18T12:17:34Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [
