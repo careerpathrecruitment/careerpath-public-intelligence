@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-18T12:01:48.460Z",
+  "generatedAt": "2026-09-19T11:21:59.220Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -148,7 +148,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-10-09T11:00:00.000Z",
-        "daysToDeadline": 21
+        "daysToDeadline": 20
       },
       "contract": {
         "startDate": null,
@@ -378,31 +378,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -410,39 +410,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -503,7 +503,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-10-14T11:00:00.000Z",
-        "daysToDeadline": 26
+        "daysToDeadline": 25
       },
       "contract": {
         "startDate": "2027-03-31T23:00:00.000Z",
@@ -705,7 +705,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-18T12:01:04.913Z"
+        "lastVerified": "2026-09-19T11:21:22.542Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -919,7 +919,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-18T11:38:42.907Z",
+          "date": "2026-09-19T11:21:01.651Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -932,7 +932,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-09-18T11:38:42.907Z"
+        "lastVerified": "2026-09-19T11:21:01.651Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -971,31 +971,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -1003,39 +1003,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -1212,7 +1212,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-18T11:38:42.907Z",
+          "date": "2026-09-19T11:21:01.651Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -1225,7 +1225,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-09-18T11:38:42.907Z"
+        "lastVerified": "2026-09-19T11:21:01.651Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1264,31 +1264,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -1296,39 +1296,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -1465,7 +1465,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-18T11:38:42.907Z",
+          "date": "2026-09-19T11:21:01.651Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -1478,7 +1478,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-09-18T11:38:42.907Z"
+        "lastVerified": "2026-09-19T11:21:01.651Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1517,31 +1517,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -1549,39 +1549,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -1756,7 +1756,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-18T11:38:42.907Z",
+          "date": "2026-09-19T11:21:01.651Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -1769,7 +1769,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-09-18T11:38:42.907Z"
+        "lastVerified": "2026-09-19T11:21:01.651Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1808,31 +1808,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -1840,39 +1840,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -2209,7 +2209,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-18T12:01:04.913Z"
+        "lastVerified": "2026-09-19T11:21:22.542Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2248,31 +2248,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -2280,39 +2280,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -2716,31 +2716,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -2748,39 +2748,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -2891,7 +2891,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-08T11:00:00.000Z",
-        "daysToDeadline": -41
+        "daysToDeadline": -42
       },
       "contract": {
         "startDate": null,
@@ -3037,31 +3037,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -3069,39 +3069,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -3350,7 +3350,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-20T09:00:00.000Z",
-        "daysToDeadline": -60
+        "daysToDeadline": -61
       },
       "contract": {
         "startDate": "2026-10-26T00:00:00.000Z",
@@ -3442,31 +3442,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -3474,39 +3474,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -3596,7 +3596,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-15T22:59:00.000Z",
-        "daysToDeadline": -64
+        "daysToDeadline": -65
       },
       "contract": {
         "startDate": "2026-07-16T23:00:00.000Z",
@@ -3688,31 +3688,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -3720,39 +3720,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -3842,7 +3842,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -24
+        "daysToDeadline": -25
       },
       "contract": {
         "startDate": "2026-09-16T23:00:00.000Z",
@@ -3934,31 +3934,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -3966,39 +3966,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -4088,7 +4088,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -24
+        "daysToDeadline": -25
       },
       "contract": {
         "startDate": "2026-09-10T23:00:00.000Z",
@@ -4180,31 +4180,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -4212,39 +4212,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -4339,7 +4339,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-09-18T17:28:00.000Z",
-        "daysToDeadline": 1
+        "daysToDeadline": 0
       },
       "contract": {
         "startDate": "2026-09-28T00:00:00.000Z",
@@ -4431,31 +4431,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -4463,39 +4463,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -4551,7 +4551,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -24
+        "daysToDeadline": -25
       },
       "contract": {
         "startDate": "2026-08-31T23:00:00.000Z",
@@ -4645,31 +4645,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -4677,39 +4677,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -4800,7 +4800,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-18T11:00:00.000Z",
-        "daysToDeadline": -31
+        "daysToDeadline": -32
       },
       "contract": {
         "startDate": "2026-08-31T23:00:00.000Z",
@@ -4894,31 +4894,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -4926,39 +4926,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -5219,7 +5219,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2025-04-14T11:00:00.000Z",
-        "daysToDeadline": -522
+        "daysToDeadline": -523
       },
       "contract": {
         "startDate": "2025-08-31T23:00:00.000Z",
@@ -5314,31 +5314,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -5346,39 +5346,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -5467,7 +5467,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -78
+        "daysToDeadline": -79
       },
       "contract": {
         "startDate": "2026-07-31T23:00:00.000Z",
@@ -5561,31 +5561,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -5593,39 +5593,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -5686,7 +5686,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-05T00:00:00.000Z",
-        "daysToDeadline": -44
+        "daysToDeadline": -45
       },
       "contract": {
         "startDate": "2026-08-05T23:00:00.000Z",
@@ -5786,31 +5786,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -5818,39 +5818,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -5908,7 +5908,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -62
+        "daysToDeadline": -63
       },
       "contract": {
         "startDate": "2026-09-08T23:00:00.000Z",
@@ -6044,31 +6044,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -6076,39 +6076,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -6271,31 +6271,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -6303,39 +6303,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -6568,31 +6568,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -6600,39 +6600,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -6829,31 +6829,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -6861,39 +6861,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -6983,7 +6983,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-18T11:00:00.000Z",
-        "daysToDeadline": -62
+        "daysToDeadline": -63
       },
       "contract": {
         "startDate": "2026-08-05T23:00:00.000Z",
@@ -7221,31 +7221,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -7253,39 +7253,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -7465,31 +7465,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -7497,39 +7497,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -7621,7 +7621,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-06T08:00:00.000Z",
-        "daysToDeadline": -74
+        "daysToDeadline": -75
       },
       "contract": {
         "startDate": "2026-09-06T23:00:00.000Z",
@@ -7806,31 +7806,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -7838,39 +7838,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
@@ -7962,7 +7962,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-17T13:00:00.000Z",
-        "daysToDeadline": -62
+        "daysToDeadline": -63
       },
       "contract": {
         "startDate": null,
@@ -8167,31 +8167,31 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-16T10:02:13.141Z",
+          "generatedAt": "2026-09-19T09:35:30.540Z",
           "roleSignals": [
             {
               "id": "operations-management",
               "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 286,
+              "returnedVacancySample": 287,
               "medianAdvertisedSalary": 40000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 251
+              "salarySampleSize": 256
             },
             {
               "id": "employment-adviser",
               "role": "Employment Adviser / Coach",
               "returnedVacancySample": 231,
-              "medianAdvertisedSalary": 30596,
+              "medianAdvertisedSalary": 30000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 179
             },
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 207,
-              "medianAdvertisedSalary": 29500,
+              "returnedVacancySample": 204,
+              "medianAdvertisedSalary": 32500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 190
+              "salarySampleSize": 182
             },
             {
               "id": "employer-engagement",
@@ -8199,39 +8199,39 @@
               "returnedVacancySample": 200,
               "medianAdvertisedSalary": 36400,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 161
             },
             {
               "id": "careers-advice",
               "role": "Careers Adviser",
-              "returnedVacancySample": 166,
-              "medianAdvertisedSalary": 33569,
+              "returnedVacancySample": 165,
+              "medianAdvertisedSalary": 34000,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 132
+              "salarySampleSize": 129
             },
             {
               "id": "ips-employment-specialist",
               "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 34000,
+              "returnedVacancySample": 146,
+              "medianAdvertisedSalary": 34718,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 123
+              "salarySampleSize": 116
             },
             {
               "id": "team-leadership",
               "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 131,
+              "returnedVacancySample": 134,
               "medianAdvertisedSalary": 38168,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 97
+              "salarySampleSize": 95
             },
             {
               "id": "quality-performance",
               "role": "Quality / Performance",
-              "returnedVacancySample": 129,
-              "medianAdvertisedSalary": 35750,
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 122
+              "salarySampleSize": 127
             }
           ],
           "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
