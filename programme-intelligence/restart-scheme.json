@@ -35,8 +35,8 @@
   "fundingMechanisms": [
     "procurement"
   ],
-  "generatedAt": "2026-09-17T19:37:31.579Z",
-  "latestEvidenceDate": "2026-09-16T10:01:19.051Z",
+  "generatedAt": "2026-09-19T09:39:31.869Z",
+  "latestEvidenceDate": "2026-09-19T09:35:41.447Z",
   "overview": {
     "fundingHeadline": null,
     "metrics": [
@@ -54,7 +54,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -73,7 +73,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -92,7 +92,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -111,7 +111,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -130,7 +130,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -149,7 +149,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -168,7 +168,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -187,7 +187,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -206,7 +206,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -225,7 +225,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -244,7 +244,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -263,7 +263,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -282,7 +282,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -301,7 +301,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -320,7 +320,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -339,7 +339,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -358,7 +358,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -377,7 +377,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -396,7 +396,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -415,7 +415,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -434,7 +434,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -453,7 +453,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -472,7 +472,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -491,7 +491,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -510,7 +510,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -529,7 +529,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -548,7 +548,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -567,7 +567,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -586,7 +586,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -605,7 +605,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -624,7 +624,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -643,7 +643,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -662,7 +662,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -681,7 +681,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -700,7 +700,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -719,7 +719,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -738,7 +738,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -757,7 +757,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -776,7 +776,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -787,7 +787,7 @@
     "deliveryAreaCount": 12,
     "deliveryAreaType": "Contract Package Area",
     "procurementCount": 0,
-    "latestReportingPeriod": "2026-09-16T10:01:16.734Z"
+    "latestReportingPeriod": "2026-09-19T09:35:39.382Z"
   },
   "funding": [],
   "fundingIntelligence": {
@@ -815,7 +815,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -834,7 +834,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -853,7 +853,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -872,7 +872,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -891,7 +891,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -910,7 +910,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -929,7 +929,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -948,7 +948,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -967,7 +967,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -986,7 +986,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1005,7 +1005,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1024,7 +1024,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1043,7 +1043,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1062,7 +1062,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1081,7 +1081,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1100,7 +1100,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1119,7 +1119,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1138,7 +1138,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1157,7 +1157,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1176,7 +1176,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1195,7 +1195,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1214,7 +1214,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1233,7 +1233,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1252,7 +1252,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1271,7 +1271,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1290,7 +1290,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1309,7 +1309,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1328,7 +1328,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1347,7 +1347,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1366,7 +1366,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1385,7 +1385,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1404,7 +1404,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1423,7 +1423,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1442,7 +1442,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1461,7 +1461,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1480,7 +1480,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1499,7 +1499,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1518,7 +1518,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1537,7 +1537,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -1559,7 +1559,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1578,7 +1578,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1599,7 +1599,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1618,7 +1618,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1637,7 +1637,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1656,7 +1656,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1675,7 +1675,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1694,7 +1694,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1713,7 +1713,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1732,7 +1732,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1751,7 +1751,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1770,7 +1770,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1789,7 +1789,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1808,7 +1808,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1827,7 +1827,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1848,7 +1848,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1870,7 +1870,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1889,7 +1889,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1908,7 +1908,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1927,7 +1927,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1946,7 +1946,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1965,7 +1965,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -1984,7 +1984,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2003,7 +2003,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2022,7 +2022,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2041,7 +2041,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2060,7 +2060,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2079,7 +2079,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2098,7 +2098,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2117,7 +2117,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2136,7 +2136,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2155,7 +2155,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2174,7 +2174,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2193,7 +2193,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2212,7 +2212,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2231,7 +2231,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2250,7 +2250,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2269,7 +2269,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2288,7 +2288,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2307,7 +2307,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2326,7 +2326,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2345,7 +2345,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2364,7 +2364,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2383,7 +2383,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2402,7 +2402,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2421,7 +2421,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2440,7 +2440,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2459,7 +2459,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2478,7 +2478,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2497,7 +2497,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2516,7 +2516,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2535,7 +2535,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2557,7 +2557,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2576,7 +2576,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2595,7 +2595,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2614,7 +2614,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2633,7 +2633,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2652,7 +2652,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2671,7 +2671,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2690,7 +2690,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2709,7 +2709,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2728,7 +2728,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2747,7 +2747,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2766,7 +2766,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2785,7 +2785,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2804,7 +2804,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2823,7 +2823,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2842,7 +2842,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2861,7 +2861,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2880,7 +2880,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2899,7 +2899,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2918,7 +2918,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2937,7 +2937,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2956,7 +2956,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2975,7 +2975,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2994,7 +2994,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3013,7 +3013,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3032,7 +3032,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3051,7 +3051,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3070,7 +3070,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3089,7 +3089,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3108,7 +3108,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3127,7 +3127,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3146,7 +3146,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3165,7 +3165,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3184,7 +3184,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3203,7 +3203,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3222,7 +3222,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3241,7 +3241,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.732Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.380Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3260,7 +3260,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -3279,7 +3279,7 @@
             "endDate": "2026-04-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-09-16T10:01:16.733Z",
+          "latestEvidenceDate": "2026-09-19T09:35:39.381Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -6986,7 +6986,7 @@
           "endDate": "2026-04-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-09-16T10:01:16.734Z",
+        "latestEvidenceDate": "2026-09-19T09:35:39.382Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -7000,7 +7000,7 @@
     "opportunities": []
   },
   "workforce": {
-    "generatedAt": "2026-09-16T10:02:13.141Z",
+    "generatedAt": "2026-09-19T09:35:30.540Z",
     "status": "passed",
     "roleFamilies": [
       {
@@ -7011,9 +7011,9 @@
         "salary": {
           "sampleSize": 179,
           "sufficientSample": true,
-          "median": 30596,
-          "mean": 35129,
-          "lowerQuartile": 28549,
+          "median": 30000,
+          "mean": 33241,
+          "lowerQuartile": 29000,
           "upperQuartile": 35000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
@@ -7022,12 +7022,12 @@
           "adzuna": {
             "returnedUniqueVacancies": 100,
             "salarySampleSize": 98,
-            "medianAdvertisedSalary": 30275
+            "medianAdvertisedSalary": 30000
           },
           "reed": {
             "returnedUniqueVacancies": 131,
             "salarySampleSize": 81,
-            "medianAdvertisedSalary": 30750
+            "medianAdvertisedSalary": 31000
           }
         }
       },
@@ -7035,27 +7035,27 @@
         "id": "ips-employment-specialist",
         "name": "IPS / Supported Employment Specialist",
         "careerArea": "Employment Advice & Support",
-        "returnedUniqueVacancies": 143,
+        "returnedUniqueVacancies": 146,
         "salary": {
-          "sampleSize": 123,
+          "sampleSize": 116,
           "sufficientSample": true,
-          "median": 34000,
-          "mean": 35854,
+          "median": 34718,
+          "mean": 35078,
           "lowerQuartile": 30000,
-          "upperQuartile": 37805,
+          "upperQuartile": 36140,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 82,
-            "salarySampleSize": 78,
-            "medianAdvertisedSalary": 34718
+            "returnedUniqueVacancies": 83,
+            "salarySampleSize": 74,
+            "medianAdvertisedSalary": 35000
           },
           "reed": {
-            "returnedUniqueVacancies": 61,
-            "salarySampleSize": 45,
-            "medianAdvertisedSalary": 34000
+            "returnedUniqueVacancies": 63,
+            "salarySampleSize": 42,
+            "medianAdvertisedSalary": 33900
           }
         }
       },
@@ -7065,25 +7065,25 @@
         "careerArea": "Employer Engagement & Recruitment",
         "returnedUniqueVacancies": 200,
         "salary": {
-          "sampleSize": 155,
+          "sampleSize": 161,
           "sufficientSample": true,
           "median": 36400,
-          "mean": 44978,
-          "lowerQuartile": 32007,
-          "upperQuartile": 54522,
+          "mean": 45394,
+          "lowerQuartile": 32000,
+          "upperQuartile": 50000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
             "returnedUniqueVacancies": 100,
-            "salarySampleSize": 91,
-            "medianAdvertisedSalary": 40000
+            "salarySampleSize": 92,
+            "medianAdvertisedSalary": 36631
           },
           "reed": {
             "returnedUniqueVacancies": 100,
-            "salarySampleSize": 64,
-            "medianAdvertisedSalary": 34500
+            "salarySampleSize": 69,
+            "medianAdvertisedSalary": 35000
           }
         }
       },
@@ -7091,27 +7091,27 @@
         "id": "team-leadership",
         "name": "Team Leader / Team Manager",
         "careerArea": "Team Leadership",
-        "returnedUniqueVacancies": 131,
+        "returnedUniqueVacancies": 134,
         "salary": {
-          "sampleSize": 97,
+          "sampleSize": 95,
           "sufficientSample": true,
           "median": 38168,
-          "mean": 42102,
-          "lowerQuartile": 32728,
-          "upperQuartile": 45009,
+          "mean": 41705,
+          "lowerQuartile": 33375,
+          "upperQuartile": 44504,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 53,
-            "salarySampleSize": 52,
+            "returnedUniqueVacancies": 54,
+            "salarySampleSize": 53,
             "medianAdvertisedSalary": 38168
           },
           "reed": {
-            "returnedUniqueVacancies": 78,
-            "salarySampleSize": 45,
-            "medianAdvertisedSalary": 38500
+            "returnedUniqueVacancies": 80,
+            "salarySampleSize": 42,
+            "medianAdvertisedSalary": 38250
           }
         }
       },
@@ -7119,26 +7119,26 @@
         "id": "operations-management",
         "name": "Operations / Service Delivery Manager",
         "careerArea": "Operations, Service & Contract Management",
-        "returnedUniqueVacancies": 286,
+        "returnedUniqueVacancies": 287,
         "salary": {
-          "sampleSize": 251,
+          "sampleSize": 256,
           "sufficientSample": true,
           "median": 40000,
-          "mean": 41382,
+          "mean": 42914,
           "lowerQuartile": 33000,
-          "upperQuartile": 44512,
+          "upperQuartile": 46803,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 149,
-            "salarySampleSize": 143,
-            "medianAdvertisedSalary": 41168
+            "returnedUniqueVacancies": 150,
+            "salarySampleSize": 147,
+            "medianAdvertisedSalary": 42993
           },
           "reed": {
             "returnedUniqueVacancies": 137,
-            "salarySampleSize": 108,
+            "salarySampleSize": 109,
             "medianAdvertisedSalary": 35000
           }
         }
@@ -7147,27 +7147,27 @@
         "id": "skills-training",
         "name": "Skills / Training",
         "careerArea": "Skills, Training & Careers",
-        "returnedUniqueVacancies": 207,
+        "returnedUniqueVacancies": 204,
         "salary": {
-          "sampleSize": 190,
+          "sampleSize": 182,
           "sufficientSample": true,
-          "median": 29500,
-          "mean": 32086,
-          "lowerQuartile": 27401,
-          "upperQuartile": 33820,
+          "median": 32500,
+          "mean": 34318,
+          "lowerQuartile": 29000,
+          "upperQuartile": 39750,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 77,
-            "salarySampleSize": 77,
-            "medianAdvertisedSalary": 27590
+            "returnedUniqueVacancies": 73,
+            "salarySampleSize": 73,
+            "medianAdvertisedSalary": 34047
           },
           "reed": {
-            "returnedUniqueVacancies": 130,
-            "salarySampleSize": 113,
-            "medianAdvertisedSalary": 32000
+            "returnedUniqueVacancies": 131,
+            "salarySampleSize": 109,
+            "medianAdvertisedSalary": 31500
           }
         }
       },
@@ -7175,12 +7175,12 @@
         "id": "careers-advice",
         "name": "Careers Adviser",
         "careerArea": "Skills, Training & Careers",
-        "returnedUniqueVacancies": 166,
+        "returnedUniqueVacancies": 165,
         "salary": {
-          "sampleSize": 132,
+          "sampleSize": 129,
           "sufficientSample": true,
-          "median": 33569,
-          "mean": 36343,
+          "median": 34000,
+          "mean": 35933,
           "lowerQuartile": 28000,
           "upperQuartile": 35000,
           "currency": "GBP",
@@ -7188,13 +7188,13 @@
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 68,
+            "returnedUniqueVacancies": 67,
             "salarySampleSize": 66,
-            "medianAdvertisedSalary": 28613
+            "medianAdvertisedSalary": 30323
           },
           "reed": {
             "returnedUniqueVacancies": 98,
-            "salarySampleSize": 66,
+            "salarySampleSize": 63,
             "medianAdvertisedSalary": 35000
           }
         }
@@ -7203,26 +7203,26 @@
         "id": "business-partnerships",
         "name": "Business Development / Partnerships",
         "careerArea": "Business, Partnerships & Growth",
-        "returnedUniqueVacancies": 99,
+        "returnedUniqueVacancies": 100,
         "salary": {
-          "sampleSize": 94,
+          "sampleSize": 95,
           "sufficientSample": true,
           "median": 33000,
-          "mean": 40034,
+          "mean": 40320,
           "lowerQuartile": 33000,
-          "upperQuartile": 41348,
+          "upperQuartile": 42000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 41,
-            "salarySampleSize": 41,
-            "medianAdvertisedSalary": 40000
+            "returnedUniqueVacancies": 40,
+            "salarySampleSize": 40,
+            "medianAdvertisedSalary": 42000
           },
           "reed": {
-            "returnedUniqueVacancies": 58,
-            "salarySampleSize": 53,
+            "returnedUniqueVacancies": 60,
+            "salarySampleSize": 55,
             "medianAdvertisedSalary": 33000
           }
         }
@@ -7231,26 +7231,26 @@
         "id": "quality-performance",
         "name": "Quality / Performance",
         "careerArea": "Operations, Service & Contract Management",
-        "returnedUniqueVacancies": 129,
+        "returnedUniqueVacancies": 134,
         "salary": {
-          "sampleSize": 122,
+          "sampleSize": 127,
           "sufficientSample": true,
-          "median": 35750,
-          "mean": 40482,
+          "median": 35822,
+          "mean": 39306,
           "lowerQuartile": 33000,
-          "upperQuartile": 48287,
+          "upperQuartile": 46369,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 65,
-            "salarySampleSize": 63,
-            "medianAdvertisedSalary": 46973
+            "returnedUniqueVacancies": 68,
+            "salarySampleSize": 66,
+            "medianAdvertisedSalary": 40948
           },
           "reed": {
-            "returnedUniqueVacancies": 64,
-            "salarySampleSize": 59,
+            "returnedUniqueVacancies": 66,
+            "salarySampleSize": 61,
             "medianAdvertisedSalary": 33000
           }
         }
@@ -7261,24 +7261,24 @@
         "careerArea": "Senior Leadership",
         "returnedUniqueVacancies": 120,
         "salary": {
-          "sampleSize": 117,
+          "sampleSize": 118,
           "sufficientSample": true,
-          "median": 60000,
-          "mean": 67841,
-          "lowerQuartile": 49121,
-          "upperQuartile": 81485,
+          "median": 58922,
+          "mean": 66475,
+          "lowerQuartile": 48880,
+          "upperQuartile": 79553,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 96,
-            "salarySampleSize": 95,
-            "medianAdvertisedSalary": 68233
+            "returnedUniqueVacancies": 98,
+            "salarySampleSize": 97,
+            "medianAdvertisedSalary": 64698
           },
           "reed": {
-            "returnedUniqueVacancies": 24,
-            "salarySampleSize": 22,
+            "returnedUniqueVacancies": 22,
+            "salarySampleSize": 21,
             "medianAdvertisedSalary": 37500
           }
         }
@@ -7288,7 +7288,7 @@
       {
         "id": "operations-management",
         "name": "Operations / Service Delivery Manager",
-        "returnedUniqueVacancies": 286
+        "returnedUniqueVacancies": 287
       },
       {
         "id": "employment-adviser",
@@ -7298,7 +7298,7 @@
       {
         "id": "skills-training",
         "name": "Skills / Training",
-        "returnedUniqueVacancies": 207
+        "returnedUniqueVacancies": 204
       },
       {
         "id": "employer-engagement",
@@ -7308,22 +7308,22 @@
       {
         "id": "careers-advice",
         "name": "Careers Adviser",
-        "returnedUniqueVacancies": 166
+        "returnedUniqueVacancies": 165
       },
       {
         "id": "ips-employment-specialist",
         "name": "IPS / Supported Employment Specialist",
-        "returnedUniqueVacancies": 143
+        "returnedUniqueVacancies": 146
       },
       {
         "id": "team-leadership",
         "name": "Team Leader / Team Manager",
-        "returnedUniqueVacancies": 131
+        "returnedUniqueVacancies": 134
       },
       {
         "id": "quality-performance",
         "name": "Quality / Performance",
-        "returnedUniqueVacancies": 129
+        "returnedUniqueVacancies": 134
       },
       {
         "id": "senior-leadership",
@@ -7333,137 +7333,10 @@
       {
         "id": "business-partnerships",
         "name": "Business Development / Partnerships",
-        "returnedUniqueVacancies": 99
+        "returnedUniqueVacancies": 100
       }
     ],
-    "latestEvents": [
-      {
-        "id": "cp-event-e91e12184f8f90b9a4c2",
-        "eventType": "vacancy-demand-increase",
-        "severity": "high",
-        "effectiveAt": "2026-09-16T10:02:13.141Z",
-        "roleFamilyId": "careers-advice",
-        "roleFamilyName": "Careers Adviser",
-        "title": "Careers Adviser vacancy demand increased",
-        "summary": "Returned unique vacancy sample increased from 66 to 166 (151.5%).",
-        "previous": {
-          "returnedUniqueVacancies": 66
-        },
-        "current": {
-          "returnedUniqueVacancies": 166
-        },
-        "change": {
-          "percent": 151.5,
-          "absolute": 100
-        }
-      },
-      {
-        "id": "cp-event-1b432efe944f551bbe87",
-        "eventType": "advertised-salary-increase",
-        "severity": "high",
-        "effectiveAt": "2026-09-16T10:02:13.141Z",
-        "roleFamilyId": "careers-advice",
-        "roleFamilyName": "Careers Adviser",
-        "title": "Careers Adviser advertised salary increased",
-        "summary": "Median advertised salary increased from £29,002 to £33,569 (15.7%).",
-        "previous": {
-          "medianAdvertisedSalary": 29002,
-          "salarySampleSize": 64
-        },
-        "current": {
-          "medianAdvertisedSalary": 33569,
-          "salarySampleSize": 132
-        },
-        "change": {
-          "percent": 15.7,
-          "absolute": 4567
-        }
-      },
-      {
-        "id": "cp-event-d04df4e77a257729d02c",
-        "eventType": "vacancy-demand-increase",
-        "severity": "high",
-        "effectiveAt": "2026-09-16T10:02:13.141Z",
-        "roleFamilyId": "business-partnerships",
-        "roleFamilyName": "Business Development / Partnerships",
-        "title": "Business Development / Partnerships vacancy demand increased",
-        "summary": "Returned unique vacancy sample increased from 43 to 99 (130.2%).",
-        "previous": {
-          "returnedUniqueVacancies": 43
-        },
-        "current": {
-          "returnedUniqueVacancies": 99
-        },
-        "change": {
-          "percent": 130.2,
-          "absolute": 56
-        }
-      },
-      {
-        "id": "cp-event-253ad878c67113cca59b",
-        "eventType": "advertised-salary-decrease",
-        "severity": "high",
-        "effectiveAt": "2026-09-16T10:02:13.141Z",
-        "roleFamilyId": "business-partnerships",
-        "roleFamilyName": "Business Development / Partnerships",
-        "title": "Business Development / Partnerships advertised salary decreased",
-        "summary": "Median advertised salary decreased from £40,000 to £33,000 (-17.5%).",
-        "previous": {
-          "medianAdvertisedSalary": 40000,
-          "salarySampleSize": 43
-        },
-        "current": {
-          "medianAdvertisedSalary": 33000,
-          "salarySampleSize": 94
-        },
-        "change": {
-          "percent": -17.5,
-          "absolute": -7000
-        }
-      },
-      {
-        "id": "cp-event-bc0f23299cf3b5470add",
-        "eventType": "vacancy-demand-increase",
-        "severity": "medium",
-        "effectiveAt": "2026-09-16T10:02:13.141Z",
-        "roleFamilyId": "quality-performance",
-        "roleFamilyName": "Quality / Performance",
-        "title": "Quality / Performance vacancy demand increased",
-        "summary": "Returned unique vacancy sample increased from 108 to 129 (19.4%).",
-        "previous": {
-          "returnedUniqueVacancies": 108
-        },
-        "current": {
-          "returnedUniqueVacancies": 129
-        },
-        "change": {
-          "percent": 19.4,
-          "absolute": 21
-        }
-      },
-      {
-        "id": "cp-event-2faea2a1dbbc9205dd03",
-        "eventType": "advertised-salary-decrease",
-        "severity": "medium",
-        "effectiveAt": "2026-09-16T10:02:13.141Z",
-        "roleFamilyId": "quality-performance",
-        "roleFamilyName": "Quality / Performance",
-        "title": "Quality / Performance advertised salary decreased",
-        "summary": "Median advertised salary decreased from £38,502 to £35,750 (-7.1%).",
-        "previous": {
-          "medianAdvertisedSalary": 38502,
-          "salarySampleSize": 103
-        },
-        "current": {
-          "medianAdvertisedSalary": 35750,
-          "salarySampleSize": 122
-        },
-        "change": {
-          "percent": -7.1,
-          "absolute": -2752
-        }
-      }
-    ],
+    "latestEvents": [],
     "methodology": {
       "readOnly": true,
       "noFramerWrites": true,
@@ -7492,7 +7365,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.785263Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.075966Z"
       },
       {
         "id": "cp-perf-3fe5cfb905e11eae446d",
@@ -7512,7 +7385,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.786324Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.076950Z"
       },
       {
         "id": "cp-perf-6bde23006d09fab07188",
@@ -7532,7 +7405,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.785740Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.076383Z"
       },
       {
         "id": "cp-perf-77525be0c821dff9c81c",
@@ -7552,7 +7425,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.786050Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.076660Z"
       },
       {
         "id": "cp-perf-87c2b4c06dd2f9d35407",
@@ -7572,7 +7445,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.786624Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.077209Z"
       },
       {
         "id": "cp-perf-2662d88cf3ac4b436bee",
@@ -7592,7 +7465,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.105930Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.546463Z"
       },
       {
         "id": "cp-perf-369b4fffa9f9ffe03747",
@@ -7612,7 +7485,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.106726Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.547246Z"
       },
       {
         "id": "cp-perf-453a7e54ee62c25438da",
@@ -7632,7 +7505,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.105645Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.546204Z"
       },
       {
         "id": "cp-perf-50d839eded6d50dad87b",
@@ -7652,7 +7525,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.106465Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.546997Z"
       },
       {
         "id": "cp-perf-81bbe0ed5dd5ca8f95f7",
@@ -7672,7 +7545,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.104875Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.545490Z"
       },
       {
         "id": "cp-perf-ddc91ea2c5282d9143b7",
@@ -7692,7 +7565,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.106982Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.547497Z"
       },
       {
         "id": "cp-perf-e3adde533dffab3705b6",
@@ -7712,7 +7585,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.106186Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.546715Z"
       },
       {
         "id": "cp-perf-f0e6ce6bd1e917365001",
@@ -7732,7 +7605,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:42.105296Z"
+        "latestEvidenceDate": "2026-09-19T09:35:06.545929Z"
       },
       {
         "id": "cp-perf-0d451b62cc618615b6ed",
@@ -7752,7 +7625,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.400808Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.708092Z"
       },
       {
         "id": "cp-perf-16b9858dfb88a90e40e5",
@@ -7772,7 +7645,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.401598Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.708878Z"
       },
       {
         "id": "cp-perf-4bc44467cf8039900490",
@@ -7792,7 +7665,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.401324Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.708607Z"
       },
       {
         "id": "cp-perf-64dc7e870b4ecf748431",
@@ -7812,7 +7685,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.400231Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.707520Z"
       },
       {
         "id": "cp-perf-79335d3b242ad60df3e6",
@@ -7832,7 +7705,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.401848Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.709132Z"
       },
       {
         "id": "cp-perf-96a755a7a168a18645b2",
@@ -7852,7 +7725,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.399763Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.707058Z"
       },
       {
         "id": "cp-perf-b1b1aab98a0456411d73",
@@ -7872,7 +7745,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.400545Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.707803Z"
       },
       {
         "id": "cp-perf-de8b61626c5b1b6c7238",
@@ -7892,7 +7765,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:40.401071Z"
+        "latestEvidenceDate": "2026-09-19T09:35:02.708354Z"
       },
       {
         "id": "cp-perf-1b858d67834ee76c3b4d",
@@ -7912,7 +7785,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.239495Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.532556Z"
       },
       {
         "id": "cp-perf-5a41d1d7dcd389a41e9b",
@@ -7932,7 +7805,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.241228Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.534253Z"
       },
       {
         "id": "cp-perf-a5d0de3e0c05490c12ef",
@@ -7952,7 +7825,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.240645Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.533644Z"
       },
       {
         "id": "cp-perf-ccc50dad587e5f4e762e",
@@ -7972,7 +7845,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.239802Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.532873Z"
       },
       {
         "id": "cp-perf-d373621ab6ce6ed73365",
@@ -7992,7 +7865,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.240389Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.533390Z"
       },
       {
         "id": "cp-perf-db4266a3ff11760ffa1d",
@@ -8012,7 +7885,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.240101Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.533134Z"
       },
       {
         "id": "cp-perf-dc23d454fc52bef16922",
@@ -8032,7 +7905,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.240892Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.533914Z"
       },
       {
         "id": "cp-perf-fbf2ca9327cfd631e155",
@@ -8052,7 +7925,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:41.239031Z"
+        "latestEvidenceDate": "2026-09-19T09:35:03.532122Z"
       },
       {
         "id": "cp-perf-0d75ceaae3aee5ff7f15",
@@ -8072,7 +7945,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.658744Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.917448Z"
       },
       {
         "id": "cp-perf-64dc93fff5f28cc024a8",
@@ -8092,7 +7965,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.658097Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.916878Z"
       },
       {
         "id": "cp-perf-abdccf4cd1c5cd0bcd38",
@@ -8112,7 +7985,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.658456Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.917171Z"
       },
       {
         "id": "cp-perf-b6cc7adfb28cdd2bd2dd",
@@ -8132,7 +8005,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.657681Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.916442Z"
       },
       {
         "id": "cp-perf-e035b140dfad8fe912d6",
@@ -8152,7 +8025,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.659012Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.917726Z"
       },
       {
         "id": "cp-perf-0c637e33f1be9d403f00",
@@ -8172,7 +8045,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.049836Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.031052Z"
       },
       {
         "id": "cp-perf-19f33b2de28046a7687a",
@@ -8192,7 +8065,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.048950Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.030252Z"
       },
       {
         "id": "cp-perf-1ab316447f59f652b198",
@@ -8212,7 +8085,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.048629Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.029992Z"
       },
       {
         "id": "cp-perf-37a5ed3248eaf3bf1a03",
@@ -8232,7 +8105,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.048015Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.029411Z"
       },
       {
         "id": "cp-perf-6866c630f4c4f56b8c6b",
@@ -8252,7 +8125,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.048319Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.029685Z"
       },
       {
         "id": "cp-perf-842b69267ce04fc26910",
@@ -8272,7 +8145,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.049576Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.030764Z"
       },
       {
         "id": "cp-perf-8f118b7fa27d543b970e",
@@ -8292,7 +8165,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.047568Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.028978Z"
       },
       {
         "id": "cp-perf-fb1288f9c124ecb2bf68",
@@ -8312,7 +8185,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:45.049227Z"
+        "latestEvidenceDate": "2026-09-19T09:35:09.030506Z"
       },
       {
         "id": "cp-perf-0641159b6be28e203a40",
@@ -8332,7 +8205,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.610383Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.903779Z"
       },
       {
         "id": "cp-perf-12ec0d483fbef1c27aa9",
@@ -8352,7 +8225,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.608528Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.902068Z"
       },
       {
         "id": "cp-perf-197d3e80a08cce4399e8",
@@ -8372,7 +8245,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.610751Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.904190Z"
       },
       {
         "id": "cp-perf-1e1d37258d0dd437bf2c",
@@ -8392,7 +8265,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.609271Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.902728Z"
       },
       {
         "id": "cp-perf-5e4acec563a7e04dfb65",
@@ -8412,7 +8285,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.610099Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.903521Z"
       },
       {
         "id": "cp-perf-867e4fc01ea8d0a965cd",
@@ -8432,7 +8305,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.609585Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.903016Z"
       },
       {
         "id": "cp-perf-9c9ca7a144eb583990ac",
@@ -8452,7 +8325,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.609849Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.903273Z"
       },
       {
         "id": "cp-perf-ceba44f3f8aa3aa15093",
@@ -8472,7 +8345,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:43.608957Z"
+        "latestEvidenceDate": "2026-09-19T09:35:07.902451Z"
       },
       {
         "id": "cp-perf-2ba8bb121ae2fa54e2b8",
@@ -8492,7 +8365,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.335616Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.494454Z"
       },
       {
         "id": "cp-perf-39c68709b853a2b657d5",
@@ -8512,7 +8385,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.334797Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.493485Z"
       },
       {
         "id": "cp-perf-3fbc52767f8bdef59c11",
@@ -8532,7 +8405,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.334020Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.492541Z"
       },
       {
         "id": "cp-perf-5fd0d93153be24ff0ee4",
@@ -8552,7 +8425,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.335336Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.494179Z"
       },
       {
         "id": "cp-perf-67adbb1bc94de2d534f7",
@@ -8572,7 +8445,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.335863Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.494708Z"
       },
       {
         "id": "cp-perf-6d41087ec978d6080fb8",
@@ -8592,7 +8465,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.335083Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.493759Z"
       },
       {
         "id": "cp-perf-70ef671fe594f31eaa32",
@@ -8612,7 +8485,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.334488Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.493131Z"
       },
       {
         "id": "cp-perf-dc575499c2c243411910",
@@ -8632,7 +8505,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:44.336108Z"
+        "latestEvidenceDate": "2026-09-19T09:35:08.494987Z"
       },
       {
         "id": "cp-perf-685da18a4eacb599c299",
@@ -8652,7 +8525,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:48.781500Z"
+        "latestEvidenceDate": "2026-09-19T09:35:12.476714Z"
       },
       {
         "id": "cp-perf-9ccafeced27a709df241",
@@ -8672,7 +8545,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:48.782237Z"
+        "latestEvidenceDate": "2026-09-19T09:35:12.477549Z"
       },
       {
         "id": "cp-perf-a8d4880d47bdc4711cdf",
@@ -8692,7 +8565,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:48.782553Z"
+        "latestEvidenceDate": "2026-09-19T09:35:12.477883Z"
       },
       {
         "id": "cp-perf-f9a56a4d637957bcfa01",
@@ -8712,7 +8585,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:48.782822Z"
+        "latestEvidenceDate": "2026-09-19T09:35:12.478189Z"
       },
       {
         "id": "cp-perf-feb44fe11f440470b75f",
@@ -8732,7 +8605,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:48.781925Z"
+        "latestEvidenceDate": "2026-09-19T09:35:12.477266Z"
       },
       {
         "id": "cp-perf-0373a91d0cf13650beba",
@@ -8752,7 +8625,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.916064Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.885158Z"
       },
       {
         "id": "cp-perf-090c10cba2f194c34937",
@@ -8772,7 +8645,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.915489Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.884584Z"
       },
       {
         "id": "cp-perf-150848a2f6ec6581c5dc",
@@ -8792,7 +8665,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.915788Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.884883Z"
       },
       {
         "id": "cp-perf-1cd710c515a9fd11db46",
@@ -8812,7 +8685,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.916999Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.886075Z"
       },
       {
         "id": "cp-perf-95cb149cb8d0bdc4f7b9",
@@ -8832,7 +8705,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.916334Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.885415Z"
       },
       {
         "id": "cp-perf-af9e0e2c9ed9f4b17b74",
@@ -8852,7 +8725,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.915136Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.884306Z"
       },
       {
         "id": "cp-perf-df53f4fd25e604300111",
@@ -8872,7 +8745,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.914712Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.883805Z"
       },
       {
         "id": "cp-perf-e1d8f6cd96f7a0de991e",
@@ -8892,7 +8765,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.916740Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.885790Z"
       },
       {
         "id": "cp-perf-21973086a20294dc2ad2",
@@ -8912,7 +8785,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.480902Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.720458Z"
       },
       {
         "id": "cp-perf-22e8c4eacdb89ab7d1ca",
@@ -8932,7 +8805,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.480119Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.719650Z"
       },
       {
         "id": "cp-perf-302eee7e298beb1efe7d",
@@ -8952,7 +8825,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.480599Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.720185Z"
       },
       {
         "id": "cp-perf-3329c480af1f955f279c",
@@ -8972,7 +8845,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.481756Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.721378Z"
       },
       {
         "id": "cp-perf-82099bedf8200ee44fd2",
@@ -8992,7 +8865,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.481188Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.720722Z"
       },
       {
         "id": "cp-perf-b5aab139e52acd086c57",
@@ -9012,7 +8885,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.482022Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.721676Z"
       },
       {
         "id": "cp-perf-d8cc26e084ef405740d9",
@@ -9032,7 +8905,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.481482Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.721089Z"
       },
       {
         "id": "cp-perf-efabbb53b0aa0d5e8194",
@@ -9052,7 +8925,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:46.482281Z"
+        "latestEvidenceDate": "2026-09-19T09:35:10.721956Z"
       },
       {
         "id": "cp-perf-4a7810212891cd8e9d31",
@@ -9072,7 +8945,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.043306Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.299897Z"
       },
       {
         "id": "cp-perf-55e8e1ff3098eefe7dbf",
@@ -9092,7 +8965,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.042170Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.298781Z"
       },
       {
         "id": "cp-perf-73526f0fd041df9f7ed0",
@@ -9112,7 +8985,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.043039Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.299593Z"
       },
       {
         "id": "cp-perf-789089ff0481b3b675a8",
@@ -9132,7 +9005,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.043587Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.300173Z"
       },
       {
         "id": "cp-perf-9b79dc2de6beb3ccc429",
@@ -9152,7 +9025,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.041480Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.298117Z"
       },
       {
         "id": "cp-perf-9c3183461eea764e169a",
@@ -9172,7 +9045,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.042755Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.299342Z"
       },
       {
         "id": "cp-perf-bfb77def3ba87cfb7ee7",
@@ -9192,7 +9065,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.041882Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.298508Z"
       },
       {
         "id": "cp-perf-f8a327a0b6c112d979c7",
@@ -9212,7 +9085,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:47.042477Z"
+        "latestEvidenceDate": "2026-09-19T09:35:11.299076Z"
       },
       {
         "id": "cp-perf-2fcebab4344ff40500f2",
@@ -9232,7 +9105,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:51.311469Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.955166Z"
       },
       {
         "id": "cp-perf-6b2fd74218c873bc8652",
@@ -9252,7 +9125,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:51.311789Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.955447Z"
       },
       {
         "id": "cp-perf-70ef5e1f8f7f107b8104",
@@ -9272,7 +9145,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:51.312091Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.955716Z"
       },
       {
         "id": "cp-perf-973db1e10fd118b9cbc5",
@@ -9292,7 +9165,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:51.312408Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.956006Z"
       },
       {
         "id": "cp-perf-a1c7f6030758b6e745f4",
@@ -9312,7 +9185,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:51.310962Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.954653Z"
       },
       {
         "id": "cp-perf-28c81b8453a5dafc5be5",
@@ -9332,7 +9205,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.747533Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.376437Z"
       },
       {
         "id": "cp-perf-414a2b0a4c5798f0d34c",
@@ -9352,7 +9225,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.747063Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.376096Z"
       },
       {
         "id": "cp-perf-4c9a8db27c8d751d930c",
@@ -9372,7 +9245,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.749055Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.377803Z"
       },
       {
         "id": "cp-perf-55188f6fa358b03c57bf",
@@ -9392,7 +9265,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.747841Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.376711Z"
       },
       {
         "id": "cp-perf-9d7d4afe958a3c29417f",
@@ -9412,7 +9285,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.748490Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.377296Z"
       },
       {
         "id": "cp-perf-e28bc9cf6a182d8b768e",
@@ -9432,7 +9305,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.749411Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.378091Z"
       },
       {
         "id": "cp-perf-e79f728f694962d27f66",
@@ -9452,7 +9325,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.748185Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.377040Z"
       },
       {
         "id": "cp-perf-ea64b37de2675f90a7ce",
@@ -9472,7 +9345,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.748751Z"
+        "latestEvidenceDate": "2026-09-19T09:35:14.377550Z"
       },
       {
         "id": "cp-perf-025081ac9e42d68c6655",
@@ -9492,7 +9365,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.326431Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.019191Z"
       },
       {
         "id": "cp-perf-15f55b4f9f9386798ea4",
@@ -9512,7 +9385,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.326954Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.019709Z"
       },
       {
         "id": "cp-perf-332418ff265be946f991",
@@ -9532,7 +9405,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.325807Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.018568Z"
       },
       {
         "id": "cp-perf-36a4027286a0b36dc8ca",
@@ -9552,7 +9425,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.325325Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.018146Z"
       },
       {
         "id": "cp-perf-86bf376029d9d34d5cc6",
@@ -9572,7 +9445,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.326699Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.019454Z"
       },
       {
         "id": "cp-perf-8c890b1330f33b859594",
@@ -9592,7 +9465,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.326111Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.018906Z"
       },
       {
         "id": "cp-perf-a844f9f8732c8c892a9d",
@@ -9612,7 +9485,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.327271Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.020053Z"
       },
       {
         "id": "cp-perf-bb0d550ae095a5db1736",
@@ -9632,7 +9505,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:49.327552Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.020314Z"
       },
       {
         "id": "cp-perf-0109808f07275e2235f5",
@@ -9652,7 +9525,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.161584Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.851420Z"
       },
       {
         "id": "cp-perf-16a104db760331d70d22",
@@ -9672,7 +9545,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.161305Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.851046Z"
       },
       {
         "id": "cp-perf-1d393dc820bd2efb79e8",
@@ -9692,7 +9565,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.160452Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.850148Z"
       },
       {
         "id": "cp-perf-340012d54aa56e831391",
@@ -9712,7 +9585,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.160762Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.850422Z"
       },
       {
         "id": "cp-perf-42c1ac8e1b3116129558",
@@ -9732,7 +9605,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.162212Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.852079Z"
       },
       {
         "id": "cp-perf-6a199df4d9b07162cf25",
@@ -9752,7 +9625,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.159980Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.849663Z"
       },
       {
         "id": "cp-perf-889872f8a17873f20447",
@@ -9772,7 +9645,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.161053Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.850684Z"
       },
       {
         "id": "cp-perf-b34cfe5ed00b54b57d68",
@@ -9792,7 +9665,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:50.161836Z"
+        "latestEvidenceDate": "2026-09-19T09:35:13.851681Z"
       },
       {
         "id": "cp-perf-488be65eb03e1d7438f9",
@@ -9812,7 +9685,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:53.495393Z"
+        "latestEvidenceDate": "2026-09-19T09:35:17.770262Z"
       },
       {
         "id": "cp-perf-629eaf4a49d067636bb5",
@@ -9832,7 +9705,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:53.495067Z"
+        "latestEvidenceDate": "2026-09-19T09:35:17.769993Z"
       },
       {
         "id": "cp-perf-a7344388da98b6011cd6",
@@ -9852,7 +9725,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:53.494747Z"
+        "latestEvidenceDate": "2026-09-19T09:35:17.769691Z"
       },
       {
         "id": "cp-perf-add823bf68b1b622c198",
@@ -9872,7 +9745,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-16T10:00:53.493892Z"
+        "latestEvidenceDate": "2026-09-19T09:35:17.768996Z"
       }
     ],
     "regionalTimeSeries": [
@@ -11514,7 +11387,7 @@
       "name": "DWP Employment Programme and Funding Publications",
       "official": true,
       "latestPublicationDate": "2026-09-10T08:30:00.000Z",
-      "latestRetrievedAt": "2026-09-16T10:01:19.051Z",
+      "latestRetrievedAt": "2026-09-19T09:35:41.447Z",
       "urls": [
         "https://www.gov.uk/government/statistics/restart-scheme-statistics-to-april-2026/restart-scheme-statistics-to-april-2026",
         "https://www.gov.uk/government/publications/get-britain-working-trailblazers-theories-of-change-and-system-mapping/get-britain-working-trailblazers-theories-of-change-and-system-mapping",
