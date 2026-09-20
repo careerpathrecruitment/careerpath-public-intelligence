@@ -24,8 +24,8 @@
   "fundingMechanisms": [
     "mixed"
   ],
-  "generatedAt": "2026-09-19T09:39:31.869Z",
-  "latestEvidenceDate": "2026-09-19T09:39:17.515Z",
+  "generatedAt": "2026-09-20T09:56:00.175Z",
+  "latestEvidenceDate": "2026-09-20T09:55:46.906Z",
   "overview": {
     "fundingHeadline": null,
     "metrics": [
@@ -47,7 +47,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.490Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.873Z"
       },
       {
         "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -67,7 +67,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.439Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.833Z"
       },
       {
         "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -87,7 +87,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.470Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.855Z"
       },
       {
         "id": "cp-perf-006aed2fea563f75cdb6",
@@ -107,7 +107,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.482Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.867Z"
       },
       {
         "id": "cp-perf-009be03a04293c01c059",
@@ -127,7 +127,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.488Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.872Z"
       },
       {
         "id": "cp-perf-00a80af0f0a5c382220c",
@@ -147,7 +147,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.849Z"
       },
       {
         "id": "cp-perf-00a92952cb82f60c6477",
@@ -167,7 +167,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.850Z"
       },
       {
         "id": "cp-perf-00ad7d70a61342c0229e",
@@ -187,7 +187,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.479Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.865Z"
       },
       {
         "id": "cp-perf-00fc91cb2afd52263050",
@@ -207,7 +207,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.510Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.899Z"
       },
       {
         "id": "cp-perf-014c472d61633a0f2bec",
@@ -227,7 +227,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.453Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.841Z"
       },
       {
         "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -247,7 +247,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.511Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.901Z"
       },
       {
         "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -267,7 +267,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.478Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.864Z"
       },
       {
         "id": "cp-perf-0176e2381d69945f2853",
@@ -287,7 +287,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.504Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.885Z"
       },
       {
         "id": "cp-perf-017df84c169991f51022",
@@ -307,7 +307,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
       },
       {
         "id": "cp-perf-0185035a80ef92574372",
@@ -327,7 +327,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.467Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.852Z"
       },
       {
         "id": "cp-perf-01ab579dda6802162f57",
@@ -347,7 +347,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.474Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.860Z"
       },
       {
         "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -367,7 +367,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.515Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.905Z"
       },
       {
         "id": "cp-perf-01b7837982225121c799",
@@ -387,7 +387,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
       },
       {
         "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -407,7 +407,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.475Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.861Z"
       },
       {
         "id": "cp-perf-02128afb6080e899abc7",
@@ -427,7 +427,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.496Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.878Z"
       }
     ],
     "providerCount": 500,
@@ -435,7 +435,7 @@
     "deliveryAreaCount": 0,
     "deliveryAreaType": "provider network",
     "procurementCount": 0,
-    "latestReportingPeriod": "2026-09-19T09:39:17.515Z"
+    "latestReportingPeriod": "2026-09-20T09:55:46.905Z"
   },
   "funding": [],
   "fundingIntelligence": {
@@ -467,7 +467,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.490Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.873Z"
       },
       {
         "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -487,7 +487,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.439Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.833Z"
       },
       {
         "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -507,7 +507,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.470Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.855Z"
       },
       {
         "id": "cp-perf-006aed2fea563f75cdb6",
@@ -527,7 +527,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.482Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.867Z"
       },
       {
         "id": "cp-perf-009be03a04293c01c059",
@@ -547,7 +547,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.488Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.872Z"
       },
       {
         "id": "cp-perf-00a80af0f0a5c382220c",
@@ -567,7 +567,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.849Z"
       },
       {
         "id": "cp-perf-00a92952cb82f60c6477",
@@ -587,7 +587,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.850Z"
       },
       {
         "id": "cp-perf-00ad7d70a61342c0229e",
@@ -607,7 +607,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.479Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.865Z"
       },
       {
         "id": "cp-perf-00fc91cb2afd52263050",
@@ -627,7 +627,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.510Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.899Z"
       },
       {
         "id": "cp-perf-014c472d61633a0f2bec",
@@ -647,7 +647,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.453Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.841Z"
       },
       {
         "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -667,7 +667,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.511Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.901Z"
       },
       {
         "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -687,7 +687,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.478Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.864Z"
       },
       {
         "id": "cp-perf-0176e2381d69945f2853",
@@ -707,7 +707,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.504Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.885Z"
       },
       {
         "id": "cp-perf-017df84c169991f51022",
@@ -727,7 +727,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
       },
       {
         "id": "cp-perf-0185035a80ef92574372",
@@ -747,7 +747,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.467Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.852Z"
       },
       {
         "id": "cp-perf-01ab579dda6802162f57",
@@ -767,7 +767,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.474Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.860Z"
       },
       {
         "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -787,7 +787,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.515Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.905Z"
       },
       {
         "id": "cp-perf-01b7837982225121c799",
@@ -807,7 +807,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
       },
       {
         "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -827,7 +827,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.475Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.861Z"
       },
       {
         "id": "cp-perf-02128afb6080e899abc7",
@@ -847,7 +847,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.496Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.878Z"
       }
     ],
     "metricGroups": {
@@ -871,7 +871,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.439Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.833Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -891,7 +891,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.488Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.872Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -911,7 +911,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.850Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -931,7 +931,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.510Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.899Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -951,7 +951,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.511Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.901Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -971,7 +971,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -991,7 +991,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1011,7 +1011,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.475Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.861Z"
         }
       ],
       "participantProfile": [
@@ -1033,7 +1033,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.439Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.833Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -1053,7 +1053,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.488Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.872Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -1073,7 +1073,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.850Z"
         },
         {
           "id": "cp-perf-00ad7d70a61342c0229e",
@@ -1093,7 +1093,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.479Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.865Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -1113,7 +1113,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.510Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.899Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -1133,7 +1133,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.511Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.901Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -1153,7 +1153,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -1173,7 +1173,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1193,7 +1193,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.475Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.861Z"
         }
       ],
       "deliveryModel": [],
@@ -1216,7 +1216,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.490Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.873Z"
         },
         {
           "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -1236,7 +1236,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.439Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.833Z"
         },
         {
           "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -1256,7 +1256,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.470Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.855Z"
         },
         {
           "id": "cp-perf-006aed2fea563f75cdb6",
@@ -1276,7 +1276,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.482Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.867Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -1296,7 +1296,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.488Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.872Z"
         },
         {
           "id": "cp-perf-00a80af0f0a5c382220c",
@@ -1316,7 +1316,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.849Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -1336,7 +1336,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.850Z"
         },
         {
           "id": "cp-perf-00ad7d70a61342c0229e",
@@ -1356,7 +1356,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.479Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.865Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -1376,7 +1376,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.510Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.899Z"
         },
         {
           "id": "cp-perf-014c472d61633a0f2bec",
@@ -1396,7 +1396,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.453Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.841Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -1416,7 +1416,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.511Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.901Z"
         },
         {
           "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -1436,7 +1436,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.478Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.864Z"
         },
         {
           "id": "cp-perf-0176e2381d69945f2853",
@@ -1456,7 +1456,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.504Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.885Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -1476,7 +1476,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-0185035a80ef92574372",
@@ -1496,7 +1496,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.467Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.852Z"
         },
         {
           "id": "cp-perf-01ab579dda6802162f57",
@@ -1516,7 +1516,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.474Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.860Z"
         },
         {
           "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -1536,7 +1536,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.515Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.905Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -1556,7 +1556,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1576,7 +1576,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.475Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.861Z"
         },
         {
           "id": "cp-perf-02128afb6080e899abc7",
@@ -1596,7 +1596,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.496Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.878Z"
         }
       ],
       "areaPerformance": [],
@@ -1619,7 +1619,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.490Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.873Z"
         },
         {
           "id": "cp-perf-0051f11e91b0a54e7fe0",
@@ -1639,7 +1639,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.439Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.833Z"
         },
         {
           "id": "cp-perf-0067cdc05ac3e28dc698",
@@ -1659,7 +1659,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.470Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.855Z"
         },
         {
           "id": "cp-perf-006aed2fea563f75cdb6",
@@ -1679,7 +1679,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.482Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.867Z"
         },
         {
           "id": "cp-perf-009be03a04293c01c059",
@@ -1699,7 +1699,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.488Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.872Z"
         },
         {
           "id": "cp-perf-00a80af0f0a5c382220c",
@@ -1719,7 +1719,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.849Z"
         },
         {
           "id": "cp-perf-00a92952cb82f60c6477",
@@ -1739,7 +1739,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.850Z"
         },
         {
           "id": "cp-perf-00ad7d70a61342c0229e",
@@ -1759,7 +1759,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.479Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.865Z"
         },
         {
           "id": "cp-perf-00fc91cb2afd52263050",
@@ -1779,7 +1779,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.510Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.899Z"
         },
         {
           "id": "cp-perf-014c472d61633a0f2bec",
@@ -1799,7 +1799,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.453Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.841Z"
         },
         {
           "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -1819,7 +1819,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.511Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.901Z"
         },
         {
           "id": "cp-perf-016b9f7aa0f0974c1ed7",
@@ -1839,7 +1839,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.478Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.864Z"
         },
         {
           "id": "cp-perf-0176e2381d69945f2853",
@@ -1859,7 +1859,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.504Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.885Z"
         },
         {
           "id": "cp-perf-017df84c169991f51022",
@@ -1879,7 +1879,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-0185035a80ef92574372",
@@ -1899,7 +1899,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.467Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.852Z"
         },
         {
           "id": "cp-perf-01ab579dda6802162f57",
@@ -1919,7 +1919,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.474Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.860Z"
         },
         {
           "id": "cp-perf-01ad4b13f540ff29bda4",
@@ -1939,7 +1939,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.515Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.905Z"
         },
         {
           "id": "cp-perf-01b7837982225121c799",
@@ -1959,7 +1959,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
         },
         {
           "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -1979,7 +1979,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.475Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.861Z"
         },
         {
           "id": "cp-perf-02128afb6080e899abc7",
@@ -1999,7 +1999,7 @@
           "sourceIds": [
             "apprenticeships"
           ],
-          "latestEvidenceDate": "2026-09-19T09:39:17.496Z"
+          "latestEvidenceDate": "2026-09-20T09:55:46.878Z"
         }
       ]
     },
@@ -17279,7 +17279,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.439Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.833Z"
       },
       {
         "id": "cp-perf-009be03a04293c01c059",
@@ -17299,7 +17299,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.488Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.872Z"
       },
       {
         "id": "cp-perf-00a92952cb82f60c6477",
@@ -17319,7 +17319,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.464Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.850Z"
       },
       {
         "id": "cp-perf-00ad7d70a61342c0229e",
@@ -17339,7 +17339,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.479Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.865Z"
       },
       {
         "id": "cp-perf-00fc91cb2afd52263050",
@@ -17359,7 +17359,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.510Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.899Z"
       },
       {
         "id": "cp-perf-015f3cb91ba0c2f0fd8b",
@@ -17379,7 +17379,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.511Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.901Z"
       },
       {
         "id": "cp-perf-017df84c169991f51022",
@@ -17399,7 +17399,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
       },
       {
         "id": "cp-perf-01b7837982225121c799",
@@ -17419,7 +17419,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.509Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.898Z"
       },
       {
         "id": "cp-perf-020fdd9a2f6a8fe69dcf",
@@ -17439,7 +17439,7 @@
         "sourceIds": [
           "apprenticeships"
         ],
-        "latestEvidenceDate": "2026-09-19T09:39:17.475Z"
+        "latestEvidenceDate": "2026-09-20T09:55:46.861Z"
       }
     ]
   },
@@ -17450,19 +17450,19 @@
     "opportunities": []
   },
   "workforce": {
-    "generatedAt": "2026-09-19T09:35:30.540Z",
+    "generatedAt": "2026-09-20T09:51:59.937Z",
     "status": "passed",
     "roleFamilies": [
       {
         "id": "employment-adviser",
         "name": "Employment Adviser / Coach",
         "careerArea": "Employment Advice & Support",
-        "returnedUniqueVacancies": 231,
+        "returnedUniqueVacancies": 230,
         "salary": {
-          "sampleSize": 179,
+          "sampleSize": 178,
           "sufficientSample": true,
           "median": 30000,
-          "mean": 33241,
+          "mean": 33257,
           "lowerQuartile": 29000,
           "upperQuartile": 35000,
           "currency": "GBP",
@@ -17471,12 +17471,12 @@
         "sourceBreakdown": {
           "adzuna": {
             "returnedUniqueVacancies": 100,
-            "salarySampleSize": 98,
+            "salarySampleSize": 99,
             "medianAdvertisedSalary": 30000
           },
           "reed": {
-            "returnedUniqueVacancies": 131,
-            "salarySampleSize": 81,
+            "returnedUniqueVacancies": 130,
+            "salarySampleSize": 79,
             "medianAdvertisedSalary": 31000
           }
         }
@@ -17485,21 +17485,21 @@
         "id": "ips-employment-specialist",
         "name": "IPS / Supported Employment Specialist",
         "careerArea": "Employment Advice & Support",
-        "returnedUniqueVacancies": 146,
+        "returnedUniqueVacancies": 145,
         "salary": {
-          "sampleSize": 116,
+          "sampleSize": 114,
           "sufficientSample": true,
-          "median": 34718,
-          "mean": 35078,
+          "median": 34343,
+          "mean": 34862,
           "lowerQuartile": 30000,
-          "upperQuartile": 36140,
+          "upperQuartile": 36251,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 83,
-            "salarySampleSize": 74,
+            "returnedUniqueVacancies": 82,
+            "salarySampleSize": 72,
             "medianAdvertisedSalary": 35000
           },
           "reed": {
@@ -17515,10 +17515,10 @@
         "careerArea": "Employer Engagement & Recruitment",
         "returnedUniqueVacancies": 200,
         "salary": {
-          "sampleSize": 161,
+          "sampleSize": 159,
           "sufficientSample": true,
-          "median": 36400,
-          "mean": 45394,
+          "median": 36762,
+          "mean": 45720,
           "lowerQuartile": 32000,
           "upperQuartile": 50000,
           "currency": "GBP",
@@ -17528,11 +17528,11 @@
           "adzuna": {
             "returnedUniqueVacancies": 100,
             "salarySampleSize": 92,
-            "medianAdvertisedSalary": 36631
+            "medianAdvertisedSalary": 40000
           },
           "reed": {
             "returnedUniqueVacancies": 100,
-            "salarySampleSize": 69,
+            "salarySampleSize": 67,
             "medianAdvertisedSalary": 35000
           }
         }
@@ -17541,27 +17541,27 @@
         "id": "team-leadership",
         "name": "Team Leader / Team Manager",
         "careerArea": "Team Leadership",
-        "returnedUniqueVacancies": 134,
+        "returnedUniqueVacancies": 133,
         "salary": {
-          "sampleSize": 95,
+          "sampleSize": 98,
           "sufficientSample": true,
           "median": 38168,
-          "mean": 41705,
-          "lowerQuartile": 33375,
-          "upperQuartile": 44504,
+          "mean": 41912,
+          "lowerQuartile": 33250,
+          "upperQuartile": 44914,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 54,
-            "salarySampleSize": 53,
+            "returnedUniqueVacancies": 53,
+            "salarySampleSize": 51,
             "medianAdvertisedSalary": 38168
           },
           "reed": {
             "returnedUniqueVacancies": 80,
-            "salarySampleSize": 42,
-            "medianAdvertisedSalary": 38250
+            "salarySampleSize": 47,
+            "medianAdvertisedSalary": 38500
           }
         }
       },
@@ -17574,9 +17574,9 @@
           "sampleSize": 256,
           "sufficientSample": true,
           "median": 40000,
-          "mean": 42914,
+          "mean": 42824,
           "lowerQuartile": 33000,
-          "upperQuartile": 46803,
+          "upperQuartile": 46550,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
@@ -17584,7 +17584,7 @@
           "adzuna": {
             "returnedUniqueVacancies": 150,
             "salarySampleSize": 147,
-            "medianAdvertisedSalary": 42993
+            "medianAdvertisedSalary": 42194
           },
           "reed": {
             "returnedUniqueVacancies": 137,
@@ -17602,22 +17602,22 @@
           "sampleSize": 182,
           "sufficientSample": true,
           "median": 32500,
-          "mean": 34318,
-          "lowerQuartile": 29000,
-          "upperQuartile": 39750,
+          "mean": 34320,
+          "lowerQuartile": 28813,
+          "upperQuartile": 39781,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 73,
-            "salarySampleSize": 73,
-            "medianAdvertisedSalary": 34047
+            "returnedUniqueVacancies": 74,
+            "salarySampleSize": 74,
+            "medianAdvertisedSalary": 33664
           },
           "reed": {
-            "returnedUniqueVacancies": 131,
-            "salarySampleSize": 109,
-            "medianAdvertisedSalary": 31500
+            "returnedUniqueVacancies": 130,
+            "salarySampleSize": 108,
+            "medianAdvertisedSalary": 31750
           }
         }
       },
@@ -17625,22 +17625,22 @@
         "id": "careers-advice",
         "name": "Careers Adviser",
         "careerArea": "Skills, Training & Careers",
-        "returnedUniqueVacancies": 165,
+        "returnedUniqueVacancies": 166,
         "salary": {
-          "sampleSize": 129,
+          "sampleSize": 130,
           "sufficientSample": true,
           "median": 34000,
-          "mean": 35933,
-          "lowerQuartile": 28000,
+          "mean": 36012,
+          "lowerQuartile": 28276,
           "upperQuartile": 35000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 67,
-            "salarySampleSize": 66,
-            "medianAdvertisedSalary": 30323
+            "returnedUniqueVacancies": 68,
+            "salarySampleSize": 67,
+            "medianAdvertisedSalary": 31958
           },
           "reed": {
             "returnedUniqueVacancies": 98,
@@ -17653,21 +17653,21 @@
         "id": "business-partnerships",
         "name": "Business Development / Partnerships",
         "careerArea": "Business, Partnerships & Growth",
-        "returnedUniqueVacancies": 100,
+        "returnedUniqueVacancies": 101,
         "salary": {
-          "sampleSize": 95,
+          "sampleSize": 96,
           "sufficientSample": true,
-          "median": 33000,
-          "mean": 40320,
+          "median": 33549,
+          "mean": 40511,
           "lowerQuartile": 33000,
-          "upperQuartile": 42000,
+          "upperQuartile": 42125,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 40,
-            "salarySampleSize": 40,
+            "returnedUniqueVacancies": 41,
+            "salarySampleSize": 41,
             "medianAdvertisedSalary": 42000
           },
           "reed": {
@@ -17686,7 +17686,7 @@
           "sampleSize": 127,
           "sufficientSample": true,
           "median": 35822,
-          "mean": 39306,
+          "mean": 39203,
           "lowerQuartile": 33000,
           "upperQuartile": 46369,
           "currency": "GBP",
@@ -17694,13 +17694,13 @@
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 68,
-            "salarySampleSize": 66,
-            "medianAdvertisedSalary": 40948
+            "returnedUniqueVacancies": 69,
+            "salarySampleSize": 67,
+            "medianAdvertisedSalary": 40225
           },
           "reed": {
-            "returnedUniqueVacancies": 66,
-            "salarySampleSize": 61,
+            "returnedUniqueVacancies": 65,
+            "salarySampleSize": 60,
             "medianAdvertisedSalary": 33000
           }
         }
@@ -17709,22 +17709,22 @@
         "id": "senior-leadership",
         "name": "Senior Leadership",
         "careerArea": "Senior Leadership",
-        "returnedUniqueVacancies": 120,
+        "returnedUniqueVacancies": 119,
         "salary": {
-          "sampleSize": 118,
+          "sampleSize": 117,
           "sufficientSample": true,
-          "median": 58922,
-          "mean": 66475,
-          "lowerQuartile": 48880,
-          "upperQuartile": 79553,
+          "median": 58671,
+          "mean": 66427,
+          "lowerQuartile": 48302,
+          "upperQuartile": 80000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 98,
-            "salarySampleSize": 97,
-            "medianAdvertisedSalary": 64698
+            "returnedUniqueVacancies": 97,
+            "salarySampleSize": 96,
+            "medianAdvertisedSalary": 64613
           },
           "reed": {
             "returnedUniqueVacancies": 22,
@@ -17743,7 +17743,7 @@
       {
         "id": "employment-adviser",
         "name": "Employment Adviser / Coach",
-        "returnedUniqueVacancies": 231
+        "returnedUniqueVacancies": 230
       },
       {
         "id": "skills-training",
@@ -17758,17 +17758,12 @@
       {
         "id": "careers-advice",
         "name": "Careers Adviser",
-        "returnedUniqueVacancies": 165
+        "returnedUniqueVacancies": 166
       },
       {
         "id": "ips-employment-specialist",
         "name": "IPS / Supported Employment Specialist",
-        "returnedUniqueVacancies": 146
-      },
-      {
-        "id": "team-leadership",
-        "name": "Team Leader / Team Manager",
-        "returnedUniqueVacancies": 134
+        "returnedUniqueVacancies": 145
       },
       {
         "id": "quality-performance",
@@ -17776,14 +17771,19 @@
         "returnedUniqueVacancies": 134
       },
       {
+        "id": "team-leadership",
+        "name": "Team Leader / Team Manager",
+        "returnedUniqueVacancies": 133
+      },
+      {
         "id": "senior-leadership",
         "name": "Senior Leadership",
-        "returnedUniqueVacancies": 120
+        "returnedUniqueVacancies": 119
       },
       {
         "id": "business-partnerships",
         "name": "Business Development / Partnerships",
-        "returnedUniqueVacancies": 100
+        "returnedUniqueVacancies": 101
       }
     ],
     "latestEvents": [],
@@ -17815,7 +17815,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.075966Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.115028Z"
       },
       {
         "id": "cp-perf-3fe5cfb905e11eae446d",
@@ -17835,7 +17835,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.076950Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.116133Z"
       },
       {
         "id": "cp-perf-6bde23006d09fab07188",
@@ -17855,7 +17855,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.076383Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.115550Z"
       },
       {
         "id": "cp-perf-77525be0c821dff9c81c",
@@ -17875,7 +17875,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.076660Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.115831Z"
       },
       {
         "id": "cp-perf-87c2b4c06dd2f9d35407",
@@ -17895,7 +17895,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.077209Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.116402Z"
       },
       {
         "id": "cp-perf-2662d88cf3ac4b436bee",
@@ -17915,7 +17915,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.546463Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.557951Z"
       },
       {
         "id": "cp-perf-369b4fffa9f9ffe03747",
@@ -17935,7 +17935,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.547246Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.558756Z"
       },
       {
         "id": "cp-perf-453a7e54ee62c25438da",
@@ -17955,7 +17955,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.546204Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.557681Z"
       },
       {
         "id": "cp-perf-50d839eded6d50dad87b",
@@ -17975,7 +17975,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.546997Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.558507Z"
       },
       {
         "id": "cp-perf-81bbe0ed5dd5ca8f95f7",
@@ -17995,7 +17995,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.545490Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.556942Z"
       },
       {
         "id": "cp-perf-ddc91ea2c5282d9143b7",
@@ -18015,7 +18015,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.547497Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.559012Z"
       },
       {
         "id": "cp-perf-e3adde533dffab3705b6",
@@ -18035,7 +18035,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.546715Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.558244Z"
       },
       {
         "id": "cp-perf-f0e6ce6bd1e917365001",
@@ -18055,7 +18055,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:06.545929Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.557397Z"
       },
       {
         "id": "cp-perf-0d451b62cc618615b6ed",
@@ -18075,7 +18075,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.708092Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.450879Z"
       },
       {
         "id": "cp-perf-16b9858dfb88a90e40e5",
@@ -18095,7 +18095,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.708878Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.451676Z"
       },
       {
         "id": "cp-perf-4bc44467cf8039900490",
@@ -18115,7 +18115,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.708607Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.451430Z"
       },
       {
         "id": "cp-perf-64dc7e870b4ecf748431",
@@ -18135,7 +18135,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.707520Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.450308Z"
       },
       {
         "id": "cp-perf-79335d3b242ad60df3e6",
@@ -18155,7 +18155,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.709132Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.451926Z"
       },
       {
         "id": "cp-perf-96a755a7a168a18645b2",
@@ -18175,7 +18175,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.707058Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.449769Z"
       },
       {
         "id": "cp-perf-b1b1aab98a0456411d73",
@@ -18195,7 +18195,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.707803Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.450603Z"
       },
       {
         "id": "cp-perf-de8b61626c5b1b6c7238",
@@ -18215,7 +18215,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:02.708354Z"
+        "latestEvidenceDate": "2026-09-20T09:51:33.451170Z"
       },
       {
         "id": "cp-perf-1b858d67834ee76c3b4d",
@@ -18235,7 +18235,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.532556Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.005907Z"
       },
       {
         "id": "cp-perf-5a41d1d7dcd389a41e9b",
@@ -18255,7 +18255,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.534253Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.007632Z"
       },
       {
         "id": "cp-perf-a5d0de3e0c05490c12ef",
@@ -18275,7 +18275,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.533644Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.007026Z"
       },
       {
         "id": "cp-perf-ccc50dad587e5f4e762e",
@@ -18295,7 +18295,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.532873Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.006238Z"
       },
       {
         "id": "cp-perf-d373621ab6ce6ed73365",
@@ -18315,7 +18315,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.533390Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.006771Z"
       },
       {
         "id": "cp-perf-db4266a3ff11760ffa1d",
@@ -18335,7 +18335,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.533134Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.006520Z"
       },
       {
         "id": "cp-perf-dc23d454fc52bef16922",
@@ -18355,7 +18355,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.533914Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.007302Z"
       },
       {
         "id": "cp-perf-fbf2ca9327cfd631e155",
@@ -18375,7 +18375,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:03.532122Z"
+        "latestEvidenceDate": "2026-09-20T09:51:34.005518Z"
       },
       {
         "id": "cp-perf-0d75ceaae3aee5ff7f15",
@@ -18395,7 +18395,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.917448Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.918950Z"
       },
       {
         "id": "cp-perf-64dc93fff5f28cc024a8",
@@ -18415,7 +18415,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.916878Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.918384Z"
       },
       {
         "id": "cp-perf-abdccf4cd1c5cd0bcd38",
@@ -18435,7 +18435,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.917171Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.918670Z"
       },
       {
         "id": "cp-perf-b6cc7adfb28cdd2bd2dd",
@@ -18455,7 +18455,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.916442Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.917906Z"
       },
       {
         "id": "cp-perf-e035b140dfad8fe912d6",
@@ -18475,7 +18475,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.917726Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.919329Z"
       },
       {
         "id": "cp-perf-0c637e33f1be9d403f00",
@@ -18495,7 +18495,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.031052Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.380222Z"
       },
       {
         "id": "cp-perf-19f33b2de28046a7687a",
@@ -18515,7 +18515,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.030252Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.379416Z"
       },
       {
         "id": "cp-perf-1ab316447f59f652b198",
@@ -18535,7 +18535,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.029992Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.379155Z"
       },
       {
         "id": "cp-perf-37a5ed3248eaf3bf1a03",
@@ -18555,7 +18555,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.029411Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.378597Z"
       },
       {
         "id": "cp-perf-6866c630f4c4f56b8c6b",
@@ -18575,7 +18575,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.029685Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.378869Z"
       },
       {
         "id": "cp-perf-842b69267ce04fc26910",
@@ -18595,7 +18595,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.030764Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.379940Z"
       },
       {
         "id": "cp-perf-8f118b7fa27d543b970e",
@@ -18615,7 +18615,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.028978Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.378199Z"
       },
       {
         "id": "cp-perf-fb1288f9c124ecb2bf68",
@@ -18635,7 +18635,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:09.030506Z"
+        "latestEvidenceDate": "2026-09-20T09:51:36.379676Z"
       },
       {
         "id": "cp-perf-0641159b6be28e203a40",
@@ -18655,7 +18655,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.903779Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.517097Z"
       },
       {
         "id": "cp-perf-12ec0d483fbef1c27aa9",
@@ -18675,7 +18675,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.902068Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.515333Z"
       },
       {
         "id": "cp-perf-197d3e80a08cce4399e8",
@@ -18695,7 +18695,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.904190Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.517483Z"
       },
       {
         "id": "cp-perf-1e1d37258d0dd437bf2c",
@@ -18715,7 +18715,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.902728Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.516004Z"
       },
       {
         "id": "cp-perf-5e4acec563a7e04dfb65",
@@ -18735,7 +18735,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.903521Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.516810Z"
       },
       {
         "id": "cp-perf-867e4fc01ea8d0a965cd",
@@ -18755,7 +18755,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.903016Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.516301Z"
       },
       {
         "id": "cp-perf-9c9ca7a144eb583990ac",
@@ -18775,7 +18775,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.903273Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.516557Z"
       },
       {
         "id": "cp-perf-ceba44f3f8aa3aa15093",
@@ -18795,7 +18795,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:07.902451Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.515718Z"
       },
       {
         "id": "cp-perf-2ba8bb121ae2fa54e2b8",
@@ -18815,7 +18815,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.494454Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.867388Z"
       },
       {
         "id": "cp-perf-39c68709b853a2b657d5",
@@ -18835,7 +18835,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.493485Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.866566Z"
       },
       {
         "id": "cp-perf-3fbc52767f8bdef59c11",
@@ -18855,7 +18855,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.492541Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.865800Z"
       },
       {
         "id": "cp-perf-5fd0d93153be24ff0ee4",
@@ -18875,7 +18875,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.494179Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.867130Z"
       },
       {
         "id": "cp-perf-67adbb1bc94de2d534f7",
@@ -18895,7 +18895,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.494708Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.867639Z"
       },
       {
         "id": "cp-perf-6d41087ec978d6080fb8",
@@ -18915,7 +18915,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.493759Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.866835Z"
       },
       {
         "id": "cp-perf-70ef671fe594f31eaa32",
@@ -18935,7 +18935,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.493131Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.866278Z"
       },
       {
         "id": "cp-perf-dc575499c2c243411910",
@@ -18955,7 +18955,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:08.494987Z"
+        "latestEvidenceDate": "2026-09-20T09:51:35.867888Z"
       },
       {
         "id": "cp-perf-685da18a4eacb599c299",
@@ -18975,7 +18975,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:12.476714Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.990599Z"
       },
       {
         "id": "cp-perf-9ccafeced27a709df241",
@@ -18995,7 +18995,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:12.477549Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.991382Z"
       },
       {
         "id": "cp-perf-a8d4880d47bdc4711cdf",
@@ -19015,7 +19015,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:12.477883Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.991654Z"
       },
       {
         "id": "cp-perf-f9a56a4d637957bcfa01",
@@ -19035,7 +19035,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:12.478189Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.991924Z"
       },
       {
         "id": "cp-perf-feb44fe11f440470b75f",
@@ -19055,7 +19055,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:12.477266Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.991044Z"
       },
       {
         "id": "cp-perf-0373a91d0cf13650beba",
@@ -19075,7 +19075,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.885158Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.437390Z"
       },
       {
         "id": "cp-perf-090c10cba2f194c34937",
@@ -19095,7 +19095,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.884584Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.436821Z"
       },
       {
         "id": "cp-perf-150848a2f6ec6581c5dc",
@@ -19115,7 +19115,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.884883Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.437107Z"
       },
       {
         "id": "cp-perf-1cd710c515a9fd11db46",
@@ -19135,7 +19135,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.886075Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.438321Z"
       },
       {
         "id": "cp-perf-95cb149cb8d0bdc4f7b9",
@@ -19155,7 +19155,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.885415Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.437651Z"
       },
       {
         "id": "cp-perf-af9e0e2c9ed9f4b17b74",
@@ -19175,7 +19175,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.884306Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.436547Z"
       },
       {
         "id": "cp-perf-df53f4fd25e604300111",
@@ -19195,7 +19195,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.883805Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.436144Z"
       },
       {
         "id": "cp-perf-e1d8f6cd96f7a0de991e",
@@ -19215,7 +19215,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.885790Z"
+        "latestEvidenceDate": "2026-09-20T09:51:38.438022Z"
       },
       {
         "id": "cp-perf-21973086a20294dc2ad2",
@@ -19235,7 +19235,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.720458Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.423911Z"
       },
       {
         "id": "cp-perf-22e8c4eacdb89ab7d1ca",
@@ -19255,7 +19255,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.719650Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.423245Z"
       },
       {
         "id": "cp-perf-302eee7e298beb1efe7d",
@@ -19275,7 +19275,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.720185Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.423640Z"
       },
       {
         "id": "cp-perf-3329c480af1f955f279c",
@@ -19295,7 +19295,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.721378Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.424708Z"
       },
       {
         "id": "cp-perf-82099bedf8200ee44fd2",
@@ -19315,7 +19315,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.720722Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.424197Z"
       },
       {
         "id": "cp-perf-b5aab139e52acd086c57",
@@ -19335,7 +19335,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.721676Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.424962Z"
       },
       {
         "id": "cp-perf-d8cc26e084ef405740d9",
@@ -19355,7 +19355,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.721089Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.424455Z"
       },
       {
         "id": "cp-perf-efabbb53b0aa0d5e8194",
@@ -19375,7 +19375,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:10.721956Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.425254Z"
       },
       {
         "id": "cp-perf-4a7810212891cd8e9d31",
@@ -19395,7 +19395,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.299897Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.943163Z"
       },
       {
         "id": "cp-perf-55e8e1ff3098eefe7dbf",
@@ -19415,7 +19415,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.298781Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.941926Z"
       },
       {
         "id": "cp-perf-73526f0fd041df9f7ed0",
@@ -19435,7 +19435,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.299593Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.942877Z"
       },
       {
         "id": "cp-perf-789089ff0481b3b675a8",
@@ -19455,7 +19455,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.300173Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.943419Z"
       },
       {
         "id": "cp-perf-9b79dc2de6beb3ccc429",
@@ -19475,7 +19475,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.298117Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.941251Z"
       },
       {
         "id": "cp-perf-9c3183461eea764e169a",
@@ -19495,7 +19495,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.299342Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.942617Z"
       },
       {
         "id": "cp-perf-bfb77def3ba87cfb7ee7",
@@ -19515,7 +19515,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.298508Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.941648Z"
       },
       {
         "id": "cp-perf-f8a327a0b6c112d979c7",
@@ -19535,7 +19535,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:11.299076Z"
+        "latestEvidenceDate": "2026-09-20T09:51:37.942349Z"
       },
       {
         "id": "cp-perf-2fcebab4344ff40500f2",
@@ -19555,7 +19555,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.955166Z"
+        "latestEvidenceDate": "2026-09-20T09:51:41.326849Z"
       },
       {
         "id": "cp-perf-6b2fd74218c873bc8652",
@@ -19575,7 +19575,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.955447Z"
+        "latestEvidenceDate": "2026-09-20T09:51:41.327189Z"
       },
       {
         "id": "cp-perf-70ef5e1f8f7f107b8104",
@@ -19595,7 +19595,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.955716Z"
+        "latestEvidenceDate": "2026-09-20T09:51:41.327466Z"
       },
       {
         "id": "cp-perf-973db1e10fd118b9cbc5",
@@ -19615,7 +19615,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.956006Z"
+        "latestEvidenceDate": "2026-09-20T09:51:41.327743Z"
       },
       {
         "id": "cp-perf-a1c7f6030758b6e745f4",
@@ -19635,7 +19635,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.954653Z"
+        "latestEvidenceDate": "2026-09-20T09:51:41.326445Z"
       },
       {
         "id": "cp-perf-28c81b8453a5dafc5be5",
@@ -19655,7 +19655,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.376437Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.716744Z"
       },
       {
         "id": "cp-perf-414a2b0a4c5798f0d34c",
@@ -19675,7 +19675,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.376096Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.716349Z"
       },
       {
         "id": "cp-perf-4c9a8db27c8d751d930c",
@@ -19695,7 +19695,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.377803Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.718108Z"
       },
       {
         "id": "cp-perf-55188f6fa358b03c57bf",
@@ -19715,7 +19715,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.376711Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.717019Z"
       },
       {
         "id": "cp-perf-9d7d4afe958a3c29417f",
@@ -19735,7 +19735,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.377296Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.717576Z"
       },
       {
         "id": "cp-perf-e28bc9cf6a182d8b768e",
@@ -19755,7 +19755,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.378091Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.718367Z"
       },
       {
         "id": "cp-perf-e79f728f694962d27f66",
@@ -19775,7 +19775,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.377040Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.717318Z"
       },
       {
         "id": "cp-perf-ea64b37de2675f90a7ce",
@@ -19795,7 +19795,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:14.377550Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.717829Z"
       },
       {
         "id": "cp-perf-025081ac9e42d68c6655",
@@ -19815,7 +19815,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.019191Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.565292Z"
       },
       {
         "id": "cp-perf-15f55b4f9f9386798ea4",
@@ -19835,7 +19835,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.019709Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.565812Z"
       },
       {
         "id": "cp-perf-332418ff265be946f991",
@@ -19855,7 +19855,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.018568Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.564719Z"
       },
       {
         "id": "cp-perf-36a4027286a0b36dc8ca",
@@ -19875,7 +19875,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.018146Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.564313Z"
       },
       {
         "id": "cp-perf-86bf376029d9d34d5cc6",
@@ -19895,7 +19895,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.019454Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.565553Z"
       },
       {
         "id": "cp-perf-8c890b1330f33b859594",
@@ -19915,7 +19915,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.018906Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.564996Z"
       },
       {
         "id": "cp-perf-a844f9f8732c8c892a9d",
@@ -19935,7 +19935,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.020053Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.566160Z"
       },
       {
         "id": "cp-perf-bb0d550ae095a5db1736",
@@ -19955,7 +19955,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.020314Z"
+        "latestEvidenceDate": "2026-09-20T09:51:39.566434Z"
       },
       {
         "id": "cp-perf-0109808f07275e2235f5",
@@ -19975,7 +19975,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.851420Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.150751Z"
       },
       {
         "id": "cp-perf-16a104db760331d70d22",
@@ -19995,7 +19995,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.851046Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.150494Z"
       },
       {
         "id": "cp-perf-1d393dc820bd2efb79e8",
@@ -20015,7 +20015,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.850148Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.149648Z"
       },
       {
         "id": "cp-perf-340012d54aa56e831391",
@@ -20035,7 +20035,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.850422Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.149932Z"
       },
       {
         "id": "cp-perf-42c1ac8e1b3116129558",
@@ -20055,7 +20055,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.852079Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.151400Z"
       },
       {
         "id": "cp-perf-6a199df4d9b07162cf25",
@@ -20075,7 +20075,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.849663Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.149247Z"
       },
       {
         "id": "cp-perf-889872f8a17873f20447",
@@ -20095,7 +20095,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.850684Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.150233Z"
       },
       {
         "id": "cp-perf-b34cfe5ed00b54b57d68",
@@ -20115,7 +20115,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:13.851681Z"
+        "latestEvidenceDate": "2026-09-20T09:51:40.151000Z"
       },
       {
         "id": "cp-perf-488be65eb03e1d7438f9",
@@ -20135,7 +20135,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:17.770262Z"
+        "latestEvidenceDate": "2026-09-20T09:51:43.044080Z"
       },
       {
         "id": "cp-perf-629eaf4a49d067636bb5",
@@ -20155,7 +20155,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:17.769993Z"
+        "latestEvidenceDate": "2026-09-20T09:51:43.043792Z"
       },
       {
         "id": "cp-perf-a7344388da98b6011cd6",
@@ -20175,7 +20175,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:17.769691Z"
+        "latestEvidenceDate": "2026-09-20T09:51:43.043510Z"
       },
       {
         "id": "cp-perf-add823bf68b1b622c198",
@@ -20195,7 +20195,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-09-19T09:35:17.768996Z"
+        "latestEvidenceDate": "2026-09-20T09:51:43.042753Z"
       }
     ],
     "regionalTimeSeries": [
@@ -21854,7 +21854,7 @@
       "name": "Apprenticeships and Growth & Skills Levy",
       "official": true,
       "latestPublicationDate": "2026-09-02T00:00:00.000Z",
-      "latestRetrievedAt": "2026-09-19T09:39:17.515Z",
+      "latestRetrievedAt": "2026-09-20T09:55:46.906Z",
       "urls": [
         "https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/12192cf4-98d5-4479-abb5-b18e3961b601",
         "https://www.gov.uk/government/publications/resources-for-promoting-the-growth-and-skills-levy/growth-and-skills-levy-accessible-version-of-gsl-reforms-factsheet",
