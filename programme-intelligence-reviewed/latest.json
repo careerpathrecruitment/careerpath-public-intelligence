@@ -1,15 +1,15 @@
 {
   "feedVersion": 1,
   "releaseId": "ef0728c5d515f84d79fe3b51fd773fc1b4b05f7df8b1f8e937436d780841286b",
-  "publishedAt": "2026-09-19T11:58:35Z",
+  "publishedAt": "2026-09-20T12:30:10Z",
   "monitoring": {
     "staleAfterHours": 48,
     "scope": "29 reviewed evidence sources plus 14 supporting discovery, guidance and underlying dataset endpoints. Local delivery coverage is selective; not a census of all contracts or referral routes.",
     "programmes": {
       "restart-scheme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
@@ -20,8 +20,8 @@
       },
       "connect-to-work": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -32,8 +32,8 @@
       },
       "workwell": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -44,8 +44,8 @@
       },
       "skills-bootcamps": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 8,
         "sourcesMonitored": 8,
         "changedSources": [],
@@ -56,8 +56,8 @@
       },
       "apprenticeships-growth-skills-levy": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
@@ -68,8 +68,8 @@
       },
       "adult-skills-fund": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -80,8 +80,8 @@
       },
       "sector-based-work-academy-programme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -92,8 +92,8 @@
       },
       "youth-guarantee": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [],
@@ -104,8 +104,8 @@
       },
       "economic-inactivity-trailblazers": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-19T11:58:35Z",
-        "lastSuccessfulCheckAt": "2026-09-19T11:58:35Z",
+        "lastAttemptAt": "2026-09-20T12:30:10Z",
+        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
         "sourcesChecked": 3,
         "sourcesMonitored": 3,
         "changedSources": [],
