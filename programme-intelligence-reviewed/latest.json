@@ -1,27 +1,27 @@
 {
   "feedVersion": 1,
-  "releaseId": "ef0728c5d515f84d79fe3b51fd773fc1b4b05f7df8b1f8e937436d780841286b",
-  "publishedAt": "2026-09-20T12:30:10Z",
+  "releaseId": "bfedc27e75ec8938e1d66a856bc79422540f8d0552d67110470d65f8d726484b",
+  "publishedAt": "2026-09-20T18:34:00Z",
   "monitoring": {
     "staleAfterHours": 48,
-    "scope": "29 reviewed evidence sources plus 14 supporting discovery, guidance and underlying dataset endpoints. Local delivery coverage is selective; not a census of all contracts or referral routes.",
+    "scope": "32 reviewed evidence sources plus 14 supporting endpoints. Local delivery examples cover selected areas only; not a census of contracts or open referrals.",
     "programmes": {
       "restart-scheme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-18T20:15:03Z",
-        "updateSummary": "Monthly and rolling Restart data rechecked against the official workbook; added targeted customer service standard checks, without inferring public contract compliance.",
-        "releaseId": "provider-guidance-20260918-restart-scheme"
+        "reviewedAt": "2026-09-20T18:01:39Z",
+        "updateSummary": "Corrected the expanded interpretation to follow the selected provider and contract area. Both six-month comparison periods are named; wider programme context is labelled separately. Published figures are unchanged.",
+        "releaseId": "provider-insight-depth-20260920-restart-scheme"
       },
       "connect-to-work": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -32,8 +32,8 @@
       },
       "workwell": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -44,8 +44,8 @@
       },
       "skills-bootcamps": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
         "sourcesChecked": 8,
         "sourcesMonitored": 8,
         "changedSources": [],
@@ -56,8 +56,8 @@
       },
       "apprenticeships-growth-skills-levy": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
@@ -68,8 +68,8 @@
       },
       "adult-skills-fund": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -80,8 +80,8 @@
       },
       "sector-based-work-academy-programme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -92,27 +92,27 @@
       },
       "youth-guarantee": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
-        "sourcesChecked": 3,
-        "sourcesMonitored": 3,
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
+        "sourcesChecked": 5,
+        "sourcesMonitored": 5,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-18T20:15:03Z",
-        "updateSummary": "Research remains historically labelled; expanded verified West of England cohort, council and referral-directory guidance, including completed-research caveat.",
-        "releaseId": "provider-guidance-20260918-youth-guarantee"
+        "reviewedAt": "2026-09-20T18:01:39Z",
+        "updateSummary": "Added West Midlands 2026/27 delivery proposals and West of England project referral routes. Named partners, cohort differences and proposal versus service status are now visible. No new national outcome figures are claimed.",
+        "releaseId": "provider-insight-depth-20260920-youth-guarantee"
       },
       "economic-inactivity-trailblazers": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-20T12:30:10Z",
-        "lastSuccessfulCheckAt": "2026-09-20T12:30:10Z",
-        "sourcesChecked": 3,
-        "sourcesMonitored": 3,
+        "lastAttemptAt": "2026-09-20T18:34:00Z",
+        "lastSuccessfulCheckAt": "2026-09-20T18:34:00Z",
+        "sourcesChecked": 4,
+        "sourcesMonitored": 4,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-18T20:15:03Z",
-        "updateSummary": "Funding recipients and historical evidence retained; added local handover and intervention guidance. Narrowed discovery to relevant employment publications after reviewing the returned candidates.",
-        "releaseId": "provider-guidance-20260918-economic-inactivity-trailblazers"
+        "reviewedAt": "2026-09-20T18:01:39Z",
+        "updateSummary": "Added the North East 2026/27 partner directory, updated by the authority on 11 September 2026. Mobilisation, enquiry routes and evidence limits are explicit. The national allocation figures are unchanged.",
+        "releaseId": "provider-insight-depth-20260920-economic-inactivity-trailblazers"
       }
     }
   },
@@ -410,6 +410,36 @@
         "kind": "Provider guidance",
         "review": "Current directory and September 2026 update reviewed; contact availability is not confirmation of a funded SWAP opportunity.",
         "checked": "2026-09-18"
+      },
+      "youth-directory": {
+        "id": "youth-directory",
+        "title": "Skills Connect: Youth Guarantee project and referral directory",
+        "url": "https://www.skillsconnect.org.uk/youth-guarantee/",
+        "period": "Project offers listed at 20 September 2026; intake must be confirmed",
+        "published": null,
+        "kind": "Local delivery guidance",
+        "checked": "2026-09-20",
+        "review": "Public project descriptions and application links checked. No publication date is displayed; places and response times have not been tested."
+      },
+      "youth-wmca": {
+        "id": "youth-wmca",
+        "title": "WMCA: Youth Guarantee 2026/27 local delivery proposals",
+        "url": "https://www.wmca.org.uk/what-we-do/employment-and-skills/youth-employment-plan/youth-guarantee-trailblazer/",
+        "period": "2026/27 delivery proposals and Year 1 learning",
+        "published": null,
+        "kind": "Local delivery guidance",
+        "checked": "2026-09-20",
+        "review": "Local authority proposals and contact routes checked. No publication date is displayed. Planned volumes are targets, not achieved results."
+      },
+      "ei-northeast": {
+        "id": "ei-northeast",
+        "title": "North East: Economic Inactivity Trailblazer delivery partners",
+        "url": "https://www.northeast-ca.gov.uk/projects/economically-Inactive-trailblazer-project",
+        "period": "2026/27 delivery; page updated 11 September 2026",
+        "published": "2025-06-11",
+        "kind": "Local delivery guidance",
+        "checked": "2026-09-20",
+        "review": "Appointed partners and authority contacts checked. The page labels the project Mobilising; a listing does not confirm an open intake."
       }
     },
     "programmes": [
@@ -450,10 +480,10 @@
         ],
         "insights": [
           {
-            "title": "Recent performance changes the picture",
-            "evidence": "CPA 1a reached approximately 86.7% of TPL in Nov–Apr, compared with 67.6% in the preceding six months.",
-            "meaning": "A cumulative result conceals a substantial recent improvement. It does not establish why performance changed.",
-            "action": "Compare the recovery with your own monthly outcome profile and cohort mix.",
+            "title": "Read recent movement for your selected scope",
+            "evidence": "The expanded interpretation follows the selected provider and CPA, using actual outcomes divided by expected TPL for each six-month period.",
+            "meaning": "The same period and contract coverage must be used on both sides of a comparison.",
+            "action": "Inspect monthly counts and your own caseload evidence before attributing a change to delivery practice.",
             "source": "restart"
           },
           {
@@ -486,6 +516,11 @@
             "title": "Put service standards alongside outcome trends",
             "text": "The version 5.03 delivery overview requires the initial diagnostic assessment and signed SMART action plan within eight weeks of referral, and one-to-one support at least every ten working days. Use your own case audit to check these requirements; public TPL and MPL results do not establish compliance.",
             "source": "restart-manual"
+          },
+          {
+            "title": "Review update · 20 September 2026",
+            "text": "Corrected the expanded interpretation to follow the selected provider and contract area. Both six-month comparison periods are named; wider programme context is labelled separately. Published figures are unchanged.",
+            "source": "restart"
           }
         ],
         "gaps": [
@@ -39458,7 +39493,9 @@
         "kind": "Local delivery intelligence",
         "sources": [
           "trail",
-          "youth-local"
+          "youth-local",
+          "youth-directory",
+          "youth-wmca"
         ],
         "kpis": [
           {
@@ -39484,11 +39521,25 @@
         ],
         "insights": [
           {
-            "title": "Referral design should follow the local cohort",
+            "title": "Local eligibility needs a project-level check",
             "evidence": "West of England identifies different priorities across its three constituent areas.",
             "meaning": "A single regional referral campaign may miss the intended groups.",
             "action": "Map referral partners to the local population and confirm the current delivery plan.",
             "source": "youth-local"
+          },
+          {
+            "title": "West Midlands: distinguish placements from prevention",
+            "evidence": "For 2026/27, WMCA retains placement and transition support and adopts Dudley’s proactive Year 11 enrolment approach.",
+            "meaning": "Tracking school destinations and supporting an adult work placement require different referral partners and milestones.",
+            "action": "Separate school-transition referrals from 18–21 placement referrals. Agree the receiving team, consent and the next confirmed destination.",
+            "source": "youth-wmca"
+          },
+          {
+            "title": "West of England: use the published referral route",
+            "evidence": "Skills Connect lists project-specific application routes, with age and location conditions that vary.",
+            "meaning": "A regional programme name is insufficient to identify the right offer for an individual.",
+            "action": "Check the named project’s criteria and current capacity, then record whether the referral was accepted and attended.",
+            "source": "youth-directory"
           }
         ],
         "rules": [
@@ -39506,12 +39557,47 @@
             "title": "Check status before describing a project as open",
             "text": "West of England also lists North Somerset Council’s Opportunity South West for care-experienced 18–21-year-olds. Its UWE research project had a March 2026 completion date; that is not evidence of an open participant service in September. The local page is an example, not a national directory of live contracts.",
             "source": "youth-local"
+          },
+          {
+            "title": "Local delivery · Birmingham",
+            "text": "2026/27 proposal: Birmingham City Council links 18–21 support with NHS, anchor employers and community providers. Published enquiry route: YouthTrailblazer@birmingham.gov.uk. Confirm intake and eligibility before referral.",
+            "source": "youth-wmca"
+          },
+          {
+            "title": "Local delivery · Dudley",
+            "text": "2026/27 proposal: ICAN plans 40 three-month paid placements with Dudley Council, Dudley Group NHS Foundation Trust and employers. This is a target. The linked authority page gives the local enquiry contact.",
+            "source": "youth-wmca"
+          },
+          {
+            "title": "Local delivery · Wolverhampton",
+            "text": "2026/27 proposal: Open Door offers a 4–12-week placement model for 18–21-year-olds, linked with Wolves at Work and Connexions. Use the authority’s named contact to confirm current access.",
+            "source": "youth-wmca"
+          },
+          {
+            "title": "Local delivery · South Bristol",
+            "text": "Directory listing: 16–21-year-olds in South Bristol, including BS3, BS4, BS13 and BS14. Career coaching, work tasters and wellbeing support; apply through the South Bristol form linked by Skills Connect.",
+            "source": "youth-directory"
+          },
+          {
+            "title": "Local delivery · South Gloucestershire",
+            "text": "Directory listing: ages 16–21, including SEND or mental-health needs. Up to 20 weeks’ support and an eight-week coached placement. Skills Connect provides the application route; confirm available places.",
+            "source": "youth-directory"
+          },
+          {
+            "title": "Local delivery · North Somerset care leavers",
+            "text": "Directory listing: care-experienced 18–21-year-olds; specialist coaching and help with work barriers. Use the care-leaver application link on Skills Connect. Current capacity and the individual service end date are not published here.",
+            "source": "youth-directory"
+          },
+          {
+            "title": "Review update · 20 September 2026",
+            "text": "Added West Midlands 2026/27 delivery proposals and West of England project referral routes. Named partners, cohort differences and proposal versus service status are now visible. No new national outcome figures are claimed.",
+            "source": "trail"
           }
         ],
         "gaps": [
           "The published research describes design and early implementation, not current performance.",
           "Local delivery targets, spend and outcomes need current authority evidence and agreement-level definitions.",
-          "Current local detail is a West of England example. Referral availability, delivery partners and eligibility across all eight trailblazers have not been verified as a national live directory."
+          "Local delivery examples cover West Midlands and West of England only. The eight-area research matrix is not a national directory of open services. Application links are published routes, not confirmed places; local outcome rates and exact service end dates remain unverified."
         ],
         "matrix": [
           [
@@ -39559,7 +39645,8 @@
         "kind": "Local funding & delivery",
         "sources": [
           "ei-fund",
-          "trail"
+          "trail",
+          "ei-northeast"
         ],
         "kpis": [
           {
@@ -39604,6 +39691,13 @@
             "meaning": "These are announced delivery approaches. They are not comparable provider results or confirmation that a particular referral window remains open.",
             "action": "Agree the local health, community and employment handovers, identify the eligible cohort and confirm current intake with the accountable authority.",
             "source": "ei-fund"
+          },
+          {
+            "title": "North East: match the partner to the support need",
+            "evidence": "The authority’s 11 September 2026 update names 2026/27 partners but still marks the project as Mobilising.",
+            "meaning": "Appointment and operational readiness are separate. Providers need a confirmed handover before directing participants.",
+            "action": "Ask the listed partner to confirm age, postcode, referral criteria, capacity and start/end dates. Track accepted referrals separately from enquiries.",
+            "source": "ei-northeast"
           }
         ],
         "rules": [
@@ -39616,12 +39710,32 @@
             "title": "Turn the funding map into a local delivery check",
             "text": "Start with the named funding recipient and ask for the current delivery partner, postcode and cohort eligibility, referral route, service start/end dates and outcome definitions. CareerPath recommends recording engagement, progression and sustained work separately. An allocation announcement alone does not establish an open contract or participant service.",
             "source": "ei-fund"
+          },
+          {
+            "title": "Local delivery · North East youth pathways",
+            "text": "2026/27 appointed partners: Groundwork NE & Cumbria (Northern Futures) and Newcastle United Foundation (North East Connected). The authority page lists their contacts; age limits and open intake need confirmation.",
+            "source": "ei-northeast"
+          },
+          {
+            "title": "Local delivery · North East neurodiversity",
+            "text": "2026/27 appointed partner: North East Autism Society, Neurodiversity Employment Service NE. Use its contact in the authority directory to confirm eligibility and referral arrangements.",
+            "source": "ei-northeast"
+          },
+          {
+            "title": "Local delivery · North East primary care",
+            "text": "2026/27 appointed partners: First Contact Clinical (First Contact to Purpose) and Recovery Connections (LIFT OFF!). Confirm the health-to-employment handover with the listed project contact.",
+            "source": "ei-northeast"
+          },
+          {
+            "title": "Review update · 20 September 2026",
+            "text": "Added the North East 2026/27 partner directory, updated by the authority on 11 September 2026. Mobilisation, enquiry routes and evidence limits are explicit. The national allocation figures are unchanged.",
+            "source": "ei-fund"
           }
         ],
         "gaps": [
           "Comparable current local output and outcome series are not verified.",
           "Allocation is not expenditure; programme impact requires evaluation evidence.",
-          "The allocation map and dated intervention examples are verified. A complete current directory of delivery partners and open referral routes is not yet available in this page."
+          "Named 2026/27 partners are currently shown for the North East only. Exact service dates, open referral capacity and comparable local outcome rates are not verified. Other trailblazer areas retain funding and research evidence; no national delivery directory is claimed."
         ],
         "allocations": [
           [
