@@ -1,98 +1,98 @@
 {
   "feedVersion": 1,
-  "releaseId": "5f4a10641d19fe60c89c9e13d9bf1881f626b54f63a1600e14bfd9549fef05bb",
-  "publishedAt": "2026-09-21T14:21:57Z",
+  "releaseId": "95781e7159e1ad69070900dee197aa9894af6f2fe6b93a32a27d904bc67841d7",
+  "publishedAt": "2026-09-21T16:01:06Z",
   "monitoring": {
     "staleAfterHours": 48,
     "scope": "32 reviewed evidence sources plus 14 supporting endpoints. Local delivery examples cover selected areas only; not a census of contracts or open referrals.",
     "programmes": {
       "restart-scheme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Connected the selected six-month outcome gap or surplus to delivery review, separated minimum and tender expectations, and retained April earnings-threshold context. Statistical series are unchanged.",
-        "releaseId": "provider-decisions-20260920-restart-scheme"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: native prime/CPA search, performance drill-down and attribution boundaries verified.",
+        "releaseId": "final-product-review-20260921"
       },
       "connect-to-work": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Quantified model-specific specialist capacity, separated starts from active workload and highlighted uneven monthly intake. National rollout figures are not local staffing targets.",
-        "releaseId": "provider-decisions-20260920-connect-to-work"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: provider/service coverage, 48-area rollout and attribution boundaries verified.",
+        "releaseId": "final-product-review-20260921"
       },
       "workwell": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Added employer-access and health-partner capacity findings, with dated mobilisation learning. The pilot profile is not a current caseload or an impact estimate.",
-        "releaseId": "provider-decisions-20260920-workwell"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: pilot evidence separated from November 2026 national expansion and current service routes.",
+        "releaseId": "final-product-review-20260921"
       },
       "skills-bootcamps": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 8,
         "sourcesMonitored": 8,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Quantified the post-completion progression gap and distinguished sector and employment-entry benchmarks. All comparisons remain clearly labelled as historical 2023/24 evidence.",
-        "releaseId": "provider-decisions-20260920-skills-bootcamps"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: historical performance benchmark separated from current provider/funding evidence.",
+        "releaseId": "final-product-review-20260921"
       },
       "apprenticeships-growth-skills-levy": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Strengthened withdrawal and provision-mix decisions and surfaced the August 2026 employer co-investment distinction. Historical QAR and current funding rules remain separate.",
-        "releaseId": "provider-decisions-20260920-apprenticeships-growth-skills-levy"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: provider-overall QAR separated from current APAR approval context.",
+        "releaseId": "final-product-review-20260921"
       },
       "adult-skills-fund": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Replaced generic funding cautions with a conditional reconciliation example and a funding-line decision. National grant rules are not applied to devolved or procured agreements.",
-        "releaseId": "provider-decisions-20260920-adult-skills-fund"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: authority allocations, national provider allocations and funding scope verified separately.",
+        "releaseId": "final-product-review-20260921"
       },
       "sector-based-work-academy-programme": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Compared the new target with actual previous-year delivery and equivalent six-month earnings cohorts. Targets, provisional starts and linked-UC observations remain distinct.",
-        "releaseId": "provider-decisions-20260920-sector-based-work-academy-programme"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: starts, matched earnings and selected cohort/provider evidence kept distinct.",
+        "releaseId": "final-product-review-20260921"
       },
       "youth-guarantee": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
@@ -104,27 +104,27 @@
           }
         ],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Used Dudley outreach learning, West Midlands transition plans and specific West of England support offers to improve referral decisions. Local proposals are not national results.",
-        "releaseId": "provider-decisions-20260920-youth-guarantee"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: local interventions, delivery status and non-comparable outcome definitions kept explicit.",
+        "releaseId": "final-product-review-20260921"
       },
       "economic-inactivity-trailblazers": {
         "status": "checked",
-        "lastAttemptAt": "2026-09-21T14:21:57Z",
+        "lastAttemptAt": "2026-09-21T16:01:06Z",
         "lastSuccessfulCheckAt": "2026-09-21T14:21:57Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
         "failedSourceCount": 0,
-        "reviewedAt": "2026-09-20T19:29:28Z",
-        "updateSummary": "Added North East carers research on work fitting caring responsibilities and strengthened named-partner handovers. The survey sample and mobilisation status are explicit.",
-        "releaseId": "provider-decisions-20260920-economic-inactivity-trailblazers"
+        "reviewedAt": "2026-09-21T16:01:06Z",
+        "updateSummary": "Final product audit: funding recipients, named interventions and local delivery roles kept distinct.",
+        "releaseId": "final-product-review-20260921"
       }
     }
   },
   "data": {
     "schemaVersion": 1,
-    "checkedAt": "2026-09-17",
+    "checkedAt": "2026-09-21",
     "mode": "review-snapshot",
     "sources": {
       "restart": {
@@ -1937,7 +1937,7 @@
         "name": "Connect to Work",
         "short": "Connect to Work",
         "group": "Employment & health",
-        "scope": "England & Wales · Greater Manchester pilot excluded",
+        "scope": "England & Wales · national statistics exclude the Greater Manchester pilot",
         "period": "April 2025–June 2026",
         "kind": "Rollout & delivery",
         "sources": [
@@ -2073,7 +2073,7 @@
         "name": "WorkWell",
         "short": "WorkWell",
         "group": "Employment & health",
-        "scope": "England · 14 reporting pilot areas",
+        "scope": "England · pilot MI plus current continuation and service routes",
         "period": "October 2024–March 2026",
         "kind": "Referral & delivery profile",
         "sources": [
@@ -2119,11 +2119,11 @@
             "source": "ww"
           },
           {
-            "title": "Resolve the limiting handover before expanding intake",
-            "evidence": "Early implementation evaluation · Oct 2024–Mar 2025: pilot delivery encountered staffing, procurement and information-governance delays.",
-            "meaning": "More referrals cannot resolve a missing coach, an unsigned service arrangement or an incomplete information-sharing process. This is historical implementation learning, not a claim that those pilots remain delayed.",
-            "action": "Trace an accepted referral through the local service. Identify the step causing delay, assign an owner and confirm a workable handover before increasing the next intake.",
-            "source": "ww-evaluation"
+            "title": "Treat November 2026 as a mobilisation boundary",
+            "evidence": "Current DWP WorkWell guidance · reviewed Sep 2026: existing pilot sites continue while WorkWell expands nationally across England from November 2026.",
+            "meaning": "The pilot MI remains useful operational evidence, but existing pilot arrangements should not automatically be treated as the final national operating model. Transition decisions can change referral routes, commissioning interfaces and workforce responsibilities.",
+            "action": "Confirm the local lead, referral route, service handovers and workforce responsibilities for the November transition. Separate continuing pilot capacity from new expansion mobilisation before changing recruitment or referral plans.",
+            "source": "ww-manual"
           }
         ],
         "rules": [
@@ -2144,7 +2144,7 @@
           },
           {
             "title": "Review update · 20 September 2026",
-            "text": "Added employer-access and health-partner capacity findings, with dated mobilisation learning. The pilot profile is not a current caseload or an impact estimate.",
+            "text": "Added employer-access and health-partner capacity findings and made the November 2026 national expansion the current mobilisation boundary. Pilot MI remains separate from the future operating model.",
             "source": "ww"
           }
         ],
@@ -2329,7 +2329,7 @@
         "name": "Skills Bootcamps",
         "short": "Skills Bootcamps",
         "group": "Skills & training",
-        "scope": "England · historic national benchmark",
+        "scope": "England · 2023/24 performance benchmark plus current delivery/funding evidence",
         "period": "Financial year 2023/24",
         "kind": "Completion & outcomes",
         "sources": [
@@ -35466,7 +35466,7 @@
         "name": "Adult Skills Fund",
         "short": "Adult Skills Fund",
         "group": "Skills & training",
-        "scope": "England · selected S31 allocations, 13 authorities",
+        "scope": "England · 2026/27 authority funding plus provider-allocation context",
         "period": "Financial year 2026/27",
         "kind": "Funding & delivery controls",
         "sources": [
@@ -35510,6 +35510,13 @@
             "meaning": "More delivery on a capped line may add cost without reducing the reconciliation gap. Funding up to 110% is subject to affordability and track-record checks, not an automatic entitlement.",
             "action": "Identify which eligible funding line an additional cohort would earn against and whether its cap has been reached. Confirm the funding basis before committing expenditure; apply the relevant local rules to devolved delivery.",
             "source": "asf-manual"
+          },
+          {
+            "title": "December is a real contract-management decision point",
+            "evidence": "2026/27 DWP-funded ASF contracts for services: at the December review point, providers must be at least 90% of the cumulative national profile to November to meet the delivery threshold for potential growth. Maximum growth is £45,000 where contract value is up to £90,000, or 50% of contract value above £90,000, subject to affordability and the other contracted KPIs.",
+            "meaning": "This creates an operational deadline for procured non-devolved providers, but it is not a universal ASF rule and meeting the threshold does not guarantee growth.",
+            "action": "Model your November validated ILR/EAS position before the December review. Separate grant, procured and devolved agreements, then decide whether to protect existing delivery, request growth or avoid uncommitted over-delivery.",
+            "source": "asf-manual"
           }
         ],
         "rules": [
@@ -35540,7 +35547,7 @@
           },
           {
             "title": "Review update · 20 September 2026",
-            "text": "Replaced generic funding cautions with a conditional reconciliation example and a funding-line decision. National grant rules are not applied to devolved or procured agreements.",
+            "text": "Added the 97% grant reconciliation logic, funding-line controls and the December performance/growth decision point for DWP-funded contracts for services. Grant, procured and devolved arrangements remain explicitly separate.",
             "source": "asf"
           }
         ],
@@ -35611,7 +35618,7 @@
         "name": "Sector-based Work Academy Programme",
         "short": "SWAP",
         "group": "Skills & training",
-        "scope": "England & Scotland · DWP delivery targets",
+        "scope": "England & Scotland · starts, earnings and selected current cohort routes",
         "period": "Starts to June 2026; earnings to April 2026",
         "kind": "Starts & earnings cohorts",
         "sources": [
@@ -39561,7 +39568,7 @@
         "name": "Youth Guarantee Trailblazers",
         "short": "Youth Guarantee",
         "group": "Place-based programmes",
-        "scope": "England · eight trailblazers",
+        "scope": "England · eight trailblazers plus selected 2026/27 delivery",
         "period": "Research published June 2026; 2025 fieldwork",
         "kind": "Local delivery intelligence",
         "sources": [
@@ -39670,7 +39677,7 @@
         "gaps": [
           "The published research describes design and early implementation, not current performance.",
           "Local delivery targets, spend and outcomes need current authority evidence and agreement-level definitions.",
-          "Local delivery examples cover West Midlands and West of England only. The eight-area research matrix is not a national directory of open services. Application links are published routes, not confirmed places; local outcome rates and exact service end dates remain unverified."
+          "Named delivery relationships now cover selected services in Liverpool city, Tees Valley, West of England, West Midlands, Cambridgeshire and Peterborough, and London. This is still not every intervention across all eight trailblazers; published routes do not confirm current places or comparable outcomes."
         ],
         "matrix": [
           [
@@ -39713,7 +39720,7 @@
         "name": "Economic Inactivity Trailblazers",
         "short": "Economic Inactivity",
         "group": "Place-based programmes",
-        "scope": "England & Wales · nine trailblazers",
+        "scope": "England & Wales · nine trailblazers plus selected 2026/27 delivery",
         "period": "Second delivery year, 2026/27",
         "kind": "Local funding & delivery",
         "sources": [
@@ -39800,8 +39807,8 @@
         "gaps": [
           "Comparable current local output and outcome series are not verified.",
           "Allocation is not expenditure; programme impact requires evaluation evidence.",
-          "Named 2026/27 partners are currently shown for the North East only. Exact service dates, open referral capacity and comparable local outcome rates are not verified. Other trailblazer areas retain funding and research evidence; no national delivery directory is claimed.",
-          "The carers finding is local research with 184 carer respondents to the specific barriers question. It is not a representative population estimate. Fieldwork was November 2025–January 2026. The exact publication date has not been confirmed."
+          "The carers finding is local research with 184 carer respondents to the specific barriers question. It is not a representative population estimate. Fieldwork was November 2025–January 2026. The exact publication date has not been confirmed.",
+          "Named delivery relationships now cover North East, Wales, York and North Yorkshire, London, South Yorkshire and West Yorkshire, with Greater Manchester retained as settlement/funding context. This is not an exhaustive subcontractor census and does not establish open referral capacity."
         ],
         "allocations": [
           [
