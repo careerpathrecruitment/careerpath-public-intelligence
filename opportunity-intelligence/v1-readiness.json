@@ -1,21 +1,21 @@
 {
   "validated": true,
-  "generatedAt": "2026-09-21T13:11:15.921Z",
-  "sourceGeneratedAt": "2026-09-21T13:11:14.879Z",
+  "generatedAt": "2026-09-21T13:26:45.559Z",
+  "sourceGeneratedAt": "2026-09-21T13:26:44.212Z",
   "counts": {
-    "total": 38,
+    "total": 41,
     "live": 8,
     "upcoming": 3,
     "marketEngagement": 0,
-    "recentAwards": 27,
+    "recentAwards": 30,
     "supplyChain": 4,
-    "commissioner": 34
+    "commissioner": 37
   },
-  "programmeLinked": 28,
+  "programmeLinked": 31,
   "programmeUnlinked": 10,
   "regionFilterCount": 23,
   "supplierLandscapeCount": 50,
-  "commissionerLandscapeCount": 30,
+  "commissionerLandscapeCount": 32,
   "coverageStatus": "passed-with-known-gaps",
   "degradedSources": 0,
   "knownGaps": 1,

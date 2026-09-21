@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-21T13:11:14.879Z",
+  "generatedAt": "2026-09-21T13:26:44.212Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 38,
+    "total": 41,
     "live": 8,
     "upcoming": 3,
     "marketEngagement": 0,
-    "recentAwards": 27,
+    "recentAwards": 30,
     "closingWithin7Days": 0,
     "closingWithin30Days": 2,
     "supplyChain": 4,
-    "commissioner": 34,
-    "programmeLinked": 28,
+    "commissioner": 37,
+    "programmeLinked": 31,
     "programmeUnlinked": 10
   },
   "filters": {
@@ -39,6 +39,7 @@
       "Department for Work and Pensions",
       "East Durham College",
       "Greater Lincolnshire Combined County Authority",
+      "H M REVENUE & CUSTOMS",
       "Hull City Council",
       "Isle of Wight Council",
       "Lancashire County Council",
@@ -55,6 +56,7 @@
       "Reed in Partnership",
       "Seetec",
       "Somerset Council",
+      "Southampton City Council",
       "Surrey County Council",
       "University Centre Somerset College Group",
       "Westminster City Council",
@@ -773,7 +775,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-21T13:10:42.664Z"
+        "lastVerified": "2026-09-21T13:25:59.412Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2276,7 +2278,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-21T13:10:42.664Z"
+        "lastVerified": "2026-09-21T13:25:59.412Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2874,33 +2876,28 @@
         "recommissioningDelta": {
           "available": true,
           "confidence": "moderate",
-          "previousOpportunityId": "ocds-b5fd17-0a32ec4b-5474-4411-b906-4c63da470b6e",
-          "previousTitle": "Business Administration, Customer Service Specialist and Customer Service Practitioner Apprenticeships",
-          "previousBuyer": "Ministry of Justice",
+          "previousOpportunityId": "ocds-b5fd17-fdcb370a-af5f-4fc4-ac39-67d0e3a55b50",
+          "previousTitle": "Apprenticeship Training Services",
+          "previousBuyer": "H M REVENUE & CUSTOMS",
           "previousSuppliers": [
-            "CT Skills Limited"
+            "TRAIN TOGETHER LIMITED"
           ],
-          "previousSourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/689965c9-1d67-4ef0-b943-109e018e3c50",
+          "previousSourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/0f2702e4-9d5d-490f-bf79-52f5ab7e0868",
           "changes": [
             {
               "field": "Published contract value",
-              "previous": 5023125,
+              "previous": 600000,
               "current": 0,
               "currency": "GBP"
             },
             {
               "field": "Commissioner",
-              "previous": "Ministry of Justice",
+              "previous": "H M REVENUE & CUSTOMS",
               "current": "Construction Industry Training Board"
             },
             {
               "field": "Published geography",
               "previous": [
-                "British Oversea Territories",
-                "Channel Islands",
-                "Europe",
-                "Isle of Man",
-                "Rest of the World",
                 "United Kingdom"
               ],
               "current": [
@@ -2911,8 +2908,8 @@
             {
               "field": "Contract period",
               "previous": {
-                "start": "2026-08-31T23:00:00.000Z",
-                "end": "2034-08-31T22:59:59.000Z"
+                "start": "2026-06-15T23:00:00.000Z",
+                "end": "2029-06-15T22:59:59.000Z"
               },
               "current": {
                 "start": null,
@@ -2934,6 +2931,639 @@
             }
           ],
           "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
+        }
+      }
+    },
+    {
+      "id": "ocds-b5fd17-e95b70dc-47c7-4e31-b971-b8aa99fc130a",
+      "slug": "data-analyst-l4-apprenticeships--b971-b8aa99fc130a",
+      "ocid": "ocds-b5fd17-e95b70dc-47c7-4e31-b971-b8aa99fc130a",
+      "title": "Data Analyst L4 apprenticeships",
+      "description": "10 x Data Analyst L4 apprenticeships at Southampton City Council @ £15,000 per student. This was procured using the YPO 1086 Apprenticeships and Associated Training Framework.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
+      },
+      "buyer": {
+        "name": "Southampton City Council"
+      },
+      "geography": {
+        "primaryArea": "SO14 7LY",
+        "areas": [
+          "SO14 7LY"
+        ]
+      },
+      "value": {
+        "amount": 150000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-06-30T22:59:00.000Z",
+        "daysToDeadline": -82
+      },
+      "contract": {
+        "startDate": "2026-06-30T23:00:00.000Z",
+        "endDate": "2028-12-31T23:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Cambridge Spark Limited"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-21T10:53:35.000Z",
+          "releaseId": "50b82d34-f267-4efe-b42a-b69310db866e-914791",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/50b82d34-f267-4efe-b42a-b69310db866e",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/50b82d34-f267-4efe-b42a-b69310db866e",
+        "lastVerified": "2026-09-21T13:25:30.568Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Cambridge Spark Limited"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-20T10:08:00.424Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 287,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 256
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 231,
+              "medianAdvertisedSalary": 30025,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 180
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 203,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 181
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 200,
+              "medianAdvertisedSalary": 36762,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 159
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 168,
+              "medianAdvertisedSalary": 34038,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 132
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 145,
+              "medianAdvertisedSalary": 34718,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 114
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 38168,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 99
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 127
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-b5fd17-390ca777-e68c-4284-a2fb-b99696c5a753",
+      "slug": "data-technician-l3-apprenticeships--a2fb-b99696c5a753",
+      "ocid": "ocds-b5fd17-390ca777-e68c-4284-a2fb-b99696c5a753",
+      "title": "Data Technician L3 apprenticeships",
+      "description": "10 x Data Technician L3 apprenticeships at Southampton City Council @ £13,000 per student.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
+      },
+      "buyer": {
+        "name": "Southampton City Council"
+      },
+      "geography": {
+        "primaryArea": "SO14 7LY",
+        "areas": [
+          "SO14 7LY"
+        ]
+      },
+      "value": {
+        "amount": 130000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-06-30T22:59:00.000Z",
+        "daysToDeadline": -82
+      },
+      "contract": {
+        "startDate": "2026-06-30T23:00:00.000Z",
+        "endDate": "2028-12-31T23:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Cambridge Spark Limited"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-21T10:43:18.000Z",
+          "releaseId": "4daf6f58-823b-4671-a9bc-585973da9e80-914783",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/4daf6f58-823b-4671-a9bc-585973da9e80",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/4daf6f58-823b-4671-a9bc-585973da9e80",
+        "lastVerified": "2026-09-21T13:25:26.825Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Cambridge Spark Limited"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-20T10:08:00.424Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 287,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 256
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 231,
+              "medianAdvertisedSalary": 30025,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 180
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 203,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 181
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 200,
+              "medianAdvertisedSalary": 36762,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 159
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 168,
+              "medianAdvertisedSalary": 34038,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 132
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 145,
+              "medianAdvertisedSalary": 34718,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 114
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 38168,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 99
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 127
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-b5fd17-fdcb370a-af5f-4fc4-ac39-67d0e3a55b50",
+      "slug": "apprenticeship-training-services--ac39-67d0e3a55b50",
+      "ocid": "ocds-b5fd17-fdcb370a-af5f-4fc4-ac39-67d0e3a55b50",
+      "title": "Apprenticeship Training Services",
+      "description": "Provision of apprenticeship training services for Facilities Operative Level 2 and Facilities Manager Level 4 apprenticeship programmes. The supplier will deliver apprenticeship training and associated learner support in accordance with HMRC requirements under the Apprenticeship Training Provider Dynamic Marketplace.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
+      },
+      "buyer": {
+        "name": "H M REVENUE & CUSTOMS"
+      },
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 600000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-06-15T11:00:00.000Z",
+        "daysToDeadline": -98
+      },
+      "contract": {
+        "startDate": "2026-06-15T23:00:00.000Z",
+        "endDate": "2029-06-15T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "TRAIN TOGETHER LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-21T12:20:39.000Z",
+          "releaseId": "0f2702e4-9d5d-490f-bf79-52f5ab7e0868-914807",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/0f2702e4-9d5d-490f-bf79-52f5ab7e0868",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/0f2702e4-9d5d-490f-bf79-52f5ab7e0868",
+        "lastVerified": "2026-09-21T13:25:23.047Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "TRAIN TOGETHER LIMITED"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-20T10:08:00.424Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 287,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 256
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 231,
+              "medianAdvertisedSalary": 30025,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 180
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 203,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 181
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 200,
+              "medianAdvertisedSalary": 36762,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 159
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 168,
+              "medianAdvertisedSalary": 34038,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 132
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 145,
+              "medianAdvertisedSalary": 34718,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 114
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 38168,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 99
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 134,
+              "medianAdvertisedSalary": 35822,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 127
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
       }
     },
@@ -9650,8 +10280,8 @@
     "containsCommercialRecommendations": false,
     "containsRawVacancies": false,
     "sourceDirectory": "validated-publishable-procurements",
-    "sourceFileCount": 134,
-    "selectedOpportunityCount": 32,
+    "sourceFileCount": 137,
+    "selectedOpportunityCount": 35,
     "rejected": {
       "nonPublishable": 0,
       "nonAccepted": 0,
@@ -9854,6 +10484,18 @@
         ],
         "buyers": [
           "East Durham College"
+        ]
+      },
+      {
+        "supplier": "Cambridge Spark Limited",
+        "awardCount": 2,
+        "publishedAwardValue": 280000,
+        "awardValueSampleCount": 2,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "Southampton City Council"
         ]
       },
       {
@@ -10181,6 +10823,18 @@
         ]
       },
       {
+        "supplier": "TRAIN TOGETHER LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": 600000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ],
+        "buyers": [
+          "H M REVENUE & CUSTOMS"
+        ]
+      },
+      {
         "supplier": "The Open University",
         "awardCount": 1,
         "publishedAwardValue": 360000,
@@ -10395,30 +11049,6 @@
         "buyers": [
           "Lancashire County Council"
         ]
-      },
-      {
-        "supplier": "Burnley College",
-        "awardCount": 1,
-        "publishedAwardValue": null,
-        "awardValueSampleCount": 0,
-        "programmes": [
-          "Skills Bootcamps"
-        ],
-        "buyers": [
-          "Lancashire County Council"
-        ]
-      },
-      {
-        "supplier": "HYBRID TECHNICAL SERVICES LIMITED",
-        "awardCount": 1,
-        "publishedAwardValue": null,
-        "awardValueSampleCount": 0,
-        "programmes": [
-          "Skills Bootcamps"
-        ],
-        "buyers": [
-          "Lancashire County Council"
-        ]
       }
     ],
     "commissionerLandscape": [
@@ -10513,11 +11143,27 @@
         ]
       },
       {
+        "buyer": "Southampton City Council",
+        "opportunityCount": 2,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
         "buyer": "East Durham College",
         "opportunityCount": 2,
         "liveOrUpcomingCount": 0,
         "programmes": [
           "Adult Skills Fund"
+        ]
+      },
+      {
+        "buyer": "H M REVENUE & CUSTOMS",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
         ]
       },
       {
@@ -10782,7 +11428,7 @@
         "description": "Compares an active opportunity with the strongest related previous award in CareerPath's curated history and shows factual changes in published value, geography, contract period and evaluation where available."
       },
       "workforceSignals": {
-        "linkedOpportunityCount": 28,
+        "linkedOpportunityCount": 31,
         "description": "Links opportunities to CareerPath's programme workforce data to show aggregated role-demand and advertised-salary signals relevant to mobilisation."
       },
       "localDeliveryContext": {
