@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-22T12:11:37.067Z",
+  "generatedAt": "2026-09-23T11:58:46.732Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 45,
+    "total": 46,
     "live": 9,
-    "upcoming": 3,
+    "upcoming": 4,
     "marketEngagement": 0,
     "recentAwards": 33,
     "closingWithin7Days": 0,
     "closingWithin30Days": 2,
     "supplyChain": 4,
-    "commissioner": 41,
+    "commissioner": 42,
     "programmeLinked": 33,
-    "programmeUnlinked": 12
+    "programmeUnlinked": 13
   },
   "filters": {
     "programmes": [
@@ -161,7 +161,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-10-09T11:00:00.000Z",
-        "daysToDeadline": 17
+        "daysToDeadline": 16
       },
       "contract": {
         "startDate": null,
@@ -516,7 +516,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-10-14T11:00:00.000Z",
-        "daysToDeadline": 22
+        "daysToDeadline": 21
       },
       "contract": {
         "startDate": "2027-03-31T23:00:00.000Z",
@@ -778,7 +778,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-22T12:10:58.837Z"
+        "lastVerified": "2026-09-23T11:58:06.678Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -889,199 +889,6 @@
       }
     },
     {
-      "id": "ocds-h6vhtk-06e938",
-      "slug": "individual-placement-support-ips-services-for-serious-mental-illness-smi-ocds-h6vhtk-06e938",
-      "ocid": "ocds-h6vhtk-06e938",
-      "title": "Individual Placement Support (IPS) services for Serious Mental Illness (SMI)",
-      "description": "Individual Placement Support (IPS) Services for SMI",
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "IPS",
-        "slug": "ips",
-        "intelligence": {
-          "available": false,
-          "slug": null,
-          "path": null,
-          "programmeFeedPath": null
-        }
-      },
-      "buyer": {
-        "name": "Pennine Care NHS Foundation Trust"
-      },
-      "geography": {
-        "primaryArea": "North West England",
-        "areas": [
-          "North West England"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "contract": {
-        "startDate": null,
-        "endDate": null
-      },
-      "procurement": {
-        "method": "limited",
-        "methodDetails": "Award procedure without prior publication of a call for competition",
-        "mainCategory": "services",
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": "Services to be provided: Individual Placement Support (IPS) Services for SMI <br/>PCFT is intending to award a contract an existing provider following direct award process C for a period of one year, with the intention of running a Competitive Process for contract starting 1st April 2028<br/>Approx lifetime value of contract: up to £6,500,000 depending on ICB investment decisions <br/>Contract dates: 1st April 2027 to 31st March 2028",
-            "status": "cancelled",
-            "value": null,
-            "currency": null,
-            "contractStart": null,
-            "contractEnd": null,
-            "awardCriteria": [
-              {
-                "name": "the existing provider is satisfying the original contract and will likely satisfy the proposed contract to a sufficient standard",
-                "weighting": null
-              },
-              {
-                "name": "Price",
-                "weighting": null
-              }
-            ]
-          }
-        ]
-      },
-      "evaluation": {
-        "qualityWeighting": null,
-        "priceWeighting": null,
-        "socialValueWeighting": null,
-        "criteria": [
-          {
-            "name": "the existing provider is satisfying the original contract and will likely satisfy the proposed contract to a sufficient standard",
-            "weighting": null,
-            "lotId": "1",
-            "lotTitle": null
-          },
-          {
-            "name": "Price",
-            "weighting": null,
-            "lotId": "1",
-            "lotTitle": null
-          }
-        ],
-        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [],
-        "suitabilitySignals": [],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [
-        "Pure Innovations Limited"
-      ],
-      "socialValue": {
-        "mentioned": false,
-        "weighting": null,
-        "note": "No explicit social value reference was found in the structured procurement data."
-      },
-      "timeline": [
-        {
-          "event": "Award / Contract Notice",
-          "date": "2026-08-21T08:13:16.000Z",
-          "releaseId": "079741-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/079741-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        },
-        {
-          "event": "Tender Update",
-          "date": "2026-09-21T14:20:46.000Z",
-          "releaseId": "089277-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/089277-2026",
-          "tags": [
-            "tenderUpdate"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/089277-2026",
-        "lastVerified": "2026-09-22T12:09:34.430Z"
-      },
-      "dataCompleteness": {
-        "status": "partial",
-        "score": 75,
-        "missing": [
-          "value",
-          "deadline or contract dates"
-        ]
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      },
-      "supplierIntelligence": {
-        "namedSuppliers": [
-          "Pure Innovations Limited"
-        ],
-        "namedSupplierCount": 1,
-        "incumbentStatus": "Published awarded/current supplier information available",
-        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
-      },
-      "readiness": {
-        "sourceLinked": true,
-        "deadlinePublished": false,
-        "valuePublished": false,
-        "evaluationPublished": true,
-        "bidRequirementsPublished": false,
-        "commercialModelPublished": false,
-        "performanceRequirementsPublished": false,
-        "supplierInformationPublished": true,
-        "programmeIntelligenceLinked": false,
-        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
-      },
-      "deliveryIntelligence": {
-        "workforce": {
-          "available": false,
-          "generatedAt": null,
-          "roleSignals": [],
-          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
-        },
-        "localNeed": {
-          "available": false,
-          "area": null,
-          "metrics": [],
-          "note": "No safely matched programme labour-market geography was available for this opportunity."
-        },
-        "recommissioningDelta": {
-          "available": false,
-          "previousOpportunityId": null,
-          "changes": [],
-          "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
-        }
-      }
-    },
-    {
       "id": "supply-chain:akg-fes",
       "slug": "akg-future-employment-support-akg-fes",
       "ocid": null,
@@ -1184,7 +991,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-22T11:56:56.312Z",
+          "date": "2026-09-23T11:57:43.277Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -1197,7 +1004,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-09-22T11:56:56.312Z"
+        "lastVerified": "2026-09-23T11:57:43.277Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1477,7 +1284,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-22T11:56:56.312Z",
+          "date": "2026-09-23T11:57:43.277Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -1490,7 +1297,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-09-22T11:56:56.312Z"
+        "lastVerified": "2026-09-23T11:57:43.277Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1730,7 +1537,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-22T11:56:56.312Z",
+          "date": "2026-09-23T11:57:43.277Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -1743,7 +1550,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-09-22T11:56:56.312Z"
+        "lastVerified": "2026-09-23T11:57:43.277Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2021,7 +1828,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-09-22T11:56:56.312Z",
+          "date": "2026-09-23T11:57:43.277Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -2034,7 +1841,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-09-22T11:56:56.312Z"
+        "lastVerified": "2026-09-23T11:57:43.277Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2181,6 +1988,199 @@
             }
           ],
           "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "No sufficiently related previous award was identified in the curated CareerPath dataset."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06e938",
+      "slug": "individual-placement-support-ips-services-for-serious-mental-illness-smi-ocds-h6vhtk-06e938",
+      "ocid": "ocds-h6vhtk-06e938",
+      "title": "Individual Placement Support (IPS) services for Serious Mental Illness (SMI)",
+      "description": "Individual Placement Support (IPS) Services for SMI",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "IPS",
+        "slug": "ips",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Pennine Care NHS Foundation Trust"
+      },
+      "geography": {
+        "primaryArea": "North West England",
+        "areas": [
+          "North West England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "limited",
+        "methodDetails": "Award procedure without prior publication of a call for competition",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": "Services to be provided: Individual Placement Support (IPS) Services for SMI <br/>PCFT is intending to award a contract an existing provider following direct award process C for a period of one year, with the intention of running a Competitive Process for contract starting 1st April 2028<br/>Approx lifetime value of contract: up to £6,500,000 depending on ICB investment decisions <br/>Contract dates: 1st April 2027 to 31st March 2028",
+            "status": "cancelled",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": [
+              {
+                "name": "the existing provider is satisfying the original contract and will likely satisfy the proposed contract to a sufficient standard",
+                "weighting": null
+              },
+              {
+                "name": "Price",
+                "weighting": null
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "the existing provider is satisfying the original contract and will likely satisfy the proposed contract to a sufficient standard",
+            "weighting": null,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Price",
+            "weighting": null,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Pure Innovations Limited"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-08-21T08:13:16.000Z",
+          "releaseId": "079741-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/079741-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Tender Update",
+          "date": "2026-09-21T14:20:46.000Z",
+          "releaseId": "089277-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/089277-2026",
+          "tags": [
+            "tenderUpdate"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/089277-2026",
+        "lastVerified": "2026-09-22T12:09:34.430Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": 75,
+        "missing": [
+          "value",
+          "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Pure Innovations Limited"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
         },
         "recommissioningDelta": {
           "available": false,
@@ -2381,6 +2381,210 @@
       }
     },
     {
+      "id": "dwp-atamis-c11165",
+      "slug": "occupational-health-training-for-line-managers-call-off-invitation-to-tender-c11165",
+      "ocid": null,
+      "title": "Occupational Health Training for Line Managers - Call-off Invitation to Tender",
+      "description": "Occupational health (OH) training for line managers in small and medium-sized enterprises (SMEs), specifically IOSH Managing Occupational Health and Wellbeing to improve early intervention, workplace adjustments, and employee recruitment and retention.",
+      "opportunityClass": "commissioner",
+      "opportunityType": "DWP pipeline / opportunity",
+      "partnerRoute": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming / pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Department for Work and Pensions",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": "2026-09-23T12:00:00.000Z",
+        "deadline": "2026-10-08T12:00:00.000Z",
+        "daysToDeadline": 16
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": null,
+        "methodDetails": "Employment",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "Evaluation details are shown only when DWP publishes them."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "Atamis pipeline records can precede publication of full tender requirements."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No commercial model is inferred from pipeline material."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No contractual performance requirement is inferred from pipeline material."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Upcoming / pipeline",
+          "date": "2026-09-23T12:00:00.000Z",
+          "releaseId": "C11165",
+          "sourceUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
+          "tags": [
+            "pipeline"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "DWP Atamis",
+        "sourceId": "dwp-atamis",
+        "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
+        "lastVerified": "2026-09-23T11:58:06.678Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "contract value",
+          "formal evaluation weightings",
+          "contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": true,
+          "confidence": "moderate",
+          "previousOpportunityId": "ocds-h6vhtk-06a034",
+          "previousTitle": "Provision of Interim Corporate Services to NHS Online Trust",
+          "previousBuyer": "NHS England",
+          "previousSuppliers": [
+            "NHS Shared Business Services Limited"
+          ],
+          "previousSourceUrl": "https://www.find-tender.service.gov.uk/Notice/088877-2026",
+          "changes": [
+            {
+              "field": "Published contract value",
+              "previous": 4393727.34,
+              "current": 0,
+              "currency": "GBP"
+            },
+            {
+              "field": "Commissioner",
+              "previous": "NHS England",
+              "current": "Department for Work and Pensions"
+            },
+            {
+              "field": "Published geography",
+              "previous": [
+                "United Kingdom",
+                "GB"
+              ],
+              "current": [
+                "United Kingdom"
+              ]
+            },
+            {
+              "field": "Contract period",
+              "previous": {
+                "start": "2026-08-18T23:00:00.000Z",
+                "end": "2027-08-31T22:59:59.000Z"
+              },
+              "current": {
+                "start": null,
+                "end": null
+              }
+            },
+            {
+              "field": "Published evaluation weightings",
+              "previous": {
+                "quality": 0,
+                "price": 0,
+                "socialValue": 0
+              },
+              "current": {
+                "quality": 0,
+                "price": 0,
+                "socialValue": 0
+              }
+            }
+          ],
+          "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
+        }
+      }
+    },
+    {
       "id": "dwp-atamis-c9880",
       "slug": "future-employment-support-c9880",
       "ocid": null,
@@ -2474,7 +2678,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-22T12:10:58.837Z"
+        "lastVerified": "2026-09-23T11:58:06.678Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3166,7 +3370,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -83
+        "daysToDeadline": -84
       },
       "contract": {
         "startDate": "2026-06-30T23:00:00.000Z",
@@ -3377,7 +3581,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -83
+        "daysToDeadline": -84
       },
       "contract": {
         "startDate": "2026-06-30T23:00:00.000Z",
@@ -3588,7 +3792,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-06-15T11:00:00.000Z",
-        "daysToDeadline": -99
+        "daysToDeadline": -100
       },
       "contract": {
         "startDate": "2026-06-15T23:00:00.000Z",
@@ -3801,7 +4005,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-18T11:00:00.000Z",
-        "daysToDeadline": -35
+        "daysToDeadline": -36
       },
       "contract": {
         "startDate": "2026-08-31T23:00:00.000Z",
@@ -4050,7 +4254,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-05-08T16:00:00.000Z",
-        "daysToDeadline": -136
+        "daysToDeadline": -137
       },
       "contract": {
         "startDate": null,
@@ -4276,7 +4480,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -70
+        "daysToDeadline": -71
       },
       "contract": {
         "startDate": null,
@@ -4874,7 +5078,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-31T11:00:00.000Z",
-        "daysToDeadline": -22
+        "daysToDeadline": -23
       },
       "contract": {
         "startDate": "2026-08-31T23:00:00.000Z",
@@ -5572,7 +5776,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -24
+        "daysToDeadline": -25
       },
       "contract": {
         "startDate": null,
@@ -5774,7 +5978,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-31T13:00:00.000Z",
-        "daysToDeadline": -52
+        "daysToDeadline": -53
       },
       "contract": {
         "startDate": null,
@@ -6322,7 +6526,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-08T11:00:00.000Z",
-        "daysToDeadline": -45
+        "daysToDeadline": -46
       },
       "contract": {
         "startDate": null,
@@ -6589,7 +6793,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-20T09:00:00.000Z",
-        "daysToDeadline": -64
+        "daysToDeadline": -65
       },
       "contract": {
         "startDate": "2026-10-26T00:00:00.000Z",
@@ -6835,7 +7039,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-15T22:59:00.000Z",
-        "daysToDeadline": -68
+        "daysToDeadline": -69
       },
       "contract": {
         "startDate": "2026-07-16T23:00:00.000Z",
@@ -7081,7 +7285,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -28
+        "daysToDeadline": -29
       },
       "contract": {
         "startDate": "2026-09-16T23:00:00.000Z",
@@ -7327,7 +7531,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -28
+        "daysToDeadline": -29
       },
       "contract": {
         "startDate": "2026-09-10T23:00:00.000Z",
@@ -7578,7 +7782,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-09-18T17:28:00.000Z",
-        "daysToDeadline": -3
+        "daysToDeadline": -4
       },
       "contract": {
         "startDate": "2026-09-28T00:00:00.000Z",
@@ -7790,7 +7994,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -28
+        "daysToDeadline": -29
       },
       "contract": {
         "startDate": "2026-08-31T23:00:00.000Z",
@@ -8209,7 +8413,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2025-04-14T11:00:00.000Z",
-        "daysToDeadline": -526
+        "daysToDeadline": -527
       },
       "contract": {
         "startDate": "2025-08-31T23:00:00.000Z",
@@ -8457,7 +8661,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -82
+        "daysToDeadline": -83
       },
       "contract": {
         "startDate": "2026-07-31T23:00:00.000Z",
@@ -8676,7 +8880,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-05T00:00:00.000Z",
-        "daysToDeadline": -48
+        "daysToDeadline": -49
       },
       "contract": {
         "startDate": "2026-08-05T23:00:00.000Z",
@@ -8898,7 +9102,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -66
+        "daysToDeadline": -67
       },
       "contract": {
         "startDate": "2026-09-08T23:00:00.000Z",
@@ -9973,7 +10177,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-18T11:00:00.000Z",
-        "daysToDeadline": -66
+        "daysToDeadline": -67
       },
       "contract": {
         "startDate": "2026-08-05T23:00:00.000Z",
@@ -10611,7 +10815,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-06T08:00:00.000Z",
-        "daysToDeadline": -78
+        "daysToDeadline": -79
       },
       "contract": {
         "startDate": "2026-09-06T23:00:00.000Z",
@@ -10952,7 +11156,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-17T13:00:00.000Z",
-        "daysToDeadline": -66
+        "daysToDeadline": -67
       },
       "contract": {
         "startDate": null,
@@ -11306,7 +11510,7 @@
       "invalid": 0
     },
     "supplyChainRecordCount": 4,
-    "externalOpportunityRecordsAdded": 2,
+    "externalOpportunityRecordsAdded": 3,
     "programmeLinkRegistryVersion": 1,
     "opportunityIntelligenceV1": true,
     "sourceRegistryVersion": 1,
@@ -12078,6 +12282,15 @@
     ],
     "commissionerLandscape": [
       {
+        "buyer": "Department for Work and Pensions",
+        "opportunityCount": 3,
+        "liveOrUpcomingCount": 3,
+        "programmes": [
+          "Employment Support",
+          "Future Employment Support"
+        ]
+      },
+      {
         "buyer": "London Borough of Merton",
         "opportunityCount": 2,
         "liveOrUpcomingCount": 2,
@@ -12086,28 +12299,11 @@
         ]
       },
       {
-        "buyer": "Department for Work and Pensions",
-        "opportunityCount": 2,
-        "liveOrUpcomingCount": 2,
-        "programmes": [
-          "Employment Support",
-          "Future Employment Support"
-        ]
-      },
-      {
         "buyer": "London Borough of Lambeth",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 1,
         "programmes": [
           "Connect to Work"
-        ]
-      },
-      {
-        "buyer": "Pennine Care NHS Foundation Trust",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 1,
-        "programmes": [
-          "IPS"
         ]
       },
       {
@@ -12140,6 +12336,14 @@
         "liveOrUpcomingCount": 1,
         "programmes": [
           "Future Employment Support"
+        ]
+      },
+      {
+        "buyer": "Pennine Care NHS Foundation Trust",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "IPS"
         ]
       },
       {
@@ -12474,7 +12678,7 @@
     ],
     "differentiators": {
       "recommissioningDelta": {
-        "availableCount": 4,
+        "availableCount": 5,
         "description": "Compares an active opportunity with the strongest related previous award in CareerPath's curated history and shows factual changes in published value, geography, contract period and evaluation where available."
       },
       "workforceSignals": {
