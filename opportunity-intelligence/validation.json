@@ -1,18 +1,18 @@
 {
   "validated": true,
-  "generatedAt": "2026-09-24T12:05:46.381Z",
-  "sourceGeneratedAt": "2026-09-24T12:05:44.086Z",
+  "generatedAt": "2026-09-24T12:28:17.539Z",
+  "sourceGeneratedAt": "2026-09-24T12:28:16.488Z",
   "counts": {
-    "total": 46,
+    "total": 51,
     "live": 10,
     "upcoming": 3,
     "marketEngagement": 0,
-    "recentAwards": 33,
+    "recentAwards": 38,
     "supplyChain": 4,
-    "commissioner": 42
+    "commissioner": 47
   },
   "programmes": 8,
-  "buyers": 35,
+  "buyers": 39,
   "regions": 23,
   "primeProviders": 4
 }

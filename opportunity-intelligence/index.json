@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-24T12:05:44.086Z",
+  "generatedAt": "2026-09-24T12:28:16.488Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 46,
+    "total": 51,
     "live": 10,
     "upcoming": 3,
     "marketEngagement": 0,
-    "recentAwards": 33,
+    "recentAwards": 38,
     "closingWithin7Days": 0,
     "closingWithin30Days": 3,
     "supplyChain": 4,
-    "commissioner": 42,
-    "programmeLinked": 33,
-    "programmeUnlinked": 13
+    "commissioner": 47,
+    "programmeLinked": 37,
+    "programmeUnlinked": 14
   },
   "filters": {
     "programmes": [
@@ -43,18 +43,22 @@
       "Hull City Council",
       "Isle of Wight Council",
       "Lancashire County Council",
+      "Leicester City Council",
       "Lincolnshire County Council",
       "London Borough of Lambeth",
       "London Borough of Merton",
+      "London Borough of Waltham Forest",
       "Maximus UK",
       "Medway Council",
       "Milton Keynes Council",
       "Ministry of Defence",
       "Ministry of Justice",
+      "NHS Business Services Authority",
       "NHS DORSET INTEGRATED CARE BOARD",
       "NHS England",
       "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
       "North East Combined Authority",
+      "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
       "Pennine Care NHS Foundation Trust",
       "Reed in Partnership",
       "Seetec",
@@ -221,7 +225,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-24T12:04:57.156Z"
+        "lastVerified": "2026-09-24T12:27:43.991Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -595,7 +599,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -616,18 +620,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -636,6 +632,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -982,7 +986,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-24T12:04:57.156Z"
+        "lastVerified": "2026-09-24T12:27:43.991Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1247,7 +1251,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -1268,18 +1272,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -1288,6 +1284,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -1540,7 +1544,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -1561,18 +1565,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -1581,6 +1577,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -1793,7 +1797,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -1814,18 +1818,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -1834,6 +1830,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -2084,7 +2088,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -2105,18 +2109,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -2125,6 +2121,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -2678,7 +2682,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-24T12:04:57.156Z"
+        "lastVerified": "2026-09-24T12:27:43.991Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2717,7 +2721,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -2738,18 +2742,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -2758,6 +2754,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -3198,7 +3202,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -3219,18 +3223,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -3239,6 +3235,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -3331,6 +3335,1653 @@
             }
           ],
           "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
+        }
+      }
+    },
+    {
+      "id": "ocds-b5fd17-c7e0e411-7f80-412c-a162-3837a1f648e7",
+      "slug": "jobs-and-career-services--a162-3837a1f648e7",
+      "ocid": "ocds-b5fd17-c7e0e411-7f80-412c-a162-3837a1f648e7",
+      "title": "Jobs and Career Services",
+      "description": "The Jobs and Careers Service (JCS) is currently being piloted through 3 pathfinder research sites, with in-house researchers conducting the evaluation to test delivery models and gather early insights.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Careers Services",
+        "slug": "careers-services",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Department for Work and Pensions"
+      },
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 4000000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-09-17T11:00:00.000Z",
+        "daysToDeadline": -7
+      },
+      "contract": {
+        "startDate": "2026-09-17T23:00:00.000Z",
+        "endDate": "2030-09-18T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a framework agreement",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "IFF"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-23T15:25:59.000Z",
+          "releaseId": "c7ab8f60-7baf-4914-86cf-afe830472bd5-915199",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/c7ab8f60-7baf-4914-86cf-afe830472bd5",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/c7ab8f60-7baf-4914-86cf-afe830472bd5",
+        "lastVerified": "2026-09-24T12:27:01.897Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "IFF"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-b5fd17-04dbc9e1-608e-4e02-a593-fcb767278ed0",
+      "slug": "digital-support-technician-level-3--a593-fcb767278ed0",
+      "ocid": "ocds-b5fd17-04dbc9e1-608e-4e02-a593-fcb767278ed0",
+      "title": "Digital Support Technician Level 3",
+      "description": "Provision of Apprenticeship Training for Digital Support Technician Level 3. The contract was awarded via rapid award under the CCS Apprenticeship Training DPS CCS RM6102. It was awarded for a period of 16 months. Additional information: The total awarded value in this notice is inclusive of VAT.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
+      },
+      "buyer": {
+        "name": "NHS Business Services Authority"
+      },
+      "geography": {
+        "primaryArea": "NE15 8NY",
+        "areas": [
+          "NE15 8NY",
+          "British Oversea Territories",
+          "Channel Islands",
+          "Europe",
+          "Isle of Man",
+          "Rest of the World",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 15600,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-09-15T11:00:00.000Z",
+        "daysToDeadline": -9
+      },
+      "contract": {
+        "startDate": "2026-09-15T23:00:00.000Z",
+        "endDate": "2028-08-15T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Call-off from a dynamic purchasing system",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "CAMBRIDGE SPARK LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-24T09:12:20.000Z",
+          "releaseId": "734b203a-205f-4591-9c34-87095b0b9ed5-915258",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/734b203a-205f-4591-9c34-87095b0b9ed5",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/734b203a-205f-4591-9c34-87095b0b9ed5",
+        "lastVerified": "2026-09-24T12:26:46.762Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "CAMBRIDGE SPARK LIMITED"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-24T12:03:20.412Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 291,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 242
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 230,
+              "medianAdvertisedSalary": 30250,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 174
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 199,
+              "medianAdvertisedSalary": 29500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 177
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 172,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 145,
+              "medianAdvertisedSalary": 34000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 110
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 34089,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 134
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 133,
+              "medianAdvertisedSalary": 36449,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 79
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-05f33b",
+      "slug": "skills-bootcamps-for-oxfordshire-2026-7-ocds-h6vhtk-05f33b",
+      "ocid": "ocds-h6vhtk-05f33b",
+      "title": "Skills Bootcamps for Oxfordshire 2026/7",
+      "description": "Enterprise Oxfordshire Skills is managing, on behalf of Oxfordshire County Council, £1,500,000 (ex. VAT) of funding from Department for Work & Pension (DWP) to deliver Wave 7 of the Skills Bootcamp programme in Oxfordshire to support key national priority sectors including Digital, AI, IT Technician, Business Administration, HGV/Bus, Early Years, Care Services, Green Skills and Construction. The Skills Bootcamps programme for Oxfordshire aims to secure outcomes for adults (19+) by giving them access to in-demand skills training and a guaranteed interview for a more sustainable, higher skilled job and higher wages over time. The benefits for employers include helping them fill specific skills shortage vacancies, enabling them to become more productive, more quickly.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps",
+        "intelligence": {
+          "available": true,
+          "slug": "skills-bootcamps",
+          "path": "/programme-intelligence?programme=skills-bootcamps",
+          "programmeFeedPath": "programme-intelligence/skills-bootcamps.json"
+        }
+      },
+      "buyer": {
+        "name": "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
+      },
+      "geography": {
+        "primaryArea": "South East England",
+        "areas": [
+          "South East England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 1054657,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-03-13T11:00:00.000Z",
+        "daysToDeadline": -195
+      },
+      "contract": {
+        "startDate": "2026-06-10T23:00:00.000Z",
+        "endDate": "2027-09-30T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Competitive flexible procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": "Data Skills",
+            "description": null,
+            "status": "complete",
+            "value": 108500,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "AI in Business",
+            "description": null,
+            "status": "complete",
+            "value": 108500,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Cyber Security",
+            "description": null,
+            "status": "complete",
+            "value": 105000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "title": "IT Technicial",
+            "description": null,
+            "status": "complete",
+            "value": 90000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "title": "Business, Leadership and Professional Services",
+            "description": null,
+            "status": "complete",
+            "value": 90000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "title": "HGV and/or Bus",
+            "description": null,
+            "status": "complete",
+            "value": 93000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "title": "Early Years",
+            "description": null,
+            "status": "complete",
+            "value": 93000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "title": "Health and Social Care",
+            "description": null,
+            "status": "complete",
+            "value": 90000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "title": "Green Construction",
+            "description": null,
+            "status": "complete",
+            "value": 105000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "title": "Construction",
+            "description": null,
+            "status": "complete",
+            "value": 105000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "title": "Construction Supervision",
+            "description": null,
+            "status": "complete",
+            "value": 105000,
+            "currency": "GBP",
+            "contractStart": "2026-05-18T23:00:00.000Z",
+            "contractEnd": "2027-09-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 1100,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "1",
+            "lotTitle": "Data Skills"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "2",
+            "lotTitle": "AI in Business"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "3",
+            "lotTitle": "Cyber Security"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "4",
+            "lotTitle": "IT Technicial"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "5",
+            "lotTitle": "Business, Leadership and Professional Services"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "6",
+            "lotTitle": "HGV and/or Bus"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "7",
+            "lotTitle": "Early Years"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "8",
+            "lotTitle": "Health and Social Care"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "9",
+            "lotTitle": "Green Construction"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "10",
+            "lotTitle": "Construction"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "11",
+            "lotTitle": "Construction Supervision"
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "IO SPHERE LIMITED",
+        "SCL EDUCATION & TRAINING LIMITED",
+        "THINK EMPLOYMENT LIMITED",
+        "ENTERPRISE4ALL (NORTH WEST) LIMITED",
+        "FAREPORT TRAINING ORGANISATION LIMITED",
+        "PERTEMPS RECRUITMENT PARTNERSHIP LIMITED",
+        "BACK TO WORK TRAINING LIMITED",
+        "JCL SKILLS SOLUTIONS LIMITED",
+        "New College Durham",
+        "THE SKILLS CENTRE LONDON LIMITED"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2025-12-10T17:38:22.000Z",
+          "releaseId": "081711-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/081711-2025",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Tender Published",
+          "date": "2026-02-02T14:26:31.000Z",
+          "releaseId": "009020-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/009020-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-04-24T14:24:21.000Z",
+          "releaseId": "037683-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/037683-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-08-27T17:18:14.000Z",
+          "releaseId": "081985-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/081985-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "contractamendment",
+          "date": "2026-08-27T17:28:58.000Z",
+          "releaseId": "081987-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/081987-2026",
+          "tags": [
+            "contractAmendment"
+          ]
+        },
+        {
+          "event": "tendercancellation",
+          "date": "2026-08-27T17:37:07.000Z",
+          "releaseId": "081989-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/081989-2026",
+          "tags": [
+            "tenderCancellation"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-23T12:14:46.000Z",
+          "releaseId": "090121-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/090121-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090121-2026",
+        "lastVerified": "2026-09-24T12:23:59.565Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "IO SPHERE LIMITED",
+          "SCL EDUCATION & TRAINING LIMITED",
+          "THINK EMPLOYMENT LIMITED",
+          "ENTERPRISE4ALL (NORTH WEST) LIMITED",
+          "FAREPORT TRAINING ORGANISATION LIMITED",
+          "PERTEMPS RECRUITMENT PARTNERSHIP LIMITED",
+          "BACK TO WORK TRAINING LIMITED",
+          "JCL SKILLS SOLUTIONS LIMITED",
+          "New College Durham",
+          "THE SKILLS CENTRE LONDON LIMITED"
+        ],
+        "namedSupplierCount": 10,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-24T12:03:20.412Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 291,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 242
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 230,
+              "medianAdvertisedSalary": 30250,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 174
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 199,
+              "medianAdvertisedSalary": 29500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 177
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 172,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 145,
+              "medianAdvertisedSalary": 34000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 110
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 34089,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 134
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 133,
+              "medianAdvertisedSalary": 36449,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 79
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": true,
+          "area": "East",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 18.4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 132125,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            },
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 78.3,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-051948",
+      "slug": "pan3317-connect-to-work-ips-provision-ocds-h6vhtk-051948",
+      "ocid": "ocds-h6vhtk-051948",
+      "title": "PAN3317 - Connect to Work IPS Provision.",
+      "description": "LCC is the lead Accountable Body for this Connect to Work Provision in Leicester in association with Leicestershire County Council and Rutland County Council and LCC shall be working with these three constituent Local Authorities and be responsible for the commissioning and procurement of the Connect to Work delivery. The requirement is divided into three Lots each providing identical services as follows: Lot 1 - Leicester The Supplier will deliver the IPS provision for residents who are eligible within the Leicester City Council Local Authority boundary. Lot 2 - Leicestershire The Supplier will deliver the IPS provision for residents who are eligible within the Leicestershire County Council Local Authority boundary. Lot 3 - Rutland The Supplier will deliver the IPS provision for residents who are eligible within the Rutland County Council Authority boundary.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work",
+        "intelligence": {
+          "available": true,
+          "slug": "connect-to-work",
+          "path": "/programme-intelligence?programme=connect-to-work",
+          "programmeFeedPath": "programme-intelligence/connect-to-work.json"
+        }
+      },
+      "buyer": {
+        "name": "Leicester City Council"
+      },
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 8742500,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-02-12T00:00:00.000Z",
+        "daysToDeadline": -224
+      },
+      "contract": {
+        "startDate": "2026-08-31T23:00:00.000Z",
+        "endDate": "2030-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": "Lot 1 – Leicester",
+            "description": null,
+            "status": "complete",
+            "value": 4633525,
+            "currency": "GBP",
+            "contractStart": "2026-03-16T00:00:00.000Z",
+            "contractEnd": "2030-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 90
+              },
+              {
+                "name": "Price",
+                "weighting": 10
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "Lot 2 – Leicestershire",
+            "description": null,
+            "status": "complete",
+            "value": 3671850,
+            "currency": "GBP",
+            "contractStart": "2026-03-16T00:00:00.000Z",
+            "contractEnd": "2030-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 90
+              },
+              {
+                "name": "Price",
+                "weighting": 10
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Lot 3 – Rutland",
+            "description": null,
+            "status": "complete",
+            "value": 437125,
+            "currency": "GBP",
+            "contractStart": "2026-03-16T00:00:00.000Z",
+            "contractEnd": "2030-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 90
+              },
+              {
+                "name": "Price",
+                "weighting": 10
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 270,
+        "priceWeighting": 30,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": 90,
+            "lotId": "1",
+            "lotTitle": "Lot 1 – Leicester"
+          },
+          {
+            "name": "Price",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": "Lot 1 – Leicester"
+          },
+          {
+            "name": "Quality",
+            "weighting": 90,
+            "lotId": "2",
+            "lotTitle": "Lot 2 – Leicestershire"
+          },
+          {
+            "name": "Price",
+            "weighting": 10,
+            "lotId": "2",
+            "lotTitle": "Lot 2 – Leicestershire"
+          },
+          {
+            "name": "Quality",
+            "weighting": 90,
+            "lotId": "3",
+            "lotTitle": "Lot 3 – Rutland"
+          },
+          {
+            "name": "Price",
+            "weighting": 10,
+            "lotId": "3",
+            "lotTitle": "Lot 3 – Rutland"
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "LCC is the lead Accountable Body for this Connect to Work Provision in Leicester in association with Leicestershire County Council and Rutland County Council and LCC shall be working with these three constituent Local Authorities and be responsible for the commissioning and procurement of the Connect to Work delivery.",
+          "The requirement is divided into three Lots each providing identical services as follows: Lot 1 - Leicester The Supplier will deliver the IPS provision for residents who are eligible within the Leicester City Council Local Authority boundary."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "TWIN TRAINING INTERNATIONAL LIMITED",
+        "INTUITIVE THINKING SKILLS LTD"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2025-05-20T15:00:49.000Z",
+          "releaseId": "023412-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/023412-2025",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2025-10-16T14:39:45.000Z",
+          "releaseId": "066003-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/066003-2025",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2025-10-17T07:31:12.000Z",
+          "releaseId": "066107-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/066107-2025",
+          "tags": [
+            "planningUpdate"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2025-11-27T15:12:21.000Z",
+          "releaseId": "077759-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/077759-2025",
+          "tags": [
+            "planningUpdate"
+          ]
+        },
+        {
+          "event": "Tender Published",
+          "date": "2026-01-13T08:58:29.000Z",
+          "releaseId": "002469-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/002469-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-04-22T14:46:38.000Z",
+          "releaseId": "036739-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/036739-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-05-07T07:20:44.000Z",
+          "releaseId": "041667-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/041667-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Contract Update",
+          "date": "2026-05-15T15:36:00.000Z",
+          "releaseId": "045071-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/045071-2026",
+          "tags": [
+            "awardUpdate",
+            "contractUpdate"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-07-20T14:05:16.000Z",
+          "releaseId": "068329-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/068329-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-24T09:52:47.000Z",
+          "releaseId": "090467-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/090467-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090467-2026",
+        "lastVerified": "2026-09-24T12:21:05.709Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "TWIN TRAINING INTERNATIONAL LIMITED",
+          "INTUITIVE THINKING SKILLS LTD"
+        ],
+        "namedSupplierCount": 2,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-24T12:03:20.412Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 291,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 242
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 230,
+              "medianAdvertisedSalary": 30250,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 174
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 199,
+              "medianAdvertisedSalary": 29500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 177
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 172,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 145,
+              "medianAdvertisedSalary": 34000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 110
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 34089,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 134
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 133,
+              "medianAdvertisedSalary": 36449,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 79
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": true,
+          "area": "East Midlands",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 4.5,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 75.4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 21.1,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 109750,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06d456",
+      "slug": "provision-of-adult-learning-subcontracted-services-ocds-h6vhtk-06d456",
+      "ocid": "ocds-h6vhtk-06d456",
+      "title": "Provision of Adult Learning Subcontracted services",
+      "description": "The contract covers the delivery of accredited adult learning provision within agreed vocational curriculum areas, for the academic year 2026-27, through a subcontracted provider. The scope includes: • delivery of accredited vocational provision aligned to agreed curriculum and local need • recruitment, enrolment and delivery to eligible adult learners, primarily Waltham Forest residents • compliance with Adult Skills Fund funding rules, awarding organisation requirements, safeguarding and data reporting • participation in the Council's quality, performance and audit processes as set out in the Service Specification and Appendices, and • delivery within a controlled contract and performance management framework led by the Council as Lead Provider. The contract will commence on the 1st August 2026 until the 31st July 2027",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
+      },
+      "buyer": {
+        "name": "London Borough of Waltham Forest"
+      },
+      "geography": {
+        "primaryArea": "London",
+        "areas": [
+          "London",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 319679.96,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": "2026-07-31T23:00:00.000Z",
+        "endDate": "2027-07-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Direct award",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [
+          "Partnership or supply-chain delivery is mentioned in published material"
+        ],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Waltham Forest College"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-07-27T13:05:47.000Z",
+          "releaseId": "070811-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/070811-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-07-27T13:26:00.000Z",
+          "releaseId": "070825-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/070825-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-24T10:44:18.000Z",
+          "releaseId": "090498-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/090498-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090498-2026",
+        "lastVerified": "2026-09-24T12:21:02.946Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Waltham Forest College"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-24T12:03:20.412Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 291,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 242
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 230,
+              "medianAdvertisedSalary": 30250,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 174
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 199,
+              "medianAdvertisedSalary": 29500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 177
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 172,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 145,
+              "medianAdvertisedSalary": 34000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 110
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 34089,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 134
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 133,
+              "medianAdvertisedSalary": 36449,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 79
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": true,
+          "area": "London",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 20.2,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 6.4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 74.8,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 347135,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
       }
     },
@@ -3466,7 +5117,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -3487,18 +5138,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -3507,6 +5150,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -3714,7 +5365,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -3735,18 +5386,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -3755,6 +5398,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -4025,7 +5676,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -4046,18 +5697,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -4066,6 +5709,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -4309,7 +5960,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -4330,18 +5981,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -4350,6 +5993,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -4554,7 +6205,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -4575,18 +6226,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -4595,6 +6238,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -4765,7 +6416,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -4786,18 +6437,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -4806,6 +6449,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -4976,7 +6627,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -4997,18 +6648,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -5017,6 +6660,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -5422,7 +7073,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -5443,18 +7094,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -5463,6 +7106,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -5871,7 +7522,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -5892,18 +7543,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -5912,6 +7555,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -6920,7 +8571,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -6941,18 +8592,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -6961,6 +8604,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -7133,7 +8784,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -7154,18 +8805,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -7174,6 +8817,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -7379,7 +9030,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -7400,18 +9051,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -7420,6 +9063,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -7625,7 +9276,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -7646,18 +9297,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -7666,6 +9309,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -7871,7 +9522,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -7892,18 +9543,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -7912,6 +9555,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -8122,7 +9773,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -8143,18 +9794,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -8163,6 +9806,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -8508,7 +10159,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -8529,18 +10180,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -8549,6 +10192,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -8755,7 +10406,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -8776,18 +10427,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -8796,6 +10439,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -8980,7 +10631,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -9001,18 +10652,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -9021,6 +10664,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -9238,7 +10889,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -9259,18 +10910,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -9279,6 +10922,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -9465,7 +11116,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -9486,18 +11137,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -9506,6 +11149,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -9762,7 +11413,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -9783,18 +11434,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -9803,6 +11446,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -10023,7 +11674,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -10044,18 +11695,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -10064,6 +11707,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -10415,7 +12066,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -10436,18 +12087,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -10456,6 +12099,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -10659,7 +12310,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -10680,18 +12331,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -10700,6 +12343,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -11000,7 +12651,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -11021,18 +12672,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -11041,6 +12684,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -11361,7 +13012,7 @@
       "deliveryIntelligence": {
         "workforce": {
           "available": true,
-          "generatedAt": "2026-09-24T11:29:22.677Z",
+          "generatedAt": "2026-09-24T12:03:20.412Z",
           "roleSignals": [
             {
               "id": "operations-management",
@@ -11382,18 +13033,10 @@
             {
               "id": "skills-training",
               "role": "Skills / Training",
-              "returnedVacancySample": 201,
+              "returnedVacancySample": 199,
               "medianAdvertisedSalary": 29500,
               "salaryCurrency": "GBP",
-              "salarySampleSize": 178
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 36762,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 155
+              "salarySampleSize": 177
             },
             {
               "id": "careers-advice",
@@ -11402,6 +13045,14 @@
               "medianAdvertisedSalary": 35000,
               "salaryCurrency": "GBP",
               "salarySampleSize": 133
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 150,
+              "medianAdvertisedSalary": 36400,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 113
             },
             {
               "id": "ips-employment-specialist",
@@ -11501,8 +13152,8 @@
     "containsCommercialRecommendations": false,
     "containsRawVacancies": false,
     "sourceDirectory": "validated-publishable-procurements",
-    "sourceFileCount": 141,
-    "selectedOpportunityCount": 39,
+    "sourceFileCount": 146,
+    "selectedOpportunityCount": 44,
     "rejected": {
       "nonPublishable": 0,
       "nonAccepted": 0,
@@ -11788,6 +13439,30 @@
         ]
       },
       {
+        "supplier": "TWIN TRAINING INTERNATIONAL LIMITED",
+        "awardCount": 1,
+        "publishedAwardValue": 8742500,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Connect to Work"
+        ],
+        "buyers": [
+          "Leicester City Council"
+        ]
+      },
+      {
+        "supplier": "INTUITIVE THINKING SKILLS LTD",
+        "awardCount": 1,
+        "publishedAwardValue": 8742500,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Connect to Work"
+        ],
+        "buyers": [
+          "Leicester City Council"
+        ]
+      },
+      {
         "supplier": "CT Skills Limited",
         "awardCount": 1,
         "publishedAwardValue": 5023125,
@@ -11809,6 +13484,18 @@
         ],
         "buyers": [
           "NHS England"
+        ]
+      },
+      {
+        "supplier": "IFF",
+        "awardCount": 1,
+        "publishedAwardValue": 4000000,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Careers Services"
+        ],
+        "buyers": [
+          "Department for Work and Pensions"
         ]
       },
       {
@@ -12148,144 +13835,109 @@
         ]
       },
       {
-        "supplier": "Swindon and Gloucestershire Mind Limited",
+        "supplier": "IO SPHERE LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 834550,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "Employment Support"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "NHS DORSET INTEGRATED CARE BOARD"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
       {
-        "supplier": "TRAIN TOGETHER LIMITED",
+        "supplier": "SCL EDUCATION & TRAINING LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 600000,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "Apprenticeships"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "H M REVENUE & CUSTOMS"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
       {
-        "supplier": "The Open University",
+        "supplier": "THINK EMPLOYMENT LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 360000,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "Apprenticeships"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "Milton Keynes Council"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
       {
-        "supplier": "Durham County Council",
+        "supplier": "ENTERPRISE4ALL (NORTH WEST) LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 321553.68,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "Connect to Work"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "North East Combined Authority"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
       {
-        "supplier": "NORTH EAST CHAMBER OF COMMERCE",
+        "supplier": "FAREPORT TRAINING ORGANISATION LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 321553.68,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "Connect to Work"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "North East Combined Authority"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
       {
-        "supplier": "Somerset Skills & Learning",
+        "supplier": "PERTEMPS RECRUITMENT PARTNERSHIP LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 271000,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "Adult Skills Fund"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "University Centre Somerset College Group"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
       {
-        "supplier": "2D Building Contractors Ltd",
+        "supplier": "BACK TO WORK TRAINING LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 252772.39,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "IPS"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "Cwm Taf Morgannwg University Health Board"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
       {
-        "supplier": "Explosive Learning Solutions LTD",
+        "supplier": "JCL SKILLS SOLUTIONS LIMITED",
         "awardCount": 1,
-        "publishedAwardValue": 210000,
+        "publishedAwardValue": 1054657,
         "awardValueSampleCount": 1,
         "programmes": [
-          "Apprenticeships"
+          "Skills Bootcamps"
         ],
         "buyers": [
-          "Ministry of Defence"
-        ]
-      },
-      {
-        "supplier": "University of Winchester",
-        "awardCount": 1,
-        "publishedAwardValue": 144000,
-        "awardValueSampleCount": 1,
-        "programmes": [
-          "Apprenticeships"
-        ],
-        "buyers": [
-          "Isle of Wight Council"
-        ]
-      },
-      {
-        "supplier": "THE SKILL MILL LIMITED",
-        "awardCount": 1,
-        "publishedAwardValue": 99000,
-        "awardValueSampleCount": 1,
-        "programmes": [
-          "Employment Support"
-        ],
-        "buyers": [
-          "North East Combined Authority"
-        ]
-      },
-      {
-        "supplier": "SR SUPPLY CHAIN CONSULTANTS LTD",
-        "awardCount": 1,
-        "publishedAwardValue": 54000,
-        "awardValueSampleCount": 1,
-        "programmes": [
-          "Apprenticeships"
-        ],
-        "buyers": [
-          "DERBY CITY COUNCIL"
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       }
     ],
     "commissionerLandscape": [
       {
         "buyer": "Department for Work and Pensions",
-        "opportunityCount": 3,
+        "opportunityCount": 4,
         "liveOrUpcomingCount": 3,
         "programmes": [
+          "Careers Services",
           "Employment Support",
           "Future Employment Support"
         ]
@@ -12399,6 +14051,38 @@
       {
         "buyer": "East Durham College",
         "opportunityCount": 2,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Adult Skills Fund"
+        ]
+      },
+      {
+        "buyer": "NHS Business Services Authority",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Skills Bootcamps"
+        ]
+      },
+      {
+        "buyer": "Leicester City Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Connect to Work"
+        ]
+      },
+      {
+        "buyer": "London Borough of Waltham Forest",
+        "opportunityCount": 1,
         "liveOrUpcomingCount": 0,
         "programmes": [
           "Adult Skills Fund"
@@ -12682,11 +14366,11 @@
         "description": "Compares an active opportunity with the strongest related previous award in CareerPath's curated history and shows factual changes in published value, geography, contract period and evaluation where available."
       },
       "workforceSignals": {
-        "linkedOpportunityCount": 33,
+        "linkedOpportunityCount": 37,
         "description": "Links opportunities to CareerPath's programme workforce data to show aggregated role-demand and advertised-salary signals relevant to mobilisation."
       },
       "localDeliveryContext": {
-        "linkedOpportunityCount": 19,
+        "linkedOpportunityCount": 22,
         "description": "Links opportunities to programme-level regional labour-market indicators where a geography can be matched safely."
       },
       "providerPartnershipMap": {
