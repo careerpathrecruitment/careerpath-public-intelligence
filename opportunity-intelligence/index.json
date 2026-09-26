@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-26T11:42:17.598Z",
+  "generatedAt": "2026-09-26T11:57:55.472Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 56,
-    "live": 13,
+    "total": 59,
+    "live": 15,
     "upcoming": 3,
     "marketEngagement": 0,
-    "recentAwards": 40,
+    "recentAwards": 41,
     "closingWithin7Days": 0,
     "closingWithin30Days": 4,
     "supplyChain": 5,
-    "commissioner": 51,
-    "programmeLinked": 41,
-    "programmeUnlinked": 15
+    "commissioner": 54,
+    "programmeLinked": 42,
+    "programmeUnlinked": 17
   },
   "filters": {
     "programmes": [
@@ -31,6 +31,7 @@
     ],
     "buyers": [
       "AKG",
+      "BlueLight Commercial Limited",
       "Central Bedfordshire Council",
       "Construction Industry Training Board",
       "Cwm Taf Morgannwg University Health Board",
@@ -58,7 +59,9 @@
       "NHS Business Services Authority",
       "NHS DORSET INTEGRATED CARE BOARD",
       "NHS England",
+      "NHS North East London Integrated Care Board",
       "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
+      "NORTHUMBRIAN WATER LIMITED",
       "North East Combined Authority",
       "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
       "Pennine Care NHS Foundation Trust",
@@ -92,6 +95,7 @@
       "South East England",
       "South West",
       "South West England",
+      "Suffolk",
       "United Kingdom",
       "Wales",
       "West Midlands",
@@ -229,7 +233,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-26T11:41:34.528Z"
+        "lastVerified": "2026-09-26T11:57:17.899Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -840,29 +844,29 @@
         "recommissioningDelta": {
           "available": true,
           "confidence": "moderate",
-          "previousOpportunityId": "ocds-h6vhtk-067702",
-          "previousTitle": "All Age Service Substance Misuse",
-          "previousBuyer": "Medway Council",
+          "previousOpportunityId": "ocds-h6vhtk-05df3c",
+          "previousTitle": "NHS North East London ICB Independent Placement Service",
+          "previousBuyer": "NHS North East London Integrated Care Board",
           "previousSuppliers": [
-            "THE FORWARD TRUST"
+            "WORKING WELL TRUST"
           ],
-          "previousSourceUrl": "https://www.find-tender.service.gov.uk/Notice/089201-2026",
+          "previousSourceUrl": "https://www.find-tender.service.gov.uk/Notice/091170-2026",
           "changes": [
             {
               "field": "Published contract value",
-              "previous": 25874899.03,
+              "previous": 2453956,
               "current": 2306000,
               "currency": "GBP"
             },
             {
               "field": "Commissioner",
-              "previous": "Medway Council",
+              "previous": "NHS North East London Integrated Care Board",
               "current": "London Borough of Merton"
             },
             {
               "field": "Published geography",
               "previous": [
-                "South East England",
+                "London",
                 "United Kingdom",
                 "GB"
               ],
@@ -879,8 +883,8 @@
             {
               "field": "Contract period",
               "previous": {
-                "start": null,
-                "end": null
+                "start": "2026-06-30T23:00:00.000Z",
+                "end": "2028-06-30T22:59:59.000Z"
               },
               "current": {
                 "start": "2027-03-31T23:00:00.000Z",
@@ -890,9 +894,9 @@
             {
               "field": "Published evaluation weightings",
               "previous": {
-                "quality": 75,
-                "price": 20,
-                "socialValue": 5
+                "quality": 100,
+                "price": 0,
+                "socialValue": 0
               },
               "current": {
                 "quality": 0,
@@ -1031,7 +1035,7 @@
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090797-2026",
-        "lastVerified": "2026-09-25T12:24:06.734Z"
+        "lastVerified": "2026-09-26T11:55:55.047Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1603,7 +1607,7 @@
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090847-2026",
-        "lastVerified": "2026-09-25T12:21:56.769Z"
+        "lastVerified": "2026-09-26T11:55:46.193Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -1694,6 +1698,429 @@
                 "quality": 0,
                 "price": 0,
                 "socialValue": 0
+              }
+            }
+          ],
+          "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-077adc",
+      "slug": "blc0307-national-framework-for-police-initial-entry-routes-accreditation-and-apprenticeships-ocds-h6vhtk-077adc",
+      "ocid": "ocds-h6vhtk-077adc",
+      "title": "BLC0307 - National Framework for Police Initial Entry Routes, Accreditation and Apprenticeships",
+      "description": "BlueLight Commercial is tendering for a Framework for Police Initial Entry Routes including Police Constable Degree Apprenticeship, Degree Holder Entry Programme for Police Forces in England and Wales. With additional Lots for Accreditation services and other Apprenticeships.",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
+      },
+      "buyer": {
+        "name": "BlueLight Commercial Limited"
+      },
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 648000000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-11-20T12:00:00.000Z",
+        "daysToDeadline": 56
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1a",
+            "title": "Lot 1a - PCDA - England",
+            "description": "Police Constable Degree Apprenticeship Delivery for English Police Forces",
+            "status": "active",
+            "value": 320000000,
+            "currency": "GBP",
+            "contractStart": "2027-02-01T00:00:00.000Z",
+            "contractEnd": "2035-01-31T23:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Technical Questions",
+                "weighting": 70
+              },
+              {
+                "name": "Pricing",
+                "weighting": 30
+              }
+            ]
+          },
+          {
+            "id": "1b",
+            "title": "Lot 1b - PCDA Wales",
+            "description": "Delivery of Police Constable Degree Apprenticeship for Welsh forces",
+            "status": "active",
+            "value": 13000000,
+            "currency": "GBP",
+            "contractStart": "2027-02-01T00:00:00.000Z",
+            "contractEnd": "2035-01-31T23:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "technical questions",
+                "weighting": 70
+              },
+              {
+                "name": "Pricing",
+                "weighting": 30
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "Lot 2 - DHEP",
+            "description": "Delivery of Degree Holder Entry Programme for Police forces in England and Wales",
+            "status": "active",
+            "value": 80000000,
+            "currency": "GBP",
+            "contractStart": "2027-02-01T00:00:00.000Z",
+            "contractEnd": "2035-01-31T23:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Technical Questions",
+                "weighting": 70
+              },
+              {
+                "name": "Pricing",
+                "weighting": 30
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Lot 3 - Accreditation",
+            "description": "Accreditation services for appropriate programmes",
+            "status": "active",
+            "value": 8000000,
+            "currency": "GBP",
+            "contractStart": "2027-02-01T00:00:00.000Z",
+            "contractEnd": "2035-01-31T23:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "technical questions",
+                "weighting": 70
+              },
+              {
+                "name": "Pricing",
+                "weighting": 30
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "title": "Lot 4 - Apprenticeships",
+            "description": "Apprenticeships including but not limited to police services related roles",
+            "status": "active",
+            "value": 240000000,
+            "currency": "GBP",
+            "contractStart": "2027-02-01T00:00:00.000Z",
+            "contractEnd": "2035-01-31T23:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Technical Questions",
+                "weighting": 70
+              },
+              {
+                "name": "Pricing",
+                "weighting": 30
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 350,
+        "priceWeighting": null,
+        "socialValueWeighting": 10,
+        "criteria": [
+          {
+            "name": "Technical Questions",
+            "weighting": 70,
+            "lotId": "1a",
+            "lotTitle": "Lot 1a - PCDA - England"
+          },
+          {
+            "name": "Pricing",
+            "weighting": 30,
+            "lotId": "1a",
+            "lotTitle": "Lot 1a - PCDA - England"
+          },
+          {
+            "name": "technical questions",
+            "weighting": 70,
+            "lotId": "1b",
+            "lotTitle": "Lot 1b - PCDA Wales"
+          },
+          {
+            "name": "Pricing",
+            "weighting": 30,
+            "lotId": "1b",
+            "lotTitle": "Lot 1b - PCDA Wales"
+          },
+          {
+            "name": "Technical Questions",
+            "weighting": 70,
+            "lotId": "2",
+            "lotTitle": "Lot 2 - DHEP"
+          },
+          {
+            "name": "Pricing",
+            "weighting": 30,
+            "lotId": "2",
+            "lotTitle": "Lot 2 - DHEP"
+          },
+          {
+            "name": "technical questions",
+            "weighting": 70,
+            "lotId": "3",
+            "lotTitle": "Lot 3 - Accreditation"
+          },
+          {
+            "name": "Pricing",
+            "weighting": 30,
+            "lotId": "3",
+            "lotTitle": "Lot 3 - Accreditation"
+          },
+          {
+            "name": "Technical Questions",
+            "weighting": 70,
+            "lotId": "4",
+            "lotTitle": "Lot 4 - Apprenticeships"
+          },
+          {
+            "name": "Pricing",
+            "weighting": 30,
+            "lotId": "4",
+            "lotTitle": "Lot 4 - Apprenticeships"
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": 10,
+        "note": "An explicit buyer-stated social value weighting was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-09-25T14:50:12.000Z",
+          "releaseId": "091128-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/091128-2026",
+          "tags": [
+            "tender"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/091128-2026",
+        "lastVerified": "2026-09-26T11:53:10.207Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-25T10:16:01.303Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 292,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 243
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 234,
+              "medianAdvertisedSalary": 30750,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 181
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 205,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 182
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 200,
+              "medianAdvertisedSalary": 38062,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 151
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 177,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 135
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 143,
+              "medianAdvertisedSalary": 33644,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 108
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 34089,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 132
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 133,
+              "medianAdvertisedSalary": 37152,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 79
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": true,
+          "confidence": "moderate",
+          "previousOpportunityId": "ocds-b5fd17-fdcb370a-af5f-4fc4-ac39-67d0e3a55b50",
+          "previousTitle": "Apprenticeship Training Services",
+          "previousBuyer": "H M REVENUE & CUSTOMS",
+          "previousSuppliers": [
+            "TRAIN TOGETHER LIMITED"
+          ],
+          "previousSourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/0f2702e4-9d5d-490f-bf79-52f5ab7e0868",
+          "changes": [
+            {
+              "field": "Published contract value",
+              "previous": 600000,
+              "current": 648000000,
+              "currency": "GBP"
+            },
+            {
+              "field": "Commissioner",
+              "previous": "H M REVENUE & CUSTOMS",
+              "current": "BlueLight Commercial Limited"
+            },
+            {
+              "field": "Published geography",
+              "previous": [
+                "United Kingdom"
+              ],
+              "current": [
+                "United Kingdom",
+                "GB"
+              ]
+            },
+            {
+              "field": "Contract period",
+              "previous": {
+                "start": "2026-06-15T23:00:00.000Z",
+                "end": "2029-06-15T22:59:59.000Z"
+              },
+              "current": {
+                "start": null,
+                "end": null
+              }
+            },
+            {
+              "field": "Published evaluation weightings",
+              "previous": {
+                "quality": 0,
+                "price": 0,
+                "socialValue": 0
+              },
+              "current": {
+                "quality": 350,
+                "price": 0,
+                "socialValue": 10
               }
             }
           ],
@@ -1795,7 +2222,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-26T11:41:34.528Z"
+        "lastVerified": "2026-09-26T11:57:17.899Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1897,6 +2324,255 @@
               "current": {
                 "quality": 0,
                 "price": 0,
+                "socialValue": 0
+              }
+            }
+          ],
+          "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-077ab6",
+      "slug": "apprentice-worker-agency-ocds-h6vhtk-077ab6",
+      "ocid": "ocds-h6vhtk-077ab6",
+      "title": "Apprentice Worker Agency",
+      "description": "Northumbrian Water Group (NWL) is committed to developing future talent through a high-quality apprenticeship programme which supports workforce planning, succession management and skills development across the organisation. We require a supplier to provide Apprenticeship Agency Services across both Northumbrian Water and Essex & Suffolk Water. The supplier will act as the employer of apprentices on behalf of NWL and provide employment, payroll, HR administration, compliance and apprentice support services throughout the duration of the apprenticeship programme. The successful supplier will work collaboratively with NWL's Early Careers Team, hiring managers and training providers to ensure apprentices receive a positive experience and are supported to successfully complete their programmes. Service Requirements The supplier will be required to: • Employ apprentices on behalf of NWL through an apprenticeship agency model. • Issue and maintain employment contracts and associated employment documentation. • Undertake payroll administration and statutory payments. • Manage apprentice employment records. • Provide HR guidance and employee relations support relating to apprentices. • Ensure compliance with apprenticeship funding rules and employment legislation. • Support apprentice wellbeing and welfare. • Conduct regular reviews and progress monitoring with apprentices. • Liaise wi",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "NORTHUMBRIAN WATER LIMITED"
+      },
+      "geography": {
+        "primaryArea": "North East England",
+        "areas": [
+          "North East England",
+          "Yorkshire and The Humber",
+          "Suffolk",
+          "East of England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 24479974.98,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "selective",
+        "methodDetails": "Competitive flexible procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "active",
+            "value": 24479974.98,
+            "currency": "GBP",
+            "contractStart": "2027-05-31T23:00:00.000Z",
+            "contractEnd": "2029-05-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Price - Commission/Charge Rates",
+                "weighting": 60
+              },
+              {
+                "name": "Quality",
+                "weighting": 40
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 40,
+        "priceWeighting": 60,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Price - Commission/Charge Rates",
+            "weighting": 60,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Quality",
+            "weighting": 40,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "The successful supplier will work collaboratively with NWL's Early Careers Team, hiring managers and training providers to ensure apprentices receive a positive experience and are supported to successfully complete their programmes.",
+          "Service Requirements The supplier will be required to: • Employ apprentices on behalf of NWL through an apprenticeship agency model. • Issue and maintain employment contracts and associated employment documentation. • Undertake payroll administration and statutory payments. • Manage apprentice employment records. • Provide HR guidance and employee relations support relating to apprentices. • Ensure compliance with ap",
+          "The supplier must demonstrate excellent customer service, strong apprenticeship sector knowledge and the ability to support the continued growth of NWL's apprenticeship programme.",
+          "Objectives The objectives of this contract are to: • Provide a compliant and effective apprenticeship employment service. • Deliver a positive apprentice experience. • Support apprentice retention and successful completion rates. • Ensure consistent support for apprentices and managers. • Provide accurate and timely payroll and administration services. • Deliver robust reporting and management information. • Support "
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [
+          "Objectives The objectives of this contract are to: • Provide a compliant and effective apprenticeship employment service. • Deliver a positive apprentice experience. • Support apprentice retention and successful completion rates. • Ensure consistent support for apprentices and managers. • Provide accurate and timely payroll and administration services. • Deliver robust reporting and management information. • Support "
+        ],
+        "note": "Performance wording shown here was found in the published notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-09-25T13:34:35.000Z",
+          "releaseId": "091052-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/091052-2026",
+          "tags": [
+            "tender"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/091052-2026",
+        "lastVerified": "2026-09-26T11:53:21.202Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 86,
+        "missing": [
+          "deadline or contract dates"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": true,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": true,
+          "confidence": "moderate",
+          "previousOpportunityId": "ocds-h6vhtk-06ef70",
+          "previousTitle": "Specialist employment support for economically inactive young people with involvement in the youth justice / criminal justice system",
+          "previousBuyer": "North East Combined Authority",
+          "previousSuppliers": [
+            "THE SKILL MILL LIMITED"
+          ],
+          "previousSourceUrl": "https://www.find-tender.service.gov.uk/Notice/086677-2026",
+          "changes": [
+            {
+              "field": "Published contract value",
+              "previous": 99000,
+              "current": 24479974.98,
+              "currency": "GBP"
+            },
+            {
+              "field": "Commissioner",
+              "previous": "North East Combined Authority",
+              "current": "NORTHUMBRIAN WATER LIMITED"
+            },
+            {
+              "field": "Published geography",
+              "previous": [
+                "North East England",
+                "United Kingdom",
+                "GB"
+              ],
+              "current": [
+                "North East England",
+                "Yorkshire and The Humber",
+                "Suffolk",
+                "East of England",
+                "United Kingdom",
+                "GB"
+              ]
+            },
+            {
+              "field": "Contract period",
+              "previous": {
+                "start": "2026-09-10T23:00:00.000Z",
+                "end": "2027-03-31T22:59:59.000Z"
+              },
+              "current": {
+                "start": null,
+                "end": null
+              }
+            },
+            {
+              "field": "Published evaluation weightings",
+              "previous": {
+                "quality": 0,
+                "price": 0,
+                "socialValue": 0
+              },
+              "current": {
+                "quality": 40,
+                "price": 60,
                 "socialValue": 0
               }
             }
@@ -3491,7 +4167,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-26T11:41:34.528Z"
+        "lastVerified": "2026-09-26T11:57:17.899Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4148,6 +4824,731 @@
       }
     },
     {
+      "id": "ocds-b5fd17-78c8ff12-4e84-419d-a818-7790f7a75737",
+      "slug": "cst025-179-provision-of-apprenticeship-project-manager-degree-level-6--a818-7790f7a75737",
+      "ocid": "ocds-b5fd17-78c8ff12-4e84-419d-a818-7790f7a75737",
+      "title": "CST025-179 Provision of Apprenticeship (Project Manager Degree Level 6)",
+      "description": "Non DCC Framework - Apprenticeship & Associated Training - 1086 (YPO)",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships",
+        "intelligence": {
+          "available": true,
+          "slug": "apprenticeships-growth-skills-levy",
+          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
+          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
+        }
+      },
+      "buyer": {
+        "name": "Derbyshire County Council"
+      },
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England",
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 44000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-09-24T22:59:00.000Z",
+        "daysToDeadline": -1
+      },
+      "contract": {
+        "startDate": "2026-09-30T23:00:00.000Z",
+        "endDate": "2030-09-30T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Direct award",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "University Of Derby - Research & Knowledge Exchange"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award Notice",
+          "date": "2026-09-25T11:53:38.000Z",
+          "releaseId": "6b39d37b-351e-4786-b770-1d827df3a063-915511",
+          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/6b39d37b-351e-4786-b770-1d827df3a063",
+          "tags": [
+            "award"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/6b39d37b-351e-4786-b770-1d827df3a063",
+        "lastVerified": "2026-09-26T11:56:10.834Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "University Of Derby - Research & Knowledge Exchange"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-25T10:16:01.303Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 292,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 243
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 234,
+              "medianAdvertisedSalary": 30750,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 181
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 205,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 182
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 200,
+              "medianAdvertisedSalary": 38062,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 151
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 177,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 135
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 143,
+              "medianAdvertisedSalary": 33644,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 108
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 34089,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 132
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 133,
+              "medianAdvertisedSalary": 37152,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 79
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-05f6f3",
+      "slug": "adult-skills-fund-course-delivery-ocds-h6vhtk-05f6f3",
+      "ocid": "ocds-h6vhtk-05f6f3",
+      "title": "Adult Skills Fund Course Delivery",
+      "description": "East Durham College is looking to secure a maximum of 1 organisation to deliver adult education courses to people aged 19 years and over who live in postcodes within the North East Combined Authority area. The contract value will be based on an 80/20 split. The full contract value will be £125,000 - Tenderers are invited to bid for the contract value stated that they can effectively deliver within the specified contract requirements. This may be split as incremental awards throughout the academic year dependent on achievement of deliverables. Adults must live in an address with a North East Combined Authority postcode, it is not the delivery location. Provision is expected to be part-time and must be linked to the North East Combined Authority Strategic Aims for each area. East Durham College is only seeking provision in subject sector areas 4 (Engineering) and 5 (Construction), which moves adults either directly into jobs or closer to the employment market. We will not accept large volumes of employability provision or distance learning. We would expect all the funded provision to be ASF funded and not Free Courses for Jobs.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
+      },
+      "buyer": {
+        "name": "East Durham College"
+      },
+      "geography": {
+        "primaryArea": "North East England",
+        "areas": [
+          "North East England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 0,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-01-13T12:00:00.000Z",
+        "daysToDeadline": -255
+      },
+      "contract": {
+        "startDate": "2026-02-10T00:00:00.000Z",
+        "endDate": "2026-07-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Below threshold - open competition",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": 125000,
+            "currency": "GBP",
+            "contractStart": "2026-01-26T00:00:00.000Z",
+            "contractEnd": "2026-07-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 85
+              },
+              {
+                "name": "Social Value",
+                "weighting": 15
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 85,
+        "priceWeighting": null,
+        "socialValueWeighting": 15,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": 85,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Social Value",
+            "weighting": 15,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Adults must live in an address with a North East Combined Authority postcode, it is not the delivery location.",
+          "Provision is expected to be part-time and must be linked to the North East Combined Authority Strategic Aims for each area."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "NC GROUP LTD"
+      ],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": 15,
+        "note": "An explicit buyer-stated social value weighting was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2025-12-16T15:19:34.000Z",
+          "releaseId": "083469-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/083469-2025",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Tender Update",
+          "date": "2025-12-16T15:30:13.000Z",
+          "releaseId": "083481-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/083481-2025",
+          "tags": [
+            "tenderUpdate"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-25T10:47:54.000Z",
+          "releaseId": "090928-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/090928-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090928-2026",
+        "lastVerified": "2026-09-26T11:55:37.434Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "NC GROUP LTD"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-09-25T10:16:01.303Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 292,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 243
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 234,
+              "medianAdvertisedSalary": 30750,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 181
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 205,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 182
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 200,
+              "medianAdvertisedSalary": 38062,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 151
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 177,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 135
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 143,
+              "medianAdvertisedSalary": 33644,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 108
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 34089,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 132
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 133,
+              "medianAdvertisedSalary": 37152,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 79
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": true,
+          "area": "North East",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 71.8,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 4.7,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 24.7,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 63800,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-05df3c",
+      "slug": "nhs-north-east-london-icb-independent-placement-service-ocds-h6vhtk-05df3c",
+      "ocid": "ocds-h6vhtk-05df3c",
+      "title": "NHS North East London ICB Independent Placement Service",
+      "description": "NHS North-East London ICB has completed a procurement process to appoint a single provider to deliver Individual Placement and Support Service. The service aims to support people with severe and complex mental health illness retain existing employment and achieve new paid employment, Recover more rapidly and effectively from their mental illness, Build Social Connections and support networks, Gain Financial independence, Improve their general health and wellbeing. Note that lifetime contract value is £2,453,956. The contract term is for 2 years, with an extension of up to one year, and a further year (both at the discretion of the Authority) (2+1+1).",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "IPS",
+        "slug": "ips",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "NHS North East London Integrated Care Board"
+      },
+      "geography": {
+        "primaryArea": "London",
+        "areas": [
+          "London",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 2453956,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2025-12-31T12:00:00.000Z",
+        "daysToDeadline": -268
+      },
+      "contract": {
+        "startDate": "2026-06-30T23:00:00.000Z",
+        "endDate": "2028-06-30T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": 2468400,
+            "currency": "GBP",
+            "contractStart": "2026-06-30T23:00:00.000Z",
+            "contractEnd": "2028-06-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 100,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "WORKING WELL TRUST"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2025-11-12T10:10:36.000Z",
+          "releaseId": "073042-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/073042-2025",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Tender Update",
+          "date": "2025-12-09T16:31:17.000Z",
+          "releaseId": "081194-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/081194-2025",
+          "tags": [
+            "tenderUpdate"
+          ]
+        },
+        {
+          "event": "Tender Update",
+          "date": "2025-12-17T11:09:03.000Z",
+          "releaseId": "083712-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/083712-2025",
+          "tags": [
+            "tenderUpdate"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-04-24T14:40:52.000Z",
+          "releaseId": "037706-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/037706-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-25T15:32:19.000Z",
+          "releaseId": "091170-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/091170-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/091170-2026",
+        "lastVerified": "2026-09-26T11:53:03.646Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "WORKING WELL TRUST"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
       "id": "ocds-b5fd17-04dbc9e1-608e-4e02-a593-fcb767278ed0",
       "slug": "digital-support-technician-level-3--a593-fcb767278ed0",
       "ocid": "ocds-b5fd17-04dbc9e1-608e-4e02-a593-fcb767278ed0",
@@ -4261,218 +5662,6 @@
       "supplierIntelligence": {
         "namedSuppliers": [
           "CAMBRIDGE SPARK LIMITED"
-        ],
-        "namedSupplierCount": 1,
-        "incumbentStatus": "Published awarded/current supplier information available",
-        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
-      },
-      "readiness": {
-        "sourceLinked": true,
-        "deadlinePublished": true,
-        "valuePublished": true,
-        "evaluationPublished": false,
-        "bidRequirementsPublished": false,
-        "commercialModelPublished": false,
-        "performanceRequirementsPublished": false,
-        "supplierInformationPublished": true,
-        "programmeIntelligenceLinked": true,
-        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
-      },
-      "deliveryIntelligence": {
-        "workforce": {
-          "available": true,
-          "generatedAt": "2026-09-25T10:16:01.303Z",
-          "roleSignals": [
-            {
-              "id": "operations-management",
-              "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 292,
-              "medianAdvertisedSalary": 40000,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 243
-            },
-            {
-              "id": "employment-adviser",
-              "role": "Employment Adviser / Coach",
-              "returnedVacancySample": 234,
-              "medianAdvertisedSalary": 30750,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 181
-            },
-            {
-              "id": "skills-training",
-              "role": "Skills / Training",
-              "returnedVacancySample": 205,
-              "medianAdvertisedSalary": 32500,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 182
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 38062,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 151
-            },
-            {
-              "id": "careers-advice",
-              "role": "Careers Adviser",
-              "returnedVacancySample": 177,
-              "medianAdvertisedSalary": 35000,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 135
-            },
-            {
-              "id": "ips-employment-specialist",
-              "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 33644,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 108
-            },
-            {
-              "id": "quality-performance",
-              "role": "Quality / Performance",
-              "returnedVacancySample": 140,
-              "medianAdvertisedSalary": 34089,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 132
-            },
-            {
-              "id": "team-leadership",
-              "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 133,
-              "medianAdvertisedSalary": 37152,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 79
-            }
-          ],
-          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
-        },
-        "localNeed": {
-          "available": false,
-          "area": null,
-          "metrics": [],
-          "note": "No safely matched programme labour-market geography was available for this opportunity."
-        },
-        "recommissioningDelta": {
-          "available": false,
-          "previousOpportunityId": null,
-          "changes": [],
-          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
-        }
-      }
-    },
-    {
-      "id": "ocds-b5fd17-78c8ff12-4e84-419d-a818-7790f7a75737",
-      "slug": "cst025-179-provision-of-apprenticeship-project-manager-degree-level-6--a818-7790f7a75737",
-      "ocid": "ocds-b5fd17-78c8ff12-4e84-419d-a818-7790f7a75737",
-      "title": "CST025-179 Provision of Apprenticeship (Project Manager Degree Level 6)",
-      "description": "Non DCC Framework - Apprenticeship & Associated Training - 1086 (YPO)",
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships",
-        "intelligence": {
-          "available": true,
-          "slug": "apprenticeships-growth-skills-levy",
-          "path": "/programme-intelligence?programme=apprenticeships-growth-skills-levy",
-          "programmeFeedPath": "programme-intelligence/apprenticeships-growth-skills-levy.json"
-        }
-      },
-      "buyer": {
-        "name": "Derbyshire County Council"
-      },
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England",
-          "United Kingdom"
-        ]
-      },
-      "value": {
-        "amount": 44000,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": "2026-09-24T22:59:00.000Z",
-        "daysToDeadline": -1
-      },
-      "contract": {
-        "startDate": "2026-09-30T23:00:00.000Z",
-        "endDate": "2030-09-30T22:59:59.000Z"
-      },
-      "procurement": {
-        "method": "direct",
-        "methodDetails": "Direct award",
-        "mainCategory": "services",
-        "lots": []
-      },
-      "evaluation": {
-        "qualityWeighting": null,
-        "priceWeighting": null,
-        "socialValueWeighting": null,
-        "criteria": [],
-        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [],
-        "suitabilitySignals": [],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [
-        "University Of Derby - Research & Knowledge Exchange"
-      ],
-      "socialValue": {
-        "mentioned": false,
-        "weighting": null,
-        "note": "No explicit social value reference was found in the structured procurement data."
-      },
-      "timeline": [
-        {
-          "event": "Award Notice",
-          "date": "2026-09-25T11:53:38.000Z",
-          "releaseId": "6b39d37b-351e-4786-b770-1d827df3a063-915511",
-          "sourceUrl": "https://www.contractsfinder.service.gov.uk/Notice/6b39d37b-351e-4786-b770-1d827df3a063",
-          "tags": [
-            "award"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Contracts Finder",
-        "sourceId": "contracts-finder",
-        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/6b39d37b-351e-4786-b770-1d827df3a063",
-        "lastVerified": "2026-09-25T12:27:14.987Z"
-      },
-      "dataCompleteness": {
-        "status": "strong",
-        "score": 100,
-        "missing": []
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      },
-      "supplierIntelligence": {
-        "namedSuppliers": [
-          "University Of Derby - Research & Knowledge Exchange"
         ],
         "namedSupplierCount": 1,
         "incumbentStatus": "Published awarded/current supplier information available",
@@ -5280,309 +6469,6 @@
               "name": "Claimant count",
               "unit": "people",
               "value": 347135,
-              "periodStart": "2026-08-01T00:00:00Z",
-              "periodEnd": "2026-08-31T23:59:59Z"
-            }
-          ],
-          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
-        },
-        "recommissioningDelta": {
-          "available": false,
-          "previousOpportunityId": null,
-          "changes": [],
-          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
-        }
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-05f6f3",
-      "slug": "adult-skills-fund-course-delivery-ocds-h6vhtk-05f6f3",
-      "ocid": "ocds-h6vhtk-05f6f3",
-      "title": "Adult Skills Fund Course Delivery",
-      "description": "East Durham College is looking to secure a maximum of 1 organisation to deliver adult education courses to people aged 19 years and over who live in postcodes within the North East Combined Authority area. The contract value will be based on an 80/20 split. The full contract value will be £125,000 - Tenderers are invited to bid for the contract value stated that they can effectively deliver within the specified contract requirements. This may be split as incremental awards throughout the academic year dependent on achievement of deliverables. Adults must live in an address with a North East Combined Authority postcode, it is not the delivery location. Provision is expected to be part-time and must be linked to the North East Combined Authority Strategic Aims for each area. East Durham College is only seeking provision in subject sector areas 4 (Engineering) and 5 (Construction), which moves adults either directly into jobs or closer to the employment market. We will not accept large volumes of employability provision or distance learning. We would expect all the funded provision to be ASF funded and not Free Courses for Jobs.",
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Adult Skills Fund",
-        "slug": "adult-skills-fund",
-        "intelligence": {
-          "available": true,
-          "slug": "adult-skills-fund",
-          "path": "/programme-intelligence?programme=adult-skills-fund",
-          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
-        }
-      },
-      "buyer": {
-        "name": "East Durham College"
-      },
-      "geography": {
-        "primaryArea": "North East England",
-        "areas": [
-          "North East England",
-          "United Kingdom",
-          "GB"
-        ]
-      },
-      "value": {
-        "amount": 0,
-        "currency": "GBP",
-        "basis": "contract"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": "2026-01-13T12:00:00.000Z",
-        "daysToDeadline": -255
-      },
-      "contract": {
-        "startDate": "2026-02-10T00:00:00.000Z",
-        "endDate": "2026-07-31T22:59:59.000Z"
-      },
-      "procurement": {
-        "method": "open",
-        "methodDetails": "Below threshold - open competition",
-        "mainCategory": "services",
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": null,
-            "status": "complete",
-            "value": 125000,
-            "currency": "GBP",
-            "contractStart": "2026-01-26T00:00:00.000Z",
-            "contractEnd": "2026-07-31T22:59:59.000Z",
-            "awardCriteria": [
-              {
-                "name": "Quality",
-                "weighting": 85
-              },
-              {
-                "name": "Social Value",
-                "weighting": 15
-              }
-            ]
-          }
-        ]
-      },
-      "evaluation": {
-        "qualityWeighting": 85,
-        "priceWeighting": null,
-        "socialValueWeighting": 15,
-        "criteria": [
-          {
-            "name": "Quality",
-            "weighting": 85,
-            "lotId": "1",
-            "lotTitle": null
-          },
-          {
-            "name": "Social Value",
-            "weighting": 15,
-            "lotId": "1",
-            "lotTitle": null
-          }
-        ],
-        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [
-          "Adults must live in an address with a North East Combined Authority postcode, it is not the delivery location.",
-          "Provision is expected to be part-time and must be linked to the North East Combined Authority Strategic Aims for each area."
-        ],
-        "suitabilitySignals": [],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [
-        "NC GROUP LTD"
-      ],
-      "socialValue": {
-        "mentioned": true,
-        "weighting": 15,
-        "note": "An explicit buyer-stated social value weighting was found in the structured procurement data."
-      },
-      "timeline": [
-        {
-          "event": "Tender Published",
-          "date": "2025-12-16T15:19:34.000Z",
-          "releaseId": "083469-2025",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/083469-2025",
-          "tags": [
-            "tender"
-          ]
-        },
-        {
-          "event": "Tender Update",
-          "date": "2025-12-16T15:30:13.000Z",
-          "releaseId": "083481-2025",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/083481-2025",
-          "tags": [
-            "tenderUpdate"
-          ]
-        },
-        {
-          "event": "Award / Contract Notice",
-          "date": "2026-09-25T10:47:54.000Z",
-          "releaseId": "090928-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/090928-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090928-2026",
-        "lastVerified": "2026-09-25T12:21:47.639Z"
-      },
-      "dataCompleteness": {
-        "status": "strong",
-        "score": 100,
-        "missing": []
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      },
-      "supplierIntelligence": {
-        "namedSuppliers": [
-          "NC GROUP LTD"
-        ],
-        "namedSupplierCount": 1,
-        "incumbentStatus": "Published awarded/current supplier information available",
-        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
-      },
-      "readiness": {
-        "sourceLinked": true,
-        "deadlinePublished": true,
-        "valuePublished": true,
-        "evaluationPublished": true,
-        "bidRequirementsPublished": true,
-        "commercialModelPublished": false,
-        "performanceRequirementsPublished": false,
-        "supplierInformationPublished": true,
-        "programmeIntelligenceLinked": true,
-        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
-      },
-      "deliveryIntelligence": {
-        "workforce": {
-          "available": true,
-          "generatedAt": "2026-09-25T10:16:01.303Z",
-          "roleSignals": [
-            {
-              "id": "operations-management",
-              "role": "Operations / Service Delivery Manager",
-              "returnedVacancySample": 292,
-              "medianAdvertisedSalary": 40000,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 243
-            },
-            {
-              "id": "employment-adviser",
-              "role": "Employment Adviser / Coach",
-              "returnedVacancySample": 234,
-              "medianAdvertisedSalary": 30750,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 181
-            },
-            {
-              "id": "skills-training",
-              "role": "Skills / Training",
-              "returnedVacancySample": 205,
-              "medianAdvertisedSalary": 32500,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 182
-            },
-            {
-              "id": "employer-engagement",
-              "role": "Employer Engagement",
-              "returnedVacancySample": 200,
-              "medianAdvertisedSalary": 38062,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 151
-            },
-            {
-              "id": "careers-advice",
-              "role": "Careers Adviser",
-              "returnedVacancySample": 177,
-              "medianAdvertisedSalary": 35000,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 135
-            },
-            {
-              "id": "ips-employment-specialist",
-              "role": "IPS / Supported Employment Specialist",
-              "returnedVacancySample": 143,
-              "medianAdvertisedSalary": 33644,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 108
-            },
-            {
-              "id": "quality-performance",
-              "role": "Quality / Performance",
-              "returnedVacancySample": 140,
-              "medianAdvertisedSalary": 34089,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 132
-            },
-            {
-              "id": "team-leadership",
-              "role": "Team Leader / Team Manager",
-              "returnedVacancySample": 133,
-              "medianAdvertisedSalary": 37152,
-              "salaryCurrency": "GBP",
-              "salarySampleSize": 79
-            }
-          ],
-          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
-        },
-        "localNeed": {
-          "available": true,
-          "area": "North East",
-          "nation": "England",
-          "metrics": [
-            {
-              "metricType": "employment-rate",
-              "name": "Employment rate - aged 16-64",
-              "unit": "percent",
-              "value": 71.8,
-              "periodStart": "2025-04-01T00:00:00Z",
-              "periodEnd": "2026-03-31T23:59:59Z"
-            },
-            {
-              "metricType": "unemployment-rate",
-              "name": "Unemployment rate - aged 16-64",
-              "unit": "percent",
-              "value": 4.7,
-              "periodStart": "2025-04-01T00:00:00Z",
-              "periodEnd": "2026-03-31T23:59:59Z"
-            },
-            {
-              "metricType": "economic-inactivity-rate",
-              "name": "Economic inactivity rate - aged 16-64",
-              "unit": "percent",
-              "value": 24.7,
-              "periodStart": "2025-04-01T00:00:00Z",
-              "periodEnd": "2026-03-31T23:59:59Z"
-            },
-            {
-              "metricType": "claimant-count",
-              "name": "Claimant count",
-              "unit": "people",
-              "value": 63800,
               "periodStart": "2026-08-01T00:00:00Z",
               "periodEnd": "2026-08-31T23:59:59Z"
             }
@@ -14476,8 +15362,8 @@
     "containsCommercialRecommendations": false,
     "containsRawVacancies": false,
     "sourceDirectory": "validated-publishable-procurements",
-    "sourceFileCount": 150,
-    "selectedOpportunityCount": 48,
+    "sourceFileCount": 153,
+    "selectedOpportunityCount": 51,
     "rejected": {
       "nonPublishable": 0,
       "nonAccepted": 0,
@@ -14919,6 +15805,18 @@
         ]
       },
       {
+        "supplier": "WORKING WELL TRUST",
+        "awardCount": 1,
+        "publishedAwardValue": 2453956,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "IPS"
+        ],
+        "buyers": [
+          "NHS North East London Integrated Care Board"
+        ]
+      },
+      {
         "supplier": "FEDCAP EMPLOYMENT LIMITED",
         "awardCount": 1,
         "publishedAwardValue": 2271542,
@@ -15241,18 +16139,6 @@
         "buyers": [
           "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
-      },
-      {
-        "supplier": "JCL SKILLS SOLUTIONS LIMITED",
-        "awardCount": 1,
-        "publishedAwardValue": 1054657,
-        "awardValueSampleCount": 1,
-        "programmes": [
-          "Skills Bootcamps"
-        ],
-        "buyers": [
-          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
-        ]
       }
     ],
     "commissionerLandscape": [
@@ -15304,6 +16190,22 @@
         "liveOrUpcomingCount": 1,
         "programmes": [
           "IPS"
+        ]
+      },
+      {
+        "buyer": "BlueLight Commercial Limited",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Apprenticeships"
+        ]
+      },
+      {
+        "buyer": "NORTHUMBRIAN WATER LIMITED",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Employment Support"
         ]
       },
       {
@@ -15397,7 +16299,7 @@
         ]
       },
       {
-        "buyer": "NHS Business Services Authority",
+        "buyer": "Derbyshire County Council",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 0,
         "programmes": [
@@ -15405,7 +16307,15 @@
         ]
       },
       {
-        "buyer": "Derbyshire County Council",
+        "buyer": "NHS North East London Integrated Care Board",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "IPS"
+        ]
+      },
+      {
+        "buyer": "NHS Business Services Authority",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 0,
         "programmes": [
@@ -15736,11 +16646,11 @@
     ],
     "differentiators": {
       "recommissioningDelta": {
-        "availableCount": 7,
+        "availableCount": 9,
         "description": "Compares an active opportunity with the strongest related previous award in CareerPath's curated history and shows factual changes in published value, geography, contract period and evaluation where available."
       },
       "workforceSignals": {
-        "linkedOpportunityCount": 41,
+        "linkedOpportunityCount": 42,
         "description": "Links opportunities to CareerPath's programme workforce data to show aggregated role-demand and advertised-salary signals relevant to mobilisation."
       },
       "localDeliveryContext": {
