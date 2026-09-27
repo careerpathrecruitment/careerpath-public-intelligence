@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-09-27T12:20:30.440Z",
+  "generatedAt": "2026-09-27T12:32:47.163Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 59,
+    "total": 60,
     "live": 15,
     "upcoming": 3,
     "marketEngagement": 0,
-    "recentAwards": 41,
+    "recentAwards": 42,
     "closingWithin7Days": 0,
     "closingWithin30Days": 4,
     "supplyChain": 5,
-    "commissioner": 54,
+    "commissioner": 55,
     "programmeLinked": 42,
-    "programmeUnlinked": 17
+    "programmeUnlinked": 18
   },
   "filters": {
     "programmes": [
@@ -233,7 +233,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-27T12:19:45.861Z"
+        "lastVerified": "2026-09-27T12:32:14.816Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2222,7 +2222,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-09-27T12:19:45.861Z"
+        "lastVerified": "2026-09-27T12:32:14.816Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4167,7 +4167,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-09-27T12:19:45.861Z"
+        "lastVerified": "2026-09-27T12:32:14.816Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4820,6 +4820,165 @@
             }
           ],
           "note": "Comparison uses related records already present in CareerPath's curated dataset. It highlights published factual differences only and does not infer strategic intent."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-077b08",
+      "slug": "cbc-2156-w-26113-sm-employment-support-services-ocds-h6vhtk-077b08",
+      "ocid": "ocds-h6vhtk-077b08",
+      "title": "CBC-2156-W-26113-SM Employment Support Services",
+      "description": "The Mental Health Employment Support service is to provide specialist employment support services to adults living in Central Bedfordshire recovering from or experiencing mental ill health.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Central Bedfordshire Council"
+      },
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 53463,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": "2026-03-31T23:00:00.000Z",
+        "endDate": "2027-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Below threshold - without competition",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Waythrough"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-09-26T20:34:44.000Z",
+          "releaseId": "091208-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/091208-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/091208-2026",
+        "lastVerified": "2026-09-27T12:31:37.312Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 88,
+        "missing": [
+          "geography"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Waythrough"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
         }
       }
     },
@@ -15362,8 +15521,8 @@
     "containsCommercialRecommendations": false,
     "containsRawVacancies": false,
     "sourceDirectory": "validated-publishable-procurements",
-    "sourceFileCount": 153,
-    "selectedOpportunityCount": 51,
+    "sourceFileCount": 154,
+    "selectedOpportunityCount": 52,
     "rejected": {
       "nonPublishable": 0,
       "nonAccepted": 0,
@@ -16282,6 +16441,15 @@
         ]
       },
       {
+        "buyer": "Central Bedfordshire Council",
+        "opportunityCount": 2,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Apprenticeships",
+          "Employment Support"
+        ]
+      },
+      {
         "buyer": "North East Combined Authority",
         "opportunityCount": 2,
         "liveOrUpcomingCount": 0,
@@ -16444,14 +16612,6 @@
       },
       {
         "buyer": "Ministry of Defence",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Apprenticeships"
-        ]
-      },
-      {
-        "buyer": "Central Bedfordshire Council",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 0,
         "programmes": [
