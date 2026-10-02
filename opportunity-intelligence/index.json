@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-10-02T15:52:18.018Z",
+  "generatedAt": "2026-10-02T16:02:10.129Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -251,7 +251,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-02T15:51:40.987Z"
+        "lastVerified": "2026-10-02T16:01:38.423Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1092,6 +1092,229 @@
       }
     },
     {
+      "id": "ocds-h6vhtk-077d91",
+      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
+      "ocid": "ocds-h6vhtk-077d91",
+      "title": "Progression Towards Employment",
+      "description": "Stockport Metropolitan Borough Council Economy Work & Skills Service is seeking to procure a lead provider to deliver a programme of activity which supports economically inactive Stockport residents who are furthest away from the labour market, with complex needs (including those who are not engaged with mainstream provision and those accessing work and skills triage support via our Work & Skills Navigators) to address barriers and achieve positive onward destinations The design of the delivery is based around a set of 'Key Principles' and a 'Menu of Interventions' and activity should reach out to and attract residents from some of Stockport's communities who are not currently accessing the support they need to overcome barriers, helping them to them make positive progressions towards their goals and aspirations. Advancing equality of opportunity in the labour market, and reducing social isolation are key drivers for this programme and participants should be given the opportunity to access person-centred, one-to-one support via a Key Worker model, to enable them to participate in activities which have a positive impact on their life, address personal challenges and needs, and improve their life chances. The delivery model should offer a varied menu of engaging interventions which will address the most significant or pressing barriers that a participant is facing and help them o",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Stockport Metropolitan Borough Council"
+      },
+      "geography": {
+        "primaryArea": "North West England",
+        "areas": [
+          "North West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 870000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-10-30T16:00:00.000Z",
+        "daysToDeadline": 28
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "active",
+            "value": 870000,
+            "currency": "GBP",
+            "contractStart": "2027-01-04T00:00:00.000Z",
+            "contractEnd": "2029-03-30T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Service Delivery",
+                "weighting": 15
+              },
+              {
+                "name": "Outcomes",
+                "weighting": 25
+              },
+              {
+                "name": "Addressing and overcoming barriers to employment and progression",
+                "weighting": 10
+              },
+              {
+                "name": "Employer Engagement",
+                "weighting": 10
+              },
+              {
+                "name": "Social Value",
+                "weighting": 20
+              },
+              {
+                "name": "Price",
+                "weighting": 20
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 15,
+        "priceWeighting": 20,
+        "socialValueWeighting": 20,
+        "criteria": [
+          {
+            "name": "Service Delivery",
+            "weighting": 15,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Outcomes",
+            "weighting": 25,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Addressing and overcoming barriers to employment and progression",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Employer Engagement",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Social Value",
+            "weighting": 20,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Price",
+            "weighting": 20,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Stockport Metropolitan Borough Council Economy Work & Skills Service is seeking to procure a lead provider to deliver a programme of activity which supports economically inactive Stockport residents who are furthest away from the labour market, with complex needs (including those who are not engaged with mainstream provision and those accessing work and skills triage support via our Work & Skills Navigators) to addre"
+        ],
+        "suitabilitySignals": [
+          "Partnership or supply-chain delivery is mentioned in published material"
+        ],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": null,
+        "note": "Multiple social value weightings were found; no single overall weighting is inferred."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-09-30T12:16:52.000Z",
+          "releaseId": "092358-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+          "tags": [
+            "tender"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+        "lastVerified": "2026-10-01T14:02:52.653Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "reviewCandidate": false,
+          "note": "No strong predecessor match is safe to publish automatically. Any weaker candidate remains internal for review."
+        }
+      }
+    },
+    {
       "id": "supply-chain:ingeus-fes",
       "slug": "ingeus-future-employment-support-ingeus-fes",
       "ocid": null,
@@ -1373,229 +1596,6 @@
             }
           ],
           "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
-        },
-        "recommissioningDelta": {
-          "available": false,
-          "previousOpportunityId": null,
-          "changes": [],
-          "reviewCandidate": false,
-          "note": "No strong predecessor match is safe to publish automatically. Any weaker candidate remains internal for review."
-        }
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077d91",
-      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
-      "ocid": "ocds-h6vhtk-077d91",
-      "title": "Progression Towards Employment",
-      "description": "Stockport Metropolitan Borough Council Economy Work & Skills Service is seeking to procure a lead provider to deliver a programme of activity which supports economically inactive Stockport residents who are furthest away from the labour market, with complex needs (including those who are not engaged with mainstream provision and those accessing work and skills triage support via our Work & Skills Navigators) to address barriers and achieve positive onward destinations The design of the delivery is based around a set of 'Key Principles' and a 'Menu of Interventions' and activity should reach out to and attract residents from some of Stockport's communities who are not currently accessing the support they need to overcome barriers, helping them to them make positive progressions towards their goals and aspirations. Advancing equality of opportunity in the labour market, and reducing social isolation are key drivers for this programme and participants should be given the opportunity to access person-centred, one-to-one support via a Key Worker model, to enable them to participate in activities which have a positive impact on their life, address personal challenges and needs, and improve their life chances. The delivery model should offer a varied menu of engaging interventions which will address the most significant or pressing barriers that a participant is facing and help them o",
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support",
-        "intelligence": {
-          "available": false,
-          "slug": null,
-          "path": null,
-          "programmeFeedPath": null
-        }
-      },
-      "buyer": {
-        "name": "Stockport Metropolitan Borough Council"
-      },
-      "geography": {
-        "primaryArea": "North West England",
-        "areas": [
-          "North West England",
-          "United Kingdom",
-          "GB"
-        ]
-      },
-      "value": {
-        "amount": 870000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": "2026-10-30T16:00:00.000Z",
-        "daysToDeadline": 29
-      },
-      "contract": {
-        "startDate": null,
-        "endDate": null
-      },
-      "procurement": {
-        "method": "open",
-        "methodDetails": "Open procedure",
-        "mainCategory": "services",
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": null,
-            "status": "active",
-            "value": 870000,
-            "currency": "GBP",
-            "contractStart": "2027-01-04T00:00:00.000Z",
-            "contractEnd": "2029-03-30T22:59:59.000Z",
-            "awardCriteria": [
-              {
-                "name": "Service Delivery",
-                "weighting": 15
-              },
-              {
-                "name": "Outcomes",
-                "weighting": 25
-              },
-              {
-                "name": "Addressing and overcoming barriers to employment and progression",
-                "weighting": 10
-              },
-              {
-                "name": "Employer Engagement",
-                "weighting": 10
-              },
-              {
-                "name": "Social Value",
-                "weighting": 20
-              },
-              {
-                "name": "Price",
-                "weighting": 20
-              }
-            ]
-          }
-        ]
-      },
-      "evaluation": {
-        "qualityWeighting": 15,
-        "priceWeighting": 20,
-        "socialValueWeighting": 20,
-        "criteria": [
-          {
-            "name": "Service Delivery",
-            "weighting": 15,
-            "lotId": "1",
-            "lotTitle": null
-          },
-          {
-            "name": "Outcomes",
-            "weighting": 25,
-            "lotId": "1",
-            "lotTitle": null
-          },
-          {
-            "name": "Addressing and overcoming barriers to employment and progression",
-            "weighting": 10,
-            "lotId": "1",
-            "lotTitle": null
-          },
-          {
-            "name": "Employer Engagement",
-            "weighting": 10,
-            "lotId": "1",
-            "lotTitle": null
-          },
-          {
-            "name": "Social Value",
-            "weighting": 20,
-            "lotId": "1",
-            "lotTitle": null
-          },
-          {
-            "name": "Price",
-            "weighting": 20,
-            "lotId": "1",
-            "lotTitle": null
-          }
-        ],
-        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [
-          "Stockport Metropolitan Borough Council Economy Work & Skills Service is seeking to procure a lead provider to deliver a programme of activity which supports economically inactive Stockport residents who are furthest away from the labour market, with complex needs (including those who are not engaged with mainstream provision and those accessing work and skills triage support via our Work & Skills Navigators) to addre"
-        ],
-        "suitabilitySignals": [
-          "Partnership or supply-chain delivery is mentioned in published material"
-        ],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [],
-      "socialValue": {
-        "mentioned": true,
-        "weighting": null,
-        "note": "Multiple social value weightings were found; no single overall weighting is inferred."
-      },
-      "timeline": [
-        {
-          "event": "Tender Published",
-          "date": "2026-09-30T12:16:52.000Z",
-          "releaseId": "092358-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-          "tags": [
-            "tender"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-        "lastVerified": "2026-10-01T14:02:52.653Z"
-      },
-      "dataCompleteness": {
-        "status": "strong",
-        "score": 100,
-        "missing": []
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      },
-      "supplierIntelligence": {
-        "namedSuppliers": [],
-        "namedSupplierCount": 0,
-        "incumbentStatus": "No supplier identified in the current public record",
-        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
-      },
-      "readiness": {
-        "sourceLinked": true,
-        "deadlinePublished": true,
-        "valuePublished": true,
-        "evaluationPublished": true,
-        "bidRequirementsPublished": true,
-        "commercialModelPublished": false,
-        "performanceRequirementsPublished": false,
-        "supplierInformationPublished": false,
-        "programmeIntelligenceLinked": false,
-        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
-      },
-      "deliveryIntelligence": {
-        "workforce": {
-          "available": false,
-          "generatedAt": null,
-          "roleSignals": [],
-          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
-        },
-        "localNeed": {
-          "available": false,
-          "area": null,
-          "metrics": [],
-          "note": "No safely matched programme labour-market geography was available for this opportunity."
         },
         "recommissioningDelta": {
           "available": false,
@@ -2610,7 +2610,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-02T15:51:40.987Z"
+        "lastVerified": "2026-10-02T16:01:38.423Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4423,7 +4423,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-02T15:51:40.987Z"
+        "lastVerified": "2026-10-02T16:01:38.423Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -5766,7 +5766,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-09-21T16:00:00.000Z",
-        "daysToDeadline": -10
+        "daysToDeadline": -11
       },
       "contract": {
         "startDate": "2026-09-21T23:00:00.000Z",
@@ -7496,7 +7496,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2025-06-20T16:00:00.000Z",
-        "daysToDeadline": -468
+        "daysToDeadline": -469
       },
       "contract": {
         "startDate": "2025-09-28T23:00:00.000Z",
@@ -13788,7 +13788,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -80
+        "daysToDeadline": -81
       },
       "contract": {
         "startDate": null,
@@ -15016,7 +15016,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-05-08T16:00:00.000Z",
-        "daysToDeadline": -146
+        "daysToDeadline": -147
       },
       "contract": {
         "startDate": null,
@@ -15943,7 +15943,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -34
+        "daysToDeadline": -35
       },
       "contract": {
         "startDate": null,
@@ -18580,7 +18580,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -92
+        "daysToDeadline": -93
       },
       "contract": {
         "startDate": "2026-07-31T23:00:00.000Z",
@@ -19021,7 +19021,7 @@
       "tender": {
         "startDate": null,
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -76
+        "daysToDeadline": -77
       },
       "contract": {
         "startDate": "2026-09-08T23:00:00.000Z",
@@ -22237,19 +22237,19 @@
         ]
       },
       {
-        "buyer": "Ingeus",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 1,
-        "programmes": [
-          "Future Employment Support"
-        ]
-      },
-      {
         "buyer": "Stockport Metropolitan Borough Council",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 1,
         "programmes": [
           "Employment Support"
+        ]
+      },
+      {
+        "buyer": "Ingeus",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Future Employment Support"
         ]
       },
       {
