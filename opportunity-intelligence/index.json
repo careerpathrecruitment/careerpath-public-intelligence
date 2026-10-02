@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-10-02T18:22:49.598Z",
+  "generatedAt": "2026-10-02T18:44:24.937Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 86,
-    "live": 17,
-    "upcoming": 3,
+    "total": 89,
+    "live": 19,
+    "upcoming": 4,
     "marketEngagement": 0,
     "recentAwards": 66,
     "closingWithin7Days": 1,
-    "closingWithin30Days": 6,
-    "supplyChain": 5,
+    "closingWithin30Days": 7,
+    "supplyChain": 8,
     "commissioner": 81,
-    "programmeLinked": 61,
+    "programmeLinked": 64,
     "programmeUnlinked": 25
   },
   "filters": {
@@ -43,6 +43,7 @@
       "Derbyshire County Council",
       "East Durham College",
       "Essex County Council",
+      "Fedcap",
       "Greater Lincolnshire Combined County Authority",
       "H M REVENUE & CUSTOMS",
       "Hull City Council",
@@ -73,11 +74,13 @@
       "North East Combined Authority",
       "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
       "Pennine Care NHS Foundation Trust",
+      "PeoplePlus",
       "Plymouth City Council",
       "Portsmouth City Council",
       "Reed in Partnership",
       "SUFFOLK COUNTY COUNCIL",
       "Seetec",
+      "Shaw Trust",
       "Sheffield City Council",
       "Somerset Council",
       "South Oxfordshire District Council",
@@ -150,10 +153,13 @@
     ],
     "primeProviders": [
       "AKG",
+      "Fedcap",
       "Ingeus",
       "Maximus UK",
+      "PeoplePlus",
       "Reed in Partnership",
-      "Seetec"
+      "Seetec",
+      "Shaw Trust"
     ]
   },
   "opportunities": [
@@ -251,7 +257,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-02T18:22:05.791Z"
+        "lastVerified": "2026-10-02T18:43:40.406Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -845,6 +851,311 @@
       }
     },
     {
+      "id": "supply-chain:fedcap-fes",
+      "slug": "fedcap-future-employment-support-fedcap-fes",
+      "ocid": null,
+      "title": "Future Employment Support partner expression of interest",
+      "description": "Partner With Us | Fedcap --> --> --> Skip to content . . Partner with us . . . . . . . WeConnect is a collaborative community open to all individuals and organisations looking to partner with Fedcap in delivering person-centred excellence to customers across the Health, Employability, Education and Learning, and Economic Development spheres..",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support",
+        "intelligence": {
+          "available": true,
+          "slug": "future-employment-support",
+          "path": "/programme-intelligence?programme=future-employment-support",
+          "programmeFeedPath": "programme-intelligence/future-employment-support.json"
+        }
+      },
+      "buyer": {
+        "name": "Fedcap",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Fedcap",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England",
+          "North East",
+          "North West",
+          "Yorkshire and The Humber",
+          "East Midlands",
+          "West Midlands",
+          "East of England",
+          "London",
+          "South East",
+          "South West",
+          "Scotland",
+          "Wales"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-10-16T00:00:00.000Z",
+        "daysToDeadline": 14
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Hyper-local networking and good practice sharing to build community capacity, promote services and join up the dots of local provision."
+        ],
+        "suitabilitySignals": [
+          "SME sought or mentioned by the prime provider",
+          "VCSE / voluntary sector sought or mentioned by the prime provider",
+          "End-to-end delivery partner sought or mentioned by the prime provider",
+          "Specialist provider sought or mentioned by the prime provider",
+          "Skills / training provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider",
+          "Employer engagement specialist sought or mentioned by the prime provider",
+          "Local / community provider sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "Fedcap",
+        "partnerTypes": [
+          "SME",
+          "VCSE / voluntary sector",
+          "End-to-end delivery partner",
+          "Specialist provider",
+          "Skills / training provider",
+          "Health / disability specialist",
+          "Employer engagement specialist",
+          "Local / community provider"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Employer engagement"
+        ],
+        "partnershipSignals": [
+          "Partner With Us | Fedcap --> --> --> Skip to content . .",
+          "Partner with us . . . . . . .",
+          "WeConnect is a collaborative community open to all individuals and organisations looking to partner with Fedcap in delivering person-centred excellence to customers across the Health, Employability, Education and Learning, and Economic Development spheres..",
+          "Membership of the community gives you access to:.",
+          "Community-produced and expert-led training and development on key knowledge/skills including insights from our international group.",
+          "Hyper-local networking and good practice sharing to build community capacity, promote services and join up the dots of local provision.",
+          "Employer engagement coordination to maximise impact for the whole community to benefit from job vacancies suited to customers’ preferences.",
+          "Policy and practice updates keeping the community informed about current and future trends on national and local government thinking. . . . .",
+          "As a transformative partner we are keen to ensure the community is accessible to specialist hyper-local organisations who will bring essential knowledge and experience but can be limited by scale.",
+          "Our community is driven by a commitment to collaboration over duplication, supporting the membership to unlock new partnerships both with us and each other.."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-10-02T18:44:19.829Z",
+          "releaseId": "fedcap-fes",
+          "sourceUrl": "https://fedcap.org.uk/weconnect/",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Fedcap",
+        "sourceId": "fedcap-fes",
+        "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
+        "lastVerified": "2026-10-02T18:44:19.829Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "contract value",
+          "formal evaluation weightings"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-10-02T14:12:42.774Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 290,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 236
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 228,
+              "medianAdvertisedSalary": 31000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 178
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 224,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 195
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 195,
+              "medianAdvertisedSalary": 39000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 142
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 180,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 139
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 155,
+              "medianAdvertisedSalary": 31049,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 118
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 37000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 135
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 127,
+              "medianAdvertisedSalary": 37500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 73
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": true,
+          "area": "North East",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 71.8,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 4.7,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 24.7,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 63800,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "reviewCandidate": false,
+          "note": "No strong predecessor match is safe to publish automatically. Any weaker candidate remains internal for review."
+        }
+      }
+    },
+    {
       "id": "ocds-h6vhtk-077a0e",
       "slug": "south-wales-shared-apprenticeships-scheme-ocds-h6vhtk-077a0e",
       "ocid": "ocds-h6vhtk-077a0e",
@@ -1342,8 +1653,9 @@
       },
       "primeProvider": "Ingeus",
       "geography": {
-        "primaryArea": "London",
+        "primaryArea": "England",
         "areas": [
+          "England",
           "London"
         ]
       },
@@ -1437,7 +1749,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-02T13:00:12.297Z",
+          "date": "2026-10-02T18:44:19.829Z",
           "releaseId": "ingeus-fes",
           "sourceUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
           "tags": [
@@ -1450,7 +1762,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-02T13:00:12.297Z"
+        "lastVerified": "2026-10-02T18:44:19.829Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2610,7 +2922,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-02T18:22:05.791Z"
+        "lastVerified": "2026-10-02T18:43:40.406Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2696,10 +3008,10 @@
       },
       "primeProvider": "AKG",
       "geography": {
-        "primaryArea": "London",
+        "primaryArea": "England",
         "areas": [
-          "London",
-          "England"
+          "England",
+          "London"
         ]
       },
       "value": {
@@ -2771,7 +3083,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-02T13:00:12.297Z",
+          "date": "2026-10-02T18:44:19.829Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -2784,7 +3096,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-02T13:00:12.297Z"
+        "lastVerified": "2026-10-02T18:44:19.829Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2969,8 +3281,9 @@
       },
       "primeProvider": "Maximus UK",
       "geography": {
-        "primaryArea": "Scotland",
+        "primaryArea": "England",
         "areas": [
+          "England",
           "Scotland",
           "Wales"
         ]
@@ -3065,7 +3378,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-02T13:00:12.297Z",
+          "date": "2026-10-02T18:44:19.829Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -3078,7 +3391,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-02T13:00:12.297Z"
+        "lastVerified": "2026-10-02T18:44:19.829Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3202,6 +3515,255 @@
       }
     },
     {
+      "id": "supply-chain:peopleplus-fes",
+      "slug": "peopleplus-future-employment-support-peopleplus-fes",
+      "ocid": null,
+      "title": "Future Employment Support partner expression of interest",
+      "description": "Join our partner network and help us make a difference. We welcome expressions of interest from a diverse range of locally embedded end-to-end delivery partners, community organisations and specialist support providers. Organisations should have demonstrable experience of delivering activities such as:. employability support, e.g. pre-employment training, work experience, job trials, job brokerage, job carving, in-work support and self-employment advice. support in managing health and wellbeing in the workplace. support to overcome barriers to work, e.g. housing, transport, childcare. specialist support for complex issues, e.g. addiction, homelessness, ESOL..",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "partnerRoute": "Prime provider EOI",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support",
+        "intelligence": {
+          "available": true,
+          "slug": "future-employment-support",
+          "path": "/programme-intelligence?programme=future-employment-support",
+          "programmeFeedPath": "programme-intelligence/future-employment-support.json"
+        }
+      },
+      "buyer": {
+        "name": "PeoplePlus",
+        "role": "Prime provider"
+      },
+      "primeProvider": "PeoplePlus",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Prime provider EOI",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [
+          "End-to-end delivery partner sought or mentioned by the prime provider",
+          "Specialist provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider",
+          "Local / community provider sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "PeoplePlus",
+        "partnerTypes": [
+          "End-to-end delivery partner",
+          "Specialist provider",
+          "Health / disability specialist",
+          "Local / community provider"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Young people",
+          "Digital support"
+        ],
+        "partnershipSignals": [
+          "Join our partner network and help us make a difference.",
+          "We welcome expressions of interest from a diverse range of locally embedded end-to-end delivery partners, community organisations and specialist support providers.",
+          "Organisations should have demonstrable experience of delivering activities such as:. employability support, e.g. pre-employment training, work experience, job trials, job brokerage, job carving, in-work support and self-employment advice. support in managing health and wellbeing in the workplace. support to overcome barriers to work, e.g. housing, transport, childcare. specialist support for complex issues, e.g. addiction, homelessness, ESOL..",
+          "To help us understand your organisational strengths, capabilities and local footprint, please complete our EOI by 5:00 PM on Friday 11th September.",
+          "To access our EOI please use either the link below:.",
+          "Future Employment Services EOI . . .",
+          "If you have any questions, or would like an informal chat prior to completing the EOI, please contact [email protected] . . ."
+        ],
+        "route": "Prime provider EOI"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-10-02T18:44:19.829Z",
+          "releaseId": "peopleplus-fes",
+          "sourceUrl": "https://peopleplus.co.uk/current-opportunities",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "PeoplePlus",
+        "sourceId": "peopleplus-fes",
+        "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
+        "lastVerified": "2026-10-02T18:44:19.829Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-10-02T14:12:42.774Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 290,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 236
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 228,
+              "medianAdvertisedSalary": 31000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 178
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 224,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 195
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 195,
+              "medianAdvertisedSalary": 39000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 142
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 180,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 139
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 155,
+              "medianAdvertisedSalary": 31049,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 118
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 37000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 135
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 127,
+              "medianAdvertisedSalary": 37500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 73
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "reviewCandidate": false,
+          "note": "No strong predecessor match is safe to publish automatically. Any weaker candidate remains internal for review."
+        }
+      }
+    },
+    {
       "id": "supply-chain:reed-fes",
       "slug": "reed-in-partnership-future-employment-support-reed-fes",
       "ocid": null,
@@ -3229,8 +3791,10 @@
       },
       "primeProvider": "Reed in Partnership",
       "geography": {
-        "primaryArea": null,
-        "areas": []
+        "primaryArea": "England",
+        "areas": [
+          "England"
+        ]
       },
       "value": {
         "amount": null,
@@ -3316,7 +3880,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-02T13:00:12.297Z",
+          "date": "2026-10-02T18:44:19.829Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -3329,7 +3893,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-02T13:00:12.297Z"
+        "lastVerified": "2026-10-02T18:44:19.829Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3480,14 +4044,14 @@
       },
       "primeProvider": "Seetec",
       "geography": {
-        "primaryArea": "North West",
+        "primaryArea": "England",
         "areas": [
+          "England",
           "North West",
           "West Midlands",
           "East of England",
           "London",
-          "South West",
-          "England"
+          "South West"
         ]
       },
       "value": {
@@ -3574,7 +4138,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-02T13:00:12.297Z",
+          "date": "2026-10-02T18:44:19.829Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -3587,7 +4151,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-02T13:00:12.297Z"
+        "lastVerified": "2026-10-02T18:44:19.829Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4330,6 +4894,259 @@
       }
     },
     {
+      "id": "supply-chain:shaw-trust-connect-to-work",
+      "slug": "shaw-trust-connect-to-work-shaw-trust-connect-to-work",
+      "ocid": null,
+      "title": "Connect to Work and devolved employment partnership registration",
+      "description": "We improve community health and wellbeing . Supply chain and corporate partnerships . Integrated with mental health services and community health teams: employment specialists work closely with mental health teams to provide coordinated support..",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Partnership Route",
+      "partnerRoute": "Partner registration / collaboration interest",
+      "stage": "supply-chain-monitor",
+      "stageGroup": "upcoming",
+      "stageLabel": "Supply chain / monitor",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work",
+        "intelligence": {
+          "available": true,
+          "slug": "connect-to-work",
+          "path": "/programme-intelligence?programme=connect-to-work",
+          "programmeFeedPath": "programme-intelligence/connect-to-work.json"
+        }
+      },
+      "buyer": {
+        "name": "Shaw Trust",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Shaw Trust",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England",
+          "Wales",
+          "Scotland"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "supply-chain-eoi",
+        "methodDetails": "Partner registration / collaboration interest",
+        "mainCategory": "services",
+        "lots": []
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "This is a prime-provider partnership opportunity rather than a public authority tender. Published partner selection weightings are shown only when explicitly available."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "Individual Placement Support (IPS) is an evidence-based approach that helps people with mental and physical health issues find and keep paid employment.. . . . .",
+          "Evidence-based with positive outcomes: IPS has been rigorously tested and consistently outperforms other employment support models, leading to longer job retention, higher earnings, and better mental health and wellbeing outcomes.. . . .",
+          "IPS programmes are more effective when they closely follow these eight evidence based principles:.",
+          "Organisation Name (required) . . . . .",
+          "Phone Number (required) . .",
+          "Email (required) . . . . ."
+        ],
+        "suitabilitySignals": [
+          "Specialist provider sought or mentioned by the prime provider",
+          "Health / disability specialist sought or mentioned by the prime provider"
+        ],
+        "note": "Requirements are taken from the prime provider's published partnership material. Always review the original EOI or partner-registration documents."
+      },
+      "supplyChain": {
+        "primeProvider": "Shaw Trust",
+        "partnerTypes": [
+          "Specialist provider",
+          "Health / disability specialist"
+        ],
+        "specialisms": [
+          "Employment support",
+          "Health & disability",
+          "Skills & training",
+          "Young people",
+          "Economic inactivity",
+          "IPS"
+        ],
+        "partnershipSignals": [
+          "We improve community health and wellbeing .",
+          "Supply chain and corporate partnerships .",
+          "Integrated with mental health services and community health teams: employment specialists work closely with mental health teams to provide coordinated support..",
+          "Day in a life of IPS Employment Specialist​. . . . . . .",
+          "To understand more about our IPS services, our other supported employment models, or discuss how we can help with a localised approach to help people in your community gain and sustain meaningful employment, please contact us via the below.. . ."
+        ],
+        "route": "Partner registration / collaboration interest"
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "Commercial terms are left blank unless the prime provider publishes them."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "Performance requirements are left blank unless the prime provider publishes them."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": null
+      },
+      "timeline": [
+        {
+          "event": "Prime provider partnership opportunity verified",
+          "date": "2026-10-02T18:44:19.829Z",
+          "releaseId": "shaw-trust-connect-to-work",
+          "sourceUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
+          "tags": [
+            "supply-chain",
+            "partner-eoi"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Shaw Trust",
+        "sourceId": "shaw-trust-connect-to-work",
+        "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
+        "lastVerified": "2026-10-02T18:44:19.829Z"
+      },
+      "dataCompleteness": {
+        "status": "partial",
+        "score": null,
+        "missing": [
+          "deadline",
+          "contract value",
+          "formal evaluation weightings"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": false,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-10-02T14:12:42.774Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 290,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 236
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 228,
+              "medianAdvertisedSalary": 31000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 178
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 224,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 195
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 195,
+              "medianAdvertisedSalary": 39000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 142
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 180,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 139
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 155,
+              "medianAdvertisedSalary": 31049,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 118
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 37000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 135
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 127,
+              "medianAdvertisedSalary": 37500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 73
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "reviewCandidate": false,
+          "note": "No strong predecessor match is safe to publish automatically. Any weaker candidate remains internal for review."
+        }
+      }
+    },
+    {
       "id": "dwp-atamis-c9880",
       "slug": "future-employment-support-c9880",
       "ocid": null,
@@ -4423,7 +5240,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-02T18:22:05.791Z"
+        "lastVerified": "2026-10-02T18:43:40.406Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -21428,7 +22245,7 @@
       "staleOrClosed": 103,
       "invalid": 0
     },
-    "supplyChainRecordCount": 5,
+    "supplyChainRecordCount": 8,
     "externalOpportunityRecordsAdded": 3,
     "programmeLinkRegistryVersion": 1,
     "opportunityIntelligenceV1": true,
@@ -22237,6 +23054,14 @@
         ]
       },
       {
+        "buyer": "Fedcap",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Future Employment Support"
+        ]
+      },
+      {
         "buyer": "Stockport Metropolitan Borough Council",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 1,
@@ -22293,6 +23118,14 @@
         ]
       },
       {
+        "buyer": "PeoplePlus",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Future Employment Support"
+        ]
+      },
+      {
         "buyer": "Reed in Partnership",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 1,
@@ -22322,6 +23155,14 @@
         "liveOrUpcomingCount": 1,
         "programmes": [
           "IPS"
+        ]
+      },
+      {
+        "buyer": "Shaw Trust",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Connect to Work"
         ]
       },
       {
@@ -22582,44 +23423,59 @@
         "programmes": [
           "IPS"
         ]
-      },
-      {
-        "buyer": "Ministry of Justice",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Apprenticeships"
-        ]
-      },
-      {
-        "buyer": "Department for Work & Pensions",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Careers Services"
-        ]
-      },
-      {
-        "buyer": "Surrey County Council",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Connect to Work"
-        ]
       }
     ],
     "methodology": "Counts describe records currently present in CareerPath's curated feed. They are not claims about the total UK market or supplier market share.",
     "providerPartnershipMap": [
       {
         "programme": "Future Employment Support",
-        "primeProviderCount": 5,
+        "primeProviderCount": 7,
         "opportunities": [
+          {
+            "opportunityId": "supply-chain:fedcap-fes",
+            "primeProvider": "Fedcap",
+            "status": "Supply chain EOI",
+            "deadline": "2026-10-16T00:00:00.000Z",
+            "geography": [
+              "England",
+              "North East",
+              "North West",
+              "Yorkshire and The Humber",
+              "East Midlands",
+              "West Midlands",
+              "East of England",
+              "London",
+              "South East",
+              "South West",
+              "Scotland",
+              "Wales"
+            ],
+            "partnerTypes": [
+              "SME",
+              "VCSE / voluntary sector",
+              "End-to-end delivery partner",
+              "Specialist provider",
+              "Skills / training provider",
+              "Health / disability specialist",
+              "Employer engagement specialist",
+              "Local / community provider"
+            ],
+            "specialisms": [
+              "Employment support",
+              "Health & disability",
+              "Skills & training",
+              "Employer engagement"
+            ],
+            "route": "Prime provider EOI",
+            "sourceUrl": "https://fedcap.org.uk/weconnect/"
+          },
           {
             "opportunityId": "supply-chain:ingeus-fes",
             "primeProvider": "Ingeus",
             "status": "Supply chain EOI",
             "deadline": "2026-10-31T00:00:00.000Z",
             "geography": [
+              "England",
               "London"
             ],
             "partnerTypes": [
@@ -22646,8 +23502,8 @@
             "status": "Supply chain EOI",
             "deadline": null,
             "geography": [
-              "London",
-              "England"
+              "England",
+              "London"
             ],
             "partnerTypes": [
               "Health / disability specialist"
@@ -22666,6 +23522,7 @@
             "status": "Supply chain EOI",
             "deadline": null,
             "geography": [
+              "England",
               "Scotland",
               "Wales"
             ],
@@ -22688,11 +23545,37 @@
             "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi"
           },
           {
+            "opportunityId": "supply-chain:peopleplus-fes",
+            "primeProvider": "PeoplePlus",
+            "status": "Supply chain EOI",
+            "deadline": null,
+            "geography": [
+              "England"
+            ],
+            "partnerTypes": [
+              "End-to-end delivery partner",
+              "Specialist provider",
+              "Health / disability specialist",
+              "Local / community provider"
+            ],
+            "specialisms": [
+              "Employment support",
+              "Health & disability",
+              "Skills & training",
+              "Young people",
+              "Digital support"
+            ],
+            "route": "Prime provider EOI",
+            "sourceUrl": "https://peopleplus.co.uk/current-opportunities"
+          },
+          {
             "opportunityId": "supply-chain:reed-fes",
             "primeProvider": "Reed in Partnership",
             "status": "Supply chain EOI",
             "deadline": null,
-            "geography": [],
+            "geography": [
+              "England"
+            ],
             "partnerTypes": [
               "SME",
               "VCSE / voluntary sector",
@@ -22716,12 +23599,12 @@
             "status": "Supply chain EOI",
             "deadline": null,
             "geography": [
+              "England",
               "North West",
               "West Midlands",
               "East of England",
               "London",
-              "South West",
-              "England"
+              "South West"
             ],
             "partnerTypes": [
               "SME",
@@ -22740,6 +23623,37 @@
             "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/"
           }
         ]
+      },
+      {
+        "programme": "Connect to Work",
+        "primeProviderCount": 1,
+        "opportunities": [
+          {
+            "opportunityId": "supply-chain:shaw-trust-connect-to-work",
+            "primeProvider": "Shaw Trust",
+            "status": "Supply chain / monitor",
+            "deadline": null,
+            "geography": [
+              "England",
+              "Wales",
+              "Scotland"
+            ],
+            "partnerTypes": [
+              "Specialist provider",
+              "Health / disability specialist"
+            ],
+            "specialisms": [
+              "Employment support",
+              "Health & disability",
+              "Skills & training",
+              "Young people",
+              "Economic inactivity",
+              "IPS"
+            ],
+            "route": "Partner registration / collaboration interest",
+            "sourceUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/"
+          }
+        ]
       }
     ],
     "differentiators": {
@@ -22748,15 +23662,15 @@
         "description": "Shows factual changes only where CareerPath identifies a strong predecessor match using commissioner, programme, geography, chronology and scope similarity. Weaker candidates remain internal for review."
       },
       "workforceSignals": {
-        "linkedOpportunityCount": 61,
+        "linkedOpportunityCount": 64,
         "description": "Links opportunities to CareerPath's programme workforce data to show aggregated role-demand and advertised-salary signals relevant to mobilisation."
       },
       "localDeliveryContext": {
-        "linkedOpportunityCount": 33,
+        "linkedOpportunityCount": 34,
         "description": "Links opportunities to programme-level regional labour-market indicators where a geography can be matched safely."
       },
       "providerPartnershipMap": {
-        "programmeCount": 1,
+        "programmeCount": 2,
         "description": "Maps public prime-provider EOIs and partnership routes by programme, including partner types, specialisms, geography and deadlines where published."
       }
     }
