@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-10-03T13:53:21.214Z",
+  "generatedAt": "2026-10-03T14:11:24.186Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
   "counts": {
-    "total": 80,
-    "live": 15,
+    "total": 83,
+    "live": 16,
     "upcoming": 4,
     "marketEngagement": 0,
-    "recentAwards": 61,
+    "recentAwards": 63,
     "closingWithin7Days": 1,
-    "closingWithin30Days": 6,
+    "closingWithin30Days": 7,
     "supplyChain": 8,
-    "commissioner": 72,
-    "programmeLinked": 63,
-    "programmeUnlinked": 17
+    "commissioner": 75,
+    "programmeLinked": 64,
+    "programmeUnlinked": 19
   },
   "filters": {
     "programmes": [
@@ -35,11 +35,13 @@
       "Bassetlaw District Council",
       "BlueLight Commercial Limited",
       "Central Bedfordshire Council",
+      "City & County of Swansea",
       "Construction Industry Training Board",
       "DERBY CITY COUNCIL",
       "Department for Work & Pensions",
       "Department for Work and Pensions",
       "Derbyshire County Council",
+      "Devon County Council",
       "East Durham College",
       "Essex County Council",
       "Fedcap",
@@ -79,6 +81,7 @@
       "Somerset Council",
       "Southampton City Council",
       "Stockport Metropolitan Borough Council",
+      "Suffolk County Council",
       "Surrey County Council",
       "UK SHARED BUSINESS SERVICES LIMITED",
       "University Centre Somerset College Group",
@@ -107,6 +110,7 @@
       "South East England",
       "South West",
       "South West England",
+      "Suffolk",
       "United Kingdom",
       "Wales",
       "West Midlands",
@@ -248,7 +252,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T13:52:39.748Z"
+        "lastVerified": "2026-10-03T14:09:29.191Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -569,7 +573,7 @@
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093334-2026",
-        "lastVerified": "2026-10-02T13:16:27.545Z"
+        "lastVerified": "2026-10-03T12:06:54.948Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -826,7 +830,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "fedcap-fes",
           "sourceUrl": "https://fedcap.org.uk/weconnect/",
           "tags": [
@@ -839,7 +843,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1366,7 +1370,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "ingeus-fes",
           "sourceUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
           "tags": [
@@ -1379,7 +1383,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1730,6 +1734,198 @@
         "valuePublished": true,
         "evaluationPublished": true,
         "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": false,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "reviewCandidate": false,
+          "note": "No strong predecessor match is safe to publish automatically. Any weaker candidate remains internal for review."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-077fef",
+      "slug": "framework-for-the-provision-of-trailblazer-programme-support-services-and-activities-ocds-h6vhtk-077fef",
+      "ocid": "ocds-h6vhtk-077fef",
+      "title": "Framework for the Provision of Trailblazer Programme Support Services and Activities",
+      "description": "Swansea Council is establishing a Framework Agreement to commission suitable providers to deliver accessible, community-based activities and support as part of Swansea Council’s Trailblazer programme. Funding for this commission has been secured through the Welsh Government’s Trailblazer fund. The services will support economically inactive residents across Swansea to improve health, wellbeing, confidence, resilience, social connection and readiness to move closer to employment, training, volunteering or wider community participation. The programme will align with CFW+ and strengthen links with statutory, third sector, health, community and employer-based services to ensure participants can access appropriate local support and opportunities. The Framework is comprised of Four (4) Lots:- Lot 1: Physical and Emotional Health Lot 2: Education, Employability and Skill Building Lot 3: Creative and Cultural Provision Lot 4: Other Beneficial Provision",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "City & County of Swansea"
+      },
+      "geography": {
+        "primaryArea": "Wales",
+        "areas": [
+          "Wales",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 160000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-11-02T12:00:00.000Z",
+        "daysToDeadline": 30
+      },
+      "contract": {
+        "startDate": null,
+        "endDate": null
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Below threshold - open competition",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": "Physical and Emotional Health",
+            "description": "This lot includes services that promote wellbeing through approaches such as confidence and resilience building, counselling, emotional health support, physical activity, environmental activities and other appropriate interventions.",
+            "status": "active",
+            "value": 40000,
+            "currency": "GBP",
+            "contractStart": "2026-11-19T00:00:00.000Z",
+            "contractEnd": "2027-03-31T22:59:59.000Z",
+            "awardCriteria": []
+          },
+          {
+            "id": "2",
+            "title": "Education, Employability and Skill Building",
+            "description": "This lot includes services that improve informal and formal learning, employability, skills development, volunteering opportunities and progression towards employment-related activity.",
+            "status": "active",
+            "value": 40000,
+            "currency": "GBP",
+            "contractStart": "2026-11-19T00:00:00.000Z",
+            "contractEnd": "2027-03-31T22:59:59.000Z",
+            "awardCriteria": []
+          },
+          {
+            "id": "3",
+            "title": "Creative and Cultural Provision",
+            "description": "This lot includes arts, culture and creative activities that increase confidence, skills, engagement, social connection and community participation.",
+            "status": "active",
+            "value": 40000,
+            "currency": "GBP",
+            "contractStart": "2026-11-19T00:00:00.000Z",
+            "contractEnd": "2027-03-31T22:59:59.000Z",
+            "awardCriteria": []
+          },
+          {
+            "id": "4",
+            "title": "Other Beneficial Provision",
+            "description": "This lot includes other relevant provision that supports economically inactive residents and addresses identified barriers or gaps not fully covered by other areas.",
+            "status": "active",
+            "value": 40000,
+            "currency": "GBP",
+            "contractStart": "2026-11-19T00:00:00.000Z",
+            "contractEnd": "2027-03-31T22:59:59.000Z",
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [
+          "VCSE / voluntary-sector participation mentioned in published material"
+        ],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Tender Published",
+          "date": "2026-10-02T14:03:43.000Z",
+          "releaseId": "093439-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/093439-2026",
+          "tags": [
+            "tender"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093439-2026",
+        "lastVerified": "2026-10-03T12:06:46.026Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [],
+        "namedSupplierCount": 0,
+        "incumbentStatus": "No supplier identified in the current public record",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
         "commercialModelPublished": false,
         "performanceRequirementsPublished": false,
         "supplierInformationPublished": false,
@@ -2385,7 +2581,7 @@
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093314-2026",
-        "lastVerified": "2026-10-02T13:16:32.138Z"
+        "lastVerified": "2026-10-03T12:06:59.426Z"
       },
       "dataCompleteness": {
         "status": "strong",
@@ -2600,7 +2796,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-03T13:52:39.748Z"
+        "lastVerified": "2026-10-03T14:09:29.191Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2761,7 +2957,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -2774,7 +2970,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3056,7 +3252,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -3069,7 +3265,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3305,7 +3501,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "peopleplus-fes",
           "sourceUrl": "https://peopleplus.co.uk/current-opportunities",
           "tags": [
@@ -3318,7 +3514,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3558,7 +3754,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -3571,7 +3767,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3816,7 +4012,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -3829,7 +4025,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4297,7 +4493,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:53:15.615Z",
+          "date": "2026-10-03T14:11:18.632Z",
           "releaseId": "shaw-trust-connect-to-work",
           "sourceUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
           "tags": [
@@ -4310,7 +4506,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-03T13:53:15.615Z"
+        "lastVerified": "2026-10-03T14:11:18.632Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4527,7 +4723,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T13:52:39.748Z"
+        "lastVerified": "2026-10-03T14:09:29.191Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -5065,6 +5261,804 @@
       }
     },
     {
+      "id": "ocds-h6vhtk-077f74",
+      "slug": "leeds-health-and-care-academy-ocds-h6vhtk-077f74",
+      "ocid": "ocds-h6vhtk-077f74",
+      "title": "Leeds Health and Care Academy",
+      "description": "This funding aims to help people who are out of work, with particular emphasis on individuals facing disadvantages in the labour market and those who are in insecure work and at risk of falling out of work. The programme is partly funded by the Department of Work and Pensions Economic Inactivity Trailblazer, so support will be targeted at those who are economically inactive due to health barriers and there is an expectation that delivery will feed into an evaluation.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Leeds City Council"
+      },
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 63533,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "contract": {
+        "startDate": "2026-03-31T23:00:00.000Z",
+        "endDate": "2027-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "direct",
+        "methodDetails": "Below threshold - without competition",
+        "mainCategory": null,
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": null,
+            "contractStart": null,
+            "contractEnd": null,
+            "awardCriteria": []
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": null,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [],
+        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "Leeds Teaching Hospitals NHS Trust"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-10-02T10:24:31.000Z",
+          "releaseId": "093226-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/093226-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093226-2026",
+        "lastVerified": "2026-10-03T12:09:09.270Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 88,
+        "missing": [
+          "geography"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "Leeds Teaching Hospitals NHS Trust"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": false,
+        "valuePublished": true,
+        "evaluationPublished": false,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06622f",
+      "slug": "individual-placement-support-substance-misuse-ocds-h6vhtk-06622f",
+      "ocid": "ocds-h6vhtk-06622f",
+      "title": "Individual Placement Support (Substance Misuse)",
+      "description": "The Individual Placement Support (IPS) scheme aims to provide tailored employment support for individuals receiving structured community treatment for drug and alcohol dependence through the Suffolk Integrated Drug and Alcohol Treatment Service provider, Turning Point. The scheme is designed to support service users who are unemployed, as well as those currently employed but at risk of losing their employment, to obtain and sustain meaningful work. The target group will be users who are in structured treatment in our commissioned Integrated Drug and Alcohol treatment Service provider within Suffolk (Turning Point). The provider will need to work closely with Turning Point to ensure that people receive person-centred support, and outcomes are met. This will include co location in the three hubs across Suffolk and potential to work from satellite locations in the Suffolk area. The contract period is 1 October 2026 to 31 March 2029 (30 months) with an option to extend for up to a further 2 years (24 months). The contract value is £1,067,445 exclusive of VAT for the duration of the contract including extension.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "IPS",
+        "slug": "ips",
+        "intelligence": {
+          "available": false,
+          "slug": null,
+          "path": null,
+          "programmeFeedPath": null
+        }
+      },
+      "buyer": {
+        "name": "Suffolk County Council"
+      },
+      "geography": {
+        "primaryArea": "Suffolk",
+        "areas": [
+          "Suffolk",
+          "East of England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 1067445,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-06-12T10:00:00.000Z",
+        "daysToDeadline": -113
+      },
+      "contract": {
+        "startDate": "2026-09-30T23:00:00.000Z",
+        "endDate": "2029-03-31T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": 1073498,
+            "currency": "AED",
+            "contractStart": "2026-09-30T23:00:00.000Z",
+            "contractEnd": "2029-03-31T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality of Service and Social Value",
+                "weighting": 90
+              },
+              {
+                "name": "Financial Management and Added Value",
+                "weighting": 10
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 90,
+        "priceWeighting": null,
+        "socialValueWeighting": 90,
+        "criteria": [
+          {
+            "name": "Quality of Service and Social Value",
+            "weighting": 90,
+            "lotId": "1",
+            "lotTitle": null
+          },
+          {
+            "name": "Financial Management and Added Value",
+            "weighting": 10,
+            "lotId": "1",
+            "lotTitle": null
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [
+          "The provider will need to work closely with Turning Point to ensure that people receive person-centred support, and outcomes are met."
+        ],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [
+          "The scheme is designed to support service users who are unemployed, as well as those currently employed but at risk of losing their employment, to obtain and sustain meaningful work.",
+          "The target group will be users who are in structured treatment in our commissioned Integrated Drug and Alcohol treatment Service provider within Suffolk (Turning Point)."
+        ],
+        "note": "Performance wording shown here was found in the published notice text."
+      },
+      "suppliers": [
+        "INTUITIVE THINKING SKILLS LTD"
+      ],
+      "socialValue": {
+        "mentioned": true,
+        "weighting": null,
+        "note": "Social value is explicitly mentioned, but an exact weighting was not published in the structured data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2026-03-04T14:25:10.000Z",
+          "releaseId": "019519-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/019519-2026",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2026-03-10T13:24:25.000Z",
+          "releaseId": "021329-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/021329-2026",
+          "tags": [
+            "planningUpdate"
+          ]
+        },
+        {
+          "event": "Tender Published",
+          "date": "2026-05-18T14:41:31.000Z",
+          "releaseId": "045432-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/045432-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Tender Update",
+          "date": "2026-05-18T15:15:14.000Z",
+          "releaseId": "045465-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/045465-2026",
+          "tags": [
+            "tenderUpdate"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-07-29T10:53:04.000Z",
+          "releaseId": "071631-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/071631-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-10-02T14:00:41.000Z",
+          "releaseId": "093433-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/093433-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093433-2026",
+        "lastVerified": "2026-10-03T12:06:48.246Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 100,
+        "missing": []
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "INTUITIVE THINKING SKILLS LTD"
+        ],
+        "namedSupplierCount": 1,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": true,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": true,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": true,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": false,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": false,
+          "generatedAt": null,
+          "roleSignals": [],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": false,
+          "area": null,
+          "metrics": [],
+          "note": "No safely matched programme labour-market geography was available for this opportunity."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-05f667",
+      "slug": "skills-for-growth-light-touch-open-framework-ocds-h6vhtk-05f667",
+      "ocid": "ocds-h6vhtk-05f667",
+      "title": "Skills for Growth Light Touch Open Framework",
+      "description": "Devon County Council (DCC) intends to establish an Open Framework for commissioning the delivery of high-quality skills provision services. The Framework will support the delivery of programmes funded through the Adult Skills Fund (ASF), Free Courses for Jobs (FCFJ), Skills Bootcamps, and other future skills initiatives aligned with local and national workforce needs. The Framework is divided into Lots based on the different programme types. They are: • Lot 1 - Adult Skills Fund (ASF) and Free Courses for Jobs (FCFJ) • Lot 2 - Skills Bootcamps • Lot 3 - Future Skills Projects The Framework includes a single common set of sectors and geographical areas which applies across all 3 Lots. The purpose of the Framework is to enable flexible and responsive skills provision that supports adults to develop the skills needed for sustainable employment and career progression, while also meeting employer demand and contributing to economic growth. DCC may initiate Call-Offs from both Lot 1 - ASF and FCFJ and Lot 2 Skills Bootcamps for Wave 7 Skills Bootcamp following the appointment of Providers to the Framework. Any contract value published within this notice are estimated total contract values provided strictly for information only and are subject to confirmation of funding. Value may be revised up or down. There is no guarantee of business or award of call-off contract.",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund",
+        "intelligence": {
+          "available": true,
+          "slug": "adult-skills-fund",
+          "path": "/programme-intelligence?programme=adult-skills-fund",
+          "programmeFeedPath": "programme-intelligence/adult-skills-fund.json"
+        }
+      },
+      "buyer": {
+        "name": "Devon County Council"
+      },
+      "geography": {
+        "primaryArea": "South West England",
+        "areas": [
+          "South West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "startDate": null,
+        "deadline": "2026-04-13T11:00:00.000Z",
+        "daysToDeadline": -173
+      },
+      "contract": {
+        "startDate": "2026-07-13T23:00:00.000Z",
+        "endDate": "2029-07-13T22:59:59.000Z"
+      },
+      "procurement": {
+        "method": "open",
+        "methodDetails": "Open procedure",
+        "mainCategory": "services",
+        "lots": [
+          {
+            "id": "1",
+            "title": "Adult Skills Fund(ASF) and Free Courses For Jobs (FCFJ)",
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": "GBP",
+            "contractStart": "2026-07-12T23:00:00.000Z",
+            "contractEnd": "2029-07-12T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "Skills Bootcamp",
+            "description": null,
+            "status": "complete",
+            "value": 35000000,
+            "currency": "GBP",
+            "contractStart": "2026-07-12T23:00:00.000Z",
+            "contractEnd": "2029-07-12T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Future Skills Projects",
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": "GBP",
+            "contractStart": "2026-07-12T23:00:00.000Z",
+            "contractEnd": "2029-07-12T22:59:59.000Z",
+            "awardCriteria": [
+              {
+                "name": "Quality",
+                "weighting": 100
+              }
+            ]
+          }
+        ]
+      },
+      "evaluation": {
+        "qualityWeighting": 300,
+        "priceWeighting": null,
+        "socialValueWeighting": null,
+        "criteria": [
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "1",
+            "lotTitle": "Adult Skills Fund(ASF) and Free Courses For Jobs (FCFJ)"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "2",
+            "lotTitle": "Skills Bootcamp"
+          },
+          {
+            "name": "Quality",
+            "weighting": 100,
+            "lotId": "3",
+            "lotTitle": "Future Skills Projects"
+          }
+        ],
+        "note": "Weightings are shown only where they are explicitly present in the structured procurement record."
+      },
+      "bidRequirements": {
+        "publishedRequirementSignals": [],
+        "suitabilitySignals": [],
+        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
+      },
+      "commercial": {
+        "publishedSignals": [],
+        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
+      },
+      "performanceRequirements": {
+        "publishedSignals": [],
+        "note": "No explicit contractual performance thresholds were found in the structured notice text."
+      },
+      "suppliers": [
+        "3D 360 LIMITED",
+        "AIM 2 LEARN LTD",
+        "APRICOT CENTRE CIC",
+        "ASPIRE SPORTING ACADEMY LTD",
+        "BACK TO WORK TRAINING LIMITED",
+        "Blue Sky Assessing and Consultancy Ltd",
+        "BOURNEMOUTH CHURCHES HOUSING ASSOCIATION LIMITED",
+        "CENIT COLLEGE UK LIMITED",
+        "CoLab Exeter",
+        "Complete Training (Devon) Ltd",
+        "Cornwall College(Bicton College)",
+        "PROJECT COSMIC"
+      ],
+      "socialValue": {
+        "mentioned": false,
+        "weighting": null,
+        "note": "No explicit social value reference was found in the structured procurement data."
+      },
+      "timeline": [
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2025-12-16T10:42:17.000Z",
+          "releaseId": "083212-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/083212-2025",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2025-12-17T15:38:40.000Z",
+          "releaseId": "083978-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/083978-2025",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2025-12-17T17:31:46.000Z",
+          "releaseId": "084063-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/084063-2025",
+          "tags": [
+            "planningUpdate"
+          ]
+        },
+        {
+          "event": "Planning Update",
+          "date": "2025-12-17T18:03:34.000Z",
+          "releaseId": "084070-2025",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/084070-2025",
+          "tags": [
+            "planningUpdate"
+          ]
+        },
+        {
+          "event": "Planning / Pipeline Notice",
+          "date": "2026-02-17T17:38:56.000Z",
+          "releaseId": "014536-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/014536-2026",
+          "tags": [
+            "planning"
+          ]
+        },
+        {
+          "event": "Tender Published",
+          "date": "2026-03-13T15:49:58.000Z",
+          "releaseId": "023151-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/023151-2026",
+          "tags": [
+            "tender"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-07-01T13:45:34.000Z",
+          "releaseId": "061825-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/061825-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        {
+          "event": "Award / Contract Notice",
+          "date": "2026-10-02T14:10:19.000Z",
+          "releaseId": "093449-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/093449-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        }
+      ],
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093449-2026",
+        "lastVerified": "2026-10-03T12:06:41.563Z"
+      },
+      "dataCompleteness": {
+        "status": "strong",
+        "score": 88,
+        "missing": [
+          "value"
+        ]
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false,
+        "sourceRecordPublicationStatus": "publishable"
+      },
+      "supplierIntelligence": {
+        "namedSuppliers": [
+          "3D 360 LIMITED",
+          "AIM 2 LEARN LTD",
+          "APRICOT CENTRE CIC",
+          "ASPIRE SPORTING ACADEMY LTD",
+          "BACK TO WORK TRAINING LIMITED",
+          "Blue Sky Assessing and Consultancy Ltd",
+          "BOURNEMOUTH CHURCHES HOUSING ASSOCIATION LIMITED",
+          "CENIT COLLEGE UK LIMITED",
+          "CoLab Exeter",
+          "Complete Training (Devon) Ltd",
+          "Cornwall College(Bicton College)",
+          "PROJECT COSMIC"
+        ],
+        "namedSupplierCount": 12,
+        "incumbentStatus": "Published awarded/current supplier information available",
+        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
+      },
+      "readiness": {
+        "sourceLinked": true,
+        "deadlinePublished": true,
+        "valuePublished": false,
+        "evaluationPublished": true,
+        "bidRequirementsPublished": false,
+        "commercialModelPublished": false,
+        "performanceRequirementsPublished": false,
+        "supplierInformationPublished": true,
+        "programmeIntelligenceLinked": true,
+        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
+      },
+      "deliveryIntelligence": {
+        "workforce": {
+          "available": true,
+          "generatedAt": "2026-10-02T14:12:42.774Z",
+          "roleSignals": [
+            {
+              "id": "operations-management",
+              "role": "Operations / Service Delivery Manager",
+              "returnedVacancySample": 290,
+              "medianAdvertisedSalary": 40000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 236
+            },
+            {
+              "id": "employment-adviser",
+              "role": "Employment Adviser / Coach",
+              "returnedVacancySample": 228,
+              "medianAdvertisedSalary": 31000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 178
+            },
+            {
+              "id": "skills-training",
+              "role": "Skills / Training",
+              "returnedVacancySample": 224,
+              "medianAdvertisedSalary": 32500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 195
+            },
+            {
+              "id": "employer-engagement",
+              "role": "Employer Engagement",
+              "returnedVacancySample": 195,
+              "medianAdvertisedSalary": 39000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 142
+            },
+            {
+              "id": "careers-advice",
+              "role": "Careers Adviser",
+              "returnedVacancySample": 180,
+              "medianAdvertisedSalary": 35000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 139
+            },
+            {
+              "id": "ips-employment-specialist",
+              "role": "IPS / Supported Employment Specialist",
+              "returnedVacancySample": 155,
+              "medianAdvertisedSalary": 31049,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 118
+            },
+            {
+              "id": "quality-performance",
+              "role": "Quality / Performance",
+              "returnedVacancySample": 140,
+              "medianAdvertisedSalary": 37000,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 135
+            },
+            {
+              "id": "team-leadership",
+              "role": "Team Leader / Team Manager",
+              "returnedVacancySample": 127,
+              "medianAdvertisedSalary": 37500,
+              "salaryCurrency": "GBP",
+              "salarySampleSize": 73
+            }
+          ],
+          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
+        },
+        "localNeed": {
+          "available": true,
+          "area": "South West",
+          "nation": "England",
+          "metrics": [
+            {
+              "metricType": "economic-inactivity-rate",
+              "name": "Economic inactivity rate - aged 16-64",
+              "unit": "percent",
+              "value": 18.2,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "claimant-count",
+              "name": "Claimant count",
+              "unit": "people",
+              "value": 97825,
+              "periodStart": "2026-08-01T00:00:00Z",
+              "periodEnd": "2026-08-31T23:59:59Z"
+            },
+            {
+              "metricType": "employment-rate",
+              "name": "Employment rate - aged 16-64",
+              "unit": "percent",
+              "value": 79,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            },
+            {
+              "metricType": "unemployment-rate",
+              "name": "Unemployment rate - aged 16-64",
+              "unit": "percent",
+              "value": 3.4,
+              "periodStart": "2025-04-01T00:00:00Z",
+              "periodEnd": "2026-03-31T23:59:59Z"
+            }
+          ],
+          "note": "Latest published programme-linked labour-market indicators for a matched geography. These describe local context, not expected contract performance."
+        },
+        "recommissioningDelta": {
+          "available": false,
+          "previousOpportunityId": null,
+          "changes": [],
+          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
+        }
+      }
+    },
+    {
       "id": "ocds-h6vhtk-077e33",
       "slug": "learning-disability-supported-employment-service-ocds-h6vhtk-077e33",
       "ocid": "ocds-h6vhtk-077e33",
@@ -5348,165 +6342,6 @@
       "supplierIntelligence": {
         "namedSuppliers": [
           "NETHERTHORPE AND UPPERTHORPE COMMUNITY ALLIANCE"
-        ],
-        "namedSupplierCount": 1,
-        "incumbentStatus": "Published awarded/current supplier information available",
-        "note": "Supplier names are taken from published award or contract records. CareerPath does not infer an incumbent where one is not published."
-      },
-      "readiness": {
-        "sourceLinked": true,
-        "deadlinePublished": false,
-        "valuePublished": true,
-        "evaluationPublished": false,
-        "bidRequirementsPublished": false,
-        "commercialModelPublished": false,
-        "performanceRequirementsPublished": false,
-        "supplierInformationPublished": true,
-        "programmeIntelligenceLinked": false,
-        "note": "Readiness shows which public facts CareerPath currently has. It is not a bid/no-bid score or recommendation."
-      },
-      "deliveryIntelligence": {
-        "workforce": {
-          "available": false,
-          "generatedAt": null,
-          "roleSignals": [],
-          "note": "Aggregated CareerPath vacancy and advertised-salary signals for relevant role families. These are market signals, not staffing requirements or proof of recruitment by a specific provider."
-        },
-        "localNeed": {
-          "available": false,
-          "area": null,
-          "metrics": [],
-          "note": "No safely matched programme labour-market geography was available for this opportunity."
-        },
-        "recommissioningDelta": {
-          "available": false,
-          "previousOpportunityId": null,
-          "changes": [],
-          "note": "Recommissioning comparison is shown only for active or upcoming opportunities."
-        }
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077f74",
-      "slug": "leeds-health-and-care-academy-ocds-h6vhtk-077f74",
-      "ocid": "ocds-h6vhtk-077f74",
-      "title": "Leeds Health and Care Academy",
-      "description": "This funding aims to help people who are out of work, with particular emphasis on individuals facing disadvantages in the labour market and those who are in insecure work and at risk of falling out of work. The programme is partly funded by the Department of Work and Pensions Economic Inactivity Trailblazer, so support will be targeted at those who are economically inactive due to health barriers and there is an expectation that delivery will feed into an evaluation.",
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support",
-        "intelligence": {
-          "available": false,
-          "slug": null,
-          "path": null,
-          "programmeFeedPath": null
-        }
-      },
-      "buyer": {
-        "name": "Leeds City Council"
-      },
-      "geography": {
-        "primaryArea": null,
-        "areas": []
-      },
-      "value": {
-        "amount": 63533,
-        "currency": "GBP",
-        "basis": "contract"
-      },
-      "tender": {
-        "startDate": null,
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "contract": {
-        "startDate": "2026-03-31T23:00:00.000Z",
-        "endDate": "2027-03-31T22:59:59.000Z"
-      },
-      "procurement": {
-        "method": "direct",
-        "methodDetails": "Below threshold - without competition",
-        "mainCategory": null,
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": null,
-            "status": "complete",
-            "value": null,
-            "currency": null,
-            "contractStart": null,
-            "contractEnd": null,
-            "awardCriteria": []
-          }
-        ]
-      },
-      "evaluation": {
-        "qualityWeighting": null,
-        "priceWeighting": null,
-        "socialValueWeighting": null,
-        "criteria": [],
-        "note": "No structured award weightings are currently available in the public record; bidders should review the procurement documents."
-      },
-      "bidRequirements": {
-        "publishedRequirementSignals": [],
-        "suitabilitySignals": [],
-        "note": "These are concise extracts from published notice text, not a substitute for the complete tender documents or conditions of participation."
-      },
-      "commercial": {
-        "publishedSignals": [],
-        "note": "No detailed commercial/payment model is present in the structured public record. Review the tender documents where available."
-      },
-      "performanceRequirements": {
-        "publishedSignals": [],
-        "note": "No explicit contractual performance thresholds were found in the structured notice text."
-      },
-      "suppliers": [
-        "Leeds Teaching Hospitals NHS Trust"
-      ],
-      "socialValue": {
-        "mentioned": false,
-        "weighting": null,
-        "note": "No explicit social value reference was found in the structured procurement data."
-      },
-      "timeline": [
-        {
-          "event": "Award / Contract Notice",
-          "date": "2026-10-02T10:24:31.000Z",
-          "releaseId": "093226-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/093226-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        }
-      ],
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093226-2026",
-        "lastVerified": "2026-10-02T13:16:41.196Z"
-      },
-      "dataCompleteness": {
-        "status": "strong",
-        "score": 88,
-        "missing": [
-          "geography"
-        ]
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false,
-        "sourceRecordPublicationStatus": "publishable"
-      },
-      "supplierIntelligence": {
-        "namedSuppliers": [
-          "Leeds Teaching Hospitals NHS Trust"
         ],
         "namedSupplierCount": 1,
         "incumbentStatus": "Published awarded/current supplier information available",
@@ -20476,12 +21311,12 @@
     "containsCommercialRecommendations": false,
     "containsRawVacancies": false,
     "sourceDirectory": "validated-publishable-procurements",
-    "sourceFileCount": 181,
-    "selectedOpportunityCount": 69,
+    "sourceFileCount": 185,
+    "selectedOpportunityCount": 72,
     "rejected": {
       "nonPublishable": 0,
       "nonAccepted": 0,
-      "relevanceGuard": 20,
+      "relevanceGuard": 21,
       "staleOrClosed": 92,
       "invalid": 0
     },
@@ -20490,7 +21325,7 @@
     "programmeLinkRegistryVersion": 1,
     "opportunityIntelligenceV1": true,
     "sourceRegistryVersion": 1,
-    "valueNullCorrections": 8,
+    "valueNullCorrections": 9,
     "opportunityIntelligenceV2": true
   },
   "coverage": {
@@ -20674,6 +21509,20 @@
         ]
       },
       {
+        "supplier": "INTUITIVE THINKING SKILLS LTD",
+        "awardCount": 2,
+        "publishedAwardValue": 9809945,
+        "awardValueSampleCount": 2,
+        "programmes": [
+          "Connect to Work",
+          "IPS"
+        ],
+        "buyers": [
+          "Leicester City Council",
+          "Suffolk County Council"
+        ]
+      },
+      {
         "supplier": "MCGOVERN ASSESSMENTS LIMITED",
         "awardCount": 2,
         "publishedAwardValue": 5203921.07,
@@ -20725,6 +21574,20 @@
         ],
         "buyers": [
           "Essex County Council",
+          "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
+        ]
+      },
+      {
+        "supplier": "BACK TO WORK TRAINING LIMITED",
+        "awardCount": 2,
+        "publishedAwardValue": 1054657,
+        "awardValueSampleCount": 1,
+        "programmes": [
+          "Adult Skills Fund",
+          "Skills Bootcamps"
+        ],
+        "buyers": [
+          "Devon County Council",
           "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED"
         ]
       },
@@ -20947,18 +21810,6 @@
       },
       {
         "supplier": "TWIN TRAINING INTERNATIONAL LIMITED",
-        "awardCount": 1,
-        "publishedAwardValue": 8742500,
-        "awardValueSampleCount": 1,
-        "programmes": [
-          "Connect to Work"
-        ],
-        "buyers": [
-          "Leicester City Council"
-        ]
-      },
-      {
-        "supplier": "INTUITIVE THINKING SKILLS LTD",
         "awardCount": 1,
         "publishedAwardValue": 8742500,
         "awardValueSampleCount": 1,
@@ -21244,18 +22095,6 @@
         "buyers": [
           "Milton Keynes City Council"
         ]
-      },
-      {
-        "supplier": "Blue Apple Training",
-        "awardCount": 1,
-        "publishedAwardValue": 1594284,
-        "awardValueSampleCount": 1,
-        "programmes": [
-          "Adult Skills Fund"
-        ],
-        "buyers": [
-          "Hull City Council"
-        ]
       }
     ],
     "commissionerLandscape": [
@@ -21303,6 +22142,14 @@
       },
       {
         "buyer": "Stockport Metropolitan Borough Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 1,
+        "programmes": [
+          "Employment Support"
+        ]
+      },
+      {
+        "buyer": "City & County of Swansea",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 1,
         "programmes": [
@@ -21481,6 +22328,30 @@
         ]
       },
       {
+        "buyer": "Leeds City Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Employment Support"
+        ]
+      },
+      {
+        "buyer": "Suffolk County Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "IPS"
+        ]
+      },
+      {
+        "buyer": "Devon County Council",
+        "opportunityCount": 1,
+        "liveOrUpcomingCount": 0,
+        "programmes": [
+          "Adult Skills Fund"
+        ]
+      },
+      {
         "buyer": "Plymouth City Council",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 0,
@@ -21490,14 +22361,6 @@
       },
       {
         "buyer": "Sheffield City Council",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Employment Support"
-        ]
-      },
-      {
-        "buyer": "Leeds City Council",
         "opportunityCount": 1,
         "liveOrUpcomingCount": 0,
         "programmes": [
@@ -21638,30 +22501,6 @@
         "liveOrUpcomingCount": 0,
         "programmes": [
           "Connect to Work"
-        ]
-      },
-      {
-        "buyer": "NHS DORSET INTEGRATED CARE BOARD",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Employment Support"
-        ]
-      },
-      {
-        "buyer": "Greater Lincolnshire Combined County Authority",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Employment Support"
-        ]
-      },
-      {
-        "buyer": "University Centre Somerset College Group",
-        "opportunityCount": 1,
-        "liveOrUpcomingCount": 0,
-        "programmes": [
-          "Adult Skills Fund"
         ]
       }
     ],
@@ -21902,11 +22741,11 @@
         "description": "Shows factual changes only where CareerPath identifies a strong predecessor match using commissioner, programme, geography, chronology and scope similarity. Weaker candidates remain internal for review."
       },
       "workforceSignals": {
-        "linkedOpportunityCount": 63,
+        "linkedOpportunityCount": 64,
         "description": "Links opportunities to CareerPath's programme workforce data to show aggregated role-demand and advertised-salary signals relevant to mobilisation."
       },
       "localDeliveryContext": {
-        "linkedOpportunityCount": 34,
+        "linkedOpportunityCount": 35,
         "description": "Links opportunities to programme-level regional labour-market indicators where a geography can be matched safely."
       },
       "providerPartnershipMap": {
