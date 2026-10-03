@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "careerpath-public-opportunity-intelligence",
-  "generatedAt": "2026-10-03T13:22:18.902Z",
+  "generatedAt": "2026-10-03T13:38:13.222Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Live and upcoming Employment & Skills commissioning intelligence built from CareerPath's validated public procurement records.",
@@ -257,7 +257,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T13:21:33.653Z"
+        "lastVerified": "2026-10-03T13:37:23.146Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -986,7 +986,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "fedcap-fes",
           "sourceUrl": "https://fedcap.org.uk/weconnect/",
           "tags": [
@@ -999,7 +999,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -1526,7 +1526,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "ingeus-fes",
           "sourceUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
           "tags": [
@@ -1539,7 +1539,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -2922,7 +2922,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-03T13:21:33.653Z"
+        "lastVerified": "2026-10-03T13:37:23.146Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3083,7 +3083,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "akg-fes",
           "sourceUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
           "tags": [
@@ -3096,7 +3096,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3378,7 +3378,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "maximus-fes",
           "sourceUrl": "https://www.maximusuk.co.uk/fes-eoi",
           "tags": [
@@ -3391,7 +3391,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3627,7 +3627,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "peopleplus-fes",
           "sourceUrl": "https://peopleplus.co.uk/current-opportunities",
           "tags": [
@@ -3640,7 +3640,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -3880,7 +3880,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "reed-fes",
           "sourceUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
           "tags": [
@@ -3893,7 +3893,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -4138,7 +4138,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "seetec-fes",
           "sourceUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
           "tags": [
@@ -4151,7 +4151,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -5010,7 +5010,7 @@
       "timeline": [
         {
           "event": "Prime provider partnership opportunity verified",
-          "date": "2026-10-03T13:22:10.911Z",
+          "date": "2026-10-03T13:38:06.497Z",
           "releaseId": "shaw-trust-connect-to-work",
           "sourceUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
           "tags": [
@@ -5023,7 +5023,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-03T13:22:10.911Z"
+        "lastVerified": "2026-10-03T13:38:06.497Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -5240,7 +5240,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T13:21:33.653Z"
+        "lastVerified": "2026-10-03T13:37:23.146Z"
       },
       "dataCompleteness": {
         "status": "partial",
@@ -22255,10 +22255,10 @@
   },
   "coverage": {
     "sourceCount": 7,
-    "activeOrOperationalSources": 6,
-    "degradedSources": 0,
+    "activeOrOperationalSources": 4,
+    "degradedSources": 2,
     "knownGaps": 1,
-    "status": "passed-with-known-gaps",
+    "status": "degraded",
     "sources": [
       {
         "id": "find-a-tender",
@@ -22312,8 +22312,8 @@
         ],
         "official": true,
         "configuredStatus": "active",
-        "runtimeStatus": "passed",
-        "error": null,
+        "runtimeStatus": "degraded",
+        "error": "All 18 source requests failed",
         "coverage": [
           "prior-information",
           "tenders",
@@ -22333,8 +22333,8 @@
         ],
         "official": true,
         "configuredStatus": "active",
-        "runtimeStatus": "passed",
-        "error": null,
+        "runtimeStatus": "degraded",
+        "error": "All 20 source requests failed",
         "coverage": [
           "prior-information",
           "tenders",
