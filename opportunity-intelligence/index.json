@@ -1,19 +1,19 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-03T18:53:51.509Z",
+  "generatedAt": "2026-10-03T19:29:54.568Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
   "counts": {
-    "total": 84,
-    "live": 16,
+    "total": 86,
+    "live": 18,
     "upcoming": 4,
     "marketEngagement": 0,
     "recentAwards": 64,
     "closingWithin7Days": 1,
     "closingWithin30Days": 7,
-    "supplyChain": 8,
+    "supplyChain": 10,
     "commissioner": 76
   },
   "filters": {
@@ -42,6 +42,7 @@
       "Derbyshire County Council",
       "Devon County Council",
       "East Durham College",
+      "Enable Works",
       "Essex County Council",
       "Fedcap",
       "Greater Lincolnshire Combined County Authority",
@@ -80,6 +81,7 @@
       "Sheffield City Council",
       "Somerset Council",
       "Southampton City Council",
+      "Standguide",
       "Stockport Metropolitan Borough Council",
       "Suffolk County Council",
       "Surrey County Council",
@@ -149,13 +151,15 @@
     ],
     "primeProviders": [
       "AKG",
+      "Enable Works",
       "Fedcap",
       "Ingeus",
       "Maximus UK",
       "PeoplePlus",
       "Reed in Partnership",
       "Seetec",
-      "Shaw Trust"
+      "Shaw Trust",
+      "Standguide"
     ]
   },
   "opportunities": [
@@ -197,7 +201,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T18:52:04.202Z"
+        "lastVerified": "2026-10-03T19:28:00.593Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -304,7 +308,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -455,7 +459,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -652,7 +656,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-03T18:52:04.202Z"
+        "lastVerified": "2026-10-03T19:28:00.593Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -702,7 +706,56 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:enable-works-all-in",
+      "slug": "enable-works-supported-employment-ips-enable-works-all-in",
+      "ocid": null,
+      "title": "Enable Works All In partnership network",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Partnership Route",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Supported Employment / IPS",
+        "slug": "supported-employment-ips"
+      },
+      "buyer": {
+        "name": "Enable Works",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Enable Works",
+      "geography": {
+        "primaryArea": "Scotland",
+        "areas": [
+          "Scotland"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Enable Works",
+        "sourceId": "enable-works-all-in",
+        "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -753,7 +806,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -802,7 +855,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -851,7 +904,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -905,7 +958,58 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:standguide-partner-network",
+      "slug": "standguide-employment-skills-standguide-partner-network",
+      "ocid": null,
+      "title": "Standguide Partner Network and EOI opportunities",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Partnership Route",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
+      },
+      "buyer": {
+        "name": "Standguide",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Standguide",
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom",
+          "East Midlands",
+          "England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Standguide",
+        "sourceId": "standguide-partner-network",
+        "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1005,7 +1109,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-03T18:53:47.700Z"
+        "lastVerified": "2026-10-03T19:29:45.139Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1054,7 +1158,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T18:52:04.202Z"
+        "lastVerified": "2026-10-03T19:28:00.593Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1204,7 +1308,7 @@
         "publisher": "eTendersNI",
         "sourceId": "etendersni",
         "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6322312&documentId=6759550&noticeType=6&extId=431d391a-224c-4c46-b510-8e304ba09854&lang=en&noticeId=6758747&isNational=false",
-        "lastVerified": "2026-10-03T18:53:44.945Z"
+        "lastVerified": "2026-10-03T19:29:42.399Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -4424,11 +4528,11 @@
     }
   ],
   "marketHeadline": {
-    "opportunityCount": 84,
+    "opportunityCount": 86,
     "programmeCount": 10,
-    "commissionerOrPrimeCount": 60,
-    "activeCount": 20,
-    "supplyChainCount": 8
+    "commissionerOrPrimeCount": 62,
+    "activeCount": 22,
+    "supplyChainCount": 10
   },
   "coverage": {
     "sourceCount": 7,
@@ -4553,8 +4657,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-03T18:52:04.202Z",
-        "lastRecordReceived": "2026-10-03T18:52:04.202Z",
+        "lastSuccessfulCheck": "2026-10-03T19:28:00.593Z",
+        "lastRecordReceived": "2026-10-03T19:28:00.593Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4600,8 +4704,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-03T18:53:44.945Z",
-        "lastRecordReceived": "2026-10-03T18:53:44.945Z",
+        "lastSuccessfulCheck": "2026-10-03T19:29:42.399Z",
+        "lastRecordReceived": "2026-10-03T19:29:42.399Z",
         "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
