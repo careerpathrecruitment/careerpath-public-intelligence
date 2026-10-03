@@ -1,20 +1,20 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-03T15:33:58.401Z",
+  "generatedAt": "2026-10-03T18:41:28.021Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
   "counts": {
-    "total": 83,
+    "total": 84,
     "live": 16,
     "upcoming": 4,
     "marketEngagement": 0,
-    "recentAwards": 63,
+    "recentAwards": 64,
     "closingWithin7Days": 1,
     "closingWithin30Days": 7,
     "supplyChain": 8,
-    "commissioner": 75
+    "commissioner": 76
   },
   "filters": {
     "programmes": [
@@ -22,6 +22,7 @@
       "Apprenticeships",
       "Careers Services",
       "Connect to Work",
+      "Employment & Skills",
       "Employment Support",
       "Future Employment Support",
       "IPS",
@@ -66,6 +67,7 @@
       "NHS North East London Integrated Care Board",
       "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
       "North East Combined Authority",
+      "Northern Ireland public sector",
       "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
       "Pennine Care NHS Foundation Trust",
       "PeoplePlus",
@@ -102,6 +104,7 @@
       "North East England",
       "North West",
       "North West England",
+      "Northern Ireland",
       "Scotland",
       "Somerset",
       "South East",
@@ -194,7 +197,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T15:31:49.256Z"
+        "lastVerified": "2026-10-03T18:39:18.529Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -301,7 +304,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -363,6 +366,57 @@
       }
     },
     {
+      "id": "ocds-h6vhtk-077d91",
+      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
+      "ocid": "ocds-h6vhtk-077d91",
+      "title": "Progression Towards Employment",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Stockport Metropolitan Borough Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North West England",
+        "areas": [
+          "North West England",
+          "United Kingdom",
+          "GB"
+        ]
+      },
+      "value": {
+        "amount": 870000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-10-30T16:00:00.000Z",
+        "daysToDeadline": 27
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+        "lastVerified": "2026-10-01T14:02:52.653Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
       "id": "supply-chain:ingeus-fes",
       "slug": "ingeus-future-employment-support-ingeus-fes",
       "ocid": null,
@@ -401,58 +455,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077d91",
-      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
-      "ocid": "ocds-h6vhtk-077d91",
-      "title": "Progression Towards Employment",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Stockport Metropolitan Borough Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North West England",
-        "areas": [
-          "North West England",
-          "United Kingdom",
-          "GB"
-        ]
-      },
-      "value": {
-        "amount": 870000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": "2026-10-30T16:00:00.000Z",
-        "daysToDeadline": 28
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-        "lastVerified": "2026-10-01T14:02:52.653Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -649,7 +652,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-03T15:31:49.256Z"
+        "lastVerified": "2026-10-03T18:39:18.529Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -699,7 +702,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -750,7 +753,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -799,7 +802,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -848,7 +851,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -902,7 +905,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1002,7 +1005,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-03T15:33:53.477Z"
+        "lastVerified": "2026-10-03T18:41:22.946Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1051,7 +1054,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-03T15:31:49.256Z"
+        "lastVerified": "2026-10-03T18:39:18.529Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1153,6 +1156,55 @@
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086504-2026",
         "lastVerified": "2026-09-14T11:34:16.203Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "etendersni-6758747",
+      "slug": "dfi-tram-framework-agreement-no2-for-external-training-providers-lots-1-3-etendersni-6758747",
+      "ocid": null,
+      "title": "DfI TRAM - Framework Agreement No2 for External Training Providers. Lots 1-3",
+      "opportunityClass": "commissioner",
+      "opportunityType": "eTendersNI Contract Award Notice",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
+      },
+      "buyer": {
+        "name": "Northern Ireland public sector",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Northern Ireland",
+        "areas": [
+          "Northern Ireland"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "eTendersNI",
+        "sourceId": "etendersni",
+        "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6322312&documentId=6759550&noticeType=6&extId=431d391a-224c-4c46-b510-8e304ba09854&lang=en&noticeId=6758747&isNational=false",
+        "lastVerified": "2026-10-03T18:41:19.434Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1452,7 +1504,7 @@
       },
       "tender": {
         "deadline": "2026-09-21T16:00:00.000Z",
-        "daysToDeadline": -11
+        "daysToDeadline": -12
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -1814,7 +1866,7 @@
       },
       "tender": {
         "deadline": "2025-06-20T16:00:00.000Z",
-        "daysToDeadline": -469
+        "daysToDeadline": -470
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2973,7 +3025,7 @@
       },
       "tender": {
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -81
+        "daysToDeadline": -82
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3377,7 +3429,7 @@
       },
       "tender": {
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -35
+        "daysToDeadline": -36
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3736,7 +3788,7 @@
       },
       "tender": {
         "deadline": "2026-09-18T17:28:00.000Z",
-        "daysToDeadline": -14
+        "daysToDeadline": -15
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3886,7 +3938,7 @@
       },
       "tender": {
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -93
+        "daysToDeadline": -94
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3993,7 +4045,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -77
+        "daysToDeadline": -78
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4372,17 +4424,17 @@
     }
   ],
   "marketHeadline": {
-    "opportunityCount": 83,
-    "programmeCount": 9,
-    "commissionerOrPrimeCount": 59,
+    "opportunityCount": 84,
+    "programmeCount": 10,
+    "commissionerOrPrimeCount": 60,
     "activeCount": 20,
     "supplyChainCount": 8
   },
   "coverage": {
     "sourceCount": 7,
-    "activeOrOperationalSources": 4,
+    "activeOrOperationalSources": 5,
     "degradedSources": 2,
-    "knownGaps": 1,
+    "knownGaps": 0,
     "status": "degraded",
     "sources": [
       {
@@ -4501,8 +4553,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-03T15:31:49.256Z",
-        "lastRecordReceived": "2026-10-03T15:31:49.256Z",
+        "lastSuccessfulCheck": "2026-10-03T18:39:18.529Z",
+        "lastRecordReceived": "2026-10-03T18:39:18.529Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4545,18 +4597,18 @@
           "Northern Ireland"
         ],
         "official": true,
-        "configuredStatus": "known-gap",
-        "runtimeStatus": "known-gap",
+        "configuredStatus": "active",
+        "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": null,
-        "lastRecordReceived": null,
-        "relevantRecordsAccepted": 0,
-        "historicalBackfillStatus": "not-available",
+        "lastSuccessfulCheck": "2026-10-03T18:41:19.434Z",
+        "lastRecordReceived": "2026-10-03T18:41:19.434Z",
+        "relevantRecordsAccepted": 1,
+        "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
           "published-notices"
         ],
-        "knownLimitation": "Find a Tender provides UK-wide above-threshold coverage, but CareerPath V1 does not yet automate the full lower-value eTendersNI notice catalogue. This limitation must remain visible in coverage metadata.",
-        "note": "Find a Tender provides UK-wide above-threshold coverage, but CareerPath V1 does not yet automate the full lower-value eTendersNI notice catalogue. This limitation must remain visible in coverage metadata."
+        "knownLimitation": "Operational recent published-notice monitoring is enabled. Historical lower-value backfill is not yet exhaustive; this limitation remains visible.",
+        "note": "Operational recent published-notice monitoring is enabled. Historical lower-value backfill is not yet exhaustive; this limitation remains visible."
       }
     ],
     "statement": "CareerPath combines UK-wide Find a Tender coverage with complementary lower-value and specialist sources. Known coverage limitations are published rather than hidden."
