@@ -1,20 +1,20 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-05T15:27:39.838Z",
+  "generatedAt": "2026-10-05T15:42:45.835Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
   "counts": {
-    "total": 88,
-    "live": 18,
+    "total": 82,
+    "live": 17,
     "upcoming": 5,
     "marketEngagement": 0,
-    "recentAwards": 65,
-    "closingWithin7Days": 1,
-    "closingWithin30Days": 7,
-    "supplyChain": 10,
-    "commissioner": 78
+    "recentAwards": 60,
+    "closingWithin7Days": 0,
+    "closingWithin30Days": 6,
+    "supplyChain": 11,
+    "commissioner": 71
   },
   "filters": {
     "programmes": [
@@ -38,9 +38,7 @@
       "City & County of Swansea",
       "Construction Industry Training Board",
       "DERBY CITY COUNCIL",
-      "Department for Work & Pensions",
       "Department for Work and Pensions",
-      "Derbyshire County Council",
       "Devon County Council",
       "East Durham College",
       "Enable Works",
@@ -68,9 +66,7 @@
       "NHS DORSET INTEGRATED CARE BOARD",
       "NHS North East London Integrated Care Board",
       "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
-      "Newcastle City Council",
       "North East Combined Authority",
-      "Northern Ireland public sector",
       "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
       "Pennine Care NHS Foundation Trust",
       "PeoplePlus",
@@ -87,6 +83,7 @@
       "Stockport Metropolitan Borough Council",
       "Suffolk County Council",
       "Surrey County Council",
+      "The Growth Company",
       "UK SHARED BUSINESS SERVICES LIMITED",
       "University Centre Somerset College Group",
       "West Sussex County Council",
@@ -161,59 +158,11 @@
       "Reed in Partnership",
       "Seetec",
       "Shaw Trust",
-      "Standguide"
+      "Standguide",
+      "The Growth Company"
     ]
   },
   "opportunities": [
-    {
-      "id": "dwp-atamis-c11165",
-      "slug": "occupational-health-training-for-line-managers-call-off-invitation-to-tender-c11165",
-      "ocid": null,
-      "title": "Occupational Health Training for Line Managers - Call-off Invitation to Tender",
-      "opportunityClass": "commissioner",
-      "opportunityType": "DWP pipeline / opportunity",
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live / open",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Department for Work and Pensions",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "United Kingdom",
-        "areas": [
-          "United Kingdom"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": "2026-10-08T12:00:00.000Z",
-        "daysToDeadline": 3
-      },
-      "source": {
-        "publisher": "DWP Atamis",
-        "sourceId": "dwp-atamis",
-        "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000007CNHlUAO&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-05T15:25:29.348Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
     {
       "id": "ocds-h6vhtk-06b80d",
       "slug": "connect-to-work-local-commissioning-ocds-h6vhtk-06b80d",
@@ -310,7 +259,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -410,7 +359,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -658,7 +607,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-05T15:25:29.348Z"
+        "lastVerified": "2026-10-05T15:40:42.732Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -708,7 +657,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -757,7 +706,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -808,7 +757,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -857,7 +806,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -906,7 +855,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -960,7 +909,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1011,7 +960,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1072,6 +1021,55 @@
       }
     },
     {
+      "id": "supply-chain:growth-company-supplier-opportunities",
+      "slug": "the-growth-company-employment-skills-growth-company-supplier-opportunities",
+      "ocid": null,
+      "title": "The Growth Company supplier and delivery-partner opportunities",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Partnership Route",
+      "stage": "supply-chain-monitor",
+      "stageGroup": "upcoming",
+      "stageLabel": "Supply chain / monitor",
+      "programme": {
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
+      },
+      "buyer": {
+        "name": "The Growth Company",
+        "role": "Prime provider"
+      },
+      "primeProvider": "The Growth Company",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "The Growth Company",
+        "sourceId": "growth-company-supplier-opportunities",
+        "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
+        "lastVerified": "2026-10-05T15:42:33.862Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
       "id": "supply-chain:shaw-trust-connect-to-work",
       "slug": "shaw-trust-connect-to-work-shaw-trust-connect-to-work",
       "ocid": null,
@@ -1111,7 +1109,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-05T15:27:26.174Z"
+        "lastVerified": "2026-10-05T15:42:33.862Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1160,58 +1158,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-05T15:25:29.348Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-0780d6",
-      "slug": "direct-payment-support-service-ocds-h6vhtk-0780d6",
-      "ocid": "ocds-h6vhtk-0780d6",
-      "title": "Direct Payment Support Service",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "pipeline",
-      "stageGroup": "upcoming",
-      "stageLabel": "Pipeline",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Newcastle City Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North East England",
-        "areas": [
-          "North East England",
-          "United Kingdom",
-          "GB"
-        ]
-      },
-      "value": {
-        "amount": 661917,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": "2026-12-15T00:00:00.000Z",
-        "daysToDeadline": 71
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093865-2026",
-        "lastVerified": "2026-10-05T15:21:38.096Z"
+        "lastVerified": "2026-10-05T15:40:42.732Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1313,55 +1260,6 @@
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/086504-2026",
         "lastVerified": "2026-09-14T11:34:16.203Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "etendersni-6758747",
-      "slug": "dfi-tram-framework-agreement-no2-for-external-training-providers-lots-1-3-etendersni-6758747",
-      "ocid": null,
-      "title": "DfI TRAM - Framework Agreement No2 for External Training Providers. Lots 1-3",
-      "opportunityClass": "commissioner",
-      "opportunityType": "eTendersNI Contract Award Notice",
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Employment & Skills",
-        "slug": "employment-skills"
-      },
-      "buyer": {
-        "name": "Northern Ireland public sector",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "Northern Ireland",
-        "areas": [
-          "Northern Ireland"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "eTendersNI",
-        "sourceId": "etendersni",
-        "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6322312&documentId=6759550&noticeType=6&extId=431d391a-224c-4c46-b510-8e304ba09854&lang=en&noticeId=6758747&isNational=false",
-        "lastVerified": "2026-10-05T15:27:23.161Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2542,56 +2440,6 @@
       }
     },
     {
-      "id": "ocds-b5fd17-613f2c49-940a-4757-b67d-ce5be8648b52",
-      "slug": "cst025-180-provision-of-apprenticeship-chartered-manager-degree-level-6--b67d-ce5be8648b52",
-      "ocid": "ocds-b5fd17-613f2c49-940a-4757-b67d-ce5be8648b52",
-      "title": "CST025-180 Provision of Apprenticeship (Chartered Manager Degree Level 6)",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
-      },
-      "buyer": {
-        "name": "Derbyshire County Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England",
-          "United Kingdom"
-        ]
-      },
-      "value": {
-        "amount": 44000,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "deadline": "2026-09-27T22:59:00.000Z",
-        "daysToDeadline": -7
-      },
-      "source": {
-        "publisher": "Contracts Finder",
-        "sourceId": "contracts-finder",
-        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/24eb8b4d-6d57-44aa-97eb-1da0db2e72f7",
-        "lastVerified": "2026-09-29T13:29:07.921Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
       "id": "ocds-h6vhtk-059e24",
       "slug": "south-midlands-connect-to-work-programme-milton-keynes-area-ocds-h6vhtk-059e24",
       "ocid": "ocds-h6vhtk-059e24",
@@ -2679,56 +2527,6 @@
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/091208-2026",
         "lastVerified": "2026-09-27T12:31:37.312Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-b5fd17-78c8ff12-4e84-419d-a818-7790f7a75737",
-      "slug": "cst025-179-provision-of-apprenticeship-project-manager-degree-level-6--a818-7790f7a75737",
-      "ocid": "ocds-b5fd17-78c8ff12-4e84-419d-a818-7790f7a75737",
-      "title": "CST025-179 Provision of Apprenticeship (Project Manager Degree Level 6)",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
-      },
-      "buyer": {
-        "name": "Derbyshire County Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England",
-          "United Kingdom"
-        ]
-      },
-      "value": {
-        "amount": 44000,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "deadline": "2026-09-24T22:59:00.000Z",
-        "daysToDeadline": -10
-      },
-      "source": {
-        "publisher": "Contracts Finder",
-        "sourceId": "contracts-finder",
-        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/6b39d37b-351e-4786-b770-1d827df3a063",
-        "lastVerified": "2026-09-26T11:56:10.834Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -3505,56 +3303,6 @@
       }
     },
     {
-      "id": "ocds-h6vhtk-077522",
-      "slug": "dwp-jobs-and-careers-service-estates-multi-disciplinary-services-ocds-h6vhtk-077522",
-      "ocid": "ocds-h6vhtk-077522",
-      "title": "DWP Jobs and Careers Service: Estates Multi Disciplinary Services",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "contract",
-      "stageGroup": "recent-award",
-      "stageLabel": "Contract / mobilisation",
-      "programme": {
-        "name": "Careers Services",
-        "slug": "careers-services"
-      },
-      "buyer": {
-        "name": "Department for Work & Pensions",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "Lancashire",
-        "areas": [
-          "Lancashire",
-          "North West England"
-        ]
-      },
-      "value": {
-        "amount": 120000000,
-        "currency": "GBP",
-        "basis": "contract"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/088556-2026",
-        "lastVerified": "2026-09-19T11:42:08.522Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
       "id": "ocds-h6vhtk-0661fe",
       "slug": "connect-to-work-supported-employment-quality-framework-seqf-ocds-h6vhtk-0661fe",
       "ocid": "ocds-h6vhtk-0661fe",
@@ -3948,61 +3696,6 @@
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/38bfcc4c-250c-46d9-95e6-b515c0ffdd8d",
         "lastVerified": "2026-09-17T12:17:25.595Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-b5fd17-b7edb29e-a264-44ad-9e1f-3ec56c391215",
-      "slug": "cbc-2002-exf-da-zh-chartered-surveyor-level-6-apprenticeship-award--9e1f-3ec56c391215",
-      "ocid": "ocds-b5fd17-b7edb29e-a264-44ad-9e1f-3ec56c391215",
-      "title": "CBC-2002-EXF-DA-ZH Chartered Surveyor Level 6 Apprenticeship - AWARD",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
-      },
-      "buyer": {
-        "name": "Central Bedfordshire Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "SG17 5TQ",
-        "areas": [
-          "SG17 5TQ",
-          "British Oversea Territories",
-          "Channel Islands",
-          "Europe",
-          "Isle of Man",
-          "Rest of the World",
-          "United Kingdom"
-        ]
-      },
-      "value": {
-        "amount": 27000,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "deadline": "2026-09-18T17:28:00.000Z",
-        "daysToDeadline": -16
-      },
-      "source": {
-        "publisher": "Contracts Finder",
-        "sourceId": "contracts-finder",
-        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/68c50dc7-0ab6-4b0d-b996-3829fd015599",
-        "lastVerified": "2026-09-17T12:17:21.867Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -4632,11 +4325,11 @@
     }
   ],
   "marketHeadline": {
-    "opportunityCount": 88,
+    "opportunityCount": 82,
     "programmeCount": 10,
-    "commissionerOrPrimeCount": 64,
-    "activeCount": 23,
-    "supplyChainCount": 10
+    "commissionerOrPrimeCount": 61,
+    "activeCount": 22,
+    "supplyChainCount": 11
   },
   "coverage": {
     "sourceCount": 7,
@@ -4658,7 +4351,7 @@
         "error": null,
         "lastSuccessfulCheck": "2026-10-05T15:24:20.516Z",
         "lastRecordReceived": "2026-10-05T15:24:20.516Z",
-        "relevantRecordsAccepted": 49,
+        "relevantRecordsAccepted": 47,
         "historicalBackfillStatus": "active",
         "coverage": [
           "pipeline",
@@ -4687,7 +4380,7 @@
         "error": null,
         "lastSuccessfulCheck": "2026-10-01T14:06:25.072Z",
         "lastRecordReceived": "2026-10-01T14:06:25.072Z",
-        "relevantRecordsAccepted": 25,
+        "relevantRecordsAccepted": 22,
         "historicalBackfillStatus": "active",
         "coverage": [
           "tenders",
@@ -4761,8 +4454,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-05T15:25:29.348Z",
-        "lastRecordReceived": "2026-10-05T15:25:29.348Z",
+        "lastSuccessfulCheck": "2026-10-05T15:40:42.732Z",
+        "lastRecordReceived": "2026-10-05T15:40:42.732Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4808,8 +4501,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-05T15:27:23.161Z",
-        "lastRecordReceived": "2026-10-05T15:27:23.161Z",
+        "lastSuccessfulCheck": "2026-10-05T15:42:30.832Z",
+        "lastRecordReceived": "2026-10-05T15:42:30.832Z",
         "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
