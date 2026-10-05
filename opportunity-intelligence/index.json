@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-05T15:42:45.835Z",
+  "generatedAt": "2026-10-05T19:12:20.797Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -102,22 +102,16 @@
       "Lincolnshire",
       "London",
       "North East",
-      "North East England",
       "North West",
-      "North West England",
       "Northern Ireland",
       "Scotland",
       "Somerset",
       "South East",
-      "South East England",
       "South West",
-      "South West England",
       "Suffolk",
-      "United Kingdom",
       "Wales",
       "West Midlands",
       "Wirral",
-      "Yorkshire and The Humber",
       "Yorkshire and the Humber"
     ],
     "stages": [
@@ -235,7 +229,7 @@
           "England",
           "North East",
           "North West",
-          "Yorkshire and The Humber",
+          "Yorkshire and the Humber",
           "East Midlands",
           "West Midlands",
           "East of England",
@@ -259,7 +253,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -292,8 +286,7 @@
       "geography": {
         "primaryArea": "United Kingdom",
         "areas": [
-          "United Kingdom",
-          "GB"
+          "United Kingdom"
         ]
       },
       "value": {
@@ -310,6 +303,55 @@
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090797-2026",
         "lastVerified": "2026-09-26T11:55:55.047Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-077d91",
+      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
+      "ocid": "ocds-h6vhtk-077d91",
+      "title": "Progression Towards Employment",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Stockport Metropolitan Borough Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North West",
+        "areas": [
+          "North West"
+        ]
+      },
+      "value": {
+        "amount": 870000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-10-30T16:00:00.000Z",
+        "daysToDeadline": 25
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+        "lastVerified": "2026-10-01T14:02:52.653Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -359,58 +401,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077d91",
-      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
-      "ocid": "ocds-h6vhtk-077d91",
-      "title": "Progression Towards Employment",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Stockport Metropolitan Borough Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North West England",
-        "areas": [
-          "North West England",
-          "United Kingdom",
-          "GB"
-        ]
-      },
-      "value": {
-        "amount": 870000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": "2026-10-30T16:00:00.000Z",
-        "daysToDeadline": 26
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-        "lastVerified": "2026-10-01T14:02:52.653Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -443,9 +434,7 @@
       "geography": {
         "primaryArea": "Wales",
         "areas": [
-          "Wales",
-          "United Kingdom",
-          "GB"
+          "Wales"
         ]
       },
       "value": {
@@ -494,8 +483,7 @@
       "geography": {
         "primaryArea": "United Kingdom",
         "areas": [
-          "United Kingdom",
-          "GB"
+          "United Kingdom"
         ]
       },
       "value": {
@@ -607,7 +595,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-05T15:40:42.732Z"
+        "lastVerified": "2026-10-05T19:10:26.717Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -657,7 +645,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -706,7 +694,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -757,7 +745,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -806,7 +794,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -855,7 +843,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -909,7 +897,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -940,9 +928,8 @@
       },
       "primeProvider": "Standguide",
       "geography": {
-        "primaryArea": "United Kingdom",
+        "primaryArea": "East Midlands",
         "areas": [
-          "United Kingdom",
           "East Midlands",
           "England"
         ]
@@ -960,7 +947,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -991,9 +978,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "North West England",
+        "primaryArea": "North West",
         "areas": [
-          "North West England"
+          "North West"
         ]
       },
       "value": {
@@ -1058,7 +1045,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1109,7 +1096,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-05T15:42:33.862Z"
+        "lastVerified": "2026-10-05T19:12:08.824Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1158,7 +1145,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-05T15:40:42.732Z"
+        "lastVerified": "2026-10-05T19:10:26.717Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1191,9 +1178,7 @@
       "geography": {
         "primaryArea": "London",
         "areas": [
-          "London",
-          "United Kingdom",
-          "GB"
+          "London"
         ]
       },
       "value": {
@@ -1242,8 +1227,7 @@
       "geography": {
         "primaryArea": "United Kingdom",
         "areas": [
-          "United Kingdom",
-          "GB"
+          "United Kingdom"
         ]
       },
       "value": {
@@ -1292,9 +1276,7 @@
       "geography": {
         "primaryArea": "Northern Ireland",
         "areas": [
-          "Northern Ireland",
-          "United Kingdom",
-          "GB"
+          "Northern Ireland"
         ]
       },
       "value": {
@@ -1310,7 +1292,7 @@
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093605-2026",
-        "lastVerified": "2026-10-05T15:24:20.516Z"
+        "lastVerified": "2026-10-05T19:09:14.591Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1391,9 +1373,7 @@
         "primaryArea": "Suffolk",
         "areas": [
           "Suffolk",
-          "East of England",
-          "United Kingdom",
-          "GB"
+          "East of England"
         ]
       },
       "value": {
@@ -1440,11 +1420,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South West England",
+        "primaryArea": "South West",
         "areas": [
-          "South West England",
-          "United Kingdom",
-          "GB"
+          "South West"
         ]
       },
       "value": {
@@ -1491,11 +1469,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South West England",
+        "primaryArea": "South West",
         "areas": [
-          "South West England",
-          "United Kingdom",
-          "GB"
+          "South West"
         ]
       },
       "value": {
@@ -1542,11 +1518,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "Yorkshire and The Humber",
+        "primaryArea": "Yorkshire and the Humber",
         "areas": [
-          "Yorkshire and The Humber",
-          "United Kingdom",
-          "GB"
+          "Yorkshire and the Humber"
         ]
       },
       "value": {
@@ -1593,13 +1567,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "British Oversea Territories",
+        "primaryArea": "United Kingdom",
         "areas": [
-          "British Oversea Territories",
-          "Channel Islands",
-          "Europe",
-          "Isle of Man",
-          "Rest of the World",
           "United Kingdom"
         ]
       },
@@ -1610,7 +1579,7 @@
       },
       "tender": {
         "deadline": "2026-09-21T16:00:00.000Z",
-        "daysToDeadline": -13
+        "daysToDeadline": -14
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -1649,8 +1618,7 @@
       "geography": {
         "primaryArea": "Yorkshire and the Humber",
         "areas": [
-          "Yorkshire and the Humber",
-          "United Kingdom"
+          "Yorkshire and the Humber"
         ]
       },
       "value": {
@@ -1697,10 +1665,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "IP1 2BX",
-        "areas": [
-          "IP1 2BX"
-        ]
+        "primaryArea": null,
+        "areas": []
       },
       "value": {
         "amount": 90000,
@@ -1746,11 +1712,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South East England",
+        "primaryArea": "South East",
         "areas": [
-          "South East England",
-          "United Kingdom",
-          "GB"
+          "South East"
         ]
       },
       "value": {
@@ -1797,11 +1761,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South East England",
+        "primaryArea": "South East",
         "areas": [
-          "South East England",
-          "United Kingdom",
-          "GB"
+          "South East"
         ]
       },
       "value": {
@@ -1848,11 +1810,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South East England",
+        "primaryArea": "South East",
         "areas": [
-          "South East England",
-          "United Kingdom",
-          "GB"
+          "South East"
         ]
       },
       "value": {
@@ -1899,11 +1859,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South East England",
+        "primaryArea": "South East",
         "areas": [
-          "South East England",
-          "United Kingdom",
-          "GB"
+          "South East"
         ]
       },
       "value": {
@@ -1950,19 +1908,17 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "North East England",
+        "primaryArea": "North East",
         "areas": [
-          "North East England",
-          "North West England",
-          "Yorkshire and The Humber",
+          "North East",
+          "North West",
+          "Yorkshire and the Humber",
           "East Midlands",
           "West Midlands",
           "East of England",
           "London",
-          "South East England",
-          "South West England",
-          "United Kingdom",
-          "GB"
+          "South East",
+          "South West"
         ]
       },
       "value": {
@@ -1972,7 +1928,7 @@
       },
       "tender": {
         "deadline": "2025-06-20T16:00:00.000Z",
-        "daysToDeadline": -471
+        "daysToDeadline": -472
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2158,9 +2114,7 @@
       "geography": {
         "primaryArea": "East of England",
         "areas": [
-          "East of England",
-          "United Kingdom",
-          "GB"
+          "East of England"
         ]
       },
       "value": {
@@ -2209,9 +2163,7 @@
       "geography": {
         "primaryArea": "East of England",
         "areas": [
-          "East of England",
-          "United Kingdom",
-          "GB"
+          "East of England"
         ]
       },
       "value": {
@@ -2260,9 +2212,7 @@
       "geography": {
         "primaryArea": "East of England",
         "areas": [
-          "East of England",
-          "United Kingdom",
-          "GB"
+          "East of England"
         ]
       },
       "value": {
@@ -2311,9 +2261,7 @@
       "geography": {
         "primaryArea": "London",
         "areas": [
-          "London",
-          "United Kingdom",
-          "GB"
+          "London"
         ]
       },
       "value": {
@@ -2411,8 +2359,7 @@
       "geography": {
         "primaryArea": "East Midlands",
         "areas": [
-          "East Midlands",
-          "United Kingdom"
+          "East Midlands"
         ]
       },
       "value": {
@@ -2459,11 +2406,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South East England",
+        "primaryArea": "South East",
         "areas": [
-          "South East England",
-          "United Kingdom",
-          "GB"
+          "South East"
         ]
       },
       "value": {
@@ -2557,11 +2502,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "North East England",
+        "primaryArea": "North East",
         "areas": [
-          "North East England",
-          "United Kingdom",
-          "GB"
+          "North East"
         ]
       },
       "value": {
@@ -2610,9 +2553,7 @@
       "geography": {
         "primaryArea": "London",
         "areas": [
-          "London",
-          "United Kingdom",
-          "GB"
+          "London"
         ]
       },
       "value": {
@@ -2659,14 +2600,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "NE15 8NY",
+        "primaryArea": "United Kingdom",
         "areas": [
-          "NE15 8NY",
-          "British Oversea Territories",
-          "Channel Islands",
-          "Europe",
-          "Isle of Man",
-          "Rest of the World",
           "United Kingdom"
         ]
       },
@@ -2716,9 +2651,7 @@
       "geography": {
         "primaryArea": "East Midlands",
         "areas": [
-          "East Midlands",
-          "United Kingdom",
-          "GB"
+          "East Midlands"
         ]
       },
       "value": {
@@ -2767,9 +2700,7 @@
       "geography": {
         "primaryArea": "London",
         "areas": [
-          "London",
-          "United Kingdom",
-          "GB"
+          "London"
         ]
       },
       "value": {
@@ -2865,11 +2796,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South East England",
+        "primaryArea": "South East",
         "areas": [
-          "South East England",
-          "United Kingdom",
-          "GB"
+          "South East"
         ]
       },
       "value": {
@@ -2919,8 +2848,7 @@
         "primaryArea": "North East",
         "areas": [
           "North East",
-          "North West",
-          "United Kingdom"
+          "North West"
         ]
       },
       "value": {
@@ -2969,8 +2897,7 @@
       "geography": {
         "primaryArea": "East Midlands",
         "areas": [
-          "East Midlands",
-          "United Kingdom"
+          "East Midlands"
         ]
       },
       "value": {
@@ -3017,11 +2944,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "North East England",
+        "primaryArea": "North East",
         "areas": [
-          "North East England",
-          "United Kingdom",
-          "GB"
+          "North East"
         ]
       },
       "value": {
@@ -3031,7 +2956,7 @@
       },
       "tender": {
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -83
+        "daysToDeadline": -84
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3071,10 +2996,8 @@
         "primaryArea": "Lincolnshire",
         "areas": [
           "Lincolnshire",
-          "Yorkshire and The Humber",
-          "East Midlands",
-          "United Kingdom",
-          "GB"
+          "Yorkshire and the Humber",
+          "East Midlands"
         ]
       },
       "value": {
@@ -3121,10 +3044,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "SO14 7LY",
-        "areas": [
-          "SO14 7LY"
-        ]
+        "primaryArea": null,
+        "areas": []
       },
       "value": {
         "amount": 150000,
@@ -3170,10 +3091,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "SO14 7LY",
-        "areas": [
-          "SO14 7LY"
-        ]
+        "primaryArea": null,
+        "areas": []
       },
       "value": {
         "amount": 130000,
@@ -3268,13 +3187,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "British Oversea Territories",
+        "primaryArea": "United Kingdom",
         "areas": [
-          "British Oversea Territories",
-          "Channel Islands",
-          "Europe",
-          "Isle of Man",
-          "Rest of the World",
           "United Kingdom"
         ]
       },
@@ -3322,11 +3236,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South East England",
+        "primaryArea": "South East",
         "areas": [
-          "South East England",
-          "United Kingdom",
-          "GB"
+          "South East"
         ]
       },
       "value": {
@@ -3373,9 +3285,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "South West England",
+        "primaryArea": "South West",
         "areas": [
-          "South West England"
+          "South West"
         ]
       },
       "value": {
@@ -3385,7 +3297,7 @@
       },
       "tender": {
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -37
+        "daysToDeadline": -38
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3425,10 +3337,8 @@
         "primaryArea": "Lincolnshire",
         "areas": [
           "Lincolnshire",
-          "Yorkshire and The Humber",
-          "East Midlands",
-          "United Kingdom",
-          "GB"
+          "Yorkshire and the Humber",
+          "East Midlands"
         ]
       },
       "value": {
@@ -3477,8 +3387,7 @@
       "geography": {
         "primaryArea": "United Kingdom",
         "areas": [
-          "United Kingdom",
-          "GB"
+          "United Kingdom"
         ]
       },
       "value": {
@@ -3525,11 +3434,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "PO2 8BY",
+        "primaryArea": "South West",
         "areas": [
-          "PO2 8BY",
-          "South West",
-          "United Kingdom"
+          "South West"
         ]
       },
       "value": {
@@ -3578,8 +3485,7 @@
       "geography": {
         "primaryArea": "East Midlands",
         "areas": [
-          "East Midlands",
-          "United Kingdom"
+          "East Midlands"
         ]
       },
       "value": {
@@ -3628,8 +3534,7 @@
       "geography": {
         "primaryArea": "East Midlands",
         "areas": [
-          "East Midlands",
-          "United Kingdom"
+          "East Midlands"
         ]
       },
       "value": {
@@ -3678,8 +3583,7 @@
       "geography": {
         "primaryArea": "East Midlands",
         "areas": [
-          "East Midlands",
-          "United Kingdom"
+          "East Midlands"
         ]
       },
       "value": {
@@ -3726,11 +3630,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "North East England",
+        "primaryArea": "North East",
         "areas": [
-          "North East England",
-          "United Kingdom",
-          "GB"
+          "North East"
         ]
       },
       "value": {
@@ -3779,8 +3681,7 @@
       "geography": {
         "primaryArea": "South East",
         "areas": [
-          "South East",
-          "United Kingdom"
+          "South East"
         ]
       },
       "value": {
@@ -3827,10 +3728,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "MK76AA",
-        "areas": [
-          "MK76AA"
-        ]
+        "primaryArea": null,
+        "areas": []
       },
       "value": {
         "amount": 360000,
@@ -3839,7 +3738,7 @@
       },
       "tender": {
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -95
+        "daysToDeadline": -96
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3876,14 +3775,8 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "SR8 2RN",
+        "primaryArea": "United Kingdom",
         "areas": [
-          "SR8 2RN",
-          "British Oversea Territories",
-          "Channel Islands",
-          "Europe",
-          "Isle of Man",
-          "Rest of the World",
           "United Kingdom"
         ]
       },
@@ -3934,9 +3827,7 @@
         "primaryArea": "Flintshire and Wrexham",
         "areas": [
           "Flintshire and Wrexham",
-          "Wales",
-          "United Kingdom",
-          "GB"
+          "Wales"
         ]
       },
       "value": {
@@ -3946,7 +3837,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -79
+        "daysToDeadline": -80
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3986,9 +3877,7 @@
         "primaryArea": "Somerset",
         "areas": [
           "Somerset",
-          "South West England",
-          "United Kingdom",
-          "GB"
+          "South West"
         ]
       },
       "value": {
@@ -4038,7 +3927,7 @@
         "primaryArea": "Kingston upon Hull, City of",
         "areas": [
           "Kingston upon Hull, City of",
-          "Yorkshire and The Humber"
+          "Yorkshire and the Humber"
         ]
       },
       "value": {
@@ -4088,9 +3977,7 @@
         "primaryArea": "Somerset",
         "areas": [
           "Somerset",
-          "South West England",
-          "United Kingdom",
-          "GB"
+          "South West"
         ]
       },
       "value": {
@@ -4139,8 +4026,7 @@
       "geography": {
         "primaryArea": "United Kingdom",
         "areas": [
-          "United Kingdom",
-          "GB"
+          "United Kingdom"
         ]
       },
       "value": {
@@ -4190,9 +4076,7 @@
         "primaryArea": "Lancashire",
         "areas": [
           "Lancashire",
-          "North West England",
-          "United Kingdom",
-          "GB"
+          "North West"
         ]
       },
       "value": {
@@ -4242,9 +4126,7 @@
         "primaryArea": "Wirral",
         "areas": [
           "Wirral",
-          "North West England",
-          "United Kingdom",
-          "GB"
+          "North West"
         ]
       },
       "value": {
@@ -4294,9 +4176,7 @@
         "primaryArea": "Somerset",
         "areas": [
           "Somerset",
-          "South West England",
-          "United Kingdom",
-          "GB"
+          "South West"
         ]
       },
       "value": {
@@ -4349,8 +4229,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-05T15:24:20.516Z",
-        "lastRecordReceived": "2026-10-05T15:24:20.516Z",
+        "lastSuccessfulCheck": "2026-10-05T19:09:14.591Z",
+        "lastRecordReceived": "2026-10-05T19:09:14.591Z",
         "relevantRecordsAccepted": 47,
         "historicalBackfillStatus": "active",
         "coverage": [
@@ -4454,8 +4334,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-05T15:40:42.732Z",
-        "lastRecordReceived": "2026-10-05T15:40:42.732Z",
+        "lastSuccessfulCheck": "2026-10-05T19:10:26.717Z",
+        "lastRecordReceived": "2026-10-05T19:10:26.717Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4501,8 +4381,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-05T15:42:30.832Z",
-        "lastRecordReceived": "2026-10-05T15:42:30.832Z",
+        "lastSuccessfulCheck": "2026-10-05T19:12:06.031Z",
+        "lastRecordReceived": "2026-10-05T19:12:06.031Z",
         "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [

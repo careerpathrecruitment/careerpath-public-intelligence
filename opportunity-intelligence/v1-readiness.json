@@ -1,7 +1,7 @@
 {
   "validated": true,
-  "generatedAt": "2026-10-05T15:44:36.573Z",
-  "sourceGeneratedAt": "2026-10-05T15:42:45.835Z",
+  "generatedAt": "2026-10-05T19:13:58.450Z",
+  "sourceGeneratedAt": "2026-10-05T19:12:20.797Z",
   "counts": {
     "total": 82,
     "live": 17,
@@ -13,7 +13,7 @@
   },
   "programmeLinked": 61,
   "programmeUnlinked": 21,
-  "regionFilterCount": 26,
+  "regionFilterCount": 22,
   "supplierLandscapeCount": 50,
   "commissionerLandscapeCount": 50,
   "coverageStatus": "degraded",
