@@ -1,20 +1,20 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-06T10:06:42.967Z",
+  "generatedAt": "2026-10-06T13:51:24.116Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
   "counts": {
-    "total": 82,
+    "total": 89,
     "live": 17,
-    "upcoming": 5,
+    "upcoming": 8,
     "marketEngagement": 0,
-    "recentAwards": 60,
+    "recentAwards": 64,
     "closingWithin7Days": 0,
     "closingWithin30Days": 6,
     "supplyChain": 11,
-    "commissioner": 71
+    "commissioner": 78
   },
   "filters": {
     "programmes": [
@@ -34,6 +34,7 @@
       "Bassetlaw District Council",
       "Belfast City Council",
       "BlueLight Commercial Limited",
+      "Cambridgeshire County Council",
       "Central Bedfordshire Council",
       "City & County of Swansea",
       "Construction Industry Training Board",
@@ -66,6 +67,7 @@
       "NHS DORSET INTEGRATED CARE BOARD",
       "NHS North East London Integrated Care Board",
       "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
+      "NOTTINGHAMSHIRE COUNTY COUNCIL",
       "North East Combined Authority",
       "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
       "Pennine Care NHS Foundation Trust",
@@ -74,6 +76,7 @@
       "Portsmouth City Council",
       "Reed in Partnership",
       "SUFFOLK COUNTY COUNCIL",
+      "Salisbury NHS Foundation Trust",
       "Seetec",
       "Shaw Trust",
       "Sheffield City Council",
@@ -82,7 +85,10 @@
       "Standguide",
       "Stockport Metropolitan Borough Council",
       "Suffolk County Council",
+      "Sunderland City Council",
       "Surrey County Council",
+      "Tees Valley Combined Authority",
+      "The Education Authority",
       "The Growth Company",
       "UK SHARED BUSINESS SERVICES LIMITED",
       "University Centre Somerset College Group",
@@ -187,7 +193,7 @@
       },
       "tender": {
         "deadline": "2026-10-14T11:00:00.000Z",
-        "daysToDeadline": 9
+        "daysToDeadline": 8
       },
       "source": {
         "publisher": "Find a Tender",
@@ -253,7 +259,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -352,7 +358,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -444,7 +450,7 @@
       },
       "tender": {
         "deadline": "2026-11-02T12:00:00.000Z",
-        "daysToDeadline": 28
+        "daysToDeadline": 27
       },
       "source": {
         "publisher": "Find a Tender",
@@ -493,7 +499,7 @@
       },
       "tender": {
         "deadline": "2026-11-20T12:00:00.000Z",
-        "daysToDeadline": 46
+        "daysToDeadline": 45
       },
       "source": {
         "publisher": "Find a Tender",
@@ -540,7 +546,7 @@
       },
       "tender": {
         "deadline": "2026-12-01T12:00:00.000Z",
-        "daysToDeadline": 57
+        "daysToDeadline": 56
       },
       "source": {
         "publisher": "Find a Tender",
@@ -589,13 +595,13 @@
       },
       "tender": {
         "deadline": "2029-02-10T12:00:00.000Z",
-        "daysToDeadline": 859
+        "daysToDeadline": 858
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-06T10:04:43.016Z"
+        "lastVerified": "2026-10-06T13:49:07.967Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -645,7 +651,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -694,7 +700,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -745,7 +751,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -794,7 +800,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -843,7 +849,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -897,7 +903,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -947,7 +953,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1045,7 +1051,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1096,7 +1102,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-06T10:06:31.579Z"
+        "lastVerified": "2026-10-06T13:51:07.048Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1139,13 +1145,160 @@
       },
       "tender": {
         "deadline": "2026-12-21T12:00:00.000Z",
-        "daysToDeadline": 77
+        "daysToDeadline": 76
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-06T10:04:43.016Z"
+        "lastVerified": "2026-10-06T13:49:07.967Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078173",
+      "slug": "apprenticeship-training-ocds-h6vhtk-078173",
+      "ocid": "ocds-h6vhtk-078173",
+      "title": "Apprenticeship Training",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Pipeline",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Sunderland City Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/094151-2026",
+        "lastVerified": "2026-10-06T13:42:29.634Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-05d507",
+      "slug": "apprenticeships-and-education-services-framework-ocds-h6vhtk-05d507",
+      "ocid": "ocds-h6vhtk-05d507",
+      "title": "Apprenticeships and Education Services Framework",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Pipeline",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Salisbury NHS Foundation Trust",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 2625000000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-12-22T23:45:00.000Z",
+        "daysToDeadline": 78
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/094171-2026",
+        "lastVerified": "2026-10-06T13:42:27.161Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078184",
+      "slug": "the-provision-of-a-part-time-nsets-jnc-endorsed-professional-formation-programme-in-youth-work-ocds-h6vhtk-078184",
+      "ocid": "ocds-h6vhtk-078184",
+      "title": "The Provision of a Part-Time NSETS/JNC Endorsed Professional Formation Programme in Youth Work",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "The Education Authority",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Northern Ireland",
+        "areas": [
+          "Northern Ireland"
+        ]
+      },
+      "value": {
+        "amount": 1000000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/094188-2026",
+        "lastVerified": "2026-10-06T13:42:24.705Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1255,6 +1408,151 @@
       }
     },
     {
+      "id": "ocds-b5fd17-77b880b3-b5cb-422e-a9f4-8938d2838c1c",
+      "slug": "digital-and-technology-solutions-professional-level-6-apprenticeship--a9f4-8938d2838c1c",
+      "ocid": "ocds-b5fd17-77b880b3-b5cb-422e-a9f4-8938d2838c1c",
+      "title": "Digital and Technology Solutions Professional Level 6 Apprenticeship",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "NHS Business Services Authority",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 26460,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-09-12T11:00:00.000Z",
+        "daysToDeadline": -24
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/82b78099-1637-4bba-b85e-83986cc4a98c",
+        "lastVerified": "2026-10-06T13:48:24.728Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-9ffde6c0-b78c-4cb1-be77-59c37d1fe1bc",
+      "slug": "skills-bootcamps-emcca--be77-59c37d1fe1bc",
+      "ocid": "ocds-b5fd17-9ffde6c0-b78c-4cb1-be77-59c37d1fe1bc",
+      "title": "Skills Bootcamps - EMCCA",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "NOTTINGHAMSHIRE COUNTY COUNCIL",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands"
+        ]
+      },
+      "value": {
+        "amount": 11066115.6,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-06-07T11:00:00.000Z",
+        "daysToDeadline": -121
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/ed14e2ba-eb7c-4a70-93e9-656ffb9b13f9",
+        "lastVerified": "2026-10-06T13:48:21.000Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-0fe72564-2fea-403d-89c4-7084252b07bd",
+      "slug": "team-leader-level-3-apprenticeship-2026--89c4-7084252b07bd",
+      "ocid": "ocds-b5fd17-0fe72564-2fea-403d-89c4-7084252b07bd",
+      "title": "Team Leader Level 3 Apprenticeship (2026)",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Cambridgeshire County Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 50000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-05-05T11:00:00.000Z",
+        "daysToDeadline": -154
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/5e9f0b82-839c-4f24-92b3-ba61ab2fc0bf",
+        "lastVerified": "2026-10-06T13:48:13.400Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
       "id": "ocds-h6vhtk-067fbc",
       "slug": "t2689-framework-agreement-for-the-delivery-of-various-employability-and-skills-requirements-ocds-h6vhtk-067fbc",
       "ocid": "ocds-h6vhtk-067fbc",
@@ -1286,13 +1584,62 @@
       },
       "tender": {
         "deadline": "2026-08-21T11:00:00.000Z",
-        "daysToDeadline": -45
+        "daysToDeadline": -46
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093605-2026",
-        "lastVerified": "2026-10-05T19:09:14.591Z"
+        "lastVerified": "2026-10-06T13:47:34.218Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-07815e",
+      "slug": "tvca-proc-0837-connect-to-work-ips-fidelity-assurance-consultancy-ocds-h6vhtk-07815e",
+      "ocid": "ocds-h6vhtk-07815e",
+      "title": "TVCA-PROC-0837 - Connect to Work IPS Fidelity Assurance Consultancy",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work"
+      },
+      "buyer": {
+        "name": "Tees Valley Combined Authority",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East"
+        ]
+      },
+      "value": {
+        "amount": 75785,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/094118-2026",
+        "lastVerified": "2026-10-06T13:42:32.007Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1432,7 +1779,7 @@
       },
       "tender": {
         "deadline": "2026-04-13T11:00:00.000Z",
-        "daysToDeadline": -175
+        "daysToDeadline": -176
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2418,7 +2765,7 @@
       },
       "tender": {
         "deadline": "2026-04-01T11:00:00.000Z",
-        "daysToDeadline": -187
+        "daysToDeadline": -188
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2514,7 +2861,7 @@
       },
       "tender": {
         "deadline": "2026-01-13T12:00:00.000Z",
-        "daysToDeadline": -265
+        "daysToDeadline": -266
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2563,7 +2910,7 @@
       },
       "tender": {
         "deadline": "2025-12-31T12:00:00.000Z",
-        "daysToDeadline": -278
+        "daysToDeadline": -279
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2612,7 +2959,7 @@
       },
       "tender": {
         "deadline": "2026-09-15T11:00:00.000Z",
-        "daysToDeadline": -20
+        "daysToDeadline": -21
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2759,7 +3106,7 @@
       },
       "tender": {
         "deadline": "2026-09-17T11:00:00.000Z",
-        "daysToDeadline": -18
+        "daysToDeadline": -19
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2808,7 +3155,7 @@
       },
       "tender": {
         "deadline": "2026-03-13T11:00:00.000Z",
-        "daysToDeadline": -206
+        "daysToDeadline": -207
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2858,7 +3205,7 @@
       },
       "tender": {
         "deadline": "2026-08-18T11:00:00.000Z",
-        "daysToDeadline": -48
+        "daysToDeadline": -49
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3150,7 +3497,7 @@
       },
       "tender": {
         "deadline": "2026-06-15T11:00:00.000Z",
-        "daysToDeadline": -112
+        "daysToDeadline": -113
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3199,7 +3546,7 @@
       },
       "tender": {
         "deadline": "2026-08-31T11:00:00.000Z",
-        "daysToDeadline": -35
+        "daysToDeadline": -36
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3248,7 +3595,7 @@
       },
       "tender": {
         "deadline": "2026-04-02T12:00:00.000Z",
-        "daysToDeadline": -186
+        "daysToDeadline": -187
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3397,7 +3744,7 @@
       },
       "tender": {
         "deadline": "2026-08-08T11:00:00.000Z",
-        "daysToDeadline": -58
+        "daysToDeadline": -59
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3691,7 +4038,7 @@
       },
       "tender": {
         "deadline": "2025-04-14T11:00:00.000Z",
-        "daysToDeadline": -539
+        "daysToDeadline": -540
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4036,7 +4383,7 @@
       },
       "tender": {
         "deadline": "2026-07-18T11:00:00.000Z",
-        "daysToDeadline": -79
+        "daysToDeadline": -80
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4186,7 +4533,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T13:00:00.000Z",
-        "daysToDeadline": -80
+        "daysToDeadline": -81
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4205,10 +4552,10 @@
     }
   ],
   "marketHeadline": {
-    "opportunityCount": 82,
+    "opportunityCount": 89,
     "programmeCount": 10,
-    "commissionerOrPrimeCount": 61,
-    "activeCount": 22,
+    "commissionerOrPrimeCount": 67,
+    "activeCount": 25,
     "supplyChainCount": 11
   },
   "coverage": {
@@ -4229,9 +4576,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-05T19:09:14.591Z",
-        "lastRecordReceived": "2026-10-05T19:09:14.591Z",
-        "relevantRecordsAccepted": 47,
+        "lastSuccessfulCheck": "2026-10-06T13:47:34.218Z",
+        "lastRecordReceived": "2026-10-06T13:47:34.218Z",
+        "relevantRecordsAccepted": 51,
         "historicalBackfillStatus": "active",
         "coverage": [
           "pipeline",
@@ -4258,9 +4605,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-01T14:06:25.072Z",
-        "lastRecordReceived": "2026-10-01T14:06:25.072Z",
-        "relevantRecordsAccepted": 22,
+        "lastSuccessfulCheck": "2026-10-06T13:48:24.728Z",
+        "lastRecordReceived": "2026-10-06T13:48:24.728Z",
+        "relevantRecordsAccepted": 25,
         "historicalBackfillStatus": "active",
         "coverage": [
           "tenders",
@@ -4334,8 +4681,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-06T10:04:43.016Z",
-        "lastRecordReceived": "2026-10-06T10:04:43.016Z",
+        "lastSuccessfulCheck": "2026-10-06T13:49:07.967Z",
+        "lastRecordReceived": "2026-10-06T13:49:07.967Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4381,9 +4728,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-06T10:06:28.858Z",
-        "lastRecordReceived": "2026-10-06T10:06:28.858Z",
-        "relevantRecordsAccepted": 1,
+        "lastSuccessfulCheck": "2026-10-06T13:51:04.808Z",
+        "lastRecordReceived": null,
+        "relevantRecordsAccepted": 0,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
           "published-notices"
