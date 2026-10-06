@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-06T15:37:41.377Z",
+  "generatedAt": "2026-10-06T16:32:10.489Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -257,7 +257,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-06T13:30:45.742Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -318,6 +318,55 @@
       }
     },
     {
+      "id": "ocds-h6vhtk-077d91",
+      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
+      "ocid": "ocds-h6vhtk-077d91",
+      "title": "Progression Towards Employment",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Stockport Metropolitan Borough Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North West",
+        "areas": [
+          "North West"
+        ]
+      },
+      "value": {
+        "amount": 870000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-10-30T16:00:00.000Z",
+        "daysToDeadline": 24
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+        "lastVerified": "2026-10-01T14:02:52.653Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
       "id": "supply-chain:ingeus-fes",
       "slug": "ingeus-future-employment-support-ingeus-fes",
       "ocid": null,
@@ -356,56 +405,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-06T15:37:28.566Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077d91",
-      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
-      "ocid": "ocds-h6vhtk-077d91",
-      "title": "Progression Towards Employment",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Stockport Metropolitan Borough Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North West",
-        "areas": [
-          "North West"
-        ]
-      },
-      "value": {
-        "amount": 870000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": "2026-10-30T16:00:00.000Z",
-        "daysToDeadline": 25
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-        "lastVerified": "2026-10-01T14:02:52.653Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -599,7 +599,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-06T15:35:27.625Z"
+        "lastVerified": "2026-10-06T16:30:08.365Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -649,7 +649,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-06T15:37:28.566Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -698,106 +698,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-06T15:37:28.566Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "supply-chain:reed-fes",
-      "slug": "reed-in-partnership-future-employment-support-reed-fes",
-      "ocid": null,
-      "title": "Future Employment Support delivery partner opportunities",
-      "opportunityClass": "supply-chain",
-      "opportunityType": "Supply Chain Opportunity",
-      "stage": "supply-chain-eoi",
-      "stageGroup": "live",
-      "stageLabel": "Supply chain EOI",
-      "programme": {
-        "name": "Future Employment Support",
-        "slug": "future-employment-support"
-      },
-      "buyer": {
-        "name": "Reed in Partnership",
-        "role": "Prime provider"
-      },
-      "primeProvider": "Reed in Partnership",
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Reed in Partnership",
-        "sourceId": "reed-fes",
-        "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-06T15:37:28.566Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "supply-chain:standguide-partner-network",
-      "slug": "standguide-employment-skills-standguide-partner-network",
-      "ocid": null,
-      "title": "Standguide Partner Network and EOI opportunities",
-      "opportunityClass": "supply-chain",
-      "opportunityType": "Supply Chain Partnership Route",
-      "stage": "supply-chain-eoi",
-      "stageGroup": "live",
-      "stageLabel": "Supply chain EOI",
-      "programme": {
-        "name": "Employment & Skills",
-        "slug": "employment-skills"
-      },
-      "buyer": {
-        "name": "Standguide",
-        "role": "Prime provider"
-      },
-      "primeProvider": "Standguide",
-      "geography": {
-        "primaryArea": "East Midlands",
-        "areas": [
-          "East Midlands",
-          "England"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Standguide",
-        "sourceId": "standguide-partner-network",
-        "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-06T15:37:28.566Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -848,7 +749,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-06T13:30:45.742Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -897,7 +798,56 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-06T13:30:45.742Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:reed-fes",
+      "slug": "reed-in-partnership-future-employment-support-reed-fes",
+      "ocid": null,
+      "title": "Future Employment Support delivery partner opportunities",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Reed in Partnership",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Reed in Partnership",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Reed in Partnership",
+        "sourceId": "reed-fes",
+        "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -932,7 +882,6 @@
         "areas": [
           "England",
           "North West",
-          "West Midlands",
           "East of England",
           "London",
           "South West"
@@ -951,7 +900,57 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-06T13:30:45.742Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:standguide-partner-network",
+      "slug": "standguide-employment-skills-standguide-partner-network",
+      "ocid": null,
+      "title": "Standguide Partner Network and EOI opportunities",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Partnership Route",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
+      },
+      "buyer": {
+        "name": "Standguide",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Standguide",
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands",
+          "England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Standguide",
+        "sourceId": "standguide-partner-network",
+        "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1049,7 +1048,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-06T15:37:28.566Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1100,7 +1099,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-06T15:37:28.566Z"
+        "lastVerified": "2026-10-06T16:31:58.969Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1149,7 +1148,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-06T15:35:27.625Z"
+        "lastVerified": "2026-10-06T16:30:08.365Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1924,7 +1923,7 @@
       },
       "tender": {
         "deadline": "2026-09-21T16:00:00.000Z",
-        "daysToDeadline": -14
+        "daysToDeadline": -15
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2273,7 +2272,7 @@
       },
       "tender": {
         "deadline": "2025-06-20T16:00:00.000Z",
-        "daysToDeadline": -472
+        "daysToDeadline": -473
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3301,7 +3300,7 @@
       },
       "tender": {
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -84
+        "daysToDeadline": -85
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3642,7 +3641,7 @@
       },
       "tender": {
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -38
+        "daysToDeadline": -39
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4083,7 +4082,7 @@
       },
       "tender": {
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -96
+        "daysToDeadline": -97
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4182,7 +4181,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -80
+        "daysToDeadline": -81
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4679,8 +4678,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-06T15:35:27.625Z",
-        "lastRecordReceived": "2026-10-06T15:35:27.625Z",
+        "lastSuccessfulCheck": "2026-10-06T16:30:08.365Z",
+        "lastRecordReceived": "2026-10-06T16:30:08.365Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4726,8 +4725,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-06T15:37:25.499Z",
-        "lastRecordReceived": "2026-10-06T15:37:25.499Z",
+        "lastSuccessfulCheck": "2026-10-06T16:31:56.164Z",
+        "lastRecordReceived": "2026-10-06T16:31:56.164Z",
         "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
