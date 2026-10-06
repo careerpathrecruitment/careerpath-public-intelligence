@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-06T15:24:31.669Z",
+  "generatedAt": "2026-10-06T15:37:41.377Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -39,14 +39,14 @@
       "City & County of Swansea",
       "Construction Industry Training Board",
       "Department for Work and Pensions",
-      "DERBY CITY COUNCIL",
+      "Derby City Council",
       "Devon County Council",
       "East Durham College",
       "Enable Works",
       "Essex County Council",
       "Fedcap Employment",
       "Greater Lincolnshire Combined County Authority",
-      "H M REVENUE & CUSTOMS",
+      "H M Revenue & Customs",
       "Hull City Council",
       "Ingeus",
       "Isle of Wight Council",
@@ -63,12 +63,12 @@
       "Ministry of Housing, Communities & Local Government",
       "Ministry of Justice",
       "NHS Business Services Authority",
-      "NHS DORSET INTEGRATED CARE BOARD",
+      "NHS Dorset Integrated Care Board",
       "NHS North East London Integrated Care Board",
-      "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
+      "NHS South, Central And West Commissioning Support Unit",
       "North East Combined Authority",
-      "NOTTINGHAMSHIRE COUNTY COUNCIL",
-      "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
+      "Nottinghamshire County Council",
+      "Oxfordshire Local Enterprise Partnership Limited",
       "Pennine Care NHS Foundation Trust",
       "PeoplePlus",
       "Plymouth City Council",
@@ -88,7 +88,7 @@
       "Tees Valley Combined Authority",
       "The Education Authority",
       "The Growth Company",
-      "UK SHARED BUSINESS SERVICES LIMITED",
+      "UK Shared Business Services Limited",
       "University Centre Somerset College Group",
       "West Sussex County Council",
       "West Yorkshire Combined Authority",
@@ -257,7 +257,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T13:30:45.742Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -356,7 +356,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T15:37:28.566Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -599,7 +599,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-06T15:22:17.778Z"
+        "lastVerified": "2026-10-06T15:35:27.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -649,7 +649,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T15:37:28.566Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -698,7 +698,106 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T15:37:28.566Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:reed-fes",
+      "slug": "reed-in-partnership-future-employment-support-reed-fes",
+      "ocid": null,
+      "title": "Future Employment Support delivery partner opportunities",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Reed in Partnership",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Reed in Partnership",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Reed in Partnership",
+        "sourceId": "reed-fes",
+        "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
+        "lastVerified": "2026-10-06T15:37:28.566Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:standguide-partner-network",
+      "slug": "standguide-employment-skills-standguide-partner-network",
+      "ocid": null,
+      "title": "Standguide Partner Network and EOI opportunities",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Partnership Route",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
+      },
+      "buyer": {
+        "name": "Standguide",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Standguide",
+      "geography": {
+        "primaryArea": "East Midlands",
+        "areas": [
+          "East Midlands",
+          "England"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Standguide",
+        "sourceId": "standguide-partner-network",
+        "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
+        "lastVerified": "2026-10-06T15:37:28.566Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -749,7 +848,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T13:30:45.742Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -798,56 +897,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "supply-chain:reed-fes",
-      "slug": "reed-in-partnership-future-employment-support-reed-fes",
-      "ocid": null,
-      "title": "Future Employment Support delivery partner opportunities",
-      "opportunityClass": "supply-chain",
-      "opportunityType": "Supply Chain Opportunity",
-      "stage": "supply-chain-eoi",
-      "stageGroup": "live",
-      "stageLabel": "Supply chain EOI",
-      "programme": {
-        "name": "Future Employment Support",
-        "slug": "future-employment-support"
-      },
-      "buyer": {
-        "name": "Reed in Partnership",
-        "role": "Prime provider"
-      },
-      "primeProvider": "Reed in Partnership",
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Reed in Partnership",
-        "sourceId": "reed-fes",
-        "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T13:30:45.742Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -901,57 +951,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "supply-chain:standguide-partner-network",
-      "slug": "standguide-employment-skills-standguide-partner-network",
-      "ocid": null,
-      "title": "Standguide Partner Network and EOI opportunities",
-      "opportunityClass": "supply-chain",
-      "opportunityType": "Supply Chain Partnership Route",
-      "stage": "supply-chain-eoi",
-      "stageGroup": "live",
-      "stageLabel": "Supply chain EOI",
-      "programme": {
-        "name": "Employment & Skills",
-        "slug": "employment-skills"
-      },
-      "buyer": {
-        "name": "Standguide",
-        "role": "Prime provider"
-      },
-      "primeProvider": "Standguide",
-      "geography": {
-        "primaryArea": "East Midlands",
-        "areas": [
-          "East Midlands",
-          "England"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Standguide",
-        "sourceId": "standguide-partner-network",
-        "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T13:30:45.742Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1049,7 +1049,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T15:37:28.566Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1100,7 +1100,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-06T15:24:14.410Z"
+        "lastVerified": "2026-10-06T15:37:28.566Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1149,7 +1149,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-06T15:22:17.778Z"
+        "lastVerified": "2026-10-06T15:35:27.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1469,7 +1469,7 @@
         "slug": "skills-bootcamps"
       },
       "buyer": {
-        "name": "NOTTINGHAMSHIRE COUNTY COUNCIL",
+        "name": "Nottinghamshire County Council",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -2354,7 +2354,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "UK SHARED BUSINESS SERVICES LIMITED",
+        "name": "UK Shared Business Services Limited",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -2403,7 +2403,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "UK SHARED BUSINESS SERVICES LIMITED",
+        "name": "UK Shared Business Services Limited",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -2648,7 +2648,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "UK SHARED BUSINESS SERVICES LIMITED",
+        "name": "UK Shared Business Services Limited",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3136,7 +3136,7 @@
         "slug": "skills-bootcamps"
       },
       "buyer": {
-        "name": "OXFORDSHIRE LOCAL ENTERPRISE PARTNERSHIP LIMITED",
+        "name": "Oxfordshire Local Enterprise Partnership Limited",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3185,7 +3185,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "NHS SOUTH, CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",
+        "name": "NHS South, Central And West Commissioning Support Unit",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3235,7 +3235,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "DERBY CITY COUNCIL",
+        "name": "Derby City Council",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3478,7 +3478,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "H M REVENUE & CUSTOMS",
+        "name": "H M Revenue & Customs",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3625,7 +3625,7 @@
         "slug": "employment-support"
       },
       "buyer": {
-        "name": "NHS DORSET INTEGRATED CARE BOARD",
+        "name": "NHS Dorset Integrated Care Board",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3823,7 +3823,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "DERBY CITY COUNCIL",
+        "name": "Derby City Council",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3872,7 +3872,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "DERBY CITY COUNCIL",
+        "name": "Derby City Council",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -3921,7 +3921,7 @@
         "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "DERBY CITY COUNCIL",
+        "name": "Derby City Council",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -4679,8 +4679,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-06T15:22:17.778Z",
-        "lastRecordReceived": "2026-10-06T15:22:17.778Z",
+        "lastSuccessfulCheck": "2026-10-06T15:35:27.625Z",
+        "lastRecordReceived": "2026-10-06T15:35:27.625Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4726,8 +4726,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-06T15:24:11.448Z",
-        "lastRecordReceived": "2026-10-06T15:24:11.448Z",
+        "lastSuccessfulCheck": "2026-10-06T15:37:25.499Z",
+        "lastRecordReceived": "2026-10-06T15:37:25.499Z",
         "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
