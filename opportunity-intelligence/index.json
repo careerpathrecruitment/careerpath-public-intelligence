@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-08T11:05:33.407Z",
+  "generatedAt": "2026-10-08T14:06:23.972Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -259,7 +259,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -358,7 +358,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/for-partners/current-opportunities",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -450,7 +450,7 @@
       },
       "tender": {
         "deadline": "2026-11-02T12:00:00.000Z",
-        "daysToDeadline": 26
+        "daysToDeadline": 25
       },
       "source": {
         "publisher": "Find a Tender",
@@ -499,7 +499,7 @@
       },
       "tender": {
         "deadline": "2026-11-20T12:00:00.000Z",
-        "daysToDeadline": 44
+        "daysToDeadline": 43
       },
       "source": {
         "publisher": "Find a Tender",
@@ -546,7 +546,7 @@
       },
       "tender": {
         "deadline": "2026-12-01T12:00:00.000Z",
-        "daysToDeadline": 55
+        "daysToDeadline": 54
       },
       "source": {
         "publisher": "Find a Tender",
@@ -595,13 +595,13 @@
       },
       "tender": {
         "deadline": "2029-02-10T12:00:00.000Z",
-        "daysToDeadline": 857
+        "daysToDeadline": 856
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-08T11:03:20.948Z"
+        "lastVerified": "2026-10-08T14:04:27.905Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -651,7 +651,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -700,7 +700,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -751,7 +751,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -800,7 +800,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -849,7 +849,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -902,7 +902,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -952,7 +952,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1050,7 +1050,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1101,7 +1101,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-08T11:05:18.975Z"
+        "lastVerified": "2026-10-08T14:06:13.044Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1144,13 +1144,13 @@
       },
       "tender": {
         "deadline": "2026-12-21T12:00:00.000Z",
-        "daysToDeadline": 75
+        "daysToDeadline": 74
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-08T11:03:20.948Z"
+        "lastVerified": "2026-10-08T14:04:27.905Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -3007,7 +3007,7 @@
       },
       "tender": {
         "deadline": "2026-01-13T12:00:00.000Z",
-        "daysToDeadline": -267
+        "daysToDeadline": -268
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3056,7 +3056,7 @@
       },
       "tender": {
         "deadline": "2025-12-31T12:00:00.000Z",
-        "daysToDeadline": -280
+        "daysToDeadline": -281
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3741,7 +3741,7 @@
       },
       "tender": {
         "deadline": "2026-04-02T12:00:00.000Z",
-        "daysToDeadline": -188
+        "daysToDeadline": -189
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4679,7 +4679,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T13:00:00.000Z",
-        "daysToDeadline": -82
+        "daysToDeadline": -83
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4827,8 +4827,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-08T11:03:20.948Z",
-        "lastRecordReceived": "2026-10-08T11:03:20.948Z",
+        "lastSuccessfulCheck": "2026-10-08T14:04:27.905Z",
+        "lastRecordReceived": "2026-10-08T14:04:27.905Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -4874,8 +4874,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-08T11:05:15.848Z",
-        "lastRecordReceived": "2026-10-08T11:05:15.848Z",
+        "lastSuccessfulCheck": "2026-10-08T14:06:09.012Z",
+        "lastRecordReceived": "2026-10-08T14:06:09.012Z",
         "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
