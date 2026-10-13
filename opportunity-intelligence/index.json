@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-13T15:43:47.206Z",
+  "generatedAt": "2026-10-13T16:30:22.408Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -22,6 +22,7 @@
       "Apprenticeships",
       "Careers Services",
       "Connect to Work",
+      "Economic Inactivity Trailblazers",
       "Employment & Skills",
       "Employment Support",
       "Future Employment Support",
@@ -111,11 +112,13 @@
       "East of England",
       "England",
       "Flintshire and Wrexham",
+      "Gwent Valleys",
       "Kingston upon Hull, City of",
       "Lancashire",
       "Lincolnshire",
       "London",
       "North East",
+      "North Northamptonshire",
       "North West",
       "Northern Ireland",
       "Scotland",
@@ -123,6 +126,7 @@
       "South East",
       "South West",
       "Suffolk",
+      "Swansea",
       "Wales",
       "West Midlands",
       "Wirral",
@@ -220,7 +224,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -281,6 +285,55 @@
       }
     },
     {
+      "id": "ocds-h6vhtk-077d91",
+      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
+      "ocid": "ocds-h6vhtk-077d91",
+      "title": "Progression Towards Employment",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Stockport Metropolitan Borough Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North West",
+        "areas": [
+          "North West"
+        ]
+      },
+      "value": {
+        "amount": 870000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-10-30T16:00:00.000Z",
+        "daysToDeadline": 17
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+        "lastVerified": "2026-10-01T14:02:52.653Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
       "id": "supply-chain:ingeus-fes",
       "slug": "ingeus-future-employment-support-ingeus-fes",
       "ocid": null,
@@ -319,56 +372,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077d91",
-      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
-      "ocid": "ocds-h6vhtk-077d91",
-      "title": "Progression Towards Employment",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Stockport Metropolitan Borough Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North West",
-        "areas": [
-          "North West"
-        ]
-      },
-      "value": {
-        "amount": 870000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": "2026-10-30T16:00:00.000Z",
-        "daysToDeadline": 18
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-        "lastVerified": "2026-10-01T14:02:52.653Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -390,8 +394,8 @@
       "stageGroup": "live",
       "stageLabel": "Live tender",
       "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
+        "name": "Economic Inactivity Trailblazers",
+        "slug": "economic-inactivity-trailblazers"
       },
       "buyer": {
         "name": "City & County of Swansea",
@@ -399,8 +403,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "Wales",
+        "primaryArea": "Swansea",
         "areas": [
+          "Swansea",
           "Wales"
         ]
       },
@@ -448,8 +453,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "Wales",
+        "primaryArea": "Gwent Valleys",
         "areas": [
+          "Gwent Valleys",
           "Wales"
         ]
       },
@@ -595,8 +601,9 @@
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "East Midlands",
+        "primaryArea": "North Northamptonshire",
         "areas": [
+          "North Northamptonshire",
           "East Midlands"
         ]
       },
@@ -758,7 +765,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-13T15:41:33.357Z"
+        "lastVerified": "2026-10-13T16:28:05.690Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -808,7 +815,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -857,7 +864,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -908,7 +915,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -958,7 +965,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1007,7 +1014,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1060,7 +1067,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1110,7 +1117,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1208,7 +1215,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1259,7 +1266,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-13T15:43:35.611Z"
+        "lastVerified": "2026-10-13T16:30:07.153Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1308,7 +1315,56 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-13T15:41:33.357Z"
+        "lastVerified": "2026-10-13T16:28:05.690Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078657",
+      "slug": "market-engagement-event-welsh-harp-land-based-education-training-and-skills-service-and-centre-ocds-h6vhtk-078657",
+      "ocid": "ocds-h6vhtk-078657",
+      "title": "Market Engagement Event – Welsh Harp Land based Education, Training and Skills Service and Centre",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "planning",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming",
+      "programme": {
+        "name": "Supported Employment / IPS",
+        "slug": "supported-employment-ips"
+      },
+      "buyer": {
+        "name": "London Borough of Brent",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "London",
+        "areas": [
+          "London"
+        ]
+      },
+      "value": {
+        "amount": 1500000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/096456-2026",
+        "lastVerified": "2026-10-13T16:23:33.450Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1358,55 +1414,6 @@
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/096128-2026",
         "lastVerified": "2026-10-13T13:01:12.246Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-078657",
-      "slug": "market-engagement-event-welsh-harp-land-based-education-training-and-skills-service-and-centre-ocds-h6vhtk-078657",
-      "ocid": "ocds-h6vhtk-078657",
-      "title": "Market Engagement Event – Welsh Harp Land based Education, Training and Skills Service and Centre",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "planning",
-      "stageGroup": "upcoming",
-      "stageLabel": "Upcoming",
-      "programme": {
-        "name": "Supported Employment / IPS",
-        "slug": "supported-employment-ips"
-      },
-      "buyer": {
-        "name": "London Borough of Brent",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "London",
-        "areas": [
-          "London"
-        ]
-      },
-      "value": {
-        "amount": 1500000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/096456-2026",
-        "lastVerified": "2026-10-13T12:58:25.749Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1698,7 +1705,7 @@
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/dacda9b8-4a39-4cab-96af-fb3a3dd28e17",
-        "lastVerified": "2026-10-13T13:02:00.947Z"
+        "lastVerified": "2026-10-13T16:26:17.778Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1747,7 +1754,7 @@
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/096349-2026",
-        "lastVerified": "2026-10-13T12:58:41.391Z"
+        "lastVerified": "2026-10-13T16:25:50.003Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2403,8 +2410,8 @@
       "stageGroup": "recent-award",
       "stageLabel": "Recently awarded",
       "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
+        "name": "Economic Inactivity Trailblazers",
+        "slug": "economic-inactivity-trailblazers"
       },
       "buyer": {
         "name": "Leeds City Council",
@@ -2668,7 +2675,7 @@
       },
       "tender": {
         "deadline": "2026-09-21T16:00:00.000Z",
-        "daysToDeadline": -21
+        "daysToDeadline": -22
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3017,7 +3024,7 @@
       },
       "tender": {
         "deadline": "2025-06-20T16:00:00.000Z",
-        "daysToDeadline": -479
+        "daysToDeadline": -480
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4045,7 +4052,7 @@
       },
       "tender": {
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -91
+        "daysToDeadline": -92
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4386,7 +4393,7 @@
       },
       "tender": {
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -45
+        "daysToDeadline": -46
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4827,7 +4834,7 @@
       },
       "tender": {
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -103
+        "daysToDeadline": -104
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4926,7 +4933,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -87
+        "daysToDeadline": -88
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5295,7 +5302,7 @@
   ],
   "marketHeadline": {
     "opportunityCount": 104,
-    "programmeCount": 10,
+    "programmeCount": 11,
     "commissionerOrPrimeCount": 75,
     "activeCount": 30,
     "supplyChainCount": 11
@@ -5318,8 +5325,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T13:01:12.246Z",
-        "lastRecordReceived": "2026-10-13T13:01:12.246Z",
+        "lastSuccessfulCheck": "2026-10-13T16:25:50.003Z",
+        "lastRecordReceived": "2026-10-13T16:25:50.003Z",
         "relevantRecordsAccepted": 58,
         "historicalBackfillStatus": "active",
         "coverage": [
@@ -5347,8 +5354,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T13:02:00.947Z",
-        "lastRecordReceived": "2026-10-13T13:02:00.947Z",
+        "lastSuccessfulCheck": "2026-10-13T16:26:17.778Z",
+        "lastRecordReceived": "2026-10-13T16:26:17.778Z",
         "relevantRecordsAccepted": 33,
         "historicalBackfillStatus": "active",
         "coverage": [
@@ -5423,8 +5430,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T15:41:33.357Z",
-        "lastRecordReceived": "2026-10-13T15:41:33.357Z",
+        "lastSuccessfulCheck": "2026-10-13T16:28:05.690Z",
+        "lastRecordReceived": "2026-10-13T16:28:05.690Z",
         "relevantRecordsAccepted": 2,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -5470,7 +5477,7 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T15:43:32.582Z",
+        "lastSuccessfulCheck": "2026-10-13T16:30:03.925Z",
         "lastRecordReceived": null,
         "relevantRecordsAccepted": 0,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
