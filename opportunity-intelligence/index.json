@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-13T13:05:19.119Z",
+  "generatedAt": "2026-10-13T14:27:52.834Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -220,7 +220,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -319,7 +319,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -758,7 +758,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-13T13:03:10.358Z"
+        "lastVerified": "2026-10-13T14:25:38.621Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -808,7 +808,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -857,7 +857,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -908,7 +908,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -958,7 +958,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1007,7 +1007,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1060,7 +1060,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1110,7 +1110,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1208,7 +1208,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1259,7 +1259,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-13T13:05:06.044Z"
+        "lastVerified": "2026-10-13T14:27:35.898Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1308,7 +1308,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-13T13:03:10.358Z"
+        "lastVerified": "2026-10-13T14:25:38.621Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -5423,8 +5423,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T13:03:10.358Z",
-        "lastRecordReceived": "2026-10-13T13:03:10.358Z",
+        "lastSuccessfulCheck": "2026-10-13T14:25:38.621Z",
+        "lastRecordReceived": "2026-10-13T14:25:38.621Z",
         "relevantRecordsAccepted": 2,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -5470,9 +5470,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T13:05:02.995Z",
-        "lastRecordReceived": "2026-10-13T13:05:02.995Z",
-        "relevantRecordsAccepted": 1,
+        "lastSuccessfulCheck": "2026-10-13T14:27:32.482Z",
+        "lastRecordReceived": null,
+        "relevantRecordsAccepted": 0,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
           "published-notices"
