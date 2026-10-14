@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-13T19:37:28.938Z",
+  "generatedAt": "2026-10-14T09:28:31.002Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -219,13 +219,13 @@
       },
       "tender": {
         "deadline": "2026-10-16T00:00:00.000Z",
-        "daysToDeadline": 3
+        "daysToDeadline": 2
       },
       "source": {
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -268,13 +268,63 @@
       },
       "tender": {
         "deadline": "2026-10-20T09:00:00.000Z",
-        "daysToDeadline": 7
+        "daysToDeadline": 6
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090797-2026",
         "lastVerified": "2026-09-26T11:55:55.047Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:ingeus-fes",
+      "slug": "ingeus-future-employment-support-ingeus-fes",
+      "ocid": null,
+      "title": "Future Employment Support partner expression of interest",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Ingeus",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Ingeus",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England",
+          "London"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": "2026-10-31T00:00:00.000Z",
+        "daysToDeadline": 17
+      },
+      "source": {
+        "publisher": "Ingeus",
+        "sourceId": "ingeus-fes",
+        "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -324,56 +374,6 @@
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
         "lastVerified": "2026-10-01T14:02:52.653Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "supply-chain:ingeus-fes",
-      "slug": "ingeus-future-employment-support-ingeus-fes",
-      "ocid": null,
-      "title": "Future Employment Support partner expression of interest",
-      "opportunityClass": "supply-chain",
-      "opportunityType": "Supply Chain Opportunity",
-      "stage": "supply-chain-eoi",
-      "stageGroup": "live",
-      "stageLabel": "Supply chain EOI",
-      "programme": {
-        "name": "Future Employment Support",
-        "slug": "future-employment-support"
-      },
-      "buyer": {
-        "name": "Ingeus",
-        "role": "Prime provider"
-      },
-      "primeProvider": "Ingeus",
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England",
-          "London"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": "2026-10-31T00:00:00.000Z",
-        "daysToDeadline": 18
-      },
-      "source": {
-        "publisher": "Ingeus",
-        "sourceId": "ingeus-fes",
-        "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -766,7 +766,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-13T19:35:13.551Z"
+        "lastVerified": "2026-10-14T09:26:30.095Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -816,7 +816,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -865,7 +865,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -916,7 +916,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -966,7 +966,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1015,7 +1015,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1068,7 +1068,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1118,7 +1118,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1167,7 +1167,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
-        "lastVerified": "2026-10-13T19:35:35.608Z"
+        "lastVerified": "2026-10-14T09:26:48.667Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1265,7 +1265,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1316,7 +1316,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-13T19:37:15.671Z"
+        "lastVerified": "2026-10-14T09:28:18.625Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1365,7 +1365,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-13T19:35:13.551Z"
+        "lastVerified": "2026-10-14T09:26:30.095Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1555,7 +1555,7 @@
       },
       "tender": {
         "deadline": "2026-12-22T23:45:00.000Z",
-        "daysToDeadline": 71
+        "daysToDeadline": 70
       },
       "source": {
         "publisher": "Find a Tender",
@@ -1757,7 +1757,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566549",
-        "lastVerified": "2026-10-13T19:35:35.608Z"
+        "lastVerified": "2026-10-14T09:26:48.667Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1992,7 +1992,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -104
+        "daysToDeadline": -105
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2041,7 +2041,7 @@
       },
       "tender": {
         "deadline": "2026-09-23T23:00:00.000Z",
-        "daysToDeadline": -19
+        "daysToDeadline": -20
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2090,7 +2090,7 @@
       },
       "tender": {
         "deadline": "2026-09-23T23:00:00.000Z",
-        "daysToDeadline": -19
+        "daysToDeadline": -20
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2383,7 +2383,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -49
+        "daysToDeadline": -50
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2823,7 +2823,7 @@
       },
       "tender": {
         "deadline": "2026-08-31T23:00:00.000Z",
-        "daysToDeadline": -42
+        "daysToDeadline": -43
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2870,7 +2870,7 @@
       },
       "tender": {
         "deadline": "2026-09-30T07:00:00.000Z",
-        "daysToDeadline": -13
+        "daysToDeadline": -14
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3221,7 +3221,7 @@
       },
       "tender": {
         "deadline": "2026-06-07T23:00:00.000Z",
-        "daysToDeadline": -127
+        "daysToDeadline": -128
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3270,7 +3270,7 @@
       },
       "tender": {
         "deadline": "2026-04-12T23:00:00.000Z",
-        "daysToDeadline": -183
+        "daysToDeadline": -184
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3564,7 +3564,7 @@
       },
       "tender": {
         "deadline": "2026-09-03T22:59:00.000Z",
-        "daysToDeadline": -39
+        "daysToDeadline": -40
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3856,7 +3856,7 @@
       },
       "tender": {
         "deadline": "2026-02-12T00:00:00.000Z",
-        "daysToDeadline": -243
+        "daysToDeadline": -244
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4102,7 +4102,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -49
+        "daysToDeadline": -50
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4249,7 +4249,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -104
+        "daysToDeadline": -105
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4296,7 +4296,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -104
+        "daysToDeadline": -105
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4641,7 +4641,7 @@
       },
       "tender": {
         "deadline": "2026-07-20T09:00:00.000Z",
-        "daysToDeadline": -85
+        "daysToDeadline": -86
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4690,7 +4690,7 @@
       },
       "tender": {
         "deadline": "2026-07-15T22:59:00.000Z",
-        "daysToDeadline": -89
+        "daysToDeadline": -90
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4739,7 +4739,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -49
+        "daysToDeadline": -50
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4788,7 +4788,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -49
+        "daysToDeadline": -50
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4982,7 +4982,7 @@
       },
       "tender": {
         "deadline": "2026-08-05T00:00:00.000Z",
-        "daysToDeadline": -69
+        "daysToDeadline": -70
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5331,7 +5331,7 @@
       },
       "tender": {
         "deadline": "2026-07-06T08:00:00.000Z",
-        "daysToDeadline": -99
+        "daysToDeadline": -100
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5477,8 +5477,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T19:35:35.608Z",
-        "lastRecordReceived": "2026-10-13T19:35:35.608Z",
+        "lastSuccessfulCheck": "2026-10-14T09:26:48.667Z",
+        "lastRecordReceived": "2026-10-14T09:26:48.667Z",
         "relevantRecordsAccepted": 2,
         "historicalBackfillStatus": "verify-completeness",
         "coverage": [
@@ -5503,7 +5503,7 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T19:35:35.608Z",
+        "lastSuccessfulCheck": "2026-10-14T09:26:48.667Z",
         "lastRecordReceived": null,
         "relevantRecordsAccepted": 0,
         "historicalBackfillStatus": "verify-completeness",
@@ -5529,8 +5529,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T19:35:13.551Z",
-        "lastRecordReceived": "2026-10-13T19:35:13.551Z",
+        "lastSuccessfulCheck": "2026-10-14T09:26:30.095Z",
+        "lastRecordReceived": "2026-10-14T09:26:30.095Z",
         "relevantRecordsAccepted": 2,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -5576,7 +5576,7 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-13T19:37:12.231Z",
+        "lastSuccessfulCheck": "2026-10-14T09:28:15.752Z",
         "lastRecordReceived": null,
         "relevantRecordsAccepted": 0,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
