@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-14T13:34:17.671Z",
+  "generatedAt": "2026-10-14T20:32:00.061Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
@@ -77,6 +77,7 @@
       "NHS South, Central And West Commissioning Support Unit",
       "North East Combined Authority",
       "North Northamptonshire Council",
+      "Northern Ireland public sector",
       "Nottinghamshire County Council",
       "Oxfordshire Local Enterprise Partnership Limited",
       "Pennine Care NHS Foundation Trust",
@@ -225,7 +226,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -286,6 +287,55 @@
       }
     },
     {
+      "id": "ocds-h6vhtk-077d91",
+      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
+      "ocid": "ocds-h6vhtk-077d91",
+      "title": "Progression Towards Employment",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Stockport Metropolitan Borough Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North West",
+        "areas": [
+          "North West"
+        ]
+      },
+      "value": {
+        "amount": 870000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-10-30T16:00:00.000Z",
+        "daysToDeadline": 16
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+        "lastVerified": "2026-10-01T14:02:52.653Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
       "id": "supply-chain:ingeus-fes",
       "slug": "ingeus-future-employment-support-ingeus-fes",
       "ocid": null,
@@ -324,56 +374,7 @@
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077d91",
-      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
-      "ocid": "ocds-h6vhtk-077d91",
-      "title": "Progression Towards Employment",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Stockport Metropolitan Borough Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North West",
-        "areas": [
-          "North West"
-        ]
-      },
-      "value": {
-        "amount": 870000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": "2026-10-30T16:00:00.000Z",
-        "daysToDeadline": 17
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-        "lastVerified": "2026-10-01T14:02:52.653Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -766,7 +767,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-14T13:31:51.379Z"
+        "lastVerified": "2026-10-14T20:29:30.114Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -816,7 +817,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -865,7 +866,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -916,7 +917,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -966,7 +967,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1015,7 +1016,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1068,7 +1069,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1118,7 +1119,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1167,7 +1168,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566576",
-        "lastVerified": "2026-10-14T13:32:15.466Z"
+        "lastVerified": "2026-10-14T20:29:52.666Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1265,7 +1266,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1316,7 +1317,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-14T13:34:03.272Z"
+        "lastVerified": "2026-10-14T20:31:46.516Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1365,7 +1366,7 @@
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-14T13:31:51.379Z"
+        "lastVerified": "2026-10-14T20:29:30.114Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1720,44 +1721,44 @@
       }
     },
     {
-      "id": "cp-devolved-live-public-contracts-scotland-nbsp-oct566549",
-      "slug": "devolved-public-contracts-scotland-nbsp-oct566549",
+      "id": "etendersni-6786963",
+      "slug": "development-and-delivery-of-armagh-city-banbridge-and-craigavon-borough-council-labour-market-pa-etendersni-6786963",
       "ocid": null,
-      "title": "CFM0285 Modern Apprentice & Traineeship Training Delivery",
+      "title": "Development and Delivery of Armagh City, Banbridge and Craigavon Borough Council Labour Market Partnership Classroom Assistant Academy 2026/2027",
       "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
+      "opportunityType": "eTendersNI Contract Details Notice",
+      "stage": "contract",
       "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
+      "stageLabel": "Contract details",
       "programme": {
-        "name": "Employment Support",
-        "slug": null
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
       },
       "buyer": {
-        "name": "&nbsp;",
+        "name": "Northern Ireland public sector",
         "role": "Commissioner"
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "Scotland",
+        "primaryArea": "Northern Ireland",
         "areas": [
-          "Scotland"
+          "Northern Ireland"
         ]
       },
       "value": {
         "amount": null,
         "currency": "GBP",
-        "basis": null
+        "basis": "not-published"
       },
       "tender": {
         "deadline": null,
         "daysToDeadline": null
       },
       "source": {
-        "publisher": "Public Contracts Scotland",
-        "sourceId": "public-contracts-scotland",
-        "latestNoticeUrl": "https://www.publiccontractsscotland.gov.uk/search/show/search_view.aspx?ID=OCT566549",
-        "lastVerified": "2026-10-14T13:32:15.466Z"
+        "publisher": "eTendersNI",
+        "sourceId": "etendersni",
+        "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6595586&documentId=6787149&noticeType=7&extId=c564f9ad-8614-462d-ac57-cb6f913ac40a&lang=en&noticeId=6786963&isNational=false",
+        "lastVerified": "2026-10-14T20:31:42.911Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2823,7 +2824,7 @@
       },
       "tender": {
         "deadline": "2026-09-21T16:00:00.000Z",
-        "daysToDeadline": -22
+        "daysToDeadline": -23
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3172,7 +3173,7 @@
       },
       "tender": {
         "deadline": "2025-06-20T16:00:00.000Z",
-        "daysToDeadline": -480
+        "daysToDeadline": -481
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4200,7 +4201,7 @@
       },
       "tender": {
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -92
+        "daysToDeadline": -93
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4541,7 +4542,7 @@
       },
       "tender": {
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -46
+        "daysToDeadline": -47
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4982,7 +4983,7 @@
       },
       "tender": {
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -104
+        "daysToDeadline": -105
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5081,7 +5082,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -88
+        "daysToDeadline": -89
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5451,7 +5452,7 @@
   "marketHeadline": {
     "opportunityCount": 107,
     "programmeCount": 11,
-    "commissionerOrPrimeCount": 76,
+    "commissionerOrPrimeCount": 77,
     "activeCount": 31,
     "supplyChainCount": 11
   },
@@ -5526,9 +5527,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-14T13:32:15.466Z",
-        "lastRecordReceived": "2026-10-14T13:32:15.466Z",
-        "relevantRecordsAccepted": 2,
+        "lastSuccessfulCheck": "2026-10-14T20:29:52.666Z",
+        "lastRecordReceived": "2026-10-14T20:29:52.666Z",
+        "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "verify-completeness",
         "coverage": [
           "prior-information",
@@ -5552,7 +5553,7 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-14T13:32:15.466Z",
+        "lastSuccessfulCheck": "2026-10-14T20:29:52.666Z",
         "lastRecordReceived": null,
         "relevantRecordsAccepted": 0,
         "historicalBackfillStatus": "verify-completeness",
@@ -5578,8 +5579,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-14T13:31:51.379Z",
-        "lastRecordReceived": "2026-10-14T13:31:51.379Z",
+        "lastSuccessfulCheck": "2026-10-14T20:29:30.114Z",
+        "lastRecordReceived": "2026-10-14T20:29:30.114Z",
         "relevantRecordsAccepted": 2,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -5625,9 +5626,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-14T13:33:59.770Z",
-        "lastRecordReceived": null,
-        "relevantRecordsAccepted": 0,
+        "lastSuccessfulCheck": "2026-10-14T20:31:42.911Z",
+        "lastRecordReceived": "2026-10-14T20:31:42.911Z",
+        "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
           "published-notices"
