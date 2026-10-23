@@ -1,15 +1,15 @@
 {
   "feedVersion": 1,
   "releaseId": "5f4a10641d19fe60c89c9e13d9bf1881f626b54f63a1600e14bfd9549fef05bb",
-  "publishedAt": "2026-10-22T13:03:38Z",
+  "publishedAt": "2026-10-23T12:42:30Z",
   "monitoring": {
     "staleAfterHours": 48,
     "scope": "32 reviewed evidence sources plus 14 supporting endpoints. Local delivery examples cover selected areas only; not a census of contracts or open referrals.",
     "programmes": {
       "restart-scheme": {
         "status": "checked",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
@@ -20,8 +20,8 @@
       },
       "connect-to-work": {
         "status": "checked",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -31,12 +31,18 @@
         "releaseId": "provider-decisions-20260920-connect-to-work"
       },
       "workwell": {
-        "status": "checked",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "status": "updates-pending-review",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
-        "changedSources": [],
+        "changedSources": [
+          {
+            "title": "WorkWell Pilots Evaluation – Early Implementation Findings",
+            "url": "https://www.gov.uk/government/publications/workwell-pilots-evaluation-early-implementation-findings/workwell-pilots-evaluation-early-implementation-findings",
+            "detectedAt": "2026-10-23T12:42:30Z"
+          }
+        ],
         "failedSourceCount": 0,
         "reviewedAt": "2026-09-20T19:29:28Z",
         "updateSummary": "Added employer-access and health-partner capacity findings, with dated mobilisation learning. The pilot profile is not a current caseload or an impact estimate.",
@@ -44,8 +50,8 @@
       },
       "skills-bootcamps": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 8,
         "sourcesMonitored": 8,
         "changedSources": [
@@ -87,8 +93,8 @@
       },
       "apprenticeships-growth-skills-levy": {
         "status": "checked",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [],
@@ -99,8 +105,8 @@
       },
       "adult-skills-fund": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [
@@ -117,8 +123,8 @@
       },
       "sector-based-work-academy-programme": {
         "status": "checked",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -129,8 +135,8 @@
       },
       "youth-guarantee": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [
@@ -157,8 +163,8 @@
       },
       "economic-inactivity-trailblazers": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-22T13:03:38Z",
-        "lastSuccessfulCheckAt": "2026-10-22T13:03:38Z",
+        "lastAttemptAt": "2026-10-23T12:42:30Z",
+        "lastSuccessfulCheckAt": "2026-10-23T12:42:30Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [
