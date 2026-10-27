@@ -1,20 +1,20 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-15T10:25:51.369Z",
+  "generatedAt": "2026-10-27T16:17:58.895Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
   "counts": {
-    "total": 110,
-    "live": 20,
-    "upcoming": 11,
+    "total": 165,
+    "live": 26,
+    "upcoming": 17,
     "marketEngagement": 0,
-    "recentAwards": 79,
-    "closingWithin7Days": 2,
-    "closingWithin30Days": 9,
+    "recentAwards": 122,
+    "closingWithin7Days": 5,
+    "closingWithin30Days": 14,
     "supplyChain": 11,
-    "commissioner": 99
+    "commissioner": 154
   },
   "filters": {
     "programmes": [
@@ -36,11 +36,15 @@
       "Belfast City Council",
       "BlueLight Commercial Limited",
       "Caerphilly County Borough Council",
+      "Cambridgeshire and Peterborough Combined Authority",
       "Cambridgeshire County Council",
+      "Capital City Partnership",
       "Central Bedfordshire Council",
       "City & County of Swansea",
       "Construction Industry Training Board",
+      "David MacBrayne HR (UK) Limited",
       "Defra Commercial",
+      "Department for Business and Trade",
       "Department for Work & Pensions",
       "Derby City Council",
       "Derbyshire County Council",
@@ -48,11 +52,13 @@
       "DN Colleges Group",
       "Doncaster Metropolitan Borough Council",
       "East Durham College",
+      "East Lothian Council",
       "Enable Works",
       "Essex County Council",
       "Fedcap Employment",
       "Fife Council",
       "Flintshire County Council",
+      "Glasgow City Council",
       "Greater Lincolnshire Combined County Authority",
       "H M Revenue & Customs",
       "Hartlepool Borough Council",
@@ -64,32 +70,43 @@
       "Leicester City Council",
       "Lincolnshire County Council",
       "London Borough of Brent",
+      "London Borough of Croydon",
       "London Borough of Lambeth",
+      "London Borough of Southwark",
       "London Borough of Waltham Forest",
       "London Legacy Development Corporation",
       "Maximus UK",
+      "MCA - Maritime and Coastguard Agency",
       "Milton Keynes City Council",
       "Ministry of Defence",
       "Ministry of Housing, Communities & Local Government",
       "Ministry of Justice",
+      "Newry, Mourne and Down District Council (NMD)",
+      "NHS Birmingham and Solihull Integrated Care Board",
       "NHS Business Services Authority",
       "NHS Dorset Integrated Care Board",
+      "NHS England",
       "NHS North East London Integrated Care Board",
       "NHS South, Central And West Commissioning Support Unit",
       "North East Combined Authority",
+      "North East Scotland Regional Transport Partnership (Nestrans)",
+      "North Lanarkshire Council",
       "North Northamptonshire Council",
       "Northern Ireland public sector",
       "Nottinghamshire County Council",
       "Oxfordshire Local Enterprise Partnership Limited",
       "Pennine Care NHS Foundation Trust",
       "PeoplePlus",
+      "Perth & Kinross Council",
       "Plymouth City Council",
       "Portsmouth City Council",
       "Reed in Partnership",
       "Salisbury NHS Foundation Trust",
+      "Scottish Government",
       "Seetec",
       "Shaw Trust",
       "Sheffield City Council",
+      "Skills Development Scotland Ltd",
       "Somerset Council",
       "South Yorkshire Mayoral Combined Authority",
       "Southampton City Council",
@@ -101,35 +118,55 @@
       "Tees Valley Combined Authority",
       "The Education Authority",
       "The Growth Company",
+      "The Insolvency Service",
       "UK Shared Business Services Limited",
       "University Centre Somerset College Group",
       "Walsall Metro Borough Council",
+      "West College Scotland",
       "West Sussex County Council",
       "West Yorkshire Combined Authority",
       "Westminster City Council",
       "Wirral Council",
-      "Wrexham County Borough Council"
+      "Wrexham County Borough Council",
+      "Yorkshire Purchasing Organisation"
     ],
     "regions": [
       "East Midlands",
       "East of England",
+      "Edinburgh and South East Scotland Region",
       "England",
       "Flintshire and Wrexham",
       "Gwent Valleys",
+      "It is a mandatory requirement that training must be delivered in or around the surrounding areas of Glasgow, Scotland.",
       "Kingston upon Hull, City of",
       "Lancashire",
       "Lincolnshire",
       "London",
       "North East",
+      "North East Glasgow",
       "North Northamptonshire",
       "North West",
+      "North West Glasgow",
       "Northern Ireland",
       "Scotland",
       "Somerset",
       "South East",
+      "South Glasgow",
       "South West",
       "Suffolk",
       "Swansea",
+      "To support eligible parents and carers across Renfrewshire, Inverclyde, West Dunbartonshire and East Renfrewshire using local venues, referral networks and West College Scotland campuses.",
+      "UKM",
+      "UKM50",
+      "UKM7",
+      "UKM72",
+      "UKM73",
+      "UKM75",
+      "UKM78",
+      "UKM82",
+      "UKM83",
+      "UKM84",
+      "UKM91",
       "Wales",
       "West Midlands",
       "Wirral",
@@ -179,104 +216,44 @@
   },
   "opportunities": [
     {
-      "id": "supply-chain:fedcap-fes",
-      "slug": "fedcap-future-employment-support-fedcap-fes",
-      "ocid": null,
-      "title": "Future Employment Support partner expression of interest",
-      "opportunityClass": "supply-chain",
-      "opportunityType": "Supply Chain Opportunity",
-      "stage": "supply-chain-eoi",
-      "stageGroup": "live",
-      "stageLabel": "Supply chain EOI",
-      "programme": {
-        "name": "Future Employment Support",
-        "slug": "future-employment-support"
-      },
-      "buyer": {
-        "name": "Fedcap Employment",
-        "role": "Prime provider"
-      },
-      "primeProvider": "Fedcap Employment",
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England",
-          "North East",
-          "North West",
-          "Yorkshire and the Humber",
-          "East Midlands",
-          "West Midlands",
-          "East of England",
-          "London",
-          "South East",
-          "South West",
-          "Scotland",
-          "Wales"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": "2026-10-16T00:00:00.000Z",
-        "daysToDeadline": 1
-      },
-      "source": {
-        "publisher": "Fedcap",
-        "sourceId": "fedcap-fes",
-        "latestNoticeUrl": "https://fedcap.org.uk/weconnect/",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-077a0e",
-      "slug": "south-wales-shared-apprenticeships-scheme-ocds-h6vhtk-077a0e",
-      "ocid": "ocds-h6vhtk-077a0e",
-      "title": "South Wales Shared Apprenticeships Scheme",
+      "id": "ocds-h6vhtk-077d91",
+      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
+      "ocid": "ocds-h6vhtk-077d91",
+      "title": "Progression Towards Employment",
       "opportunityClass": "commissioner",
       "opportunityType": null,
       "stage": "live-tender",
       "stageGroup": "live",
       "stageLabel": "Live tender",
       "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
+        "name": "Employment Support",
+        "slug": "employment-support"
       },
       "buyer": {
-        "name": "Construction Industry Training Board",
+        "name": "Stockport Metropolitan Borough Council",
         "role": "Commissioner"
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "United Kingdom",
+        "primaryArea": "North West",
         "areas": [
-          "United Kingdom"
+          "North West"
         ]
       },
       "value": {
-        "amount": null,
+        "amount": 870000,
         "currency": "GBP",
-        "basis": "not-published"
+        "basis": "tender-estimate"
       },
       "tender": {
-        "deadline": "2026-10-20T09:00:00.000Z",
-        "daysToDeadline": 5
+        "deadline": "2026-10-30T16:00:00.000Z",
+        "daysToDeadline": 3
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090797-2026",
-        "lastVerified": "2026-09-26T11:55:55.047Z"
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
+        "lastVerified": "2026-10-01T14:02:52.653Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -320,13 +297,13 @@
       },
       "tender": {
         "deadline": "2026-10-31T00:00:00.000Z",
-        "daysToDeadline": 16
+        "daysToDeadline": 4
       },
       "source": {
         "publisher": "Ingeus",
         "sourceId": "ingeus-fes",
         "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -338,12 +315,12 @@
       }
     },
     {
-      "id": "ocds-h6vhtk-077d91",
-      "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
-      "ocid": "ocds-h6vhtk-077d91",
-      "title": "Progression Towards Employment",
+      "id": "ocds-r6ebe6-0000845036",
+      "slug": "transport-to-employment-utilising-and-promoting-the-north-east-of-scotland-sustainable-travel-br--r6ebe6-0000845036",
+      "ocid": "ocds-r6ebe6-0000845036",
+      "title": "Transport to Employment – Utilising and Promoting the North East of Scotland Sustainable Travel Brand",
       "opportunityClass": "commissioner",
-      "opportunityType": null,
+      "opportunityType": "Commissioner opportunity",
       "stage": "live-tender",
       "stageGroup": "live",
       "stageLabel": "Live tender",
@@ -352,30 +329,30 @@
         "slug": "employment-support"
       },
       "buyer": {
-        "name": "Stockport Metropolitan Borough Council",
+        "name": "North East Scotland Regional Transport Partnership (Nestrans)",
         "role": "Commissioner"
       },
       "primeProvider": null,
       "geography": {
-        "primaryArea": "North West",
+        "primaryArea": "UKM50",
         "areas": [
-          "North West"
+          "UKM50"
         ]
       },
       "value": {
-        "amount": 870000,
+        "amount": 100000,
         "currency": "GBP",
-        "basis": "tender-estimate"
+        "basis": "published"
       },
       "tender": {
-        "deadline": "2026-10-30T16:00:00.000Z",
-        "daysToDeadline": 16
+        "deadline": "2026-10-30T17:00:00.000Z",
+        "daysToDeadline": 4
       },
       "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/092358-2026",
-        "lastVerified": "2026-10-01T14:02:52.653Z"
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=102&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -413,19 +390,19 @@
         ]
       },
       "value": {
-        "amount": 160000,
+        "amount": 190000,
         "currency": "GBP",
         "basis": "tender-estimate"
       },
       "tender": {
         "deadline": "2026-11-02T12:00:00.000Z",
-        "daysToDeadline": 19
+        "daysToDeadline": 6
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093439-2026",
-        "lastVerified": "2026-10-03T12:06:46.026Z"
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/099861-2026",
+        "lastVerified": "2026-10-23T10:34:38.262Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -469,7 +446,7 @@
       },
       "tender": {
         "deadline": "2026-11-03T12:00:00.000Z",
-        "daysToDeadline": 20
+        "daysToDeadline": 7
       },
       "source": {
         "publisher": "Find a Tender",
@@ -518,7 +495,7 @@
       },
       "tender": {
         "deadline": "2026-11-06T12:00:00.000Z",
-        "daysToDeadline": 23
+        "daysToDeadline": 10
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -567,7 +544,7 @@
       },
       "tender": {
         "deadline": "2026-11-06T12:00:00.000Z",
-        "daysToDeadline": 23
+        "daysToDeadline": 10
       },
       "source": {
         "publisher": "Find a Tender",
@@ -617,13 +594,207 @@
       },
       "tender": {
         "deadline": "2026-11-09T12:00:00.000Z",
-        "daysToDeadline": 26
+        "daysToDeadline": 13
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/095149-2026",
         "lastVerified": "2026-10-09T12:11:41.612Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078759",
+      "slug": "connect-to-work-ocds-h6vhtk-078759",
+      "ocid": "ocds-h6vhtk-078759",
+      "title": "Connect to Work",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work"
+      },
+      "buyer": {
+        "name": "London Borough of Lambeth",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 944416.67,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-11-16T12:00:00.000Z",
+        "daysToDeadline": 20
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/100900-2026",
+        "lastVerified": "2026-10-27T12:45:25.639Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000845671",
+      "slug": "flexible-framework-for-the-provision-of-education-services--r6ebe6-0000845671",
+      "ocid": "ocds-r6ebe6-0000845671",
+      "title": "Flexible Framework for the Provision of Education Services",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "North Lanarkshire Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM84",
+        "areas": [
+          "UKM84"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": "2026-11-17T12:00:00.000Z",
+        "daysToDeadline": 21
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=21&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-0785b5",
+      "slug": "skills-bootcamp-hgv-pcv-driver-training-programme-ocds-h6vhtk-0785b5",
+      "ocid": "ocds-h6vhtk-0785b5",
+      "title": "Skills Bootcamp - HGV & PCV Driver Training Programme",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "South Yorkshire Mayoral Combined Authority",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Yorkshire and the Humber",
+        "areas": [
+          "Yorkshire and the Humber"
+        ]
+      },
+      "value": {
+        "amount": 1000000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-11-17T10:00:00.000Z",
+        "daysToDeadline": 21
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/100091-2026",
+        "lastVerified": "2026-10-23T10:32:24.170Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000845926",
+      "slug": "elc-26-0836-income-maximisation-service--r6ebe6-0000845926",
+      "ocid": "ocds-r6ebe6-0000845926",
+      "title": "ELC-26-0836 Income Maximisation Service",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "East Lothian Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM73",
+        "areas": [
+          "UKM73"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": "2026-11-20T12:00:00.000Z",
+        "daysToDeadline": 24
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=102&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -666,13 +837,111 @@
       },
       "tender": {
         "deadline": "2026-11-20T12:00:00.000Z",
-        "daysToDeadline": 37
+        "daysToDeadline": 24
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/091128-2026",
         "lastVerified": "2026-09-26T11:53:10.207Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078f3a",
+      "slug": "work-and-health-related-services-ocds-h6vhtk-078f3a",
+      "ocid": "ocds-h6vhtk-078f3a",
+      "title": "Work and Health Related Services",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "NHS Birmingham and Solihull Integrated Care Board",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "West Midlands",
+        "areas": [
+          "West Midlands"
+        ]
+      },
+      "value": {
+        "amount": 32398000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-11-23T17:00:00.000Z",
+        "daysToDeadline": 28
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/100644-2026",
+        "lastVerified": "2026-10-24T09:49:22.377Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000846525",
+      "slug": "framework-agreement-standards-and-frameworks--r6ebe6-0000846525",
+      "ocid": "ocds-r6ebe6-0000846525",
+      "title": "Framework Agreement - Standards and Frameworks",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Skills Development Scotland Ltd",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM",
+        "areas": [
+          "UKM"
+        ]
+      },
+      "value": {
+        "amount": 3600000,
+        "currency": "GBP",
+        "basis": "published"
+      },
+      "tender": {
+        "deadline": "2026-11-27T12:00:00.000Z",
+        "daysToDeadline": 31
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=2&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -713,7 +982,7 @@
       },
       "tender": {
         "deadline": "2026-12-01T12:00:00.000Z",
-        "daysToDeadline": 48
+        "daysToDeadline": 35
       },
       "source": {
         "publisher": "Find a Tender",
@@ -762,13 +1031,13 @@
       },
       "tender": {
         "deadline": "2029-02-10T12:00:00.000Z",
-        "daysToDeadline": 850
+        "daysToDeadline": 837
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-15T10:23:43.282Z"
+        "lastVerified": "2026-10-27T16:10:01.615Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -818,7 +1087,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -867,7 +1136,67 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "supply-chain:fedcap-fes",
+      "slug": "fedcap-future-employment-support-fedcap-fes",
+      "ocid": null,
+      "title": "Future Employment Support partner expression of interest",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Fedcap Employment",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Fedcap Employment",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England",
+          "North East",
+          "North West",
+          "Yorkshire and the Humber",
+          "East Midlands",
+          "West Midlands",
+          "East of England",
+          "London",
+          "South East",
+          "South West",
+          "Scotland",
+          "Wales"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Fedcap",
+        "sourceId": "fedcap-fes",
+        "latestNoticeUrl": "https://www.fedcap.org.uk/partner-with-us",
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -918,7 +1247,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -968,7 +1297,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1017,7 +1346,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1070,7 +1399,7 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1120,7 +1449,7 @@
         "publisher": "Standguide",
         "sourceId": "standguide-partner-network",
         "latestNoticeUrl": "https://www.standguide.co.uk/index.php/partnership-opportunities/",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-18T11:34:11.954Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1218,7 +1547,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1269,7 +1598,161 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-15T10:25:29.977Z"
+        "lastVerified": "2026-10-27T16:17:53.058Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000845673",
+      "slug": "rise-parent-support-and-wilderness-programme--r6ebe6-0000845673",
+      "ocid": "ocds-r6ebe6-0000845673",
+      "title": "RISE Parent Support and Wilderness Programme",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "planning",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming / pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "West College Scotland",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM83",
+        "areas": [
+          "UKM83",
+          "To support eligible parents and carers across Renfrewshire, Inverclyde, West Dunbartonshire and East Renfrewshire using local venues, referral networks and West College Scotland campuses."
+        ]
+      },
+      "value": {
+        "amount": 116667,
+        "currency": "GBP",
+        "basis": "published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=101&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000843545",
+      "slug": "provision-of-a-multi-authority-employability-case-management-and-employer-relationship-managemen--r6ebe6-0000843545",
+      "ocid": "ocds-r6ebe6-0000843545",
+      "title": "Provision of a Multi-Authority Employability, Case Management and Employer Relationship Management Solution",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "planning",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming / pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Capital City Partnership",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM7",
+        "areas": [
+          "UKM7",
+          "UKM73",
+          "UKM78",
+          "UKM75",
+          "UKM91",
+          "UKM72",
+          "Edinburgh and South East Scotland Region"
+        ]
+      },
+      "value": {
+        "amount": 1500000,
+        "currency": "GBP",
+        "basis": "published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=1&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000841841",
+      "slug": "sppd-procurement-and-project-delivery-training-services-framework--r6ebe6-0000841841",
+      "ocid": "ocds-r6ebe6-0000841841",
+      "title": "SPPD-Procurement and Project Delivery Training Services Framework",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "planning",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming / pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Scottish Government",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM",
+        "areas": [
+          "UKM"
+        ]
+      },
+      "value": {
+        "amount": 1200000,
+        "currency": "GBP",
+        "basis": "published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=1&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1312,13 +1795,13 @@
       },
       "tender": {
         "deadline": "2026-12-21T12:00:00.000Z",
-        "daysToDeadline": 68
+        "daysToDeadline": 55
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
-        "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=1&filters=&County=",
-        "lastVerified": "2026-10-15T10:23:43.282Z"
+        "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=2&filters=&County=",
+        "lastVerified": "2026-10-27T16:10:01.615Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1330,21 +1813,70 @@
       }
     },
     {
-      "id": "ocds-h6vhtk-078759",
-      "slug": "connect-to-work-ocds-h6vhtk-078759",
-      "ocid": "ocds-h6vhtk-078759",
-      "title": "Connect to Work",
+      "id": "ocds-h6vhtk-078f44",
+      "slug": "apprenticeship-training-ocds-h6vhtk-078f44",
+      "ocid": "ocds-h6vhtk-078f44",
+      "title": "Apprenticeship Training",
       "opportunityClass": "commissioner",
       "opportunityType": null,
       "stage": "pipeline",
       "stageGroup": "upcoming",
       "stageLabel": "Pipeline",
       "programme": {
-        "name": "Connect to Work",
-        "slug": "connect-to-work"
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
       },
       "buyer": {
-        "name": "London Borough of Lambeth",
+        "name": "Sunderland City Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/100595-2026",
+        "lastVerified": "2026-10-24T09:51:37.054Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078d0d",
+      "slug": "001364-apprenticeships-and-police-training-entry-routes-framework-ocds-h6vhtk-078d0d",
+      "ocid": "ocds-h6vhtk-078d0d",
+      "title": "001364 – Apprenticeships and Police Training Entry Routes Framework",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "planning",
+      "stageGroup": "upcoming",
+      "stageLabel": "Upcoming",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Yorkshire Purchasing Organisation",
         "role": "Commissioner"
       },
       "primeProvider": null,
@@ -1353,7 +1885,7 @@
         "areas": []
       },
       "value": {
-        "amount": 994416.67,
+        "amount": 20000000000,
         "currency": "GBP",
         "basis": "tender-estimate"
       },
@@ -1364,8 +1896,157 @@
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/096919-2026",
-        "lastVerified": "2026-10-15T10:21:57.454Z"
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/099589-2026",
+        "lastVerified": "2026-10-22T10:43:14.229Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-07896c",
+      "slug": "southwark-works-employment-support-services-ocds-h6vhtk-07896c",
+      "ocid": "ocds-h6vhtk-07896c",
+      "title": "Southwark Works - employment support services",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "London Borough of Southwark",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "London",
+        "areas": [
+          "London"
+        ]
+      },
+      "value": {
+        "amount": 1948860,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/097899-2026",
+        "lastVerified": "2026-10-17T09:44:16.000Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-0789ab",
+      "slug": "southwark-works-employment-support-services-for-people-with-learning-disabilities-ocds-h6vhtk-0789ab",
+      "ocid": "ocds-h6vhtk-0789ab",
+      "title": "Southwark Works - employment support services for people with learning disabilities",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "London Borough of Southwark",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "London",
+        "areas": [
+          "London"
+        ]
+      },
+      "value": {
+        "amount": 730822,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098029-2026",
+        "lastVerified": "2026-10-17T09:42:01.236Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078844",
+      "slug": "adult-skills-and-employment-programmes-ocds-h6vhtk-078844",
+      "ocid": "ocds-h6vhtk-078844",
+      "title": "Adult Skills and Employment Programmes",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "pipeline",
+      "stageGroup": "upcoming",
+      "stageLabel": "Pipeline",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Lincolnshire County Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Lincolnshire",
+        "areas": [
+          "Lincolnshire",
+          "Yorkshire and the Humber",
+          "East Midlands"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/097347-2026",
+        "lastVerified": "2026-10-16T10:10:59.000Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1415,55 +2096,6 @@
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/096456-2026",
         "lastVerified": "2026-10-14T10:40:17.732Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-0785b5",
-      "slug": "adult-education-hgv-and-bus-driver-training-skills-bootcamp-programme-ocds-h6vhtk-0785b5",
-      "ocid": "ocds-h6vhtk-0785b5",
-      "title": "Adult Education – HGV and Bus Driver Training Skills Bootcamp Programme",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "pipeline",
-      "stageGroup": "upcoming",
-      "stageLabel": "Pipeline",
-      "programme": {
-        "name": "Skills Bootcamps",
-        "slug": "skills-bootcamps"
-      },
-      "buyer": {
-        "name": "South Yorkshire Mayoral Combined Authority",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "Yorkshire and the Humber",
-        "areas": [
-          "Yorkshire and the Humber"
-        ]
-      },
-      "value": {
-        "amount": 1000000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/096128-2026",
-        "lastVerified": "2026-10-13T13:01:12.246Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1555,7 +2187,7 @@
       },
       "tender": {
         "deadline": "2026-12-22T23:45:00.000Z",
-        "daysToDeadline": 69
+        "daysToDeadline": 57
       },
       "source": {
         "publisher": "Find a Tender",
@@ -1720,6 +2352,104 @@
       }
     },
     {
+      "id": "etendersni-6820267",
+      "slug": "armagh-city-banbridge-and-craigavon-borough-council-labour-market-partnership-disability-employm-etendersni-6820267",
+      "ocid": null,
+      "title": "Armagh City, Banbridge and Craigavon Borough Council Labour Market Partnership Disability Employment Programme 2026/2027",
+      "opportunityClass": "commissioner",
+      "opportunityType": "eTendersNI Contract Details Notice",
+      "stage": "contract",
+      "stageGroup": "recent-award",
+      "stageLabel": "Contract details",
+      "programme": {
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
+      },
+      "buyer": {
+        "name": "Northern Ireland public sector",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Northern Ireland",
+        "areas": [
+          "Northern Ireland"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "eTendersNI",
+        "sourceId": "etendersni",
+        "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6820247&documentId=6820290&noticeType=7&extId=739ca0f4-6c7d-424b-9ca3-d69bd1f039a8&lang=en&noticeId=6820267&isNational=false",
+        "lastVerified": "2026-10-27T16:17:50.906Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "etendersni-6787983",
+      "slug": "development-and-delivery-of-armagh-city-banbridge-and-craigavon-borough-council-labour-market-pa-etendersni-6787983",
+      "ocid": null,
+      "title": "Development and Delivery of Armagh City, Banbridge and Craigavon Borough Council Labour Market Partnership Return to Work Programme 2026/2027",
+      "opportunityClass": "commissioner",
+      "opportunityType": "eTendersNI Contract Details Notice",
+      "stage": "contract",
+      "stageGroup": "recent-award",
+      "stageLabel": "Contract details",
+      "programme": {
+        "name": "Employment & Skills",
+        "slug": "employment-skills"
+      },
+      "buyer": {
+        "name": "Northern Ireland public sector",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Northern Ireland",
+        "areas": [
+          "Northern Ireland"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "eTendersNI",
+        "sourceId": "etendersni",
+        "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6596110&documentId=6788107&noticeType=7&extId=a50f5b90-77a6-4144-9b29-d377fbc84594&lang=en&noticeId=6787983&isNational=false",
+        "lastVerified": "2026-10-27T16:17:50.906Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
       "id": "etendersni-6786963",
       "slug": "development-and-delivery-of-armagh-city-banbridge-and-craigavon-borough-council-labour-market-pa-etendersni-6786963",
       "ocid": null,
@@ -1757,7 +2487,2280 @@
         "publisher": "eTendersNI",
         "sourceId": "etendersni",
         "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6595586&documentId=6787149&noticeType=7&extId=c564f9ad-8614-462d-ac57-cb6f913ac40a&lang=en&noticeId=6786963&isNational=false",
-        "lastVerified": "2026-10-15T10:25:27.210Z"
+        "lastVerified": "2026-10-27T16:17:50.906Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000843968",
+      "slug": "community-alcohol-and-drug-recovery-services-recovery-communities-north-west--r6ebe6-0000843968",
+      "ocid": "ocds-r6ebe6-0000843968",
+      "title": "Community Alcohol and Drug Recovery Services - Recovery Communities (North West)",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Glasgow City Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM82",
+        "areas": [
+          "UKM82",
+          "North West Glasgow"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000845694",
+      "slug": "community-alcohol-and-drug-recovery-services-recovery-communities-north-east--r6ebe6-0000845694",
+      "ocid": "ocds-r6ebe6-0000845694",
+      "title": "Community Alcohol and Drug Recovery Services - Recovery Communities (North East)",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Glasgow City Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM82",
+        "areas": [
+          "UKM82",
+          "North East Glasgow"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000845700",
+      "slug": "community-alcohol-and-drug-recovery-services-recovery-communities-south--r6ebe6-0000845700",
+      "ocid": "ocds-r6ebe6-0000845700",
+      "title": "Community Alcohol and Drug Recovery Services - Recovery Communities (South)",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Glasgow City Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM82",
+        "areas": [
+          "UKM82",
+          "South Glasgow"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000838451",
+      "slug": "framework-agreement-for-the-provision-of-medical-care-onboard-ship-training--r6ebe6-0000838451",
+      "ocid": "ocds-r6ebe6-0000838451",
+      "title": "Framework Agreement for the Provision of Medical Care Onboard Ship Training",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "David MacBrayne HR (UK) Limited",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM82",
+        "areas": [
+          "UKM82",
+          "It is a mandatory requirement that training must be delivered in or around the surrounding areas of Glasgow, Scotland."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000836517",
+      "slug": "award-of-pkc14144-business-admininistration-modern-apprenticeship--r6ebe6-0000836517",
+      "ocid": "ocds-r6ebe6-0000836517",
+      "title": "Award of PKC14144 Business & Admininistration Modern Apprenticeship",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Perth & Kinross Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Scotland",
+        "areas": [
+          "Scotland"
+        ]
+      },
+      "value": {
+        "amount": 17250,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2027-11-10T00:00:00.000Z",
+        "daysToDeadline": 379
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=104&outputType=0",
+        "lastVerified": "2026-10-27T16:10:18.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-c1e22e0e-6e9d-49df-a71a-b9174ce77ebe",
+      "slug": "intelligence-analyst-apprenticeship--a71a-b9174ce77ebe",
+      "ocid": "ocds-b5fd17-c1e22e0e-6e9d-49df-a71a-b9174ce77ebe",
+      "title": "Intelligence Analyst Apprenticeship",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "MCA - Maritime and Coastguard Agency",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 11000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-10-25T11:00:00.000Z",
+        "daysToDeadline": -2
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/22f469c3-3ab4-4550-8a95-8866e951efae",
+        "lastVerified": "2026-10-27T12:48:08.740Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-4f9479fd-e811-445a-a73f-4c52e8f8c13d",
+      "slug": "digital-and-technology-solutions-apprenticeship-level-6--a73f-4c52e8f8c13d",
+      "ocid": "ocds-b5fd17-4f9479fd-e811-445a-a73f-4c52e8f8c13d",
+      "title": "Digital and Technology Solutions Apprenticeship Level 6",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "The Insolvency Service",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 32400,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-10-18T23:00:00.000Z",
+        "daysToDeadline": -8
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/e5eb48ed-9abe-4dec-821f-8f746412849b",
+        "lastVerified": "2026-10-27T12:48:01.213Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-b66174ab-669b-4ece-a876-f9645ff8d511",
+      "slug": "level-4-professional-accounting-technician-apprenticeship--a876-f9645ff8d511",
+      "ocid": "ocds-b5fd17-b66174ab-669b-4ece-a876-f9645ff8d511",
+      "title": "Level 4 Professional accounting technician Apprenticeship",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Department for Business and Trade",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 144000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-10-21T23:00:00.000Z",
+        "daysToDeadline": -5
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/742ca6d3-8a47-4673-91ab-1e692b4b3999",
+        "lastVerified": "2026-10-24T09:52:31.463Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-077a0e",
+      "slug": "south-wales-shared-apprenticeships-scheme-ocds-h6vhtk-077a0e",
+      "ocid": "ocds-h6vhtk-077a0e",
+      "title": "South Wales Shared Apprenticeships Scheme",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Construction Industry Training Board",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": "2026-10-20T09:00:00.000Z",
+        "daysToDeadline": -7
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/100675-2026",
+        "lastVerified": "2026-10-24T09:49:17.772Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078e43",
+      "slug": "fenland-youth-hub-ocds-h6vhtk-078e43",
+      "ocid": "ocds-h6vhtk-078e43",
+      "title": "Fenland Youth Hub",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Cambridgeshire and Peterborough Combined Authority",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "East of England",
+        "areas": [
+          "East of England"
+        ]
+      },
+      "value": {
+        "amount": 140000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/100150-2026",
+        "lastVerified": "2026-10-23T10:32:19.228Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-392978e2-a986-460a-84c9-51ade9c205e9",
+      "slug": "people-professional-apprenticeships--84c9-51ade9c205e9",
+      "ocid": "ocds-b5fd17-392978e2-a986-460a-84c9-51ade9c205e9",
+      "title": "People Professional Apprenticeships",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "West Yorkshire Combined Authority",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Yorkshire and the Humber",
+        "areas": [
+          "Yorkshire and the Humber"
+        ]
+      },
+      "value": {
+        "amount": 55000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-08-31T23:00:00.000Z",
+        "daysToDeadline": -56
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/90a8fea3-718a-48a4-98b2-a177143d2333",
+        "lastVerified": "2026-10-22T10:47:09.514Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-32e381db-76fc-43ca-9b56-15b57c1f74c5",
+      "slug": "ca18317-itt-47-2026-labour-market-partnership-lmp-get-work-ready-programme--9b56-15b57c1f74c5",
+      "ocid": "ocds-b5fd17-32e381db-76fc-43ca-9b56-15b57c1f74c5",
+      "title": "CA18317 - ITT 47/2026 - Labour Market Partnership (LMP) - Get Work Ready Programme",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Newry, Mourne and Down District Council (NMD)",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 441280,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-09-30T00:00:00.000Z",
+        "daysToDeadline": -27
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/d09f3113-3dd8-4066-8ed5-2be16edffdd4",
+        "lastVerified": "2026-10-22T10:47:05.816Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-9778b328-6ef5-4a57-b003-7b79982f3992",
+      "slug": "scc0182va--b003-7b79982f3992",
+      "ocid": "ocds-b5fd17-9778b328-6ef5-4a57-b003-7b79982f3992",
+      "title": "SCC0182VA",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Suffolk County Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 90000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-10-11T08:00:00.000Z",
+        "daysToDeadline": -16
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/fdec0160-ef2a-4703-9dae-6146d3be2283",
+        "lastVerified": "2026-10-22T10:46:58.435Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-bdabb7ad-3e45-47eb-8fbc-2a3b25c066be",
+      "slug": "scc0180va--8fbc-2a3b25c066be",
+      "ocid": "ocds-b5fd17-bdabb7ad-3e45-47eb-8fbc-2a3b25c066be",
+      "title": "SCC0180VA",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Suffolk County Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 28000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-10-04T08:00:00.000Z",
+        "daysToDeadline": -23
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/f0af409c-299d-4647-8089-c793ab41b2fb",
+        "lastVerified": "2026-10-22T10:46:54.706Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-7304619f-e864-49bc-86e9-087f7c5ecfc2",
+      "slug": "scc0181ib--86e9-087f7c5ecfc2",
+      "ocid": "ocds-b5fd17-7304619f-e864-49bc-86e9-087f7c5ecfc2",
+      "title": "SCC0181IB",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Suffolk County Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 30000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-09-30T08:00:00.000Z",
+        "daysToDeadline": -27
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/d871f1dd-36d2-41a9-96ef-30d24b5b4963",
+        "lastVerified": "2026-10-22T10:46:47.309Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06db60",
+      "slug": "itt-47-2026-labour-market-partnership-lmp-get-work-ready-programme-ocds-h6vhtk-06db60",
+      "ocid": "ocds-h6vhtk-06db60",
+      "title": "ITT 47/2026 - Labour Market Partnership (LMP) - Get Work Ready Programme",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Newry, Mourne and Down District Council (NMD)",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 441280,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "deadline": "2026-09-01T11:00:00.000Z",
+        "daysToDeadline": -56
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/099350-2026",
+        "lastVerified": "2026-10-22T10:46:02.536Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06e8db",
+      "slug": "connect-to-work-programme-individual-placement-support-ips-in-darlington-middlesbrough-stockton--ocds-h6vhtk-06e8db",
+      "ocid": "ocds-h6vhtk-06e8db",
+      "title": "Connect to Work Programme - Individual Placement Support (IPS) in Darlington, Middlesbrough, Stockton-on-Tees and Redcar & Cleveland",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work"
+      },
+      "buyer": {
+        "name": "Hartlepool Borough Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": "2026-09-23T13:00:00.000Z",
+        "daysToDeadline": -34
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/099386-2026",
+        "lastVerified": "2026-10-22T10:43:47.512Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-05f33b",
+      "slug": "skills-bootcamps-for-oxfordshire-2026-7-ocds-h6vhtk-05f33b",
+      "ocid": "ocds-h6vhtk-05f33b",
+      "title": "Skills Bootcamps for Oxfordshire 2026/7",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "contract",
+      "stageGroup": "recent-award",
+      "stageLabel": "Contract / mobilisation",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Oxfordshire Local Enterprise Partnership Limited",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "South East",
+        "areas": [
+          "South East"
+        ]
+      },
+      "value": {
+        "amount": 1121257,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "deadline": "2026-03-13T11:00:00.000Z",
+        "daysToDeadline": -228
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/099729-2026",
+        "lastVerified": "2026-10-22T10:42:53.433Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-ebd3b8f8-7042-4b2d-bcf1-81c0ec931899",
+      "slug": "scc0175va--bcf1-81c0ec931899",
+      "ocid": "ocds-b5fd17-ebd3b8f8-7042-4b2d-bcf1-81c0ec931899",
+      "title": "SCC0175VA",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Suffolk County Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": 130000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-10-11T07:00:00.000Z",
+        "daysToDeadline": -16
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/4a6a7fa5-3bc8-467e-8ddc-e543a1931f4f",
+        "lastVerified": "2026-10-21T10:41:43.216Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078ba4",
+      "slug": "w7x-yc-gen-ai-4-ocds-h6vhtk-078ba4",
+      "ocid": "ocds-h6vhtk-078ba4",
+      "title": "W7X - YC - Gen AI 4",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 79800,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098903-2026",
+        "lastVerified": "2026-10-21T10:40:39.506Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078ba6",
+      "slug": "w7x-yc-carpentry-ocds-h6vhtk-078ba6",
+      "ocid": "ocds-h6vhtk-078ba6",
+      "title": "W7X - YC - Carpentry",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 30000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098909-2026",
+        "lastVerified": "2026-10-21T10:40:37.146Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078bbb",
+      "slug": "w7x-yc-l-m-mixed-5-ocds-h6vhtk-078bbb",
+      "ocid": "ocds-h6vhtk-078bbb",
+      "title": "W7X - YC - L&M Mixed 5",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 37000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098954-2026",
+        "lastVerified": "2026-10-21T10:40:30.286Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078bc2",
+      "slug": "w7x-yc-app-of-drones-ocds-h6vhtk-078bc2",
+      "ocid": "ocds-h6vhtk-078bc2",
+      "title": "W7X - YC - App of Drones",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 79800,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098965-2026",
+        "lastVerified": "2026-10-21T10:40:27.898Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078bc5",
+      "slug": "w7x-yc-electrical-ocds-h6vhtk-078bc5",
+      "ocid": "ocds-h6vhtk-078bc5",
+      "title": "W7X - YC - Electrical",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 60000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098971-2026",
+        "lastVerified": "2026-10-21T10:40:25.148Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078bca",
+      "slug": "w7x-yc-gen-ai-for-bus-2-ocds-h6vhtk-078bca",
+      "ocid": "ocds-h6vhtk-078bca",
+      "title": "W7X - YC - Gen AI for Bus 2",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 47880,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098979-2026",
+        "lastVerified": "2026-10-21T10:40:22.518Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078bce",
+      "slug": "w7x-yc-gen-ai-for-bus-3-ocds-h6vhtk-078bce",
+      "ocid": "ocds-h6vhtk-078bce",
+      "title": "W7X - YC - Gen AI for Bus 3",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 74000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098986-2026",
+        "lastVerified": "2026-10-21T10:40:20.061Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078bd4",
+      "slug": "w7x-yc-l-m-mixed-3-ocds-h6vhtk-078bd4",
+      "ocid": "ocds-h6vhtk-078bd4",
+      "title": "W7X - YC - L&M Mixed 3",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 48100,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098994-2026",
+        "lastVerified": "2026-10-21T10:40:17.757Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078bd6",
+      "slug": "w7x-yc-l-m-mixed-4-ocds-h6vhtk-078bd6",
+      "ocid": "ocds-h6vhtk-078bd6",
+      "title": "W7X - YC - L&M Mixed 4",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 48100,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098998-2026",
+        "lastVerified": "2026-10-21T10:40:15.169Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-07815e",
+      "slug": "tvca-proc-0837-connect-to-work-ips-fidelity-assurance-consultancy-ocds-h6vhtk-07815e",
+      "ocid": "ocds-h6vhtk-07815e",
+      "title": "TVCA-PROC-0837 - Connect to Work IPS Fidelity Assurance Consultancy",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Connect to Work",
+        "slug": "connect-to-work"
+      },
+      "buyer": {
+        "name": "Tees Valley Combined Authority",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North East",
+        "areas": [
+          "North East"
+        ]
+      },
+      "value": {
+        "amount": 75785,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/099001-2026",
+        "lastVerified": "2026-10-21T10:40:12.593Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b26",
+      "slug": "w7x-ect-dor-path-b-ocds-h6vhtk-078b26",
+      "ocid": "ocds-h6vhtk-078b26",
+      "title": "W7X - ECT - Dor - Path B",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 47064,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098658-2026",
+        "lastVerified": "2026-10-20T10:29:17.198Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b28",
+      "slug": "w7x-ect-pathway-b-ocds-h6vhtk-078b28",
+      "ocid": "ocds-h6vhtk-078b28",
+      "title": "W7X - ECT - Pathway B",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 71856,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098661-2026",
+        "lastVerified": "2026-10-20T10:29:14.831Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b2b",
+      "slug": "w7x-ect-pathway-d-ocds-h6vhtk-078b2b",
+      "ocid": "ocds-h6vhtk-078b2b",
+      "title": "W7X - ECT - Pathway D",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 62010,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098666-2026",
+        "lastVerified": "2026-10-20T10:29:12.551Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b2f",
+      "slug": "w7x-pa-digi-market-ocds-h6vhtk-078b2f",
+      "ocid": "ocds-h6vhtk-078b2f",
+      "title": "W7X - PA - Digi Market",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 42000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098673-2026",
+        "lastVerified": "2026-10-20T10:29:10.259Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b36",
+      "slug": "w7x-pa-digi-market-ocds-h6vhtk-078b36",
+      "ocid": "ocds-h6vhtk-078b36",
+      "title": "W7X - PA - Digi Market",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 42000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098682-2026",
+        "lastVerified": "2026-10-20T10:29:08.021Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b39",
+      "slug": "w7x-pa-project-manage-ocds-h6vhtk-078b39",
+      "ocid": "ocds-h6vhtk-078b39",
+      "title": "W7X - PA - Project Manage",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 42000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098685-2026",
+        "lastVerified": "2026-10-20T10:29:05.774Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b3a",
+      "slug": "w7x-pa-team-lead-ocds-h6vhtk-078b3a",
+      "ocid": "ocds-h6vhtk-078b3a",
+      "title": "W7X - PA - Team Lead",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 42000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098688-2026",
+        "lastVerified": "2026-10-20T10:29:03.385Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b3d",
+      "slug": "w7x-som-pc-ai-for-work-ocds-h6vhtk-078b3d",
+      "ocid": "ocds-h6vhtk-078b3d",
+      "title": "W7X - Som - PC - AI for Work",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 33500,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098695-2026",
+        "lastVerified": "2026-10-20T10:28:58.731Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b3f",
+      "slug": "w7x-dor-pc-ai-for-work-ocds-h6vhtk-078b3f",
+      "ocid": "ocds-h6vhtk-078b3f",
+      "title": "W7X - Dor - PC - AI for Work",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 33500,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098698-2026",
+        "lastVerified": "2026-10-20T10:26:55.625Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b41",
+      "slug": "w7x-shoots-intro-child-ocds-h6vhtk-078b41",
+      "ocid": "ocds-h6vhtk-078b41",
+      "title": "W7X - Shoots - Intro Child",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 26400,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098701-2026",
+        "lastVerified": "2026-10-20T10:26:53.297Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b43",
+      "slug": "w7x-ucs-meh-supervisor-ocds-h6vhtk-078b43",
+      "ocid": "ocds-h6vhtk-078b43",
+      "title": "W7X - UCS - MEH Supervisor",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 98000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098706-2026",
+        "lastVerified": "2026-10-20T10:26:51.024Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b45",
+      "slug": "w7x-t4a-hso-silverv-ocds-h6vhtk-078b45",
+      "ocid": "ocds-h6vhtk-078b45",
+      "title": "W7X - T4A - HSO Silverv",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 79000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098709-2026",
+        "lastVerified": "2026-10-20T10:26:46.344Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-078b48",
+      "slug": "w7x-t4a-hso-silver-ocds-h6vhtk-078b48",
+      "ocid": "ocds-h6vhtk-078b48",
+      "title": "W7X - T4A - HSO Silver",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 39500,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098712-2026",
+        "lastVerified": "2026-10-20T10:26:44.009Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-07897a",
+      "slug": "tailored-learning-contract-2026-2027-ocds-h6vhtk-07897a",
+      "ocid": "ocds-h6vhtk-07897a",
+      "title": "Tailored Learning Contract 2026-2027",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Adult Skills Fund",
+        "slug": "adult-skills-fund"
+      },
+      "buyer": {
+        "name": "Somerset Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Somerset",
+        "areas": [
+          "Somerset",
+          "South West"
+        ]
+      },
+      "value": {
+        "amount": 40000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/097923-2026",
+        "lastVerified": "2026-10-17T09:44:13.694Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06d9d9",
+      "slug": "supported-internship-programme-for-care-leavers-ocds-h6vhtk-06d9d9",
+      "ocid": "ocds-h6vhtk-06d9d9",
+      "title": "Supported Internship Programme for Care Leavers",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "NHS England",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 1450000,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-09-21T11:00:00.000Z",
+        "daysToDeadline": -36
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/098210-2026",
+        "lastVerified": "2026-10-17T09:41:45.066Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-067fbc",
+      "slug": "t2689-framework-agreement-for-the-delivery-of-various-employability-and-skills-requirements-ocds-h6vhtk-067fbc",
+      "ocid": "ocds-h6vhtk-067fbc",
+      "title": "T2689 - Framework Agreement for the Delivery of Various Employability and Skills Requirements",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Belfast City Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Northern Ireland",
+        "areas": [
+          "Northern Ireland"
+        ]
+      },
+      "value": {
+        "amount": 0,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "deadline": "2026-08-21T11:00:00.000Z",
+        "daysToDeadline": -67
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/097369-2026",
+        "lastVerified": "2026-10-16T10:10:49.260Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06f359",
+      "slug": "the-trailblazer-economically-inactive-health-wellbeing-and-work-readiness-programme-ii-ocds-h6vhtk-06f359",
+      "ocid": "ocds-h6vhtk-06f359",
+      "title": "The Trailblazer (Economically Inactive) - Health, Wellbeing and Work Readiness Programme II",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Economic Inactivity Trailblazers",
+        "slug": "economic-inactivity-trailblazers"
+      },
+      "buyer": {
+        "name": "London Borough of Croydon",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "London",
+        "areas": [
+          "London"
+        ]
+      },
+      "value": {
+        "amount": 113000,
+        "currency": "GBP",
+        "basis": "contract"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/097677-2026",
+        "lastVerified": "2026-10-16T10:08:08.029Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1800,7 +4803,7 @@
       },
       "tender": {
         "deadline": "2026-09-17T11:00:00.000Z",
-        "daysToDeadline": -27
+        "daysToDeadline": -40
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -1849,7 +4852,7 @@
       },
       "tender": {
         "deadline": "2026-10-13T22:59:00.000Z",
-        "daysToDeadline": -1
+        "daysToDeadline": -13
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -1994,7 +4997,7 @@
       },
       "tender": {
         "deadline": "2026-08-12T11:00:00.000Z",
-        "daysToDeadline": -63
+        "daysToDeadline": -76
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2141,7 +5144,7 @@
       },
       "tender": {
         "deadline": "2026-08-31T11:00:00.000Z",
-        "daysToDeadline": -44
+        "daysToDeadline": -57
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2190,7 +5193,7 @@
       },
       "tender": {
         "deadline": "2026-09-14T11:00:00.000Z",
-        "daysToDeadline": -30
+        "daysToDeadline": -43
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2237,7 +5240,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -106
+        "daysToDeadline": -118
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2286,7 +5289,7 @@
       },
       "tender": {
         "deadline": "2026-09-23T23:00:00.000Z",
-        "daysToDeadline": -21
+        "daysToDeadline": -33
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2335,62 +5338,13 @@
       },
       "tender": {
         "deadline": "2026-09-23T23:00:00.000Z",
-        "daysToDeadline": -21
+        "daysToDeadline": -33
       },
       "source": {
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/433d1a73-7f5b-4fcf-a485-9bc5356492bb",
         "lastVerified": "2026-10-09T12:15:06.607Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-06e8db",
-      "slug": "connect-to-work-programme-individual-placement-support-ips-in-darlington-middlesbrough-stockton--ocds-h6vhtk-06e8db",
-      "ocid": "ocds-h6vhtk-06e8db",
-      "title": "Connect to Work Programme - Individual Placement Support (IPS) in Darlington, Middlesbrough, Stockton-on-Tees and Redcar & Cleveland",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Connect to Work",
-        "slug": "connect-to-work"
-      },
-      "buyer": {
-        "name": "Hartlepool Borough Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North East",
-        "areas": [
-          "North East"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": "2026-09-23T13:00:00.000Z",
-        "daysToDeadline": -21
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/095030-2026",
-        "lastVerified": "2026-10-09T12:11:57.093Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2434,7 +5388,7 @@
       },
       "tender": {
         "deadline": "2026-07-03T11:00:00.000Z",
-        "daysToDeadline": -103
+        "daysToDeadline": -116
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2483,7 +5437,7 @@
       },
       "tender": {
         "deadline": "2026-09-12T11:00:00.000Z",
-        "daysToDeadline": -32
+        "daysToDeadline": -45
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2532,7 +5486,7 @@
       },
       "tender": {
         "deadline": "2026-06-07T11:00:00.000Z",
-        "daysToDeadline": -129
+        "daysToDeadline": -142
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2579,7 +5533,7 @@
       },
       "tender": {
         "deadline": "2026-05-05T11:00:00.000Z",
-        "daysToDeadline": -162
+        "daysToDeadline": -175
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2628,111 +5582,13 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -51
+        "daysToDeadline": -63
       },
       "source": {
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/bf257731-29ec-484b-aebc-cb947d65ff76",
         "lastVerified": "2026-10-07T14:05:53.941Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-07815e",
-      "slug": "tvca-proc-0837-connect-to-work-ips-fidelity-assurance-consultancy-ocds-h6vhtk-07815e",
-      "ocid": "ocds-h6vhtk-07815e",
-      "title": "TVCA-PROC-0837 - Connect to Work IPS Fidelity Assurance Consultancy",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Connect to Work",
-        "slug": "connect-to-work"
-      },
-      "buyer": {
-        "name": "Tees Valley Combined Authority",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North East",
-        "areas": [
-          "North East"
-        ]
-      },
-      "value": {
-        "amount": 75785,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "deadline": null,
-        "daysToDeadline": null
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/094118-2026",
-        "lastVerified": "2026-10-07T14:05:16.285Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-067fbc",
-      "slug": "t2689-framework-agreement-for-the-delivery-of-various-employability-and-skills-requirements-ocds-h6vhtk-067fbc",
-      "ocid": "ocds-h6vhtk-067fbc",
-      "title": "T2689 - Framework Agreement for the Delivery of Various Employability and Skills Requirements",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "Belfast City Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "Northern Ireland",
-        "areas": [
-          "Northern Ireland"
-        ]
-      },
-      "value": {
-        "amount": 0,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "deadline": "2026-08-21T11:00:00.000Z",
-        "daysToDeadline": -54
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/093605-2026",
-        "lastVerified": "2026-10-06T13:47:34.218Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2823,7 +5679,7 @@
       },
       "tender": {
         "deadline": "2026-06-12T10:00:00.000Z",
-        "daysToDeadline": -125
+        "daysToDeadline": -137
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2872,7 +5728,7 @@
       },
       "tender": {
         "deadline": "2026-04-13T11:00:00.000Z",
-        "daysToDeadline": -184
+        "daysToDeadline": -197
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3019,62 +5875,13 @@
       },
       "tender": {
         "deadline": "2026-09-21T16:00:00.000Z",
-        "daysToDeadline": -23
+        "daysToDeadline": -36
       },
       "source": {
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/bd67eeb5-494f-4a1e-a584-cd64a6a61fab",
         "lastVerified": "2026-10-01T14:06:25.072Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-b5fd17-392978e2-a986-460a-84c9-51ade9c205e9",
-      "slug": "people-professional-apprenticeships--84c9-51ade9c205e9",
-      "ocid": "ocds-b5fd17-392978e2-a986-460a-84c9-51ade9c205e9",
-      "title": "People Professional Apprenticeships",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
-      },
-      "buyer": {
-        "name": "West Yorkshire Combined Authority",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "Yorkshire and the Humber",
-        "areas": [
-          "Yorkshire and the Humber"
-        ]
-      },
-      "value": {
-        "amount": 55000,
-        "currency": "GBP",
-        "basis": "award"
-      },
-      "tender": {
-        "deadline": "2026-08-31T23:00:00.000Z",
-        "daysToDeadline": -44
-      },
-      "source": {
-        "publisher": "Contracts Finder",
-        "sourceId": "contracts-finder",
-        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/90a8fea3-718a-48a4-98b2-a177143d2333",
-        "lastVerified": "2026-10-01T14:06:17.588Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -3115,7 +5922,7 @@
       },
       "tender": {
         "deadline": "2026-09-30T07:00:00.000Z",
-        "daysToDeadline": -15
+        "daysToDeadline": -27
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3368,7 +6175,7 @@
       },
       "tender": {
         "deadline": "2025-06-20T16:00:00.000Z",
-        "daysToDeadline": -481
+        "daysToDeadline": -494
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3466,7 +6273,7 @@
       },
       "tender": {
         "deadline": "2026-06-07T23:00:00.000Z",
-        "daysToDeadline": -129
+        "daysToDeadline": -141
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3515,7 +6322,7 @@
       },
       "tender": {
         "deadline": "2026-04-12T23:00:00.000Z",
-        "daysToDeadline": -185
+        "daysToDeadline": -197
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3711,7 +6518,7 @@
       },
       "tender": {
         "deadline": "2026-08-19T10:00:00.000Z",
-        "daysToDeadline": -57
+        "daysToDeadline": -69
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3760,7 +6567,7 @@
       },
       "tender": {
         "deadline": "2026-09-03T22:59:00.000Z",
-        "daysToDeadline": -41
+        "daysToDeadline": -53
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3809,7 +6616,7 @@
       },
       "tender": {
         "deadline": "2026-04-01T11:00:00.000Z",
-        "daysToDeadline": -196
+        "daysToDeadline": -209
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3905,7 +6712,7 @@
       },
       "tender": {
         "deadline": "2026-01-13T12:00:00.000Z",
-        "daysToDeadline": -274
+        "daysToDeadline": -287
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3954,7 +6761,7 @@
       },
       "tender": {
         "deadline": "2025-12-31T12:00:00.000Z",
-        "daysToDeadline": -287
+        "daysToDeadline": -300
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4003,7 +6810,7 @@
       },
       "tender": {
         "deadline": "2026-09-15T11:00:00.000Z",
-        "daysToDeadline": -29
+        "daysToDeadline": -42
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4052,7 +6859,7 @@
       },
       "tender": {
         "deadline": "2026-02-12T00:00:00.000Z",
-        "daysToDeadline": -245
+        "daysToDeadline": -257
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4150,62 +6957,13 @@
       },
       "tender": {
         "deadline": "2026-09-17T11:00:00.000Z",
-        "daysToDeadline": -27
+        "daysToDeadline": -40
       },
       "source": {
         "publisher": "Contracts Finder",
         "sourceId": "contracts-finder",
         "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/c7ab8f60-7baf-4914-86cf-afe830472bd5",
         "lastVerified": "2026-09-24T12:27:01.897Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-05f33b",
-      "slug": "skills-bootcamps-for-oxfordshire-2026-7-ocds-h6vhtk-05f33b",
-      "ocid": "ocds-h6vhtk-05f33b",
-      "title": "Skills Bootcamps for Oxfordshire 2026/7",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "award",
-      "stageGroup": "recent-award",
-      "stageLabel": "Recently awarded",
-      "programme": {
-        "name": "Skills Bootcamps",
-        "slug": "skills-bootcamps"
-      },
-      "buyer": {
-        "name": "Oxfordshire Local Enterprise Partnership Limited",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "South East",
-        "areas": [
-          "South East"
-        ]
-      },
-      "value": {
-        "amount": 1054657,
-        "currency": "GBP",
-        "basis": "contract"
-      },
-      "tender": {
-        "deadline": "2026-03-13T11:00:00.000Z",
-        "daysToDeadline": -215
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/090121-2026",
-        "lastVerified": "2026-09-24T12:23:59.565Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -4249,7 +7007,7 @@
       },
       "tender": {
         "deadline": "2026-08-18T11:00:00.000Z",
-        "daysToDeadline": -57
+        "daysToDeadline": -70
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4298,7 +7056,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -51
+        "daysToDeadline": -63
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4347,7 +7105,7 @@
       },
       "tender": {
         "deadline": "2026-07-13T16:00:00.000Z",
-        "daysToDeadline": -93
+        "daysToDeadline": -106
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4445,7 +7203,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -106
+        "daysToDeadline": -118
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4492,7 +7250,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -106
+        "daysToDeadline": -118
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4541,7 +7299,7 @@
       },
       "tender": {
         "deadline": "2026-06-15T11:00:00.000Z",
-        "daysToDeadline": -121
+        "daysToDeadline": -134
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4590,7 +7348,7 @@
       },
       "tender": {
         "deadline": "2026-08-31T11:00:00.000Z",
-        "daysToDeadline": -44
+        "daysToDeadline": -57
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4639,7 +7397,7 @@
       },
       "tender": {
         "deadline": "2026-04-02T12:00:00.000Z",
-        "daysToDeadline": -195
+        "daysToDeadline": -208
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4688,7 +7446,7 @@
       },
       "tender": {
         "deadline": "2026-08-28T16:00:00.000Z",
-        "daysToDeadline": -47
+        "daysToDeadline": -60
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4788,7 +7546,7 @@
       },
       "tender": {
         "deadline": "2026-08-08T11:00:00.000Z",
-        "daysToDeadline": -67
+        "daysToDeadline": -80
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4837,7 +7595,7 @@
       },
       "tender": {
         "deadline": "2026-07-20T09:00:00.000Z",
-        "daysToDeadline": -87
+        "daysToDeadline": -99
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4886,7 +7644,7 @@
       },
       "tender": {
         "deadline": "2026-07-15T22:59:00.000Z",
-        "daysToDeadline": -91
+        "daysToDeadline": -103
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4935,7 +7693,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -51
+        "daysToDeadline": -63
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4984,7 +7742,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -51
+        "daysToDeadline": -63
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5082,7 +7840,7 @@
       },
       "tender": {
         "deadline": "2025-04-14T11:00:00.000Z",
-        "daysToDeadline": -548
+        "daysToDeadline": -561
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5129,7 +7887,7 @@
       },
       "tender": {
         "deadline": "2026-07-01T16:00:00.000Z",
-        "daysToDeadline": -105
+        "daysToDeadline": -118
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5178,7 +7936,7 @@
       },
       "tender": {
         "deadline": "2026-08-05T00:00:00.000Z",
-        "daysToDeadline": -71
+        "daysToDeadline": -83
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5228,7 +7986,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T16:00:00.000Z",
-        "daysToDeadline": -89
+        "daysToDeadline": -102
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5427,7 +8185,7 @@
       },
       "tender": {
         "deadline": "2026-07-18T11:00:00.000Z",
-        "daysToDeadline": -88
+        "daysToDeadline": -101
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5527,7 +8285,7 @@
       },
       "tender": {
         "deadline": "2026-07-06T08:00:00.000Z",
-        "daysToDeadline": -101
+        "daysToDeadline": -113
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5577,7 +8335,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T13:00:00.000Z",
-        "daysToDeadline": -89
+        "daysToDeadline": -102
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5596,10 +8354,10 @@
     }
   ],
   "marketHeadline": {
-    "opportunityCount": 110,
+    "opportunityCount": 165,
     "programmeCount": 11,
-    "commissionerOrPrimeCount": 78,
-    "activeCount": 31,
+    "commissionerOrPrimeCount": 98,
+    "activeCount": 43,
     "supplyChainCount": 11
   },
   "coverage": {
@@ -5620,9 +8378,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-15T10:21:57.454Z",
-        "lastRecordReceived": "2026-10-15T10:21:57.454Z",
-        "relevantRecordsAccepted": 61,
+        "lastSuccessfulCheck": "2026-10-27T12:45:25.639Z",
+        "lastRecordReceived": "2026-10-27T12:45:25.639Z",
+        "relevantRecordsAccepted": 94,
         "historicalBackfillStatus": "active",
         "coverage": [
           "pipeline",
@@ -5649,9 +8407,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-15T10:22:29.737Z",
-        "lastRecordReceived": "2026-10-15T10:22:29.737Z",
-        "relevantRecordsAccepted": 35,
+        "lastSuccessfulCheck": "2026-10-27T12:48:08.740Z",
+        "lastRecordReceived": "2026-10-27T12:48:08.740Z",
+        "relevantRecordsAccepted": 43,
         "historicalBackfillStatus": "active",
         "coverage": [
           "tenders",
@@ -5673,9 +8431,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-15T10:24:00.192Z",
-        "lastRecordReceived": null,
-        "relevantRecordsAccepted": 0,
+        "lastSuccessfulCheck": "2026-10-27T16:10:18.757Z",
+        "lastRecordReceived": "2026-10-27T16:10:18.757Z",
+        "relevantRecordsAccepted": 13,
         "historicalBackfillStatus": "verify-completeness",
         "coverage": [
           "prior-information",
@@ -5699,7 +8457,7 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-15T10:24:00.192Z",
+        "lastSuccessfulCheck": "2026-10-27T16:10:18.757Z",
         "lastRecordReceived": null,
         "relevantRecordsAccepted": 0,
         "historicalBackfillStatus": "verify-completeness",
@@ -5725,8 +8483,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-15T10:23:43.282Z",
-        "lastRecordReceived": "2026-10-15T10:23:43.282Z",
+        "lastSuccessfulCheck": "2026-10-27T16:10:01.615Z",
+        "lastRecordReceived": "2026-10-27T16:10:01.615Z",
         "relevantRecordsAccepted": 2,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -5772,9 +8530,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-15T10:25:27.210Z",
-        "lastRecordReceived": "2026-10-15T10:25:27.210Z",
-        "relevantRecordsAccepted": 1,
+        "lastSuccessfulCheck": "2026-10-27T16:17:50.906Z",
+        "lastRecordReceived": "2026-10-27T16:17:50.906Z",
+        "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
           "published-notices"
