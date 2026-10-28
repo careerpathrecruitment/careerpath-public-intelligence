@@ -1,20 +1,20 @@
 {
   "schemaVersion": 3,
   "id": "careerpath-public-opportunity-intelligence-v3-free",
-  "generatedAt": "2026-10-27T16:17:58.895Z",
+  "generatedAt": "2026-10-28T13:47:26.903Z",
   "qualityStatus": "passed",
   "title": "CareerPath Opportunity Intelligence",
   "description": "Free Employment & Skills opportunity headlines with source-linked public facts. Deeper commercial, provider, change, local-delivery and mobilisation intelligence is protected.",
   "counts": {
-    "total": 165,
-    "live": 26,
+    "total": 175,
+    "live": 27,
     "upcoming": 17,
     "marketEngagement": 0,
-    "recentAwards": 122,
+    "recentAwards": 131,
     "closingWithin7Days": 5,
-    "closingWithin30Days": 14,
+    "closingWithin30Days": 15,
     "supplyChain": 11,
-    "commissioner": 154
+    "commissioner": 164
   },
   "filters": {
     "programmes": [
@@ -32,6 +32,7 @@
     ],
     "buyers": [
       "AKG",
+      "Armagh City Banbridge and Craigavon Borough Council",
       "Bassetlaw District Council",
       "Belfast City Council",
       "BlueLight Commercial Limited",
@@ -41,6 +42,7 @@
       "Capital City Partnership",
       "Central Bedfordshire Council",
       "City & County of Swansea",
+      "City of Glasgow College",
       "Construction Industry Training Board",
       "David MacBrayne HR (UK) Limited",
       "Defra Commercial",
@@ -108,19 +110,23 @@
       "Sheffield City Council",
       "Skills Development Scotland Ltd",
       "Somerset Council",
+      "South Lanarkshire Council",
       "South Yorkshire Mayoral Combined Authority",
       "Southampton City Council",
       "Standguide",
+      "Stirling Council",
       "Stockport Metropolitan Borough Council",
       "Suffolk County Council",
       "Sunderland City Council",
       "Surrey County Council",
       "Tees Valley Combined Authority",
+      "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
       "The Education Authority",
       "The Growth Company",
       "The Insolvency Service",
       "UK Shared Business Services Limited",
       "University Centre Somerset College Group",
+      "University of Strathclyde",
       "Walsall Metro Borough Council",
       "West College Scotland",
       "West Sussex County Council",
@@ -131,6 +137,7 @@
       "Yorkshire Purchasing Organisation"
     ],
     "regions": [
+      "City of Glasgow College City Campus - 190 Cathedral Street, Glasgow, G4 0RF Riverside Campus - 21 Thistle Street, Glasgow, G5 9XB",
       "East Midlands",
       "East of England",
       "Edinburgh and South East Scotland Region",
@@ -152,7 +159,10 @@
       "Somerset",
       "South East",
       "South Glasgow",
+      "South Lanarkshire",
       "South West",
+      "Stirling & Clackmannanshire",
+      "Stirling and Clackmannanshire.",
       "Suffolk",
       "Swansea",
       "To support eligible parents and carers across Renfrewshire, Inverclyde, West Dunbartonshire and East Renfrewshire using local venues, referral networks and West College Scotland campuses.",
@@ -162,11 +172,13 @@
       "UKM72",
       "UKM73",
       "UKM75",
+      "UKM77",
       "UKM78",
       "UKM82",
       "UKM83",
       "UKM84",
       "UKM91",
+      "UKM95",
       "Wales",
       "West Midlands",
       "Wirral",
@@ -215,6 +227,105 @@
     ]
   },
   "opportunities": [
+    {
+      "id": "supply-chain:ingeus-fes",
+      "slug": "ingeus-future-employment-support-ingeus-fes",
+      "ocid": null,
+      "title": "Future Employment Support partner expression of interest",
+      "opportunityClass": "supply-chain",
+      "opportunityType": "Supply Chain Opportunity",
+      "stage": "supply-chain-eoi",
+      "stageGroup": "live",
+      "stageLabel": "Supply chain EOI",
+      "programme": {
+        "name": "Future Employment Support",
+        "slug": "future-employment-support"
+      },
+      "buyer": {
+        "name": "Ingeus",
+        "role": "Prime provider"
+      },
+      "primeProvider": "Ingeus",
+      "geography": {
+        "primaryArea": "England",
+        "areas": [
+          "England",
+          "London"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": "2026-10-31T00:00:00.000Z",
+        "daysToDeadline": 3
+      },
+      "source": {
+        "publisher": "Ingeus",
+        "sourceId": "ingeus-fes",
+        "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
+        "lastVerified": "2026-10-28T13:47:19.526Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000845036",
+      "slug": "transport-to-employment-utilising-and-promoting-the-north-east-of-scotland-sustainable-travel-br--r6ebe6-0000845036",
+      "ocid": "ocds-r6ebe6-0000845036",
+      "title": "Transport to Employment – Utilising and Promoting the North East of Scotland Sustainable Travel Brand",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "North East Scotland Regional Transport Partnership (Nestrans)",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM50",
+        "areas": [
+          "UKM50"
+        ]
+      },
+      "value": {
+        "amount": 100000,
+        "currency": "GBP",
+        "basis": "published"
+      },
+      "tender": {
+        "deadline": "2026-10-30T17:00:00.000Z",
+        "daysToDeadline": 3
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=102&outputType=0",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
     {
       "id": "ocds-h6vhtk-077d91",
       "slug": "progression-towards-employment-ocds-h6vhtk-077d91",
@@ -265,105 +376,6 @@
       }
     },
     {
-      "id": "supply-chain:ingeus-fes",
-      "slug": "ingeus-future-employment-support-ingeus-fes",
-      "ocid": null,
-      "title": "Future Employment Support partner expression of interest",
-      "opportunityClass": "supply-chain",
-      "opportunityType": "Supply Chain Opportunity",
-      "stage": "supply-chain-eoi",
-      "stageGroup": "live",
-      "stageLabel": "Supply chain EOI",
-      "programme": {
-        "name": "Future Employment Support",
-        "slug": "future-employment-support"
-      },
-      "buyer": {
-        "name": "Ingeus",
-        "role": "Prime provider"
-      },
-      "primeProvider": "Ingeus",
-      "geography": {
-        "primaryArea": "England",
-        "areas": [
-          "England",
-          "London"
-        ]
-      },
-      "value": {
-        "amount": null,
-        "currency": "GBP",
-        "basis": "not-published"
-      },
-      "tender": {
-        "deadline": "2026-10-31T00:00:00.000Z",
-        "daysToDeadline": 4
-      },
-      "source": {
-        "publisher": "Ingeus",
-        "sourceId": "ingeus-fes",
-        "latestNoticeUrl": "https://ingeus.co.uk/partners/current-opportunities",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-r6ebe6-0000845036",
-      "slug": "transport-to-employment-utilising-and-promoting-the-north-east-of-scotland-sustainable-travel-br--r6ebe6-0000845036",
-      "ocid": "ocds-r6ebe6-0000845036",
-      "title": "Transport to Employment – Utilising and Promoting the North East of Scotland Sustainable Travel Brand",
-      "opportunityClass": "commissioner",
-      "opportunityType": "Commissioner opportunity",
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Employment Support",
-        "slug": "employment-support"
-      },
-      "buyer": {
-        "name": "North East Scotland Regional Transport Partnership (Nestrans)",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "UKM50",
-        "areas": [
-          "UKM50"
-        ]
-      },
-      "value": {
-        "amount": 100000,
-        "currency": "GBP",
-        "basis": "published"
-      },
-      "tender": {
-        "deadline": "2026-10-30T17:00:00.000Z",
-        "daysToDeadline": 4
-      },
-      "source": {
-        "publisher": "Public Contracts Scotland",
-        "sourceId": "public-contracts-scotland",
-        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=102&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
       "id": "ocds-h6vhtk-077fef",
       "slug": "framework-for-the-provision-of-trailblazer-programme-support-services-and-activities-ocds-h6vhtk-077fef",
       "ocid": "ocds-h6vhtk-077fef",
@@ -396,7 +408,7 @@
       },
       "tender": {
         "deadline": "2026-11-02T12:00:00.000Z",
-        "daysToDeadline": 6
+        "daysToDeadline": 5
       },
       "source": {
         "publisher": "Find a Tender",
@@ -446,7 +458,7 @@
       },
       "tender": {
         "deadline": "2026-11-03T12:00:00.000Z",
-        "daysToDeadline": 7
+        "daysToDeadline": 6
       },
       "source": {
         "publisher": "Find a Tender",
@@ -495,7 +507,7 @@
       },
       "tender": {
         "deadline": "2026-11-06T12:00:00.000Z",
-        "daysToDeadline": 10
+        "daysToDeadline": 9
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -544,63 +556,13 @@
       },
       "tender": {
         "deadline": "2026-11-06T12:00:00.000Z",
-        "daysToDeadline": 10
+        "daysToDeadline": 9
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/095678-2026",
         "lastVerified": "2026-10-10T11:24:09.889Z"
-      },
-      "publication": {
-        "publicWebsiteEligible": true,
-        "access": "free",
-        "containsPremiumIntelligence": false,
-        "containsInternalBidScoring": false,
-        "containsCommercialRecommendations": false,
-        "containsRawVacancies": false
-      }
-    },
-    {
-      "id": "ocds-h6vhtk-06bd32",
-      "slug": "north-northamptonshire-council-apprenticeship-training-services-framework-ocds-h6vhtk-06bd32",
-      "ocid": "ocds-h6vhtk-06bd32",
-      "title": "North Northamptonshire Council Apprenticeship Training Services Framework",
-      "opportunityClass": "commissioner",
-      "opportunityType": null,
-      "stage": "live-tender",
-      "stageGroup": "live",
-      "stageLabel": "Live tender",
-      "programme": {
-        "name": "Apprenticeships",
-        "slug": "apprenticeships"
-      },
-      "buyer": {
-        "name": "North Northamptonshire Council",
-        "role": "Commissioner"
-      },
-      "primeProvider": null,
-      "geography": {
-        "primaryArea": "North Northamptonshire",
-        "areas": [
-          "North Northamptonshire",
-          "East Midlands"
-        ]
-      },
-      "value": {
-        "amount": 2000000,
-        "currency": "GBP",
-        "basis": "tender-estimate"
-      },
-      "tender": {
-        "deadline": "2026-11-09T12:00:00.000Z",
-        "daysToDeadline": 13
-      },
-      "source": {
-        "publisher": "Find a Tender",
-        "sourceId": "find-a-tender",
-        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/095149-2026",
-        "lastVerified": "2026-10-09T12:11:41.612Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -641,7 +603,7 @@
       },
       "tender": {
         "deadline": "2026-11-16T12:00:00.000Z",
-        "daysToDeadline": 20
+        "daysToDeadline": 19
       },
       "source": {
         "publisher": "Find a Tender",
@@ -690,13 +652,13 @@
       },
       "tender": {
         "deadline": "2026-11-17T12:00:00.000Z",
-        "daysToDeadline": 21
+        "daysToDeadline": 20
       },
       "source": {
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=21&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -739,13 +701,63 @@
       },
       "tender": {
         "deadline": "2026-11-17T10:00:00.000Z",
-        "daysToDeadline": 21
+        "daysToDeadline": 20
       },
       "source": {
         "publisher": "Find a Tender",
         "sourceId": "find-a-tender",
         "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/100091-2026",
         "lastVerified": "2026-10-23T10:32:24.170Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06bd32",
+      "slug": "north-northamptonshire-council-apprenticeship-training-services-framework-ocds-h6vhtk-06bd32",
+      "ocid": "ocds-h6vhtk-06bd32",
+      "title": "North Northamptonshire Council Apprenticeship Training Services Framework",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "North Northamptonshire Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "North Northamptonshire",
+        "areas": [
+          "North Northamptonshire",
+          "East Midlands"
+        ]
+      },
+      "value": {
+        "amount": 2000000,
+        "currency": "GBP",
+        "basis": "tender-estimate"
+      },
+      "tender": {
+        "deadline": "2026-11-19T12:00:00.000Z",
+        "daysToDeadline": 22
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/101793-2026",
+        "lastVerified": "2026-10-28T13:34:43.488Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -788,13 +800,13 @@
       },
       "tender": {
         "deadline": "2026-11-20T12:00:00.000Z",
-        "daysToDeadline": 24
+        "daysToDeadline": 23
       },
       "source": {
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=102&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -837,7 +849,7 @@
       },
       "tender": {
         "deadline": "2026-11-20T12:00:00.000Z",
-        "daysToDeadline": 24
+        "daysToDeadline": 23
       },
       "source": {
         "publisher": "Find a Tender",
@@ -886,7 +898,7 @@
       },
       "tender": {
         "deadline": "2026-11-23T17:00:00.000Z",
-        "daysToDeadline": 28
+        "daysToDeadline": 27
       },
       "source": {
         "publisher": "Find a Tender",
@@ -935,13 +947,13 @@
       },
       "tender": {
         "deadline": "2026-11-27T12:00:00.000Z",
-        "daysToDeadline": 31
+        "daysToDeadline": 30
       },
       "source": {
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=2&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -982,7 +994,7 @@
       },
       "tender": {
         "deadline": "2026-12-01T12:00:00.000Z",
-        "daysToDeadline": 35
+        "daysToDeadline": 34
       },
       "source": {
         "publisher": "Find a Tender",
@@ -1031,13 +1043,13 @@
       },
       "tender": {
         "deadline": "2029-02-10T12:00:00.000Z",
-        "daysToDeadline": 837
+        "daysToDeadline": 836
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000000NHucUAG&searchStr=&sortStr=Recently+Published&page=4&filters=&County=",
-        "lastVerified": "2026-10-27T16:10:01.615Z"
+        "lastVerified": "2026-10-28T13:42:56.555Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1087,7 +1099,7 @@
         "publisher": "AKG",
         "sourceId": "akg-fes",
         "latestNoticeUrl": "https://akguk.co.uk/akg-employment/future-of-employment-support-what-it-is-and-who-its-for/",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1136,7 +1148,7 @@
         "publisher": "Enable Works",
         "sourceId": "enable-works-all-in",
         "latestNoticeUrl": "https://www.enable.org.uk/enable-works/our-services/all-in",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1196,7 +1208,7 @@
         "publisher": "Fedcap",
         "sourceId": "fedcap-fes",
         "latestNoticeUrl": "https://www.fedcap.org.uk/partner-with-us",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1247,7 +1259,7 @@
         "publisher": "Maximus UK",
         "sourceId": "maximus-fes",
         "latestNoticeUrl": "https://www.maximusuk.co.uk/fes-eoi",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1297,7 +1309,7 @@
         "publisher": "PeoplePlus",
         "sourceId": "peopleplus-fes",
         "latestNoticeUrl": "https://peopleplus.co.uk/current-opportunities",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1346,7 +1358,7 @@
         "publisher": "Reed in Partnership",
         "sourceId": "reed-fes",
         "latestNoticeUrl": "https://reedinpartnership.co.uk/opportunities/future-employment-support/",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1399,7 +1411,56 @@
         "publisher": "Seetec",
         "sourceId": "seetec-fes",
         "latestNoticeUrl": "https://seetec.co.uk/our-news/future-employment-support-join-seetec-to-shape-the-future-of-employability/",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "cp-devolved-live-sell2wales-oct672088",
+      "slug": "devolved-sell2wales-oct672088",
+      "ocid": null,
+      "title": "North Northamptonshire Council Apprenticeship Training Services Framework",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "live-tender",
+      "stageGroup": "live",
+      "stageLabel": "Live tender",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": null
+      },
+      "buyer": {
+        "name": "North Northamptonshire Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "Wales",
+        "areas": [
+          "Wales"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": null
+      },
+      "tender": {
+        "deadline": "2026-11-20T00:00:00.000Z",
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Sell2Wales",
+        "sourceId": "sell2wales",
+        "latestNoticeUrl": "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=OCT672088",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1547,7 +1608,7 @@
         "publisher": "The Growth Company",
         "sourceId": "growth-company-supplier-opportunities",
         "latestNoticeUrl": "https://www.growthco.uk/work-with-us/become-a-supplier/",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1598,7 +1659,7 @@
         "publisher": "Shaw Trust",
         "sourceId": "shaw-trust-connect-to-work",
         "latestNoticeUrl": "https://shawtrust.org.uk/commissioning-connect-to-work/",
-        "lastVerified": "2026-10-27T16:17:53.058Z"
+        "lastVerified": "2026-10-28T13:47:19.526Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1648,7 +1709,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=101&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1703,7 +1764,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=1&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1752,7 +1813,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=1&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -1795,13 +1856,13 @@
       },
       "tender": {
         "deadline": "2026-12-21T12:00:00.000Z",
-        "daysToDeadline": 55
+        "daysToDeadline": 54
       },
       "source": {
         "publisher": "DWP Atamis",
         "sourceId": "dwp-atamis",
         "latestNoticeUrl": "https://dwp2.my.salesforce-sites.com/ProSpend__CS_ContractPage?SearchType=Projects&uid=a1MdO000003TZdNUAW&searchStr=&sortStr=Recently+Published&page=2&filters=&County=",
-        "lastVerified": "2026-10-27T16:10:01.615Z"
+        "lastVerified": "2026-10-28T13:42:56.555Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2187,7 +2248,7 @@
       },
       "tender": {
         "deadline": "2026-12-22T23:45:00.000Z",
-        "daysToDeadline": 57
+        "daysToDeadline": 56
       },
       "source": {
         "publisher": "Find a Tender",
@@ -2389,7 +2450,7 @@
         "publisher": "eTendersNI",
         "sourceId": "etendersni",
         "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6820247&documentId=6820290&noticeType=7&extId=739ca0f4-6c7d-424b-9ca3-d69bd1f039a8&lang=en&noticeId=6820267&isNational=false",
-        "lastVerified": "2026-10-27T16:17:50.906Z"
+        "lastVerified": "2026-10-28T13:47:17.128Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2438,7 +2499,7 @@
         "publisher": "eTendersNI",
         "sourceId": "etendersni",
         "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6596110&documentId=6788107&noticeType=7&extId=a50f5b90-77a6-4144-9b29-d377fbc84594&lang=en&noticeId=6787983&isNational=false",
-        "lastVerified": "2026-10-27T16:17:50.906Z"
+        "lastVerified": "2026-10-28T13:47:17.128Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2487,7 +2548,105 @@
         "publisher": "eTendersNI",
         "sourceId": "etendersni",
         "latestNoticeUrl": "https://etendersni.gov.uk/epps/notices/viewPublishedContractNotice.do?resourceId=6595586&documentId=6787149&noticeType=7&extId=c564f9ad-8614-462d-ac57-cb6f913ac40a&lang=en&noticeId=6786963&isNational=false",
-        "lastVerified": "2026-10-27T16:17:50.906Z"
+        "lastVerified": "2026-10-28T13:47:17.128Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000834460",
+      "slug": "provision-of-researcher-development-program-centre-of-doctoral-training-6-lots--r6ebe6-0000834460",
+      "ocid": "ocds-r6ebe6-0000834460",
+      "title": "Provision of Researcher Development Program & Centre of Doctoral Training – 6 Lots",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "University of Strathclyde",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM82",
+        "areas": [
+          "UKM82"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=3&outputType=0",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000845509",
+      "slug": "cfm0285-modern-apprentice-traineeship-training-delivery--r6ebe6-0000845509",
+      "ocid": "ocds-r6ebe6-0000845509",
+      "title": "CFM0285 Modern Apprentice & Traineeship Training Delivery",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "Fife Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM72",
+        "areas": [
+          "UKM72"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=3&outputType=0",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2537,7 +2696,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2587,7 +2746,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2637,7 +2796,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2687,7 +2846,7 @@
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=103&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2730,13 +2889,359 @@
       },
       "tender": {
         "deadline": "2027-11-10T00:00:00.000Z",
-        "daysToDeadline": 379
+        "daysToDeadline": 378
       },
       "source": {
         "publisher": "Public Contracts Scotland",
         "sourceId": "public-contracts-scotland",
         "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=10-2026&noticeType=104&outputType=0",
-        "lastVerified": "2026-10-27T16:10:18.757Z"
+        "lastVerified": "2026-10-28T13:43:16.726Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000817238",
+      "slug": "employability-flexible-framework--r6ebe6-0000817238",
+      "ocid": "ocds-r6ebe6-0000817238",
+      "title": "Employability Flexible Framework",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Stirling Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM77",
+        "areas": [
+          "UKM77",
+          "UKM72",
+          "Stirling & Clackmannanshire",
+          "Stirling and Clackmannanshire."
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=3&outputType=0",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000831991",
+      "slug": "c002191-delivery-of-training-in-the-autism-diagnostic-observation-scale-2nd-edition-ados-2-for-m--r6ebe6-0000831991",
+      "ocid": "ocds-r6ebe6-0000831991",
+      "title": "C002191 - Delivery of training in the Autism Diagnostic Observation Scale – 2nd edition (ADOS-2) for multidisciplinary NHS staff across Scotland.",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM",
+        "areas": [
+          "UKM"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=3&outputType=0",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000806470",
+      "slug": "employability-services-procured-service-arrangement--r6ebe6-0000806470",
+      "ocid": "ocds-r6ebe6-0000806470",
+      "title": "Employability Services Procured Service Arrangement",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "South Lanarkshire Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM95",
+        "areas": [
+          "UKM95",
+          "South Lanarkshire"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=3&outputType=0",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-r6ebe6-0000823415",
+      "slug": "the-provision-of-a-diverse-and-sustainable-catering-service--r6ebe6-0000823415",
+      "ocid": "ocds-r6ebe6-0000823415",
+      "title": "The Provision of a Diverse and Sustainable Catering Service",
+      "opportunityClass": "commissioner",
+      "opportunityType": "Commissioner opportunity",
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Apprenticeships",
+        "slug": "apprenticeships"
+      },
+      "buyer": {
+        "name": "City of Glasgow College",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "UKM82",
+        "areas": [
+          "UKM82",
+          "City of Glasgow College City Campus - 190 Cathedral Street, Glasgow, G4 0RF Riverside Campus - 21 Thistle Street, Glasgow, G5 9XB"
+        ]
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": null,
+        "daysToDeadline": null
+      },
+      "source": {
+        "publisher": "Public Contracts Scotland",
+        "sourceId": "public-contracts-scotland",
+        "latestNoticeUrl": "https://api.publiccontractsscotland.gov.uk/v1/Notices?dateFrom=09-2026&noticeType=3&outputType=0",
+        "lastVerified": "2026-10-28T13:43:16.726Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-5af1af4b-5d67-4fb1-97d9-ce3248810299",
+      "slug": "call-off-contract-under-prison-education-dynamic-purchasing-system-for-site-safety-courses-for-p--97d9-ce3248810299",
+      "ocid": "ocds-b5fd17-5af1af4b-5d67-4fb1-97d9-ce3248810299",
+      "title": "Call off Contract Under Prison Education Dynamic Purchasing System for Site Safety Courses for Prisoners at HMP Bedford",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Ministry of Justice",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "East of England",
+        "areas": [
+          "East of England"
+        ]
+      },
+      "value": {
+        "amount": 33520,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-09-17T14:00:00.000Z",
+        "daysToDeadline": -40
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/3760bb9f-8d56-4eed-a4f3-7b78113c22f6",
+        "lastVerified": "2026-10-28T13:38:07.043Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-b5fd17-acc9d5a0-e566-4d5e-9ed5-f3370492f30f",
+      "slug": "dn815523-skills-bootcamps-emcca--9ed5-f3370492f30f",
+      "ocid": "ocds-b5fd17-acc9d5a0-e566-4d5e-9ed5-f3370492f30f",
+      "title": "DN815523-Skills Bootcamps - EMCCA",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Skills Bootcamps",
+        "slug": "skills-bootcamps"
+      },
+      "buyer": {
+        "name": "Nottinghamshire County Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": "United Kingdom",
+        "areas": [
+          "United Kingdom"
+        ]
+      },
+      "value": {
+        "amount": 9276364.2,
+        "currency": "GBP",
+        "basis": "award"
+      },
+      "tender": {
+        "deadline": "2026-06-07T22:59:00.000Z",
+        "daysToDeadline": -142
+      },
+      "source": {
+        "publisher": "Contracts Finder",
+        "sourceId": "contracts-finder",
+        "latestNoticeUrl": "https://www.contractsfinder.service.gov.uk/Notice/faa02212-569b-4413-8570-23d92eb8f8b6",
+        "lastVerified": "2026-10-28T13:37:51.956Z"
+      },
+      "publication": {
+        "publicWebsiteEligible": true,
+        "access": "free",
+        "containsPremiumIntelligence": false,
+        "containsInternalBidScoring": false,
+        "containsCommercialRecommendations": false,
+        "containsRawVacancies": false
+      }
+    },
+    {
+      "id": "ocds-h6vhtk-06c12d",
+      "slug": "armagh-city-banbridge-and-craigavon-borough-council-labour-market-partnership-disability-employm-ocds-h6vhtk-06c12d",
+      "ocid": "ocds-h6vhtk-06c12d",
+      "title": "Armagh City, Banbridge and Craigavon Borough Council Labour Market Partnership Disability Employment Programme 2026/2027",
+      "opportunityClass": "commissioner",
+      "opportunityType": null,
+      "stage": "award",
+      "stageGroup": "recent-award",
+      "stageLabel": "Recently awarded",
+      "programme": {
+        "name": "Employment Support",
+        "slug": "employment-support"
+      },
+      "buyer": {
+        "name": "Armagh City Banbridge and Craigavon Borough Council",
+        "role": "Commissioner"
+      },
+      "primeProvider": null,
+      "geography": {
+        "primaryArea": null,
+        "areas": []
+      },
+      "value": {
+        "amount": null,
+        "currency": "GBP",
+        "basis": "not-published"
+      },
+      "tender": {
+        "deadline": "2026-07-22T11:00:00.000Z",
+        "daysToDeadline": -98
+      },
+      "source": {
+        "publisher": "Find a Tender",
+        "sourceId": "find-a-tender",
+        "latestNoticeUrl": "https://www.find-tender.service.gov.uk/Notice/101636-2026",
+        "lastVerified": "2026-10-28T13:36:59.367Z"
       },
       "publication": {
         "publicWebsiteEligible": true,
@@ -2779,7 +3284,7 @@
       },
       "tender": {
         "deadline": "2026-10-25T11:00:00.000Z",
-        "daysToDeadline": -2
+        "daysToDeadline": -3
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2828,7 +3333,7 @@
       },
       "tender": {
         "deadline": "2026-10-18T23:00:00.000Z",
-        "daysToDeadline": -8
+        "daysToDeadline": -9
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2877,7 +3382,7 @@
       },
       "tender": {
         "deadline": "2026-10-21T23:00:00.000Z",
-        "daysToDeadline": -5
+        "daysToDeadline": -6
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -2926,7 +3431,7 @@
       },
       "tender": {
         "deadline": "2026-10-20T09:00:00.000Z",
-        "daysToDeadline": -7
+        "daysToDeadline": -8
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3024,7 +3529,7 @@
       },
       "tender": {
         "deadline": "2026-08-31T23:00:00.000Z",
-        "daysToDeadline": -56
+        "daysToDeadline": -57
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3073,7 +3578,7 @@
       },
       "tender": {
         "deadline": "2026-09-30T00:00:00.000Z",
-        "daysToDeadline": -27
+        "daysToDeadline": -28
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3120,7 +3625,7 @@
       },
       "tender": {
         "deadline": "2026-10-11T08:00:00.000Z",
-        "daysToDeadline": -16
+        "daysToDeadline": -17
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3167,7 +3672,7 @@
       },
       "tender": {
         "deadline": "2026-10-04T08:00:00.000Z",
-        "daysToDeadline": -23
+        "daysToDeadline": -24
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3214,7 +3719,7 @@
       },
       "tender": {
         "deadline": "2026-09-30T08:00:00.000Z",
-        "daysToDeadline": -27
+        "daysToDeadline": -28
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -3263,7 +3768,7 @@
       },
       "tender": {
         "deadline": "2026-09-01T11:00:00.000Z",
-        "daysToDeadline": -56
+        "daysToDeadline": -57
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3312,7 +3817,7 @@
       },
       "tender": {
         "deadline": "2026-09-23T13:00:00.000Z",
-        "daysToDeadline": -34
+        "daysToDeadline": -35
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3361,7 +3866,7 @@
       },
       "tender": {
         "deadline": "2026-03-13T11:00:00.000Z",
-        "daysToDeadline": -228
+        "daysToDeadline": -229
       },
       "source": {
         "publisher": "Find a Tender",
@@ -3408,7 +3913,7 @@
       },
       "tender": {
         "deadline": "2026-10-11T07:00:00.000Z",
-        "daysToDeadline": -16
+        "daysToDeadline": -17
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4656,7 +5161,7 @@
       },
       "tender": {
         "deadline": "2026-09-21T11:00:00.000Z",
-        "daysToDeadline": -36
+        "daysToDeadline": -37
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4705,7 +5210,7 @@
       },
       "tender": {
         "deadline": "2026-08-21T11:00:00.000Z",
-        "daysToDeadline": -67
+        "daysToDeadline": -68
       },
       "source": {
         "publisher": "Find a Tender",
@@ -4803,7 +5308,7 @@
       },
       "tender": {
         "deadline": "2026-09-17T11:00:00.000Z",
-        "daysToDeadline": -40
+        "daysToDeadline": -41
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4852,7 +5357,7 @@
       },
       "tender": {
         "deadline": "2026-10-13T22:59:00.000Z",
-        "daysToDeadline": -13
+        "daysToDeadline": -14
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -4997,7 +5502,7 @@
       },
       "tender": {
         "deadline": "2026-08-12T11:00:00.000Z",
-        "daysToDeadline": -76
+        "daysToDeadline": -77
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5144,7 +5649,7 @@
       },
       "tender": {
         "deadline": "2026-08-31T11:00:00.000Z",
-        "daysToDeadline": -57
+        "daysToDeadline": -58
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5193,7 +5698,7 @@
       },
       "tender": {
         "deadline": "2026-09-14T11:00:00.000Z",
-        "daysToDeadline": -43
+        "daysToDeadline": -44
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5240,7 +5745,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -118
+        "daysToDeadline": -119
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5289,7 +5794,7 @@
       },
       "tender": {
         "deadline": "2026-09-23T23:00:00.000Z",
-        "daysToDeadline": -33
+        "daysToDeadline": -34
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5338,7 +5843,7 @@
       },
       "tender": {
         "deadline": "2026-09-23T23:00:00.000Z",
-        "daysToDeadline": -33
+        "daysToDeadline": -34
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5388,7 +5893,7 @@
       },
       "tender": {
         "deadline": "2026-07-03T11:00:00.000Z",
-        "daysToDeadline": -116
+        "daysToDeadline": -117
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5437,7 +5942,7 @@
       },
       "tender": {
         "deadline": "2026-09-12T11:00:00.000Z",
-        "daysToDeadline": -45
+        "daysToDeadline": -46
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5486,7 +5991,7 @@
       },
       "tender": {
         "deadline": "2026-06-07T11:00:00.000Z",
-        "daysToDeadline": -142
+        "daysToDeadline": -143
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5533,7 +6038,7 @@
       },
       "tender": {
         "deadline": "2026-05-05T11:00:00.000Z",
-        "daysToDeadline": -175
+        "daysToDeadline": -176
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5582,7 +6087,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -63
+        "daysToDeadline": -64
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -5679,7 +6184,7 @@
       },
       "tender": {
         "deadline": "2026-06-12T10:00:00.000Z",
-        "daysToDeadline": -137
+        "daysToDeadline": -138
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5728,7 +6233,7 @@
       },
       "tender": {
         "deadline": "2026-04-13T11:00:00.000Z",
-        "daysToDeadline": -197
+        "daysToDeadline": -198
       },
       "source": {
         "publisher": "Find a Tender",
@@ -5922,7 +6427,7 @@
       },
       "tender": {
         "deadline": "2026-09-30T07:00:00.000Z",
-        "daysToDeadline": -27
+        "daysToDeadline": -28
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -6273,7 +6778,7 @@
       },
       "tender": {
         "deadline": "2026-06-07T23:00:00.000Z",
-        "daysToDeadline": -141
+        "daysToDeadline": -142
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -6322,7 +6827,7 @@
       },
       "tender": {
         "deadline": "2026-04-12T23:00:00.000Z",
-        "daysToDeadline": -197
+        "daysToDeadline": -198
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -6518,7 +7023,7 @@
       },
       "tender": {
         "deadline": "2026-08-19T10:00:00.000Z",
-        "daysToDeadline": -69
+        "daysToDeadline": -70
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -6567,7 +7072,7 @@
       },
       "tender": {
         "deadline": "2026-09-03T22:59:00.000Z",
-        "daysToDeadline": -53
+        "daysToDeadline": -54
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -6616,7 +7121,7 @@
       },
       "tender": {
         "deadline": "2026-04-01T11:00:00.000Z",
-        "daysToDeadline": -209
+        "daysToDeadline": -210
       },
       "source": {
         "publisher": "Find a Tender",
@@ -6712,7 +7217,7 @@
       },
       "tender": {
         "deadline": "2026-01-13T12:00:00.000Z",
-        "daysToDeadline": -287
+        "daysToDeadline": -288
       },
       "source": {
         "publisher": "Find a Tender",
@@ -6761,7 +7266,7 @@
       },
       "tender": {
         "deadline": "2025-12-31T12:00:00.000Z",
-        "daysToDeadline": -300
+        "daysToDeadline": -301
       },
       "source": {
         "publisher": "Find a Tender",
@@ -6810,7 +7315,7 @@
       },
       "tender": {
         "deadline": "2026-09-15T11:00:00.000Z",
-        "daysToDeadline": -42
+        "daysToDeadline": -43
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -6859,7 +7364,7 @@
       },
       "tender": {
         "deadline": "2026-02-12T00:00:00.000Z",
-        "daysToDeadline": -257
+        "daysToDeadline": -258
       },
       "source": {
         "publisher": "Find a Tender",
@@ -6957,7 +7462,7 @@
       },
       "tender": {
         "deadline": "2026-09-17T11:00:00.000Z",
-        "daysToDeadline": -40
+        "daysToDeadline": -41
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7007,7 +7512,7 @@
       },
       "tender": {
         "deadline": "2026-08-18T11:00:00.000Z",
-        "daysToDeadline": -70
+        "daysToDeadline": -71
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7056,7 +7561,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -63
+        "daysToDeadline": -64
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7203,7 +7708,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -118
+        "daysToDeadline": -119
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7250,7 +7755,7 @@
       },
       "tender": {
         "deadline": "2026-06-30T22:59:00.000Z",
-        "daysToDeadline": -118
+        "daysToDeadline": -119
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7299,7 +7804,7 @@
       },
       "tender": {
         "deadline": "2026-06-15T11:00:00.000Z",
-        "daysToDeadline": -134
+        "daysToDeadline": -135
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7348,7 +7853,7 @@
       },
       "tender": {
         "deadline": "2026-08-31T11:00:00.000Z",
-        "daysToDeadline": -57
+        "daysToDeadline": -58
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7397,7 +7902,7 @@
       },
       "tender": {
         "deadline": "2026-04-02T12:00:00.000Z",
-        "daysToDeadline": -208
+        "daysToDeadline": -209
       },
       "source": {
         "publisher": "Find a Tender",
@@ -7546,7 +8051,7 @@
       },
       "tender": {
         "deadline": "2026-08-08T11:00:00.000Z",
-        "daysToDeadline": -80
+        "daysToDeadline": -81
       },
       "source": {
         "publisher": "Find a Tender",
@@ -7595,7 +8100,7 @@
       },
       "tender": {
         "deadline": "2026-07-20T09:00:00.000Z",
-        "daysToDeadline": -99
+        "daysToDeadline": -100
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7644,7 +8149,7 @@
       },
       "tender": {
         "deadline": "2026-07-15T22:59:00.000Z",
-        "daysToDeadline": -103
+        "daysToDeadline": -104
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7693,7 +8198,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -63
+        "daysToDeadline": -64
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7742,7 +8247,7 @@
       },
       "tender": {
         "deadline": "2026-08-24T22:59:00.000Z",
-        "daysToDeadline": -63
+        "daysToDeadline": -64
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7840,7 +8345,7 @@
       },
       "tender": {
         "deadline": "2025-04-14T11:00:00.000Z",
-        "daysToDeadline": -561
+        "daysToDeadline": -562
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -7936,7 +8441,7 @@
       },
       "tender": {
         "deadline": "2026-08-05T00:00:00.000Z",
-        "daysToDeadline": -83
+        "daysToDeadline": -84
       },
       "source": {
         "publisher": "Contracts Finder",
@@ -8185,7 +8690,7 @@
       },
       "tender": {
         "deadline": "2026-07-18T11:00:00.000Z",
-        "daysToDeadline": -101
+        "daysToDeadline": -102
       },
       "source": {
         "publisher": "Find a Tender",
@@ -8285,7 +8790,7 @@
       },
       "tender": {
         "deadline": "2026-07-06T08:00:00.000Z",
-        "daysToDeadline": -113
+        "daysToDeadline": -114
       },
       "source": {
         "publisher": "Find a Tender",
@@ -8335,7 +8840,7 @@
       },
       "tender": {
         "deadline": "2026-07-17T13:00:00.000Z",
-        "daysToDeadline": -102
+        "daysToDeadline": -103
       },
       "source": {
         "publisher": "Find a Tender",
@@ -8354,10 +8859,10 @@
     }
   ],
   "marketHeadline": {
-    "opportunityCount": 165,
+    "opportunityCount": 175,
     "programmeCount": 11,
-    "commissionerOrPrimeCount": 98,
-    "activeCount": 43,
+    "commissionerOrPrimeCount": 104,
+    "activeCount": 44,
     "supplyChainCount": 11
   },
   "coverage": {
@@ -8378,9 +8883,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-27T12:45:25.639Z",
-        "lastRecordReceived": "2026-10-27T12:45:25.639Z",
-        "relevantRecordsAccepted": 94,
+        "lastSuccessfulCheck": "2026-10-28T13:36:59.367Z",
+        "lastRecordReceived": "2026-10-28T13:36:59.367Z",
+        "relevantRecordsAccepted": 95,
         "historicalBackfillStatus": "active",
         "coverage": [
           "pipeline",
@@ -8407,9 +8912,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "active",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-27T12:48:08.740Z",
-        "lastRecordReceived": "2026-10-27T12:48:08.740Z",
-        "relevantRecordsAccepted": 43,
+        "lastSuccessfulCheck": "2026-10-28T13:38:07.043Z",
+        "lastRecordReceived": "2026-10-28T13:38:07.043Z",
+        "relevantRecordsAccepted": 45,
         "historicalBackfillStatus": "active",
         "coverage": [
           "tenders",
@@ -8431,9 +8936,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-27T16:10:18.757Z",
-        "lastRecordReceived": "2026-10-27T16:10:18.757Z",
-        "relevantRecordsAccepted": 13,
+        "lastSuccessfulCheck": "2026-10-28T13:43:16.726Z",
+        "lastRecordReceived": "2026-10-28T13:43:16.726Z",
+        "relevantRecordsAccepted": 19,
         "historicalBackfillStatus": "verify-completeness",
         "coverage": [
           "prior-information",
@@ -8457,9 +8962,9 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-27T16:10:18.757Z",
-        "lastRecordReceived": null,
-        "relevantRecordsAccepted": 0,
+        "lastSuccessfulCheck": "2026-10-28T13:43:16.726Z",
+        "lastRecordReceived": "2026-10-28T13:43:16.726Z",
+        "relevantRecordsAccepted": 1,
         "historicalBackfillStatus": "verify-completeness",
         "coverage": [
           "prior-information",
@@ -8483,8 +8988,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-27T16:10:01.615Z",
-        "lastRecordReceived": "2026-10-27T16:10:01.615Z",
+        "lastSuccessfulCheck": "2026-10-28T13:42:56.555Z",
+        "lastRecordReceived": "2026-10-28T13:42:56.555Z",
         "relevantRecordsAccepted": 2,
         "historicalBackfillStatus": "not-required-forward-pipeline",
         "coverage": [
@@ -8530,8 +9035,8 @@
         "configuredStatus": "active",
         "runtimeStatus": "passed",
         "error": null,
-        "lastSuccessfulCheck": "2026-10-27T16:17:50.906Z",
-        "lastRecordReceived": "2026-10-27T16:17:50.906Z",
+        "lastSuccessfulCheck": "2026-10-28T13:47:17.128Z",
+        "lastRecordReceived": "2026-10-28T13:47:17.128Z",
         "relevantRecordsAccepted": 3,
         "historicalBackfillStatus": "recent-pages-operational-historical-backfill-pending",
         "coverage": [
