@@ -1,18 +1,29 @@
 {
   "feedVersion": 1,
   "releaseId": "5f4a10641d19fe60c89c9e13d9bf1881f626b54f63a1600e14bfd9549fef05bb",
-  "publishedAt": "2026-10-28T14:09:29Z",
+  "publishedAt": "2026-10-29T14:30:13Z",
   "monitoring": {
     "staleAfterHours": 48,
     "scope": "32 reviewed evidence sources plus 14 supporting endpoints. Local delivery examples cover selected areas only; not a census of contracts or open referrals.",
     "programmes": {
       "restart-scheme": {
-        "status": "checked",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "status": "updates-pending-review",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
-        "changedSources": [],
+        "changedSources": [
+          {
+            "title": "Restart Scheme provider guidance",
+            "url": "https://www.gov.uk/government/publications/restart-provider-guidance/restart-scheme-provider-guidance",
+            "detectedAt": "2026-10-29T14:30:13Z"
+          },
+          {
+            "title": "Restart Scheme provider guidance",
+            "url": "https://www.gov.uk/government/publications/restart-provider-guidance",
+            "detectedAt": "2026-10-29T14:30:13Z"
+          }
+        ],
         "failedSourceCount": 0,
         "reviewedAt": "2026-09-20T19:29:28Z",
         "updateSummary": "Connected the selected six-month outcome gap or surplus to delivery review, separated minimum and tender expectations, and retained April earnings-threshold context. Statistical series are unchanged.",
@@ -20,8 +31,8 @@
       },
       "connect-to-work": {
         "status": "checked",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [],
@@ -32,8 +43,8 @@
       },
       "workwell": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 4,
         "sourcesMonitored": 4,
         "changedSources": [
@@ -50,8 +61,8 @@
       },
       "skills-bootcamps": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 8,
         "sourcesMonitored": 8,
         "changedSources": [
@@ -93,8 +104,8 @@
       },
       "apprenticeships-growth-skills-levy": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 6,
         "sourcesMonitored": 6,
         "changedSources": [
@@ -111,8 +122,8 @@
       },
       "adult-skills-fund": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [
@@ -129,8 +140,8 @@
       },
       "sector-based-work-academy-programme": {
         "status": "checked",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [],
@@ -141,8 +152,8 @@
       },
       "youth-guarantee": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [
@@ -169,8 +180,8 @@
       },
       "economic-inactivity-trailblazers": {
         "status": "updates-pending-review",
-        "lastAttemptAt": "2026-10-28T14:09:29Z",
-        "lastSuccessfulCheckAt": "2026-10-28T14:09:29Z",
+        "lastAttemptAt": "2026-10-29T14:30:13Z",
+        "lastSuccessfulCheckAt": "2026-10-29T14:30:13Z",
         "sourcesChecked": 5,
         "sourcesMonitored": 5,
         "changedSources": [
