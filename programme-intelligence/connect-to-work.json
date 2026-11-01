@@ -24,8 +24,8 @@
     "grant",
     "mixed"
   ],
-  "generatedAt": "2026-10-22T10:13:41.458Z",
-  "latestEvidenceDate": "2026-10-22T10:10:43.032Z",
+  "generatedAt": "2026-11-01T20:58:44.395Z",
+  "latestEvidenceDate": "2026-11-01T20:54:33.322Z",
   "overview": {
     "fundingHeadline": null,
     "metrics": [
@@ -43,7 +43,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -62,7 +62,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -81,7 +81,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -100,7 +100,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -119,7 +119,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -138,7 +138,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -157,7 +157,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -176,7 +176,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -195,7 +195,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -214,7 +214,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -224,8 +224,8 @@
     "geographicAreaCount": 2,
     "deliveryAreaCount": 35,
     "deliveryAreaType": "delivery area",
-    "procurementCount": 14,
-    "latestReportingPeriod": "2026-10-22T10:10:40.393Z"
+    "procurementCount": 15,
+    "latestReportingPeriod": "2026-11-01T20:54:30.410Z"
   },
   "funding": [
     {
@@ -257,7 +257,7 @@
         "Suffolk County Council"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -292,7 +292,7 @@
         "Gloucestershire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -327,7 +327,7 @@
         "Surrey"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -362,7 +362,7 @@
         "Warwickshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -397,77 +397,7 @@
         "Greater Lincolnshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
-      "sourceIds": [
-        "dwp-programme-funding"
-      ],
-      "aggregation": null
-    },
-    {
-      "id": "cp-fund-203fdd1f90250ca3b577",
-      "title": "Connect to Work grant - Cambridgeshire and Peterborough Combined Authority",
-      "description": "Official DWP Connect to Work grant allocation for Cambridgeshire and Peterborough Combined Authority. The published total includes 3,750 programme starts.",
-      "fundingType": "local-allocation",
-      "status": "allocated",
-      "funder": "Department for Work and Pensions",
-      "recipients": [
-        "Cambridgeshire and Peterborough Combined Authority"
-      ],
-      "programmeRefs": [
-        "cp-prog-ee7e90ed917f45d5c68f"
-      ],
-      "values": [
-        {
-          "amount": 14300000,
-          "currency": "GBP",
-          "valueType": "funding-allocation"
-        }
-      ],
-      "period": {
-        "startDate": null,
-        "endDate": "2030-03-31T23:59:59.000Z",
-        "maximumEndDate": null
-      },
-      "geographies": [
-        "Cambridgeshire and Peterborough Combined Authority"
-      ],
-      "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
-      "sourceIds": [
-        "dwp-programme-funding"
-      ],
-      "aggregation": null
-    },
-    {
-      "id": "cp-fund-3054e0c9ca3fac255dae",
-      "title": "Connect to Work grant - Buckinghamshire not Milton Keynes",
-      "description": "Official DWP Connect to Work grant allocation for Buckinghamshire not Milton Keynes. The published total includes 1,650 programme starts.",
-      "fundingType": "local-allocation",
-      "status": "allocated",
-      "funder": "Department for Work and Pensions",
-      "recipients": [
-        "Buckinghamshire Council"
-      ],
-      "programmeRefs": [
-        "cp-prog-ee7e90ed917f45d5c68f"
-      ],
-      "values": [
-        {
-          "amount": 6900000,
-          "currency": "GBP",
-          "valueType": "funding-allocation"
-        }
-      ],
-      "period": {
-        "startDate": null,
-        "endDate": "2030-03-31T23:59:59.000Z",
-        "maximumEndDate": null
-      },
-      "geographies": [
-        "Buckinghamshire not Milton Keynes"
-      ],
-      "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -502,7 +432,7 @@
         "York and North Yorkshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -537,7 +467,7 @@
         "Worcestershire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -572,7 +502,7 @@
         "The Marches"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -607,7 +537,7 @@
         "Staffordshire and Stoke-on-Trent"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -642,7 +572,7 @@
         "West Sussex and Brighton"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -677,7 +607,7 @@
         "Devon, Plymouth, Torbay"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -712,7 +642,7 @@
         "Greater Lancashire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -747,7 +677,7 @@
         "Norfolk County Council"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -782,7 +712,7 @@
         "Solent"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -817,7 +747,7 @@
         "Hull and East Yorkshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -852,7 +782,7 @@
         "Tees Valley Combined Authority"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -887,42 +817,7 @@
         "West of England (including North Somerset)"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
-      "sourceIds": [
-        "dwp-programme-funding"
-      ],
-      "aggregation": null
-    },
-    {
-      "id": "cp-fund-7ce5a2ee63f46f43f90b",
-      "title": "Connect to Work grant - Cornwall and Isles of Scilly",
-      "description": "Official DWP Connect to Work grant allocation for Cornwall and Isles of Scilly. The published total includes 3,100 programme starts.",
-      "fundingType": "local-allocation",
-      "status": "allocated",
-      "funder": "Department for Work and Pensions",
-      "recipients": [
-        "Cornwall Council"
-      ],
-      "programmeRefs": [
-        "cp-prog-ee7e90ed917f45d5c68f"
-      ],
-      "values": [
-        {
-          "amount": 13100000,
-          "currency": "GBP",
-          "valueType": "funding-allocation"
-        }
-      ],
-      "period": {
-        "startDate": null,
-        "endDate": "2030-03-31T23:59:59.000Z",
-        "maximumEndDate": null
-      },
-      "geographies": [
-        "Cornwall and Isles of Scilly"
-      ],
-      "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -957,7 +852,7 @@
         "Hertfordshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -992,7 +887,7 @@
         "Leicester, Leicestershire, and Rutland"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1027,7 +922,7 @@
         "Hampshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1062,42 +957,7 @@
         "Somerset"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
-      "sourceIds": [
-        "dwp-programme-funding"
-      ],
-      "aggregation": null
-    },
-    {
-      "id": "cp-fund-8b68e60590deebc768ab",
-      "title": "Connect to Work grant - Cheshire and Warrington",
-      "description": "Official DWP Connect to Work grant allocation for Cheshire and Warrington. The published total includes 4,150 programme starts.",
-      "fundingType": "local-allocation",
-      "status": "allocated",
-      "funder": "Department for Work and Pensions",
-      "recipients": [
-        "Cheshire West and Chester Council"
-      ],
-      "programmeRefs": [
-        "cp-prog-ee7e90ed917f45d5c68f"
-      ],
-      "values": [
-        {
-          "amount": 16300000,
-          "currency": "GBP",
-          "valueType": "funding-allocation"
-        }
-      ],
-      "period": {
-        "startDate": null,
-        "endDate": "2030-03-31T23:59:59.000Z",
-        "maximumEndDate": null
-      },
-      "geographies": [
-        "Cheshire and Warrington"
-      ],
-      "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1132,7 +992,7 @@
         "Greater Essex"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1167,7 +1027,7 @@
         "East Sussex"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1202,7 +1062,7 @@
         "Dorset and Bournemouth, Christchurch and Poole"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1237,7 +1097,7 @@
         "South Midlands"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1272,7 +1132,7 @@
         "Kent and Medway"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1307,7 +1167,7 @@
         "Oxfordshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1342,7 +1202,7 @@
         "Swindon and Wiltshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1377,7 +1237,7 @@
         "East Midlands"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1412,7 +1272,147 @@
         "Cumbria"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.392Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.409Z",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-203fdd1f90250ca3b577",
+      "title": "Connect to Work grant - Cambridgeshire and Peterborough Combined Authority",
+      "description": "Official DWP Connect to Work grant allocation for Cambridgeshire and Peterborough Combined Authority. The published total includes 3,750 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cambridgeshire and Peterborough Combined Authority"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 14300000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cambridgeshire and Peterborough Combined Authority"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "latestEvidenceDate": "2026-11-01T20:54:30.408Z",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-3054e0c9ca3fac255dae",
+      "title": "Connect to Work grant - Buckinghamshire not Milton Keynes",
+      "description": "Official DWP Connect to Work grant allocation for Buckinghamshire not Milton Keynes. The published total includes 1,650 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Buckinghamshire Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 6900000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Buckinghamshire not Milton Keynes"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "latestEvidenceDate": "2026-11-01T20:54:30.408Z",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-7ce5a2ee63f46f43f90b",
+      "title": "Connect to Work grant - Cornwall and Isles of Scilly",
+      "description": "Official DWP Connect to Work grant allocation for Cornwall and Isles of Scilly. The published total includes 3,100 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cornwall Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 13100000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cornwall and Isles of Scilly"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "latestEvidenceDate": "2026-11-01T20:54:30.408Z",
+      "sourceIds": [
+        "dwp-programme-funding"
+      ],
+      "aggregation": null
+    },
+    {
+      "id": "cp-fund-8b68e60590deebc768ab",
+      "title": "Connect to Work grant - Cheshire and Warrington",
+      "description": "Official DWP Connect to Work grant allocation for Cheshire and Warrington. The published total includes 4,150 programme starts.",
+      "fundingType": "local-allocation",
+      "status": "allocated",
+      "funder": "Department for Work and Pensions",
+      "recipients": [
+        "Cheshire West and Chester Council"
+      ],
+      "programmeRefs": [
+        "cp-prog-ee7e90ed917f45d5c68f"
+      ],
+      "values": [
+        {
+          "amount": 16300000,
+          "currency": "GBP",
+          "valueType": "funding-allocation"
+        }
+      ],
+      "period": {
+        "startDate": null,
+        "endDate": "2030-03-31T23:59:59.000Z",
+        "maximumEndDate": null
+      },
+      "geographies": [
+        "Cheshire and Warrington"
+      ],
+      "fundingMechanism": "DWP grant funding agreement",
+      "latestEvidenceDate": "2026-11-01T20:54:30.408Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1447,7 +1447,7 @@
         "Berkshire"
       ],
       "fundingMechanism": "DWP grant funding agreement",
-      "latestEvidenceDate": "2026-10-22T10:10:40.125Z",
+      "latestEvidenceDate": "2026-11-01T20:54:30.058Z",
       "sourceIds": [
         "dwp-programme-funding"
       ],
@@ -1476,7 +1476,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-0db28cd689431076fb3b",
@@ -1496,7 +1496,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-13acf921a767409052bc",
@@ -1516,7 +1516,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-1d95ac65aa62f47a2042",
@@ -1536,7 +1536,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-1f5251b40961b566ca56",
@@ -1556,47 +1556,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
-      },
-      {
-        "id": "cp-fund-203fdd1f90250ca3b577",
-        "title": "Connect to Work grant - Cambridgeshire and Peterborough Combined Authority",
-        "amount": 14300000,
-        "currency": "GBP",
-        "valueType": "funding-allocation",
-        "status": "allocated",
-        "recipients": [
-          "Cambridgeshire and Peterborough Combined Authority"
-        ],
-        "geographies": [
-          "Cambridgeshire and Peterborough Combined Authority"
-        ],
-        "period": {
-          "startDate": null,
-          "endDate": "2030-03-31T23:59:59.000Z",
-          "maximumEndDate": null
-        },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
-      },
-      {
-        "id": "cp-fund-3054e0c9ca3fac255dae",
-        "title": "Connect to Work grant - Buckinghamshire not Milton Keynes",
-        "amount": 6900000,
-        "currency": "GBP",
-        "valueType": "funding-allocation",
-        "status": "allocated",
-        "recipients": [
-          "Buckinghamshire Council"
-        ],
-        "geographies": [
-          "Buckinghamshire not Milton Keynes"
-        ],
-        "period": {
-          "startDate": null,
-          "endDate": "2030-03-31T23:59:59.000Z",
-          "maximumEndDate": null
-        },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-306c8e16590f1b3ec843",
@@ -1616,7 +1576,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-3289c7989f923ac3c93e",
@@ -1636,7 +1596,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-35a9478d9753c7cd517e",
@@ -1656,7 +1616,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-3a01ac8b8ed081d3288a",
@@ -1676,7 +1636,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-4500ab321351417009fd",
@@ -1696,7 +1656,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-451cfe7d538d0444c711",
@@ -1716,7 +1676,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-4a006806282ee4075e34",
@@ -1736,7 +1696,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-62a18844f0dbd04021b6",
@@ -1756,7 +1716,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-6a73fbe12c584c42626d",
@@ -1776,7 +1736,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-6be83451903708d8ba9f",
@@ -1796,7 +1756,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-6e1b2ceb87a8a35c635a",
@@ -1816,7 +1776,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-74b02cd9d96a40a86d04",
@@ -1836,27 +1796,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
-      },
-      {
-        "id": "cp-fund-7ce5a2ee63f46f43f90b",
-        "title": "Connect to Work grant - Cornwall and Isles of Scilly",
-        "amount": 13100000,
-        "currency": "GBP",
-        "valueType": "funding-allocation",
-        "status": "allocated",
-        "recipients": [
-          "Cornwall Council"
-        ],
-        "geographies": [
-          "Cornwall and Isles of Scilly"
-        ],
-        "period": {
-          "startDate": null,
-          "endDate": "2030-03-31T23:59:59.000Z",
-          "maximumEndDate": null
-        },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-7dd8035dac8ccf57f506",
@@ -1876,7 +1816,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-7ed75f9459ed35453929",
@@ -1896,7 +1836,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-801207d03f534e0c1213",
@@ -1916,7 +1856,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-865eab6cbb3b5971d23f",
@@ -1936,27 +1876,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
-      },
-      {
-        "id": "cp-fund-8b68e60590deebc768ab",
-        "title": "Connect to Work grant - Cheshire and Warrington",
-        "amount": 16300000,
-        "currency": "GBP",
-        "valueType": "funding-allocation",
-        "status": "allocated",
-        "recipients": [
-          "Cheshire West and Chester Council"
-        ],
-        "geographies": [
-          "Cheshire and Warrington"
-        ],
-        "period": {
-          "startDate": null,
-          "endDate": "2030-03-31T23:59:59.000Z",
-          "maximumEndDate": null
-        },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-97ec19cb98edd02d4ab2",
@@ -1976,7 +1896,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-b5c57271448fd74845ad",
@@ -1996,7 +1916,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-c1655a0001caba6ea76d",
@@ -2016,7 +1936,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-ca26f4138a1fc19e3985",
@@ -2036,7 +1956,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-d20c61a58a05bb7effd1",
@@ -2056,7 +1976,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-d6eefe67af00e7077642",
@@ -2076,7 +1996,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-d7bc57f8e6e9c2cda728",
@@ -2096,7 +2016,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-e729f95992ff72d1ed4e",
@@ -2116,7 +2036,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
       },
       {
         "id": "cp-fund-f365bc0f55d6a59678db",
@@ -2136,7 +2056,87 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.409Z"
+      },
+      {
+        "id": "cp-fund-203fdd1f90250ca3b577",
+        "title": "Connect to Work grant - Cambridgeshire and Peterborough Combined Authority",
+        "amount": 14300000,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Cambridgeshire and Peterborough Combined Authority"
+        ],
+        "geographies": [
+          "Cambridgeshire and Peterborough Combined Authority"
+        ],
+        "period": {
+          "startDate": null,
+          "endDate": "2030-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-11-01T20:54:30.408Z"
+      },
+      {
+        "id": "cp-fund-3054e0c9ca3fac255dae",
+        "title": "Connect to Work grant - Buckinghamshire not Milton Keynes",
+        "amount": 6900000,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Buckinghamshire Council"
+        ],
+        "geographies": [
+          "Buckinghamshire not Milton Keynes"
+        ],
+        "period": {
+          "startDate": null,
+          "endDate": "2030-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-11-01T20:54:30.408Z"
+      },
+      {
+        "id": "cp-fund-7ce5a2ee63f46f43f90b",
+        "title": "Connect to Work grant - Cornwall and Isles of Scilly",
+        "amount": 13100000,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Cornwall Council"
+        ],
+        "geographies": [
+          "Cornwall and Isles of Scilly"
+        ],
+        "period": {
+          "startDate": null,
+          "endDate": "2030-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-11-01T20:54:30.408Z"
+      },
+      {
+        "id": "cp-fund-8b68e60590deebc768ab",
+        "title": "Connect to Work grant - Cheshire and Warrington",
+        "amount": 16300000,
+        "currency": "GBP",
+        "valueType": "funding-allocation",
+        "status": "allocated",
+        "recipients": [
+          "Cheshire West and Chester Council"
+        ],
+        "geographies": [
+          "Cheshire and Warrington"
+        ],
+        "period": {
+          "startDate": null,
+          "endDate": "2030-03-31T23:59:59.000Z",
+          "maximumEndDate": null
+        },
+        "latestEvidenceDate": "2026-11-01T20:54:30.408Z"
       },
       {
         "id": "cp-fund-8ee59dd1f8543b54946e",
@@ -2156,7 +2156,7 @@
           "endDate": "2030-03-31T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.125Z"
+        "latestEvidenceDate": "2026-11-01T20:54:30.058Z"
       }
     ],
     "localAllocationCount": 35,
@@ -2180,7 +2180,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2199,7 +2199,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2218,7 +2218,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2237,7 +2237,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2256,7 +2256,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2275,7 +2275,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2294,7 +2294,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2313,7 +2313,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2332,7 +2332,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2351,7 +2351,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -2373,7 +2373,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2394,7 +2394,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2413,7 +2413,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2432,7 +2432,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2451,7 +2451,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2472,7 +2472,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2491,7 +2491,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2510,7 +2510,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2529,7 +2529,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2548,7 +2548,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2567,7 +2567,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2586,7 +2586,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2605,7 +2605,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2624,7 +2624,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2645,7 +2645,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2664,7 +2664,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2683,7 +2683,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2706,7 +2706,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2725,7 +2725,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2744,7 +2744,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2763,7 +2763,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2782,7 +2782,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2801,7 +2801,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2820,7 +2820,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2839,7 +2839,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2858,7 +2858,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -2877,7 +2877,7 @@
             "endDate": "2026-06-30T23:59:59.000Z",
             "maximumEndDate": null
           },
-          "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+          "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
           "sourceIds": [
             "dwp-programme-funding"
           ]
@@ -4562,26 +4562,6 @@
         ]
       },
       {
-        "id": "cambridgeshire and peterborough combined authority",
-        "name": "Cambridgeshire and Peterborough Combined Authority",
-        "type": "delivery area",
-        "providerRefs": [],
-        "providerNames": [],
-        "recipients": [
-          "Cambridgeshire and Peterborough Combined Authority"
-        ]
-      },
-      {
-        "id": "buckinghamshire not milton keynes",
-        "name": "Buckinghamshire not Milton Keynes",
-        "type": "delivery area",
-        "providerRefs": [],
-        "providerNames": [],
-        "recipients": [
-          "Buckinghamshire Council"
-        ]
-      },
-      {
         "id": "york and north yorkshire",
         "name": "York and North Yorkshire",
         "type": "delivery area",
@@ -4702,16 +4682,6 @@
         ]
       },
       {
-        "id": "cornwall and isles of scilly",
-        "name": "Cornwall and Isles of Scilly",
-        "type": "delivery area",
-        "providerRefs": [],
-        "providerNames": [],
-        "recipients": [
-          "Cornwall Council"
-        ]
-      },
-      {
         "id": "hertfordshire",
         "name": "Hertfordshire",
         "type": "delivery area",
@@ -4749,16 +4719,6 @@
         "providerNames": [],
         "recipients": [
           "Somerset Council"
-        ]
-      },
-      {
-        "id": "cheshire and warrington",
-        "name": "Cheshire and Warrington",
-        "type": "delivery area",
-        "providerRefs": [],
-        "providerNames": [],
-        "recipients": [
-          "Cheshire West and Chester Council"
         ]
       },
       {
@@ -4849,6 +4809,46 @@
         "providerNames": [],
         "recipients": [
           "Cumberland Council"
+        ]
+      },
+      {
+        "id": "cambridgeshire and peterborough combined authority",
+        "name": "Cambridgeshire and Peterborough Combined Authority",
+        "type": "delivery area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Cambridgeshire and Peterborough Combined Authority"
+        ]
+      },
+      {
+        "id": "buckinghamshire not milton keynes",
+        "name": "Buckinghamshire not Milton Keynes",
+        "type": "delivery area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Buckinghamshire Council"
+        ]
+      },
+      {
+        "id": "cornwall and isles of scilly",
+        "name": "Cornwall and Isles of Scilly",
+        "type": "delivery area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Cornwall Council"
+        ]
+      },
+      {
+        "id": "cheshire and warrington",
+        "name": "Cheshire and Warrington",
+        "type": "delivery area",
+        "providerRefs": [],
+        "providerNames": [],
+        "recipients": [
+          "Cheshire West and Chester Council"
         ]
       },
       {
@@ -6563,7 +6563,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6582,7 +6582,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6601,7 +6601,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6620,7 +6620,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6639,7 +6639,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6658,7 +6658,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6677,7 +6677,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6696,7 +6696,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6715,7 +6715,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6738,7 +6738,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6757,7 +6757,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6776,7 +6776,7 @@
           "endDate": "2026-06-30T23:59:59.000Z",
           "maximumEndDate": null
         },
-        "latestEvidenceDate": "2026-10-22T10:10:40.393Z",
+        "latestEvidenceDate": "2026-11-01T20:54:30.410Z",
         "sourceIds": [
           "dwp-programme-funding"
         ]
@@ -6785,6 +6785,392 @@
   },
   "procurement": {
     "opportunities": [
+      {
+        "id": "ocds-h6vhtk-06b668",
+        "title": "Healthy Working Life Supported Employment",
+        "description": "Healthy Working Life Supported Employment (funded via Connect to Work) aims to enable residents with health conditions, disabilities and complex barriers to secure and maintain sustainable employment through personalised Supported Employment. The Combined Authority seeks to appoint a Lead Service Provider to establish and deliver a high‑fidelity Individual Placement and Support (IPS) service across West Yorkshire. The appointed Provider will be responsible for supporting a minimum of 9,276 residents to access personalised, high‑fidelity supported employment, in line with the IPS model. The total value of this opportunity is up to £23,190,000 (excl tax).",
+        "programme": "Connect to Work",
+        "category": "Connect to Work",
+        "lifecycleStage": "Contract",
+        "latestEvent": {
+          "event": "Award / Contract Notice",
+          "date": "2026-10-30T10:09:52Z",
+          "releaseId": "103014-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/103014-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        "firstPublishedDate": "2026-06-16T20:47:45+01:00",
+        "lastUpdatedDate": "2026-10-30T10:09:52Z",
+        "buyer": {
+          "name": "West Yorkshire Combined Authority"
+        },
+        "suppliers": [
+          "The Shaw Trust"
+        ],
+        "values": {
+          "displayValue": 23188500,
+          "currency": "GBP",
+          "basis": "award",
+          "estimatedValue": 23190000,
+          "awardedValue": 23188500,
+          "contractValue": null
+        },
+        "tenderStart": null,
+        "tenderDeadline": "2026-07-29T14:00:00+00:00",
+        "contractStart": "2026-10-26T00:00:00.000Z",
+        "contractEnd": "2030-03-31T22:59:59.000Z",
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open procedure",
+        "mainProcurementCategory": "services",
+        "cpvCodes": [
+          {
+            "id": "85000000",
+            "description": "Health and social work services"
+          },
+          {
+            "id": "73000000",
+            "description": "Research and development services and related consultancy services"
+          },
+          {
+            "id": "80000000",
+            "description": "Education and training services"
+          },
+          {
+            "id": "98000000",
+            "description": "Other community, social and personal services"
+          }
+        ],
+        "geography": {
+          "primaryArea": null,
+          "humanReadableAreas": [],
+          "broadRegions": [],
+          "countries": []
+        },
+        "lots": [
+          {
+            "id": "LOT-0000",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": 23190000,
+            "currency": "GBP",
+            "contractPeriod": {
+              "startDate": "2026-10-26T00:00:00Z",
+              "endDate": "2030-03-31T23:59:59+01:00"
+            },
+            "awardCriteria": [
+              {
+                "type": "quality",
+                "name": "Quality",
+                "description": "As per ITT",
+                "weight": 80
+              },
+              {
+                "type": "price",
+                "name": "Pricing",
+                "description": "As per ITT",
+                "weight": 20
+              }
+            ]
+          }
+        ],
+        "socialValue": {
+          "mentioned": false,
+          "buyerStatedWeighting": null,
+          "evidence": []
+        }
+      },
+      {
+        "id": "ocds-h6vhtk-078759",
+        "title": "Connect to Work",
+        "description": "The London Borough of Lambeth Council seek to commission up to four local providers to deliver Supported Employment provision through the targeted Individual Placement and Support (IPS) ‘Place and Train’ model. This model is designed to move people rapidly into employment and provide 12 months of ongoing support for both the employer and the individual to sustain that employment. Connect to Work in Lambeth is funded through Department for Work and Pensions grant funding. The programme forms part of the Government’s Get Britain Working proposals and is intended to reduce economic inactivity, improve wellbeing and strengthen financial resilience. The procurement is divided into two LOTs that includes LOT 1 - Integrated welfare, benefits and employment support and LOT 2 - Community Innovation and Special. LOT 1 will be awarded to a single provider whilst LOT 2 will be awarded to three provi",
+        "programme": "Connect to Work",
+        "category": "Connect to Work",
+        "lifecycleStage": "Live Tender",
+        "latestEvent": {
+          "event": "Tender Update",
+          "date": "2026-10-26T11:04:27Z",
+          "releaseId": "100900-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/100900-2026",
+          "tags": [
+            "tenderUpdate"
+          ]
+        },
+        "firstPublishedDate": "2026-10-14T11:43:31+01:00",
+        "lastUpdatedDate": "2026-10-26T11:04:27Z",
+        "buyer": {
+          "name": "London Borough of Lambeth"
+        },
+        "suppliers": [],
+        "values": {
+          "displayValue": 944416.67,
+          "currency": "GBP",
+          "basis": "tender-estimate",
+          "estimatedValue": 944416.67,
+          "awardedValue": null,
+          "contractValue": null
+        },
+        "tenderStart": null,
+        "tenderDeadline": "2026-11-16T12:00:00+00:00",
+        "contractStart": "2027-03-02T00:00:00.000Z",
+        "contractEnd": "2030-03-01T23:59:59.000Z",
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open procedure",
+        "mainProcurementCategory": "services",
+        "cpvCodes": [
+          {
+            "id": "85322000",
+            "description": "Community action programme"
+          },
+          {
+            "id": "85323000",
+            "description": "Community health services"
+          },
+          {
+            "id": "98000000",
+            "description": "Other community, social and personal services"
+          },
+          {
+            "id": "85311200",
+            "description": "Welfare services for disabled people"
+          },
+          {
+            "id": "85311100",
+            "description": "Welfare services for the elderly"
+          },
+          {
+            "id": "85311300",
+            "description": "Welfare services for children and young people"
+          },
+          {
+            "id": "85320000",
+            "description": "Social services"
+          }
+        ],
+        "geography": {
+          "primaryArea": null,
+          "humanReadableAreas": [],
+          "broadRegions": [],
+          "countries": []
+        },
+        "lots": [
+          {
+            "id": "1",
+            "title": "Integrated welfare, benefits and employment support",
+            "description": "Prime Contractor / high-volume delivery (IPS “Place and Train”) for priority cohorts (Integrated Welfare, Benefits and Employment Support) as set out in the Specification",
+            "status": "active",
+            "value": 377766.67,
+            "currency": "GBP",
+            "contractPeriod": {
+              "startDate": "2027-03-02T00:00:00+00:00",
+              "endDate": "2030-03-01T23:59:59+00:00"
+            },
+            "awardCriteria": [
+              {
+                "type": "quality",
+                "name": "MS1 - Service Delivery Model",
+                "description": "Please describe your proposed end-to-end service delivery model for delivering the Connect to Work programme in Lambeth, clearly setting out: • How your model aligns with the IPS (Individual Placement",
+                "weight": 25
+              },
+              {
+                "type": "quality",
+                "name": "MS2 - Experience",
+                "description": "Please outline your organisation’s relevant experience and track record in delivering supported employment services, including: • Delivery of IPS or similar employment models, including scale and outc",
+                "weight": 20
+              },
+              {
+                "type": "quality",
+                "name": "MS3 - Partnership and collaboration",
+                "description": "Please describe how you will work in partnership and integrate with local services, including: • How you will collaborate with Lambeth Council, DWP, health services, VCS organisations, and other stake",
+                "weight": 13
+              },
+              {
+                "type": "quality",
+                "name": "MS4 EDI",
+                "description": "Please explain your organisation’s approach to equality, diversity and inclusion (EDI) in delivering this service, including: • How you will ensure equitable access for all participants, particularly ",
+                "weight": 7
+              },
+              {
+                "type": "quality",
+                "name": "MS5 - Performance Management and Reporting",
+                "description": "Please describe your approach to performance management, monitoring, and continuous improvement, including: • How you will track key performance indicators (KPIs) (e.g. referrals, job starts, sustainm",
+                "weight": 8
+              },
+              {
+                "type": "quality",
+                "name": "MS6 - Improvement and Development Management",
+                "description": "Please outline your proposed staffing model, including: • Structure of delivery teams and roles/responsibilities • How you will recruit and retain qualified and experienced staff • Training programmes",
+                "weight": 7
+              },
+              {
+                "type": "price",
+                "name": "Price schedule of services",
+                "description": "Three years contract price summary - commercially sensitive",
+                "weight": 20
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "title": "Community Innovation and Specialist Delivery",
+            "description": "Specialist and community-based organisations to deliver innovative supported employment interventions that respond to identified local need as per Specification (Appendix B - Requirement Document).",
+            "status": "active",
+            "value": 566650,
+            "currency": "GBP",
+            "contractPeriod": {
+              "startDate": "2027-03-02T00:00:00+00:00",
+              "endDate": "2030-03-01T23:59:59+00:00"
+            },
+            "awardCriteria": [
+              {
+                "type": "quality",
+                "name": "MS1 - Service Delivery Model",
+                "description": "Please describe your proposed end-to-end service delivery model for delivering the Connect to Work programme in Lambeth, clearly setting out: • How your model aligns with the IPS (Individual Placement",
+                "weight": 25
+              },
+              {
+                "type": "quality",
+                "name": "MS2 - Experience",
+                "description": "Please outline your organisation’s relevant experience and track record in delivering supported employment services, including: • Delivery of IPS or similar employment models, including scale and outc",
+                "weight": 20
+              },
+              {
+                "type": "quality",
+                "name": "MS3 - Partnership and collaboration",
+                "description": "Please describe how you will work in partnership and integrate with local services, including: • How you will collaborate with Lambeth Council, DWP, health services, VCS organisations, and other stake",
+                "weight": 13
+              },
+              {
+                "type": "quality",
+                "name": "MS4 EDI",
+                "description": "Please explain your organisation’s approach to equality, diversity and inclusion (EDI) in delivering this service, including: • How you will ensure equitable access for all participants, particularly ",
+                "weight": 7
+              },
+              {
+                "type": "quality",
+                "name": "MS5 - Performance Management and Reporting",
+                "description": "Please describe your approach to performance management, monitoring, and continuous improvement, including: • How you will track key performance indicators (KPIs) (e.g. referrals, job starts, sustainm",
+                "weight": 8
+              },
+              {
+                "type": "quality",
+                "name": "MS6 - Improvement and Development Management",
+                "description": "Please outline your proposed staffing model, including: • Structure of delivery teams and roles/responsibilities • How you will recruit and retain qualified and experienced staff • Training programmes",
+                "weight": 7
+              },
+              {
+                "type": "price",
+                "name": "Price schedule of services",
+                "description": "Three years contract price summary - commercially sensitive",
+                "weight": 20
+              }
+            ]
+          }
+        ],
+        "socialValue": {
+          "mentioned": false,
+          "buyerStatedWeighting": null,
+          "evidence": []
+        }
+      },
+      {
+        "id": "ocds-h6vhtk-06e8db",
+        "title": "Connect to Work Programme - Individual Placement Support (IPS) in Darlington, Middlesbrough, Stockton-on-Tees and Redcar & Cleveland",
+        "description": "Hartlepool Borough Council (the Council) has been appointed as the Lead Authority by Tees Valley Combined Authority (TVCA) for the Connect to Work Programme. As such, the Council is responsible for ensuring successful management and delivery of the programme across Tees Valley. Connect to Work will support disabled people, people with health conditions and those with complex barriers to get into or remain in work. It will be delivered up to 31st March 2030, and the primary focus is on those who are inactive and out of work, but it will also support some people who are at high risk of becoming inactive if they become unemployed. At its peak, the programme will support nearly 2,000 people per year in Tees Valley - and more than 5,000 people over the period to 2030.",
+        "programme": "Connect to Work",
+        "category": "Connect to Work",
+        "lifecycleStage": "Contract",
+        "latestEvent": {
+          "event": "Award / Contract Notice",
+          "date": "2026-10-21T11:51:00+01:00",
+          "releaseId": "099386-2026",
+          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/099386-2026",
+          "tags": [
+            "award",
+            "contract"
+          ]
+        },
+        "firstPublishedDate": "2026-08-20T15:29:12+01:00",
+        "lastUpdatedDate": "2026-10-21T11:51:00+01:00",
+        "buyer": {
+          "name": "Hartlepool Borough Council"
+        },
+        "suppliers": [
+          "WAYTHROUGH"
+        ],
+        "values": {
+          "displayValue": null,
+          "currency": "GBP",
+          "basis": "not-published",
+          "estimatedValue": null,
+          "awardedValue": null,
+          "contractValue": null
+        },
+        "tenderStart": null,
+        "tenderDeadline": "2026-09-23T14:00:00+01:00",
+        "contractStart": "2026-12-01T00:00:00.000Z",
+        "contractEnd": "2028-03-31T22:59:59.000Z",
+        "procurementMethod": "open",
+        "procurementMethodDetails": "Open procedure",
+        "mainProcurementCategory": "services",
+        "cpvCodes": [
+          {
+            "id": "80000000",
+            "description": "Education and training services"
+          },
+          {
+            "id": "85300000",
+            "description": "Social work and related services"
+          },
+          {
+            "id": "98000000",
+            "description": "Other community, social and personal services"
+          }
+        ],
+        "geography": {
+          "primaryArea": "North East England",
+          "humanReadableAreas": [
+            "North East England"
+          ],
+          "broadRegions": [
+            "North East England"
+          ],
+          "countries": [
+            "United Kingdom",
+            "GB"
+          ]
+        },
+        "lots": [
+          {
+            "id": "1",
+            "title": null,
+            "description": null,
+            "status": "complete",
+            "value": null,
+            "currency": "GBP",
+            "contractPeriod": {
+              "startDate": "2027-01-04T00:00:00Z",
+              "endDate": "2028-03-31T23:59:59+01:00"
+            },
+            "awardCriteria": [
+              {
+                "type": "quality",
+                "name": "Quality",
+                "description": "100%",
+                "weight": 100
+              }
+            ]
+          }
+        ],
+        "socialValue": {
+          "mentioned": false,
+          "buyerStatedWeighting": null,
+          "evidence": []
+        }
+      },
       {
         "id": "ocds-h6vhtk-07815e",
         "title": "TVCA-PROC-0837 - Connect to Work IPS Fidelity Assurance Consultancy",
@@ -6852,199 +7238,6 @@
               "endDate": null
             },
             "awardCriteria": []
-          }
-        ],
-        "socialValue": {
-          "mentioned": false,
-          "buyerStatedWeighting": null,
-          "evidence": []
-        }
-      },
-      {
-        "id": "ocds-h6vhtk-078759",
-        "title": "Connect to Work",
-        "description": "The London Borough of Lambeth Council seek to commission up to four local providers to deliver Supported Employment provision through the targeted Individual Placement and Support (IPS) ‘Place and Train’ model. This model is designed to move people rapidly into employment and provide 12 months of ongoing support for both the employer and the individual to sustain that employment. Connect to Work in Lambeth is funded through Department for Work and Pensions grant funding. The programme forms part of the Government’s Get Britain Working proposals and is intended to reduce economic inactivity, improve wellbeing and strengthen financial resilience. The procurement is divided into two LOTs that includes LOT 1 - Integrated welfare, benefits and employment support and LOT 2 - Community Innovation and Special. LOT 1 will be awarded to a single provider whilst LOT 2 will be awarded to three provi",
-        "programme": "Connect to Work",
-        "category": "Connect to Work",
-        "lifecycleStage": "Live Tender",
-        "latestEvent": {
-          "event": "Tender Update",
-          "date": "2026-10-19T14:54:27+01:00",
-          "releaseId": "098572-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/098572-2026",
-          "tags": [
-            "tenderUpdate"
-          ]
-        },
-        "firstPublishedDate": "2026-10-14T11:43:31+01:00",
-        "lastUpdatedDate": "2026-10-19T14:54:27+01:00",
-        "buyer": {
-          "name": "London Borough of Lambeth"
-        },
-        "suppliers": [],
-        "values": {
-          "displayValue": 944416.67,
-          "currency": "GBP",
-          "basis": "tender-estimate",
-          "estimatedValue": 944416.67,
-          "awardedValue": null,
-          "contractValue": null
-        },
-        "tenderStart": null,
-        "tenderDeadline": "2026-11-16T12:00:00+01:00",
-        "contractStart": "2027-03-01T23:00:00.000Z",
-        "contractEnd": "2030-03-01T22:59:59.000Z",
-        "procurementMethod": "open",
-        "procurementMethodDetails": "Open procedure",
-        "mainProcurementCategory": "services",
-        "cpvCodes": [
-          {
-            "id": "85322000",
-            "description": "Community action programme"
-          },
-          {
-            "id": "85323000",
-            "description": "Community health services"
-          },
-          {
-            "id": "98000000",
-            "description": "Other community, social and personal services"
-          },
-          {
-            "id": "85311200",
-            "description": "Welfare services for disabled people"
-          },
-          {
-            "id": "85311100",
-            "description": "Welfare services for the elderly"
-          },
-          {
-            "id": "85311300",
-            "description": "Welfare services for children and young people"
-          },
-          {
-            "id": "85320000",
-            "description": "Social services"
-          }
-        ],
-        "geography": {
-          "primaryArea": null,
-          "humanReadableAreas": [],
-          "broadRegions": [],
-          "countries": []
-        },
-        "lots": [
-          {
-            "id": "1",
-            "title": "Integrated welfare, benefits and employment support",
-            "description": "Prime Contractor / high-volume delivery (IPS “Place and Train”) for priority cohorts (Integrated Welfare, Benefits and Employment Support) as set out in the Specification",
-            "status": "active",
-            "value": 377766.67,
-            "currency": "GBP",
-            "contractPeriod": {
-              "startDate": "2027-03-02T00:00:00+01:00",
-              "endDate": "2030-03-01T23:59:59+01:00"
-            },
-            "awardCriteria": [
-              {
-                "type": "quality",
-                "name": "MS1 - Service Delivery Model",
-                "description": "Please describe your proposed end-to-end service delivery model for delivering the Connect to Work programme in Lambeth, clearly setting out: • How your model aligns with the IPS (Individual Placement",
-                "weight": 25
-              },
-              {
-                "type": "quality",
-                "name": "MS2 - Experience",
-                "description": "Please outline your organisation’s relevant experience and track record in delivering supported employment services, including: • Delivery of IPS or similar employment models, including scale and outc",
-                "weight": 20
-              },
-              {
-                "type": "quality",
-                "name": "MS3 - Partnership and collaboration",
-                "description": "Please describe how you will work in partnership and integrate with local services, including: • How you will collaborate with Lambeth Council, DWP, health services, VCS organisations, and other stake",
-                "weight": 13
-              },
-              {
-                "type": "quality",
-                "name": "MS4 EDI",
-                "description": "Please explain your organisation’s approach to equality, diversity and inclusion (EDI) in delivering this service, including: • How you will ensure equitable access for all participants, particularly ",
-                "weight": 7
-              },
-              {
-                "type": "quality",
-                "name": "MS5 - Performance Management and Reporting",
-                "description": "Please describe your approach to performance management, monitoring, and continuous improvement, including: • How you will track key performance indicators (KPIs) (e.g. referrals, job starts, sustainm",
-                "weight": 8
-              },
-              {
-                "type": "quality",
-                "name": "MS6 - Improvement and Development Management",
-                "description": "Please outline your proposed staffing model, including: • Structure of delivery teams and roles/responsibilities • How you will recruit and retain qualified and experienced staff • Training programmes",
-                "weight": 7
-              },
-              {
-                "type": "price",
-                "name": "Price schedule of services",
-                "description": "Three years contract price summary - commercially sensitive",
-                "weight": 20
-              }
-            ]
-          },
-          {
-            "id": "2",
-            "title": "Community Innovation and Specialist Delivery",
-            "description": "Specialist and community-based organisations to deliver innovative supported employment interventions that respond to identified local need as per Specification (Appendix B - Requirement Document).",
-            "status": "active",
-            "value": 566650,
-            "currency": "GBP",
-            "contractPeriod": {
-              "startDate": "2027-03-02T00:00:00+01:00",
-              "endDate": "2030-03-01T23:59:59+01:00"
-            },
-            "awardCriteria": [
-              {
-                "type": "quality",
-                "name": "MS1 - Service Delivery Model",
-                "description": "Please describe your proposed end-to-end service delivery model for delivering the Connect to Work programme in Lambeth, clearly setting out: • How your model aligns with the IPS (Individual Placement",
-                "weight": 25
-              },
-              {
-                "type": "quality",
-                "name": "MS2 - Experience",
-                "description": "Please outline your organisation’s relevant experience and track record in delivering supported employment services, including: • Delivery of IPS or similar employment models, including scale and outc",
-                "weight": 20
-              },
-              {
-                "type": "quality",
-                "name": "MS3 - Partnership and collaboration",
-                "description": "Please describe how you will work in partnership and integrate with local services, including: • How you will collaborate with Lambeth Council, DWP, health services, VCS organisations, and other stake",
-                "weight": 13
-              },
-              {
-                "type": "quality",
-                "name": "MS4 EDI",
-                "description": "Please explain your organisation’s approach to equality, diversity and inclusion (EDI) in delivering this service, including: • How you will ensure equitable access for all participants, particularly ",
-                "weight": 7
-              },
-              {
-                "type": "quality",
-                "name": "MS5 - Performance Management and Reporting",
-                "description": "Please describe your approach to performance management, monitoring, and continuous improvement, including: • How you will track key performance indicators (KPIs) (e.g. referrals, job starts, sustainm",
-                "weight": 8
-              },
-              {
-                "type": "quality",
-                "name": "MS6 - Improvement and Development Management",
-                "description": "Please outline your proposed staffing model, including: • Structure of delivery teams and roles/responsibilities • How you will recruit and retain qualified and experienced staff • Training programmes",
-                "weight": 7
-              },
-              {
-                "type": "price",
-                "name": "Price schedule of services",
-                "description": "Three years contract price summary - commercially sensitive",
-                "weight": 20
-              }
-            ]
           }
         ],
         "socialValue": {
@@ -7482,101 +7675,6 @@
             "[object Object]",
             "[object Object]"
           ]
-        }
-      },
-      {
-        "id": "ocds-h6vhtk-06e8db",
-        "title": "Connect to Work Programme - Individual Placement Support (IPS) in Darlington, Middlesbrough, Stockton-on-Tees and Redcar & Cleveland",
-        "description": "Hartlepool Borough Council (the Council) has been appointed as the Lead Authority by Tees Valley Combined Authority (TVCA) for the Connect to Work Programme. As such, the Council is responsible for ensuring successful management and delivery of the programme across Tees Valley. Connect to Work will support disabled people, people with health conditions and those with complex barriers to get into or remain in work. It will be delivered up to 31st March 2030, and the primary focus is on those who are inactive and out of work, but it will also support some people who are at high risk of becoming inactive if they become unemployed. At its peak, the programme will support nearly 2,000 people per year in Tees Valley - and more than 5,000 people over the period to 2030.",
-        "programme": "Connect to Work",
-        "category": "Connect to Work",
-        "lifecycleStage": "Contract",
-        "latestEvent": {
-          "event": "Award / Contract Notice",
-          "date": "2026-10-08T09:57:21+01:00",
-          "releaseId": "095030-2026",
-          "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/095030-2026",
-          "tags": [
-            "award",
-            "contract"
-          ]
-        },
-        "firstPublishedDate": "2026-08-20T15:29:12+01:00",
-        "lastUpdatedDate": "2026-10-08T09:57:21+01:00",
-        "buyer": {
-          "name": "Hartlepool Borough Council"
-        },
-        "suppliers": [
-          "WAYTHROUGH"
-        ],
-        "values": {
-          "displayValue": null,
-          "currency": "GBP",
-          "basis": "not-published",
-          "estimatedValue": null,
-          "awardedValue": null,
-          "contractValue": null
-        },
-        "tenderStart": null,
-        "tenderDeadline": "2026-09-23T14:00:00+01:00",
-        "contractStart": "2027-01-04T00:00:00.000Z",
-        "contractEnd": "2028-03-31T22:59:59.000Z",
-        "procurementMethod": "open",
-        "procurementMethodDetails": "Open procedure",
-        "mainProcurementCategory": "services",
-        "cpvCodes": [
-          {
-            "id": "80000000",
-            "description": "Education and training services"
-          },
-          {
-            "id": "85300000",
-            "description": "Social work and related services"
-          },
-          {
-            "id": "98000000",
-            "description": "Other community, social and personal services"
-          }
-        ],
-        "geography": {
-          "primaryArea": "North East England",
-          "humanReadableAreas": [
-            "North East England"
-          ],
-          "broadRegions": [
-            "North East England"
-          ],
-          "countries": [
-            "United Kingdom",
-            "GB"
-          ]
-        },
-        "lots": [
-          {
-            "id": "1",
-            "title": null,
-            "description": null,
-            "status": "complete",
-            "value": null,
-            "currency": "GBP",
-            "contractPeriod": {
-              "startDate": "2027-01-04T00:00:00Z",
-              "endDate": "2028-03-31T23:59:59+01:00"
-            },
-            "awardCriteria": [
-              {
-                "type": "quality",
-                "name": "Quality",
-                "description": "100%",
-                "weight": 100
-              }
-            ]
-          }
-        ],
-        "socialValue": {
-          "mentioned": false,
-          "buyerStatedWeighting": null,
-          "evidence": []
         }
       },
       {
@@ -8343,20 +8441,20 @@
     ]
   },
   "workforce": {
-    "generatedAt": "2026-10-22T10:10:34.980Z",
+    "generatedAt": "2026-11-01T20:54:28.820Z",
     "status": "passed",
     "roleFamilies": [
       {
         "id": "employment-adviser",
         "name": "Employment Adviser / Coach",
         "careerArea": "Employment Advice & Support",
-        "returnedUniqueVacancies": 231,
+        "returnedUniqueVacancies": 229,
         "salary": {
-          "sampleSize": 192,
+          "sampleSize": 185,
           "sufficientSample": true,
           "median": 31000,
-          "mean": 38497,
-          "lowerQuartile": 28814,
+          "mean": 33533,
+          "lowerQuartile": 29000,
           "upperQuartile": 35000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
@@ -8364,12 +8462,12 @@
         "sourceBreakdown": {
           "adzuna": {
             "returnedUniqueVacancies": 100,
-            "salarySampleSize": 100,
-            "medianAdvertisedSalary": 31000
+            "salarySampleSize": 99,
+            "medianAdvertisedSalary": 30750
           },
           "reed": {
-            "returnedUniqueVacancies": 131,
-            "salarySampleSize": 92,
+            "returnedUniqueVacancies": 129,
+            "salarySampleSize": 86,
             "medianAdvertisedSalary": 31000
           }
         }
@@ -8378,27 +8476,27 @@
         "id": "ips-employment-specialist",
         "name": "IPS / Supported Employment Specialist",
         "careerArea": "Employment Advice & Support",
-        "returnedUniqueVacancies": 157,
+        "returnedUniqueVacancies": 155,
         "salary": {
-          "sampleSize": 128,
+          "sampleSize": 121,
           "sufficientSample": true,
-          "median": 31024,
-          "mean": 33665,
-          "lowerQuartile": 28648,
-          "upperQuartile": 35877,
+          "median": 31049,
+          "mean": 32331,
+          "lowerQuartile": 29284,
+          "upperQuartile": 35000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 91,
-            "salarySampleSize": 86,
+            "returnedUniqueVacancies": 92,
+            "salarySampleSize": 88,
             "medianAdvertisedSalary": 31049
           },
           "reed": {
-            "returnedUniqueVacancies": 66,
-            "salarySampleSize": 42,
-            "medianAdvertisedSalary": 30236
+            "returnedUniqueVacancies": 63,
+            "salarySampleSize": 33,
+            "medianAdvertisedSalary": 30634
           }
         }
       },
@@ -8406,27 +8504,27 @@
         "id": "employer-engagement",
         "name": "Employer Engagement",
         "careerArea": "Employer Engagement & Recruitment",
-        "returnedUniqueVacancies": 191,
+        "returnedUniqueVacancies": 181,
         "salary": {
-          "sampleSize": 143,
+          "sampleSize": 127,
           "sufficientSample": true,
-          "median": 35000,
-          "mean": 42329,
-          "lowerQuartile": 31750,
-          "upperQuartile": 42500,
+          "median": 36000,
+          "mean": 42272,
+          "lowerQuartile": 31500,
+          "upperQuartile": 47518,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 91,
-            "salarySampleSize": 84,
-            "medianAdvertisedSalary": 35000
+            "returnedUniqueVacancies": 81,
+            "salarySampleSize": 71,
+            "medianAdvertisedSalary": 36000
           },
           "reed": {
             "returnedUniqueVacancies": 100,
-            "salarySampleSize": 59,
-            "medianAdvertisedSalary": 34467
+            "salarySampleSize": 56,
+            "medianAdvertisedSalary": 37000
           }
         }
       },
@@ -8434,27 +8532,27 @@
         "id": "team-leadership",
         "name": "Team Leader / Team Manager",
         "careerArea": "Team Leadership",
-        "returnedUniqueVacancies": 128,
+        "returnedUniqueVacancies": 153,
         "salary": {
-          "sampleSize": 76,
+          "sampleSize": 103,
           "sufficientSample": true,
-          "median": 39621,
-          "mean": 41001,
-          "lowerQuartile": 32000,
-          "upperQuartile": 44859,
+          "median": 38075,
+          "mean": 38719,
+          "lowerQuartile": 30058,
+          "upperQuartile": 44038,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 55,
-            "salarySampleSize": 55,
-            "medianAdvertisedSalary": 40000
+            "returnedUniqueVacancies": 64,
+            "salarySampleSize": 64,
+            "medianAdvertisedSalary": 41717
           },
           "reed": {
-            "returnedUniqueVacancies": 73,
-            "salarySampleSize": 21,
-            "medianAdvertisedSalary": 37716
+            "returnedUniqueVacancies": 89,
+            "salarySampleSize": 39,
+            "medianAdvertisedSalary": 30000
           }
         }
       },
@@ -8464,25 +8562,25 @@
         "careerArea": "Operations, Service & Contract Management",
         "returnedUniqueVacancies": 284,
         "salary": {
-          "sampleSize": 226,
+          "sampleSize": 228,
           "sufficientSample": true,
           "median": 40000,
-          "mean": 44607,
+          "mean": 45503,
           "lowerQuartile": 33000,
-          "upperQuartile": 51875,
+          "upperQuartile": 55000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 144,
-            "salarySampleSize": 138,
-            "medianAdvertisedSalary": 45000
+            "returnedUniqueVacancies": 146,
+            "salarySampleSize": 137,
+            "medianAdvertisedSalary": 46716
           },
           "reed": {
-            "returnedUniqueVacancies": 140,
-            "salarySampleSize": 88,
-            "medianAdvertisedSalary": 40000
+            "returnedUniqueVacancies": 138,
+            "salarySampleSize": 91,
+            "medianAdvertisedSalary": 34500
           }
         }
       },
@@ -8490,27 +8588,27 @@
         "id": "skills-training",
         "name": "Skills / Training",
         "careerArea": "Skills, Training & Careers",
-        "returnedUniqueVacancies": 240,
+        "returnedUniqueVacancies": 203,
         "salary": {
-          "sampleSize": 220,
+          "sampleSize": 183,
           "sufficientSample": true,
-          "median": 34401,
-          "mean": 35336,
-          "lowerQuartile": 29713,
-          "upperQuartile": 40503,
+          "median": 31000,
+          "mean": 32950,
+          "lowerQuartile": 27228,
+          "upperQuartile": 37750,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 110,
-            "salarySampleSize": 106,
-            "medianAdvertisedSalary": 39302
+            "returnedUniqueVacancies": 74,
+            "salarySampleSize": 74,
+            "medianAdvertisedSalary": 27059
           },
           "reed": {
-            "returnedUniqueVacancies": 130,
-            "salarySampleSize": 114,
-            "medianAdvertisedSalary": 32500
+            "returnedUniqueVacancies": 129,
+            "salarySampleSize": 109,
+            "medianAdvertisedSalary": 34000
           }
         }
       },
@@ -8520,25 +8618,25 @@
         "careerArea": "Skills, Training & Careers",
         "returnedUniqueVacancies": 176,
         "salary": {
-          "sampleSize": 145,
+          "sampleSize": 138,
           "sufficientSample": true,
-          "median": 32500,
-          "mean": 35339,
-          "lowerQuartile": 28182,
-          "upperQuartile": 35000,
+          "median": 32281,
+          "mean": 35617,
+          "lowerQuartile": 28962,
+          "upperQuartile": 35693,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 76,
+            "returnedUniqueVacancies": 78,
             "salarySampleSize": 74,
-            "medianAdvertisedSalary": 31916
+            "medianAdvertisedSalary": 32281
           },
           "reed": {
-            "returnedUniqueVacancies": 100,
-            "salarySampleSize": 71,
-            "medianAdvertisedSalary": 35000
+            "returnedUniqueVacancies": 98,
+            "salarySampleSize": 64,
+            "medianAdvertisedSalary": 33500
           }
         }
       },
@@ -8546,26 +8644,26 @@
         "id": "business-partnerships",
         "name": "Business Development / Partnerships",
         "careerArea": "Business, Partnerships & Growth",
-        "returnedUniqueVacancies": 136,
+        "returnedUniqueVacancies": 132,
         "salary": {
-          "sampleSize": 129,
+          "sampleSize": 125,
           "sufficientSample": true,
-          "median": 36000,
-          "mean": 41632,
-          "lowerQuartile": 33000,
+          "median": 35000,
+          "mean": 38457,
+          "lowerQuartile": 32000,
           "upperQuartile": 40000,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 80,
-            "salarySampleSize": 78,
-            "medianAdvertisedSalary": 39999
+            "returnedUniqueVacancies": 75,
+            "salarySampleSize": 72,
+            "medianAdvertisedSalary": 39774
           },
           "reed": {
-            "returnedUniqueVacancies": 56,
-            "salarySampleSize": 51,
+            "returnedUniqueVacancies": 57,
+            "salarySampleSize": 53,
             "medianAdvertisedSalary": 33000
           }
         }
@@ -8574,26 +8672,26 @@
         "id": "quality-performance",
         "name": "Quality / Performance",
         "careerArea": "Operations, Service & Contract Management",
-        "returnedUniqueVacancies": 128,
+        "returnedUniqueVacancies": 135,
         "salary": {
-          "sampleSize": 122,
+          "sampleSize": 130,
           "sufficientSample": true,
-          "median": 36283,
-          "mean": 41978,
-          "lowerQuartile": 32142,
-          "upperQuartile": 46787,
+          "median": 37009,
+          "mean": 42044,
+          "lowerQuartile": 31825,
+          "upperQuartile": 47612,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 72,
+            "returnedUniqueVacancies": 71,
             "salarySampleSize": 71,
-            "medianAdvertisedSalary": 40000
+            "medianAdvertisedSalary": 45000
           },
           "reed": {
-            "returnedUniqueVacancies": 56,
-            "salarySampleSize": 51,
+            "returnedUniqueVacancies": 64,
+            "salarySampleSize": 59,
             "medianAdvertisedSalary": 33000
           }
         }
@@ -8602,27 +8700,27 @@
         "id": "senior-leadership",
         "name": "Senior Leadership",
         "careerArea": "Senior Leadership",
-        "returnedUniqueVacancies": 112,
+        "returnedUniqueVacancies": 106,
         "salary": {
-          "sampleSize": 108,
+          "sampleSize": 101,
           "sufficientSample": true,
-          "median": 64409,
-          "mean": 70116,
-          "lowerQuartile": 51166,
-          "upperQuartile": 82532,
+          "median": 64908,
+          "mean": 67274,
+          "lowerQuartile": 50785,
+          "upperQuartile": 79823,
           "currency": "GBP",
           "basis": "advertised annual salary midpoint; missing salaries excluded"
         },
         "sourceBreakdown": {
           "adzuna": {
-            "returnedUniqueVacancies": 97,
-            "salarySampleSize": 94,
-            "medianAdvertisedSalary": 67305
+            "returnedUniqueVacancies": 92,
+            "salarySampleSize": 89,
+            "medianAdvertisedSalary": 67093
           },
           "reed": {
-            "returnedUniqueVacancies": 15,
-            "salarySampleSize": 14,
-            "medianAdvertisedSalary": 43081
+            "returnedUniqueVacancies": 14,
+            "salarySampleSize": 12,
+            "medianAdvertisedSalary": 44100
           }
         }
       }
@@ -8634,19 +8732,19 @@
         "returnedUniqueVacancies": 284
       },
       {
-        "id": "skills-training",
-        "name": "Skills / Training",
-        "returnedUniqueVacancies": 240
-      },
-      {
         "id": "employment-adviser",
         "name": "Employment Adviser / Coach",
-        "returnedUniqueVacancies": 231
+        "returnedUniqueVacancies": 229
+      },
+      {
+        "id": "skills-training",
+        "name": "Skills / Training",
+        "returnedUniqueVacancies": 203
       },
       {
         "id": "employer-engagement",
         "name": "Employer Engagement",
-        "returnedUniqueVacancies": 191
+        "returnedUniqueVacancies": 181
       },
       {
         "id": "careers-advice",
@@ -8656,30 +8754,53 @@
       {
         "id": "ips-employment-specialist",
         "name": "IPS / Supported Employment Specialist",
-        "returnedUniqueVacancies": 157
-      },
-      {
-        "id": "business-partnerships",
-        "name": "Business Development / Partnerships",
-        "returnedUniqueVacancies": 136
+        "returnedUniqueVacancies": 155
       },
       {
         "id": "team-leadership",
         "name": "Team Leader / Team Manager",
-        "returnedUniqueVacancies": 128
+        "returnedUniqueVacancies": 153
       },
       {
         "id": "quality-performance",
         "name": "Quality / Performance",
-        "returnedUniqueVacancies": 128
+        "returnedUniqueVacancies": 135
+      },
+      {
+        "id": "business-partnerships",
+        "name": "Business Development / Partnerships",
+        "returnedUniqueVacancies": 132
       },
       {
         "id": "senior-leadership",
         "name": "Senior Leadership",
-        "returnedUniqueVacancies": 112
+        "returnedUniqueVacancies": 106
       }
     ],
-    "latestEvents": [],
+    "latestEvents": [
+      {
+        "id": "cp-event-0d473a7d1d03a5520679",
+        "eventType": "advertised-salary-increase",
+        "severity": "medium",
+        "effectiveAt": "2026-11-01T20:54:28.820Z",
+        "roleFamilyId": "quality-performance",
+        "roleFamilyName": "Quality / Performance",
+        "title": "Quality / Performance advertised salary increased",
+        "summary": "Median advertised salary increased from £34,750 to £37,009 (6.5%).",
+        "previous": {
+          "medianAdvertisedSalary": 34750,
+          "salarySampleSize": 132
+        },
+        "current": {
+          "medianAdvertisedSalary": 37009,
+          "salarySampleSize": 130
+        },
+        "change": {
+          "percent": 6.5,
+          "absolute": 2259
+        }
+      }
+    ],
     "methodology": {
       "readOnly": true,
       "noFramerWrites": true,
@@ -8708,7 +8829,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.542455Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.913226Z"
       },
       {
         "id": "cp-perf-6bde23006d09fab07188",
@@ -8728,7 +8849,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.541919Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.912618Z"
       },
       {
         "id": "cp-perf-77525be0c821dff9c81c",
@@ -8748,7 +8869,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.542301Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.913015Z"
       },
       {
         "id": "cp-perf-87c2b4c06dd2f9d35407",
@@ -8768,7 +8889,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.542584Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.913414Z"
       },
       {
         "id": "cp-perf-938ce978317b8fb27f34",
@@ -8788,7 +8909,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.542704Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.913605Z"
       },
       {
         "id": "cp-perf-2662d88cf3ac4b436bee",
@@ -8808,7 +8929,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.101886Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.441778Z"
       },
       {
         "id": "cp-perf-369b4fffa9f9ffe03747",
@@ -8828,7 +8949,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.102298Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.442394Z"
       },
       {
         "id": "cp-perf-453a7e54ee62c25438da",
@@ -8848,7 +8969,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.101747Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.441575Z"
       },
       {
         "id": "cp-perf-50d839eded6d50dad87b",
@@ -8868,7 +8989,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.102166Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.442199Z"
       },
       {
         "id": "cp-perf-8f2451819c292d493519",
@@ -8888,7 +9009,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.102534Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.442743Z"
       },
       {
         "id": "cp-perf-ddc91ea2c5282d9143b7",
@@ -8908,7 +9029,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.102411Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.442569Z"
       },
       {
         "id": "cp-perf-e3adde533dffab3705b6",
@@ -8928,7 +9049,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.102011Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.442014Z"
       },
       {
         "id": "cp-perf-f0e6ce6bd1e917365001",
@@ -8948,7 +9069,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:12.101416Z"
+        "latestEvidenceDate": "2026-11-01T20:54:03.441233Z"
       },
       {
         "id": "cp-perf-0d451b62cc618615b6ed",
@@ -8968,7 +9089,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.889869Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.100150Z"
       },
       {
         "id": "cp-perf-16b9858dfb88a90e40e5",
@@ -8988,7 +9109,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.890277Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.100710Z"
       },
       {
         "id": "cp-perf-34fa98874dff9d2cec19",
@@ -9008,7 +9129,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.890504Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.101078Z"
       },
       {
         "id": "cp-perf-4bc44467cf8039900490",
@@ -9028,7 +9149,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.890154Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.100525Z"
       },
       {
         "id": "cp-perf-64dc7e870b4ecf748431",
@@ -9048,7 +9169,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.889344Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.099526Z"
       },
       {
         "id": "cp-perf-79335d3b242ad60df3e6",
@@ -9068,7 +9189,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.890392Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.100901Z"
       },
       {
         "id": "cp-perf-b1b1aab98a0456411d73",
@@ -9088,7 +9209,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.889696Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.099927Z"
       },
       {
         "id": "cp-perf-de8b61626c5b1b6c7238",
@@ -9108,7 +9229,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:10.889999Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.100337Z"
       },
       {
         "id": "cp-perf-155290ec9e0f5a86af83",
@@ -9128,7 +9249,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.632927Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.787204Z"
       },
       {
         "id": "cp-perf-1b858d67834ee76c3b4d",
@@ -9148,7 +9269,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.631716Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.785607Z"
       },
       {
         "id": "cp-perf-5a41d1d7dcd389a41e9b",
@@ -9168,7 +9289,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.632738Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.786949Z"
       },
       {
         "id": "cp-perf-a5d0de3e0c05490c12ef",
@@ -9188,7 +9309,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.632514Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.786557Z"
       },
       {
         "id": "cp-perf-ccc50dad587e5f4e762e",
@@ -9208,7 +9329,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.632051Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.785970Z"
       },
       {
         "id": "cp-perf-d373621ab6ce6ed73365",
@@ -9228,7 +9349,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.632382Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.786369Z"
       },
       {
         "id": "cp-perf-db4266a3ff11760ffa1d",
@@ -9248,7 +9369,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.632247Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.786175Z"
       },
       {
         "id": "cp-perf-dc23d454fc52bef16922",
@@ -9268,7 +9389,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:11.632627Z"
+        "latestEvidenceDate": "2026-11-01T20:54:02.786744Z"
       },
       {
         "id": "cp-perf-0d75ceaae3aee5ff7f15",
@@ -9288,7 +9409,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.003921Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.361598Z"
       },
       {
         "id": "cp-perf-64dc93fff5f28cc024a8",
@@ -9308,7 +9429,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.003434Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.361035Z"
       },
       {
         "id": "cp-perf-abdccf4cd1c5cd0bcd38",
@@ -9328,7 +9449,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.003768Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.361380Z"
       },
       {
         "id": "cp-perf-bcd33cfb62e3691cecf2",
@@ -9348,7 +9469,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.004232Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.362021Z"
       },
       {
         "id": "cp-perf-e035b140dfad8fe912d6",
@@ -9368,7 +9489,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.004052Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.361788Z"
       },
       {
         "id": "cp-perf-0c637e33f1be9d403f00",
@@ -9388,7 +9509,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.561564Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.754511Z"
       },
       {
         "id": "cp-perf-19f33b2de28046a7687a",
@@ -9408,7 +9529,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.561210Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.753933Z"
       },
       {
         "id": "cp-perf-1ab316447f59f652b198",
@@ -9428,7 +9549,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.561031Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.753702Z"
       },
       {
         "id": "cp-perf-37a5ed3248eaf3bf1a03",
@@ -9448,7 +9569,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.560526Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.753159Z"
       },
       {
         "id": "cp-perf-4fc237b0bdc88350923c",
@@ -9468,7 +9589,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.561675Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.754689Z"
       },
       {
         "id": "cp-perf-6866c630f4c4f56b8c6b",
@@ -9488,7 +9609,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.560877Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.753503Z"
       },
       {
         "id": "cp-perf-842b69267ce04fc26910",
@@ -9508,7 +9629,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.561454Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.754333Z"
       },
       {
         "id": "cp-perf-fb1288f9c124ecb2bf68",
@@ -9528,7 +9649,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:14.561340Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.754129Z"
       },
       {
         "id": "cp-perf-0641159b6be28e203a40",
@@ -9548,7 +9669,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.177291Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.493641Z"
       },
       {
         "id": "cp-perf-197d3e80a08cce4399e8",
@@ -9568,7 +9689,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.177411Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.493841Z"
       },
       {
         "id": "cp-perf-1e1d37258d0dd437bf2c",
@@ -9588,7 +9709,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.176726Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.492797Z"
       },
       {
         "id": "cp-perf-5e4acec563a7e04dfb65",
@@ -9608,7 +9729,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.177160Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.493452Z"
       },
       {
         "id": "cp-perf-867e4fc01ea8d0a965cd",
@@ -9628,7 +9749,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.176879Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.493069Z"
       },
       {
         "id": "cp-perf-9c9ca7a144eb583990ac",
@@ -9648,7 +9769,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.177006Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.493264Z"
       },
       {
         "id": "cp-perf-a739b27d36ef21857bfe",
@@ -9668,7 +9789,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.177627Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.494166Z"
       },
       {
         "id": "cp-perf-ceba44f3f8aa3aa15093",
@@ -9688,7 +9809,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.176384Z"
+        "latestEvidenceDate": "2026-11-01T20:54:04.492467Z"
       },
       {
         "id": "cp-perf-2ba8bb121ae2fa54e2b8",
@@ -9708,7 +9829,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.844721Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.182809Z"
       },
       {
         "id": "cp-perf-39c68709b853a2b657d5",
@@ -9728,7 +9849,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.844321Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.182232Z"
       },
       {
         "id": "cp-perf-5fd0d93153be24ff0ee4",
@@ -9748,7 +9869,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.844601Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.182620Z"
       },
       {
         "id": "cp-perf-67adbb1bc94de2d534f7",
@@ -9768,7 +9889,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.844839Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.183024Z"
       },
       {
         "id": "cp-perf-6d41087ec978d6080fb8",
@@ -9788,7 +9909,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.844474Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.182431Z"
       },
       {
         "id": "cp-perf-70ef671fe594f31eaa32",
@@ -9808,7 +9929,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.843937Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.181846Z"
       },
       {
         "id": "cp-perf-789a88cc7ba34aff36dd",
@@ -9828,7 +9949,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.845072Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.183392Z"
       },
       {
         "id": "cp-perf-dc575499c2c243411910",
@@ -9848,7 +9969,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:13.844955Z"
+        "latestEvidenceDate": "2026-11-01T20:54:05.183207Z"
       },
       {
         "id": "cp-perf-05de427234347de06fdb",
@@ -9868,7 +9989,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:17.233440Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.801999Z"
       },
       {
         "id": "cp-perf-9ccafeced27a709df241",
@@ -9888,7 +10009,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:17.232964Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.801311Z"
       },
       {
         "id": "cp-perf-a8d4880d47bdc4711cdf",
@@ -9908,7 +10029,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:17.233162Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.801529Z"
       },
       {
         "id": "cp-perf-f9a56a4d637957bcfa01",
@@ -9928,7 +10049,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:17.233314Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.801732Z"
       },
       {
         "id": "cp-perf-feb44fe11f440470b75f",
@@ -9948,7 +10069,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:17.232636Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.800971Z"
       },
       {
         "id": "cp-perf-0373a91d0cf13650beba",
@@ -9968,7 +10089,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.719282Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.230436Z"
       },
       {
         "id": "cp-perf-090c10cba2f194c34937",
@@ -9988,7 +10109,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.718944Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.230031Z"
       },
       {
         "id": "cp-perf-150848a2f6ec6581c5dc",
@@ -10008,7 +10129,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.719136Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.230238Z"
       },
       {
         "id": "cp-perf-1cd710c515a9fd11db46",
@@ -10028,7 +10149,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.719741Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.231128Z"
       },
       {
         "id": "cp-perf-45cd991d1600a90034f5",
@@ -10048,7 +10169,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.719856Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.231311Z"
       },
       {
         "id": "cp-perf-95cb149cb8d0bdc4f7b9",
@@ -10068,7 +10189,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.719406Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.230622Z"
       },
       {
         "id": "cp-perf-af9e0e2c9ed9f4b17b74",
@@ -10088,7 +10209,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.718599Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.229665Z"
       },
       {
         "id": "cp-perf-e1d8f6cd96f7a0de991e",
@@ -10108,7 +10229,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.719530Z"
+        "latestEvidenceDate": "2026-11-01T20:54:08.230804Z"
       },
       {
         "id": "cp-perf-21973086a20294dc2ad2",
@@ -10128,7 +10249,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.534530Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.974069Z"
       },
       {
         "id": "cp-perf-302eee7e298beb1efe7d",
@@ -10148,7 +10269,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.534187Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.973678Z"
       },
       {
         "id": "cp-perf-3329c480af1f955f279c",
@@ -10168,7 +10289,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.534937Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.974645Z"
       },
       {
         "id": "cp-perf-82099bedf8200ee44fd2",
@@ -10188,7 +10309,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.534682Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.974274Z"
       },
       {
         "id": "cp-perf-b5aab139e52acd086c57",
@@ -10208,7 +10329,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.535063Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.974827Z"
       },
       {
         "id": "cp-perf-bc7964bb56461cbe6bde",
@@ -10228,7 +10349,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.535336Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.975238Z"
       },
       {
         "id": "cp-perf-d8cc26e084ef405740d9",
@@ -10248,7 +10369,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.534810Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.974461Z"
       },
       {
         "id": "cp-perf-efabbb53b0aa0d5e8194",
@@ -10268,7 +10389,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:15.535212Z"
+        "latestEvidenceDate": "2026-11-01T20:54:06.975044Z"
       },
       {
         "id": "cp-perf-4a7810212891cd8e9d31",
@@ -10288,7 +10409,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.013678Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.647896Z"
       },
       {
         "id": "cp-perf-55e8e1ff3098eefe7dbf",
@@ -10308,7 +10429,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.013133Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.647101Z"
       },
       {
         "id": "cp-perf-641e0200c9efd17f2a6a",
@@ -10328,7 +10449,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.013909Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.648281Z"
       },
       {
         "id": "cp-perf-73526f0fd041df9f7ed0",
@@ -10348,7 +10469,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.013563Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.647686Z"
       },
       {
         "id": "cp-perf-789089ff0481b3b675a8",
@@ -10368,7 +10489,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.013795Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.648091Z"
       },
       {
         "id": "cp-perf-9c3183461eea764e169a",
@@ -10388,7 +10509,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.013438Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.647504Z"
       },
       {
         "id": "cp-perf-bfb77def3ba87cfb7ee7",
@@ -10408,7 +10529,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.012755Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.646702Z"
       },
       {
         "id": "cp-perf-f8a327a0b6c112d979c7",
@@ -10428,7 +10549,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:16.013299Z"
+        "latestEvidenceDate": "2026-11-01T20:54:07.647305Z"
       },
       {
         "id": "cp-perf-2fcebab4344ff40500f2",
@@ -10448,7 +10569,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.730432Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.908601Z"
       },
       {
         "id": "cp-perf-6b2fd74218c873bc8652",
@@ -10468,7 +10589,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.730771Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.909003Z"
       },
       {
         "id": "cp-perf-70ef5e1f8f7f107b8104",
@@ -10488,7 +10609,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.730926Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.909217Z"
       },
       {
         "id": "cp-perf-973db1e10fd118b9cbc5",
@@ -10508,7 +10629,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.731057Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.909422Z"
       },
       {
         "id": "cp-perf-99faed84f8a3fc638350",
@@ -10528,7 +10649,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.731241Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.909610Z"
       },
       {
         "id": "cp-perf-28c81b8453a5dafc5be5",
@@ -10548,7 +10669,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.001363Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.392096Z"
       },
       {
         "id": "cp-perf-4c9a8db27c8d751d930c",
@@ -10568,7 +10689,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.002287Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.393252Z"
       },
       {
         "id": "cp-perf-55188f6fa358b03c57bf",
@@ -10588,7 +10709,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.001708Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.392445Z"
       },
       {
         "id": "cp-perf-726cbd55b112bf904094",
@@ -10608,7 +10729,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.002529Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.393618Z"
       },
       {
         "id": "cp-perf-9d7d4afe958a3c29417f",
@@ -10628,7 +10749,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.001985Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.392829Z"
       },
       {
         "id": "cp-perf-e28bc9cf6a182d8b768e",
@@ -10648,7 +10769,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.002409Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.393432Z"
       },
       {
         "id": "cp-perf-e79f728f694962d27f66",
@@ -10668,7 +10789,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.001859Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.392642Z"
       },
       {
         "id": "cp-perf-ea64b37de2675f90a7ce",
@@ -10688,7 +10809,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:19.002148Z"
+        "latestEvidenceDate": "2026-11-01T20:54:10.393054Z"
       },
       {
         "id": "cp-perf-025081ac9e42d68c6655",
@@ -10708,7 +10829,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.060940Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.426075Z"
       },
       {
         "id": "cp-perf-15f55b4f9f9386798ea4",
@@ -10728,7 +10849,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.061254Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.426458Z"
       },
       {
         "id": "cp-perf-332418ff265be946f991",
@@ -10748,7 +10869,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.060435Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.425470Z"
       },
       {
         "id": "cp-perf-86bf376029d9d34d5cc6",
@@ -10768,7 +10889,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.061078Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.426271Z"
       },
       {
         "id": "cp-perf-8c890b1330f33b859594",
@@ -10788,7 +10909,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.060784Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.425825Z"
       },
       {
         "id": "cp-perf-a8363e361be9e7a9bb92",
@@ -10808,7 +10929,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.061704Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.427154Z"
       },
       {
         "id": "cp-perf-a844f9f8732c8c892a9d",
@@ -10828,7 +10949,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.061381Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.426639Z"
       },
       {
         "id": "cp-perf-bb0d550ae095a5db1736",
@@ -10848,7 +10969,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.061563Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.426931Z"
       },
       {
         "id": "cp-perf-0109808f07275e2235f5",
@@ -10868,7 +10989,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.557412Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.875627Z"
       },
       {
         "id": "cp-perf-16a104db760331d70d22",
@@ -10888,7 +11009,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.557283Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.875445Z"
       },
       {
         "id": "cp-perf-1d393dc820bd2efb79e8",
@@ -10908,7 +11029,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.556611Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.874646Z"
       },
       {
         "id": "cp-perf-340012d54aa56e831391",
@@ -10928,7 +11049,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.556951Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.875038Z"
       },
       {
         "id": "cp-perf-42c1ac8e1b3116129558",
@@ -10948,7 +11069,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.557660Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.876032Z"
       },
       {
         "id": "cp-perf-6574abe25304a5c3422a",
@@ -10968,7 +11089,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.557882Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.876324Z"
       },
       {
         "id": "cp-perf-889872f8a17873f20447",
@@ -10988,7 +11109,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.557135Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.875248Z"
       },
       {
         "id": "cp-perf-b34cfe5ed00b54b57d68",
@@ -11008,7 +11129,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:18.557541Z"
+        "latestEvidenceDate": "2026-11-01T20:54:09.875812Z"
       },
       {
         "id": "cp-perf-488be65eb03e1d7438f9",
@@ -11028,7 +11149,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:21.873384Z"
+        "latestEvidenceDate": "2026-11-01T20:54:13.023457Z"
       },
       {
         "id": "cp-perf-629eaf4a49d067636bb5",
@@ -11048,7 +11169,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:21.873235Z"
+        "latestEvidenceDate": "2026-11-01T20:54:13.023251Z"
       },
       {
         "id": "cp-perf-754c8af52440b7edd280",
@@ -11068,7 +11189,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:21.873514Z"
+        "latestEvidenceDate": "2026-11-01T20:54:13.023645Z"
       },
       {
         "id": "cp-perf-a7344388da98b6011cd6",
@@ -11088,7 +11209,7 @@
         "sourceIds": [
           "nomis"
         ],
-        "latestEvidenceDate": "2026-10-22T10:10:21.873028Z"
+        "latestEvidenceDate": "2026-11-01T20:54:13.023031Z"
       }
     ],
     "regionalTimeSeries": [
@@ -12725,20 +12846,36 @@
   },
   "latestUpdates": [
     {
-      "id": "procurement:ocds-h6vhtk-07815e",
+      "id": "procurement:ocds-h6vhtk-06b668",
       "type": "procurement-update",
-      "title": "TVCA-PROC-0837 - Connect to Work IPS Fidelity Assurance Consultancy",
+      "title": "Healthy Working Life Supported Employment",
       "summary": "Award / Contract Notice",
-      "effectiveAt": "2026-10-20T13:17:34+01:00",
-      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/099001-2026"
+      "effectiveAt": "2026-10-30T10:09:52Z",
+      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/103014-2026"
     },
     {
       "id": "procurement:ocds-h6vhtk-078759",
       "type": "procurement-update",
       "title": "Connect to Work",
       "summary": "Tender Update",
-      "effectiveAt": "2026-10-19T14:54:27+01:00",
-      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/098572-2026"
+      "effectiveAt": "2026-10-26T11:04:27Z",
+      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/100900-2026"
+    },
+    {
+      "id": "procurement:ocds-h6vhtk-06e8db",
+      "type": "procurement-update",
+      "title": "Connect to Work Programme - Individual Placement Support (IPS) in Darlington, Middlesbrough, Stockton-on-Tees and Redcar & Cleveland",
+      "summary": "Award / Contract Notice",
+      "effectiveAt": "2026-10-21T11:51:00+01:00",
+      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/099386-2026"
+    },
+    {
+      "id": "procurement:ocds-h6vhtk-07815e",
+      "type": "procurement-update",
+      "title": "TVCA-PROC-0837 - Connect to Work IPS Fidelity Assurance Consultancy",
+      "summary": "Award / Contract Notice",
+      "effectiveAt": "2026-10-20T13:17:34+01:00",
+      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/099001-2026"
     },
     {
       "id": "procurement:ocds-h6vhtk-0787bb",
@@ -12771,14 +12908,6 @@
       "summary": "Award / Contract Notice",
       "effectiveAt": "2026-10-08T10:44:59+01:00",
       "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/095067-2026"
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-06e8db",
-      "type": "procurement-update",
-      "title": "Connect to Work Programme - Individual Placement Support (IPS) in Darlington, Middlesbrough, Stockton-on-Tees and Redcar & Cleveland",
-      "summary": "Award / Contract Notice",
-      "effectiveAt": "2026-10-08T09:57:21+01:00",
-      "sourceUrl": "https://www.find-tender.service.gov.uk/Notice/095030-2026"
     },
     {
       "id": "procurement:ocds-h6vhtk-059e24",
@@ -12843,13 +12972,43 @@
       "name": "DWP Employment Programme and Funding Publications",
       "official": true,
       "latestPublicationDate": "2026-09-10T08:30:00.000Z",
-      "latestRetrievedAt": "2026-10-22T10:10:43.032Z",
+      "latestRetrievedAt": "2026-11-01T20:54:33.322Z",
       "urls": [
         "https://www.gov.uk/government/statistics/restart-scheme-statistics-to-april-2026/restart-scheme-statistics-to-april-2026",
         "https://www.gov.uk/government/publications/get-britain-working-trailblazers-theories-of-change-and-system-mapping/get-britain-working-trailblazers-theories-of-change-and-system-mapping",
         "https://www.gov.uk/government/news/thousands-more-young-people-to-get-training-and-work-support-as-government-extends-45m-scheme",
         "https://www.gov.uk/government/publications/workwell-letter-to-integrated-care-systems-on-the-new-service/workwell-letter-to-integrated-care-systems-on-the-new-service",
         "https://www.gov.uk/government/publications/workwell/workwell-prospectus-guidance-for-local-system-partnerships"
+      ]
+    },
+    {
+      "id": "procurement:ocds-h6vhtk-06b668",
+      "name": "West Yorkshire Combined Authority procurement notice",
+      "official": true,
+      "latestPublicationDate": "2026-10-30T10:09:52Z",
+      "latestRetrievedAt": null,
+      "urls": [
+        "https://www.find-tender.service.gov.uk/Notice/103014-2026"
+      ]
+    },
+    {
+      "id": "procurement:ocds-h6vhtk-078759",
+      "name": "London Borough of Lambeth procurement notice",
+      "official": true,
+      "latestPublicationDate": "2026-10-26T11:04:27Z",
+      "latestRetrievedAt": null,
+      "urls": [
+        "https://www.find-tender.service.gov.uk/Notice/100900-2026"
+      ]
+    },
+    {
+      "id": "procurement:ocds-h6vhtk-06e8db",
+      "name": "Hartlepool Borough Council procurement notice",
+      "official": true,
+      "latestPublicationDate": "2026-10-21T11:51:00+01:00",
+      "latestRetrievedAt": null,
+      "urls": [
+        "https://www.find-tender.service.gov.uk/Notice/099386-2026"
       ]
     },
     {
@@ -12860,16 +13019,6 @@
       "latestRetrievedAt": null,
       "urls": [
         "https://www.find-tender.service.gov.uk/Notice/099001-2026"
-      ]
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-078759",
-      "name": "London Borough of Lambeth procurement notice",
-      "official": true,
-      "latestPublicationDate": "2026-10-19T14:54:27+01:00",
-      "latestRetrievedAt": null,
-      "urls": [
-        "https://www.find-tender.service.gov.uk/Notice/098572-2026"
       ]
     },
     {
@@ -12910,16 +13059,6 @@
       "latestRetrievedAt": null,
       "urls": [
         "https://www.find-tender.service.gov.uk/Notice/095067-2026"
-      ]
-    },
-    {
-      "id": "procurement:ocds-h6vhtk-06e8db",
-      "name": "Hartlepool Borough Council procurement notice",
-      "official": true,
-      "latestPublicationDate": "2026-10-08T09:57:21+01:00",
-      "latestRetrievedAt": null,
-      "urls": [
-        "https://www.find-tender.service.gov.uk/Notice/095030-2026"
       ]
     },
     {
