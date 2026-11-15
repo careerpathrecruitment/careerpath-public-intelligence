@@ -1,24 +1,24 @@
 {
   "validated": true,
-  "generatedAt": "2026-11-07T19:33:25.679Z",
-  "sourceGeneratedAt": "2026-11-07T19:08:45.270Z",
+  "generatedAt": "2026-11-15T21:04:08.044Z",
+  "sourceGeneratedAt": "2026-11-15T20:45:53.409Z",
   "counts": {
-    "total": 199,
-    "live": 28,
-    "upcoming": 17,
+    "total": 208,
+    "live": 29,
+    "upcoming": 18,
     "marketEngagement": 0,
-    "recentAwards": 154,
-    "closingWithin7Days": 0,
-    "closingWithin30Days": 15,
+    "recentAwards": 161,
+    "closingWithin7Days": 7,
+    "closingWithin30Days": 16,
     "supplyChain": 10,
-    "commissioner": 189,
-    "programmeLinked": 145,
-    "programmeUnlinked": 54
+    "commissioner": 198,
+    "programmeLinked": 153,
+    "programmeUnlinked": 55
   },
   "differentiators": {
-    "recommissioningDeltaAvailable": 0,
-    "workforceLinkedOpportunities": 145,
-    "localDeliveryContextLinkedOpportunities": 83,
+    "recommissioningDeltaAvailable": 1,
+    "workforceLinkedOpportunities": 153,
+    "localDeliveryContextLinkedOpportunities": 89,
     "providerPartnershipProgrammes": 4,
     "providerPartnershipOpportunities": 10
   },
